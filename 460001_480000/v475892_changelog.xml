@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改" />
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+        <features>
+            <feature>本次更新包含如下内容：</feature>
+        </features>
+        <characters module="[main]"><character>运营商推荐：Magio TV、Telekom</character></characters></language>
+
+    <language name="en-us" code="1033">
+        <features>
+            <feature>This update includes:</feature>
+        </features>
+        <characters module="[main]"><character>Magio TV and Telekom, at the recommendation of network carriers.</character></characters></language>
+
+    <language name="am-ET" code="1033">
+        <features>
+            <feature>ይህ ዝማኔ የሚከተለውን መረጃ ይዟል፦</feature>
+        </features>
+        <characters module="[main]"><character>የአገልግሎት ሰጪ፦ Magio TV፣ Telekom</character></characters></language>
+
+    <language name="ar-eg" code="3073">
+        <features>
+            <feature>يحتوي هذا التحديث على المعلومات التالية:</feature>
+        </features>
+        <characters module="[main]"><character>توصيات شركة الاتصالات: Magio TV، وTelekom</character></characters></language>
+
+    <language name="as-IN" code="3073">
+        <features>
+            <feature>এই আপডেটটোত নিম্নোক্ত তথ্যখিনি আছে:</feature>
+        </features>
+        <characters module="[main]"><character>বাহকৰ অনুমোদন: Magio TV, Telekom</character></characters></language>
+
+    <language name="az-az" code="1068">
+        <features>
+            <feature>Bu yeniləmə aşağıdakı məlumatları ehtiva edir:</feature>
+        </features>
+        <characters module="[main]"><character>Operator tövsiyəsi: Magio TV, Telekom</character></characters></language>
+
+    <language name="jv-id" code="1033">
+        <features>
+            <feature>Panganyaran iki ngandhut informasi ing ngisor iki:</feature>
+        </features>
+        <characters module="[main]"><character>Saran operator: Magio TV, Telekom</character></characters></language>
+
+    <language name="sr-rs" code="2074">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: Magio TV, Telekom</character></characters></language>
+
+    <language name="sr-ba" code="2074">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: Magio TV, Telekom</character></characters></language>
+
+    <language name="sr-me" code="2074">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: Magio TV, Telekom</character></characters></language>
+
+    <language name="be-by" code="1033">
+        <features>
+            <feature>У гэта абнаўленне ўваходзіць наступная інфармацыя:</feature>
+        </features>
+        <characters module="[main]"><character>Рэкамендаваны аператар: Magio TV, Telekom</character></characters></language>
+
+    <language name="bg-bg" code="1026">
+        <features>
+            <feature>Тази актуализация съдържа следната информация:</feature>
+        </features>
+        <characters module="[main]"><character>Препоръка за оператор: Magio TV, Telekom</character></characters></language>
+
+    <language name="bn-bd" code="1033">
+        <features>
+            <feature>এই আপডেটে নিম্নলিখিত তথ্য রয়েছে:</feature>
+        </features>
+        <characters module="[main]"><character>ক্যারিয়ারের সুপারিশ: Magio TV, Telekom</character></characters></language>
+
+    <language name="bo-cn" code="1033">
+        <features>
+            <feature>ཐེངས་འདིའི་གསར་སྒྱུར་ལ་གཤམ་གྱི་ནང་དོན་ཚུད་ཡོད།</feature>
+        </features>
+        <characters module="[main]"><character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། Magio TV ཡི་མིང་། Telekom ཡི་མིང་།</character></characters></language>
+
+    <language name="bs-ba" code="5146">
+        <features>
+            <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuka operatera: Magio TV, Telekom</character></characters></language>
+
+    <language name="ca-es" code="1033">
+        <features>
+            <feature>Aquesta actualització conté la següent informació:</feature>
+        </features>
+        <characters module="[main]"><character>Recomanació de l'operador de telefonia mòbil: Magio TV, Telekom</character></characters></language>
+
+    <language name="cs-cz" code="1029">
+        <features>
+            <feature>Tato aktualizace obsahuje následující informace:</feature>
+        </features>
+        <characters module="[main]"><character>Doporučení operátora: Magio TV, Telekom</character></characters></language>
+
+    <language name="da-dk" code="1030">
+        <features>
+            <feature>Denne opdatering indeholder følgende oplysninger:</feature>
+        </features>
+        <characters module="[main]"><character>Anbefaling fra mobilselskab: Magio TV, Telekom</character></characters></language>
+
+    <language name="de-de" code="1031">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: Magio TV, Telekom</character></characters></language>
+
+    <language name="de-at" code="1031">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: Magio TV, Telekom</character></characters></language>
+
+    <language name="de-ch" code="1031">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: Magio TV, Telekom</character></characters></language>
+
+    <language name="el-gr" code="1032">
+        <features>
+            <feature>Αυτή η έκδοση περιλαμβάνει τις ακόλουθες πληροφορίες:</feature>
+        </features>
+        <characters module="[main]"><character>Πρόταση παρόχου: Magio TV, Telekom</character></characters></language>
+
+    <language name="en-gb" code="2057">
+        <features>
+            <feature>This update contains the following information:</feature>
+        </features>
+        <characters module="[main]"><character>Carrier recommendation: Magio TV, Telekom</character></characters></language>
+
+    <language name="es-es" code="1034">
+        <features>
+            <feature>Esta actualización incluye la siguiente información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación del operador: Magio TV, Telekom</character></characters></language>
+
+    <language name="es-us" code="21514">
+        <features>
+            <feature>Esta actualización contiene la siguiente información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación de operador: Magio TV, Telekom</character></characters></language>
+
+    <language name="et-ee" code="1061">
+        <features>
+            <feature>See värskendus sisaldab järgmist teavet:</feature>
+        </features>
+        <characters module="[main]"><character>Operaatori soovitus Magio TV, Telekom</character></characters></language>
+
+    <language name="eu-es" code="1033">
+        <features>
+            <feature>Eguneratze honek informazio hau jasotzen du:</feature>
+        </features>
+        <characters module="[main]"><character>Operadorearen gomendioa: Magio TV, Telekom</character></characters></language>
+
+    <language name="fa-ir" code="1065">
+        <features>
+            <feature>این به‌روزرسانی شامل اطلاعات زیر است:</feature>
+        </features>
+        <characters module="[main]"><character>توصیۀ شرکت مخابراتی: Magio TV, Telekom</character></characters></language>
+
+    <language name="fi-fi" code="1035">
+        <features>
+            <feature>Tämä päivitys sisältää seuraavat tiedot:</feature>
+        </features>
+        <characters module="[main]"><character>Operaattorin suositus: Magio TV, Telekom</character></characters></language>
+
+    <language name="fr-fr" code="1036">
+        <features>
+            <feature>Cette mise à jour contient les informations suivantes :</feature>
+        </features>
+        <characters module="[main]"><character>Recommandation de l'opérateur : Magio TV, Telekom</character></characters></language>
+
+    <language name="fr-ch" code="1036">
+        <features>
+            <feature>Cette mise à jour contient les informations suivantes :</feature>
+        </features>
+        <characters module="[main]"><character>Recommandation de l'opérateur : Magio TV, Telekom</character></characters></language>
+
+    <language name="gl-es" code="1033">
+        <features>
+            <feature>Esta actualización contén a seguinte información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación do operador: Magio TV, Telekom</character></characters></language>
+
+    <language name="gu-IN" code="1033">
+        <features>
+            <feature>આ અપડેટમાં નીચેની માહિતીનો સમાવેશ હોય છે:</feature>
+        </features>
+        <characters module="[main]"><character>કૅરિઅરની ભલામણ: Magio TV, Telekom</character></characters></language>
+
+    <language name="hi-in" code="1081">
+        <features>
+            <feature>इस अद्यतन में निम्नलिखित जानकारी शामिल है:</feature>
+        </features>
+        <characters module="[main]"><character>कैरियर अनुशंसा: Magio TV, Telekom</character></characters></language>
+
+    <language name="hr-hr" code="1050">
+        <features>
+            <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuka mobilnog operatera: Magio TV, Telekom</character></characters></language>
+
+    <language name="hu-hu" code="1038">
+        <features>
+            <feature>Ez a frissítés az alábbi információkat tartalmazza:</feature>
+        </features>
+        <characters module="[main]"><character>Szolgáltatói javaslat: Magio TV, Telekom</character></characters></language>
+
+    <language name="in-id" code="1057">
+        <features>
+            <feature>Pembaruan ini berisi informasi berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasi operator: Magio TV, Telekom</character></characters></language>
+
+    <language name="id-" code="1057">
+        <features>
+            <feature>Pembaruan ini berisi informasi berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasi operator: Magio TV, Telekom</character></characters></language>
+
+    <language name="it-it" code="1040">
+        <features>
+            <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+        </features>
+        <characters module="[main]"><character>Consigli dell'operatore: Magio TV, Telekom</character></characters></language>
+
+    <language name="it-ch" code="1040">
+        <features>
+            <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+        </features>
+        <characters module="[main]"><character>Consigli dell'operatore: Magio TV, Telekom</character></characters></language>
+
+    <language name="iw-il" code="1033">
+        <features>
+            <feature>עדכון זה מכיל את המידע הבא:</feature>
+        </features>
+        <characters module="[main]"><character>המלצת ספק השירות: Magio TV, Telekom</character></characters></language>
+
+    <language name="he-" code="1033">
+        <features>
+            <feature>עדכון זה מכיל את המידע הבא:</feature>
+        </features>
+        <characters module="[main]"><character>המלצת ספק השירות: Magio TV, Telekom</character></characters></language>
+
+    <language name="ja-jp" code="1033">
+        <features>
+            <feature>この更新には次の情報が含まれています。</feature>
+        </features>
+        <characters module="[main]"><character>通信事業者のおすすめ：Magio TV、Telekom</character></characters></language>
+
+    <language name="ka-ge" code="1033">
+        <features>
+            <feature>ეს განახლება შეიცავს შემდეგ ინფორმაციას:</feature>
+        </features>
+        <characters module="[main]"><character>ოპერატორის რეკომენდაცია: Magio TV, Telekom</character></characters></language>
+
+    <language name="kk-kz" code="1033">
+        <features>
+            <feature>Бұл жаңартуда келесі ақпарат бар:</feature>
+        </features>
+        <characters module="[main]"><character>Оператор ұсынысы: Magio TV, Telekom</character></characters></language>
+
+    <language name="km-kh" code="1033">
+        <features>
+            <feature>បច្ចុប្បន្នភាពនេះ​មានផ្ទុក​ព័ត៌មាន​ដូចខាងក្រោម៖</feature>
+        </features>
+        <characters module="[main]"><character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ Magio TV, Telekom</character></characters></language>
+
+    <language name="kn-IN" code="1033">
+        <features>
+            <feature>ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿದೆ:</feature>
+        </features>
+        <characters module="[main]"><character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: Magio TV, Telekom</character></characters></language>
+
+    <language name="ko-kr" code="1033">
+        <features>
+            <feature>이 업데이트에는 다음 정보가 포함됩니다.</feature>
+        </features>
+        <characters module="[main]"><character>이동통신사 추천: Magio TV, Telekom</character></characters></language>
+
+    <language name="lo-la" code="1033">
+        <features>
+            <feature>ການອັບເດດນີ້ມີຂໍ້ມູນດັ່ງຕໍ່ໄປນີ້:</feature>
+        </features>
+        <characters module="[main]"><character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: Magio TV, Telekom</character></characters></language>
+
+    <language name="lt-lt" code="1063">
+        <features>
+            <feature>Šiame naujinyje pateikiama toliau nurodyta informacija.</feature>
+        </features>
+        <characters module="[main]"><character>Tinklo operatoriaus rekomendacija: Magio TV, Telekom</character></characters></language>
+
+    <language name="lv-lv" code="1062">
+        <features>
+            <feature>Šajā atjauninājumā ietverta tālāk norādītā informācija.</feature>
+        </features>
+        <characters module="[main]"><character>Operatora ieteikums: Magio TV, Telekom</character></characters></language>
+
+    <language name="mai-IN" code="1062">
+        <features>
+            <feature>ई अपडेट निम्न जानकारी सम्मिलित करैत अछि:</feature>
+        </features>
+        <characters module="[main]"><character>वाहक अनुशंसा: Magio TV, Telekom</character></characters></language>
+
+    <language name="mi-NZ" code="1062">
+        <features>
+            <feature>Kei roto i tēnei whakahōu ko ngā mōhiohio e whai ake:</feature>
+        </features>
+        <characters module="[main]"><character>Tūtohu a te kaiwhakarato waea pūkoro: Magio TV, Telekom</character></characters></language>
+
+    <language name="mk-mk" code="1071">
+        <features>
+            <feature>Ова ажурирање ги содржи следниве информации:</feature>
+        </features>
+        <characters module="[main]"><character>Препорака од операторот: Magio TV, Telekom</character></characters></language>
+
+    <language name="ml-IN" code="1071">
+        <features>
+            <feature>ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന വിവരങ്ങൾ അടങ്ങുന്നു:</feature>
+        </features>
+        <characters module="[main]"><character>കാരിയർ ശുപാർശ: Magio TV, Telekom</character></characters></language>
+
+    <language name="mn-MN" code="1071">
+        <features>
+            <feature>Энэ шинэчлэлт нь дараах мэдээллийг агуулна:</feature>
+        </features>
+        <characters module="[main]"><character>Үүрэн телефоны операторын зөвлөж буй: Magio TV, Telekom</character></characters></language>
+
+    <language name="mr-IN" code="1071">
+        <features>
+            <feature>या अद्यतनामध्ये खालील माहिती आहे:</feature>
+        </features>
+        <characters module="[main]"><character>वाहकाची शिफारस: Magio TV, Telekom</character></characters></language>
+
+    <language name="ms-my" code="1086">
+        <features>
+            <feature>Kemas kini ini mengandungi maklumat yang berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Cadangan pembawa: Magio TV, Telekom</character></characters></language>
+
+    <language name="my-mm" code="1033">
+        <features>
+            <feature>ဤအပ်ဒိတ်တွင် အောက်ပါ အချက်အလက်များ ပါဝင်သည်-</feature>
+        </features>
+        <characters module="[main]"><character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- Magio TV, Telekom</character></characters></language>
+
+    <language name="my-zg" code="1033">
+        <features>
+            <feature>ဤအပ္ဒိတ္တြင္ ေအာက္ပါ အခ်က္အလက္မ်ား ပါဝင္သည္-</feature>
+        </features>
+        <characters module="[main]"><character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- Magio TV, Telekom</character></characters></language>
+
+    <language name="nb-no" code="1044">
+        <features>
+            <feature>Denne oppdateringen inneholder følgende informasjon:</feature>
+        </features>
+        <characters module="[main]"><character>Operatøranbefaling: Magio TV, Telekom</character></characters></language>
+
+    <language name="ne-np" code="1033">
+        <features>
+            <feature>यो अद्यावधिकमा निम्न जानकारी समावेश छ:</feature>
+        </features>
+        <characters module="[main]"><character>वाहक सिफारिस: Magio TV, Telekom</character></characters></language>
+
+    <language name="nl-nl" code="1043">
+        <features>
+            <feature>Deze update bevat de volgende informatie:</feature>
+        </features>
+        <characters module="[main]"><character>Provideraanbeveling: Magio TV, Telekom</character></characters></language>
+
+    <language name="or-IN" code="1043">
+        <features>
+            <feature>ଏହି ଅପଡେଟ୍‌‌ରେ ନିମ୍ନଲିଖିତ ସୂଚନା ରହିଛି:</feature>
+        </features>
+        <characters module="[main]"><character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: Magio TV, Telekom</character></characters></language>
+
+    <language name="pa-IN" code="1043">
+        <features>
+            <feature>ਇਸ ਅੱਪਡੇਟ ਦੇ ਵਿੱਚ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਹੈ:</feature>
+        </features>
+        <characters module="[main]"><character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: Magio TV, Telekom</character></characters></language>
+
+    <language name="pl-pl" code="1045">
+        <features>
+            <feature>Ta aktualizacja zawiera następujące informacje:</feature>
+        </features>
+        <characters module="[main]"><character>Zalecenie operatora: Magio TV, Telekom</character></characters></language>
+
+    <language name="pt-br" code="1046">
+        <features>
+            <feature>Esta atualização contém as seguintes informações:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendação da operadora: Magio TV, Telekom</character></characters></language>
+
+    <language name="pt-pt" code="2070">
+        <features>
+            <feature>Esta atualização contém as seguintes informações:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendação da operadora: Magio TV, Telekom</character></characters></language>
+
+    <language name="ro-ro" code="1048">
+        <features>
+            <feature>Această actualizare conține următoarele informații:</feature>
+        </features>
+        <characters module="[main]"><character>Recomandare operator: Magio TV, Telekom</character></characters></language>
+
+    <language name="ru-ru" code="1049">
+        <features>
+            <feature>Данное обновление содержит следующие сведения:</feature>
+        </features>
+        <characters module="[main]"><character>Рекомендация оператора: Magio TV, Telekom</character></characters></language>
+
+    <language name="si-lk" code="1033">
+        <features>
+            <feature>මෙම යාවත්කාලීනයේ පහත තොරතුරු අඩංගු වේ:</feature>
+        </features>
+        <characters module="[main]"><character>වාහක නිර්දේශය: Magio TV, Telekom</character></characters></language>
+
+    <language name="sk-sk" code="1051">
+        <features>
+            <feature>Táto aktualizácia obsahuje nasledujúce informácie:</feature>
+        </features>
+        <characters module="[main]"><character>Odporúčané operátorom: Magio TV, Telekom</character></characters></language>
+
+    <language name="sl-si" code="1060">
+        <features>
+            <feature>Ta posodobitev vključuje naslednje podatke:</feature>
+        </features>
+        <characters module="[main]"><character>Priporočila operaterja: Magio TV, Telekom</character></characters></language>
+
+    <language name="sv-se" code="1053">
+        <features>
+            <feature>Den här uppdateringen innehåller följande information:</feature>
+        </features>
+        <characters module="[main]"><character>Operatörsrekommendation: Magio TV, Telekom</character></characters></language>
+
+    <language name="sw-KE" code="1053">
+        <features>
+            <feature>Sasisho hili lina maelezo yafuatayo:</feature>
+        </features>
+        <characters module="[main]"><character>Mapendekezo ya mtoa huduma: Magio TV, Telekom</character></characters></language>
+
+    <language name="ta-IN" code="1053">
+        <features>
+            <feature>இந்தப் புதுப்பிப்பில் பின்வரும் தகவல்கள் உள்ளன:</feature>
+        </features>
+        <characters module="[main]"><character>கேரியர் பரிந்துரை: Magio TV, Telekom</character></characters></language>
+
+    <language name="te-IN" code="1053">
+        <features>
+            <feature>ఈ అప్‌డేట్‌లో క్రింది సమాచారం ఉంటుంది:</feature>
+        </features>
+        <characters module="[main]"><character>క్యారియర్ సిఫార్సు: Magio TV, Telekom</character></characters></language>
+
+    <language name="th-th" code="1054">
+        <features>
+            <feature>การอัปเดตนี้มีข้อมูลดังต่อไปนี้:</feature>
+        </features>
+        <characters module="[main]"><character>การแนะนำผู้ให้บริการ: Magio TV, Telekom</character></characters></language>
+
+    <language name="tl-ph" code="1033">
+        <features>
+            <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasyon ng carrier: Magio TV, Telekom</character></characters></language>
+
+    <language name="fil-ph" code="1033">
+        <features>
+            <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasyon ng carrier: Magio TV, Telekom</character></characters></language>
+
+    <language name="tr-tr" code="1055">
+        <features>
+            <feature>Bu güncelleme aşağıdaki bilgileri içermektedir:</feature>
+        </features>
+        <characters module="[main]"><character>Operatör önerisi: Magio TV, Telekom</character></characters></language>
+
+    <language name="ug-cn" code="1055">
+        <features>
+            <feature>بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەزمۇننى ئۆز ئىچىگە ئالىدۇ:</feature>
+        </features>
+        <characters module="[main]"><character>يۈرۈتكۈچى تەۋسىيەسى: Magio TV نامى، Telekom نامى</character></characters></language>
+
+    <language name="uk-ua" code="1058">
+        <features>
+            <feature>Це оновлення містить таку інформацію:</feature>
+        </features>
+        <characters module="[main]"><character>Рекомендація оператора: Magio TV, Telekom</character></characters></language>
+
+    <language name="ur-pk" code="1056">
+        <features>
+            <feature>اس اپ ڈیٹ میں مندرجہ ذیل معلومات شامل ہیں:</feature>
+        </features>
+        <characters module="[main]"><character>کیرئیر کی تجویز: Magio TV، Telekom</character></characters></language>
+
+    <language name="uz-uz" code="2115">
+        <features>
+            <feature>Bu yangilanishda quyidagi axborotlar mavjud:</feature>
+        </features>
+        <characters module="[main]"><character>Aloqa operatori tavsiyasi: Magio TV, Telekom</character></characters></language>
+
+    <language name="vi-vn" code="1066">
+        <features>
+            <feature>Bản cập nhật này chứa các thông tin sau:</feature>
+        </features>
+        <characters module="[main]"><character>Đề xuất nhà mạng: Magio TV, Telekom</character></characters></language>
+
+    <language name="zh-hk" code="3076">
+        <features>
+            <feature>本次更新包含以下內容：</feature>
+        </features>
+        <characters module="[main]"><character>供應商推介：Magio TV、Telekom</character></characters></language>
+
+</root>

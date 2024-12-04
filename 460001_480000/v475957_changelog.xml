@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新合入安全补丁，增强系统安全性，推荐您进行更新。</feature>
+</features>
+<features module="安全">
+<feature>•  合入安卓2024年11月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新会删除您的用户数据，请您在更新前做好数据备份。
+2. 门店改制是特殊的OTA升级过程，由演示版本升级到商用版本过程中，系统会多次自动重启，当系统处于【开机导航】页面时，改制版本升级才算完成，在出现“开机导航”页面之前，请耐心等待，不要做恢复出厂等操作。
+3. 更多精彩功能介绍，请访问“玩机技巧”应用。
+4. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update incorporates a security patch to enhance the system security. Update and enjoy the improvements.</feature>
+</features>
+<features module="Security">
+<feature>• Android Security Patch (Nov 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/11</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will delete your personal data. Please backup your data before updating.
+2. Version upgrade is a special OTA upgrade process. In the process of upgrading from demo version to commercial version, the system will restart automatically several times. When the "Startup navigation" screen appears, the upgrade is completed. Before that, please wait patiently and do not perform any actions such as factory reset.
+3. Discover more information on product features in the Tips app.
+4. If you encounter any issues during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

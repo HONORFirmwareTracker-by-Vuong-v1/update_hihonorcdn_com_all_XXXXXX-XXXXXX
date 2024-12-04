@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>14529279</compressCowSize>
+<cowsize>44040192</cowsize>
+<payloadOffset>915</payloadOffset>
+<fileHash>/nMHm1PptXGFY0sQAq1Zn21E3uBB1hRPe7gxGKRvUhc=</fileHash>
+<fileSize>378304</fileSize>
+<metadataHash>IA4GZSANu+BPkch60B/2J3iBP7HVziGQQynTUMG4U+E=</metadataHash>
+<metadataSize>2478</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FCP-N49_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FCP-N49_def_spcseas.zip</spath>
+<dpath>update_cust_FCP-N49_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>BF48D86662A49786BE2F8F413529C3395DE3EAC1B7A1B1C4A389ABA5B0226DE0</sha256>
+<size>385607</size>
+</file>
+</files>
+</root>

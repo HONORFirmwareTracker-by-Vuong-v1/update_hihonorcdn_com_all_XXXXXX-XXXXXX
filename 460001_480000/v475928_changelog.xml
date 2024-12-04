@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新优化部分场景横屏使用体验，提升系统性能与稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="显示">
+<feature>•  优化部分场景横屏使用体验。</feature>
+</features>
+<features module="手写笔">
+<feature>•  修复手写笔吸附到平板充电时概率停充问题。</feature>
+</features>
+<features module="性能">
+<feature>•  优化部分场景性能体验。</feature>
+</features>
+<features module="系统">
+<feature>•  提升系统稳定性，让您的平板运行更稳定。</feature>
+</features>
+<features module="安全">
+<feature>•  合入安卓2024年11月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update optimizes the landscape experience in some scenarios, and improves the system performance and stability. It also incorporates a security patch. Update and enjoy the improvements.</feature>
+</features>
+<features module="Display">
+<feature>• Optimizes the user experience in landscape orientation in some scenarios.</feature>
+</features>
+<features module="Stylus">
+<feature>• Fixes the issue of a stylus sometimes stopping charging when attached to a tablet.</feature>
+</features>
+<features module="Performance">
+<feature>• Enhances the system performance in some scenarios.</feature>
+</features>
+<features module="System">
+<feature>• Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• Android Security Patch (Nov 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/11.</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating. 
+2. Discover more information on product features in the Tips app. 
+3. If you encounter any issues during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་བཟོ་ལྗོངས་ཁག་ཅིག་གི་འཕྲེད་བརྙན་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད། རྒྱུད་ཁོངས་ཀྱི་གཤིས་ནུས་དང་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། བདེ་འཇགས་ལྷན་པ་འདུས་གྲུབ་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="མངོན་སྟོན།">
+<feature>•  བཟོ་ལྗོངས་ཁག་ཅིག་གི་འཕྲེད་བརྙན་བེད་སྤྱོད་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+</features>
+<features module="ལག་བྲིས་སྨྱུ་གུ།">
+<feature>•  ལག་བྲིས་སྨྱུ་གུ་ངོས་སྙོམས་གློག་ཀླད་ལ་སྦྱར་ནས་གློག་གསོག་སྐབས་སྲིད་ཕྱོད་ཅན་གྱི་གསོག་མཚམས་འཇོག་པའི་གནད་དོན་ཉམས་གསོ་བྱས་ཡོད།</feature>
+</features>
+<features module="གཤིས་ནུས།">
+<feature>•  བཟོ་ལྗོངས་ཁག་ཅིག་གི་གཤིས་ནུས་ཀྱི་ཉམས་ལེན་ལེགས་སྒྱུར་བྱས་ཡོད།</feature>
+</features>
+<features module="རྒྱུད་ཁོངས།">
+<feature>•  རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ཀྱི་ངོས་སྙོམས་གློག་ཀླད་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་བྱེད།</feature>
+</features>
+<features module="བདེ་འཇགས།">
+<feature>•  ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་ 11 པའི་བདེ་འཇགས་ལྷན་པ་བསྡེབས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་ཇེ་བཟང་དུ་གཏོང་བ། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/11 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། ཡིན་ནའང་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا بىر قىسىم كۆرۈنۈشلەردىكى تۈزبوي ئېكران ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلۇپ، سىستېمىنىڭ ئىقتىدارى ۋە مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏كۆرسىتىش">
+<feature>‏• بىر قىسىم كۆرۈنۈشلەردىكى تۈزبوي ئېكران ئىشلىتىش تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏قەلەم">
+<feature>‏• قەلەمنى تاختا كومپيۇتېرغا چاپلاشتۇرۇپ قويغاندا توكلاش ئۈزۈلۈپ قېلىش ئېھتىماللىقى مەسىلىسى ئوڭشالدى.</feature>
+</features>
+<features module="‏ئىقتىدار">
+<feature>‏• بىر قىسىم كۆرۈنۈشلەردىكى ئىقتىدار تەسىراتى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏سىستېما">
+<feature>‏• سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، تاختا كومپيۇتېرىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="‏بىخەتەرلىك">
+<feature>‏• ئاندرويدنىڭ 2024-يىل 11-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/11</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新優化了部分場景的橫向屏幕使用體驗，提升了系統性能與穩定性，整合了安全性修補程式，建議您更新。</feature>
+</features>
+<features module="顯示">
+<feature>•  優化部分場景的橫向屏幕使用體驗。</feature>
+</features>
+<features module="手寫筆">
+<feature>•  修復手寫筆吸附到平板電腦時有機率停止充電的問題。</feature>
+</features>
+<features module="性能">
+<feature>•  優化部分場景的性能體驗。</feature>
+</features>
+<features module="系統">
+<feature>•  提升系統穩定性，讓您的平板電腦運行更穩定。</feature>
+</features>
+<features module="安全">
+<feature>•  整合 Android 2024年11月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能的介紹，請瀏覽「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式，或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新最佳化在部分場景下的橫向使用體驗，提升系統效能與穩定性，並整合安全性修補程式，建議您進行更新。</feature>
+</features>
+<features module="顯示">
+<feature>• 最佳化在部分場景下的橫向使用體驗。</feature>
+</features>
+<features module="手寫筆">
+<feature>• 修復手寫筆吸附到平板電腦充電時可能出現停止充電的問題。</feature>
+</features>
+<features module="效能">
+<feature>• 最佳化在部分場景下的效能體驗。</feature>
+</features>
+<features module="系統">
+<feature>• 提升系統穩定性，讓您的平板電腦執行更加穩定。</feature>
+</features>
+<features module="安全">
+<feature>• 整合 Android 2024 年 11 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+</features>
+</language>
+
+</root>
