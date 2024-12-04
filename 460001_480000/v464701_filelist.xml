@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12766030</compressCowSize>
+<cowsize>43954176</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>TR3e4COFvGJdVKZyJ848pVlGZUcEqa4nNc67FWKv3I0=</fileHash>
+<fileSize>4088</fileSize>
+<metadataHash>ht6Qgou/mM/blE6f3lpMIRCOqgxArf4NJ9kKja3e514=</metadataHash>
+<metadataSize>734</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-AN00_all_cn.zip</spath>
+<dpath>update_cust_JDY-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>95F7880AB7E4A8446E132B7B4B6438CE7ED3DFB8D60A03B51254C345F25430C1</sha256>
+<size>11377</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43950080</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>JzhAIv2iCXia8r/VEt3MjvBVFXix2SpIH1oIgGdPHTs=</fileHash>
+<fileSize>4056</fileSize>
+<metadataHash>XQdcSNyDuEAsQ4RN/Joy4K4y0AAM4L4roqwaoDykyR0=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FLC-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FLC-AN00_all_cn.zip</spath>
+<dpath>update_cust_FLC-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>1EC5683BA0BACE06E45282288E8B60570E6F28FBA3A457A5AD39A35917E476A3</sha256>
+<size>11345</size>
+</file>
+</files>
+</root>

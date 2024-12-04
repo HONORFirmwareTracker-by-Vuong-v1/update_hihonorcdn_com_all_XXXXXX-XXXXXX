@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1169690624</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>4FCpbrBhQRxhLS5fnTaAj3vOQ47Ge4P+MZK4ju2hEkk=</fileHash>
+<fileSize>214606313</fileSize>
+<metadataHash>Ap/IxQJnPFKFUYb5oOKexNHX/Klk2PlZUOkqySUV6DU=</metadataHash>
+<metadataSize>14107</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PGT-N19_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PGT-N19_telcel_mx.zip</spath>
+<dpath>update_cust_PGT-N19_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>8CAD1BD1381D3512A860EAE0D0D10B234137170A98E2508878A5FE7645C3225A</sha256>
+<size>214613653</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>923</payloadOffset>
+<fileHash>zQItpMi3xY5kQZj6aiQu/U4OUZuyQ54Aku6kYnHbutY=</fileHash>
+<fileSize>2261097</fileSize>
+<metadataHash>pC9i5+6BjjwivI4wZ9LrNtUktLwI4oVk9Eo9l2BVNDY=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_WDY-L32_def_meafnaf.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_WDY-L32_def_meafnaf.zip</spath>
+<dpath>update_cust_WDY-L32_def_meafnaf.zip</dpath>
+<operation>c</operation>
+<sha256>E0703688BDE379D631A59C802DFD2A31D0F0ABF86E4A0A29578AE06CFF754C3B</sha256>
+<size>2268409</size>
+</file>
+</files>
+</root>

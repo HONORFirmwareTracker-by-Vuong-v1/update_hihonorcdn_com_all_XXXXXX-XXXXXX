@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>26100915</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>ysklpvqHX/rCANOtYnIIgXIU7pRsHVkhz/jvxRUQobA=</fileHash>
+<fileSize>63600</fileSize>
+<metadataHash>B3ru1jro4BuZD7gm4vzpP0/pUDAas4CpXC4yajBHHwg=</metadataHash>
+<metadataSize>30314</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_ALT-L03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_ALT-L03_def_la_R100.zip</spath>
+<dpath>update_full_preload_ALT-L03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>47A9F1B2480D67BC181207F9D3CE7D60F8AD99314D3E4860B0D197D733692F53</sha256>
+<size>70773</size>
+</file>
+</files>
+</root>

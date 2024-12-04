@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>12749170</compressCowSize>
+<cowsize>43950080</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>YWawpgmqWrP1t+TZ9QgXBn47sA3qlJJJlWQ3nlRh29k=</fileHash>
+<fileSize>4122</fileSize>
+<metadataHash>7cwbgScPKZ8Zf5sFee05lIiGlI5UPE57awB7KfRIqvI=</metadataHash>
+<metadataSize>852</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FCP-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FCP-AN10_all_cn.zip</spath>
+<dpath>update_cust_FCP-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>6323D6BF295327CB767AFDB53B2F1CE19D515810F4CF2C227C980E10D8FD702C</sha256>
+<size>11413</size>
+</file>
+</files>
+</root>

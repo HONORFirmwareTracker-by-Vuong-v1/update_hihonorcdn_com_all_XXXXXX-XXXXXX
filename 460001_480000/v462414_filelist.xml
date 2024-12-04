@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>QIGEiUx0OUQMUwfGlSwtZrcoqGPQZzINmMJwosDYwis=</fileHash>
+<fileSize>2263953</fileSize>
+<metadataHash>hhbzJFZIRXDrX3FLdLQuU4ucGLXZEnVK9Dzlwesw6uM=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_CLK-L32_def_spcseas.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_CLK-L32_def_spcseas.zip</spath>
+<dpath>update_full_cust_CLK-L32_def_spcseas.zip</dpath>
+<operation>c</operation>
+<sha256>C5B526E1548D4C66729F8AB2362A4391C80F78B68966760003F3E68B6BEC927A</sha256>
+<size>2271132</size>
+</file>
+</files>
+</root>

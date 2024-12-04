@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1925820416</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>lOKdpTlYPzAnKiWq72HCeELtDBZNlJ2XVT2Wha5rro8=</fileHash>
+<fileSize>134766690</fileSize>
+<metadataHash>uLrV4JjnpLv2gIP+uEHPXbP+gjqTPz1M7y1dT+70oHM=</metadataHash>
+<metadataSize>34061</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_JDY-L13P_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_JDY-L13P_claro_la.zip</spath>
+<dpath>update_cust_JDY-L13P_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>3A73B76FDD76F3C54B3201DE21AC3EFC1DE37F381709EE433F9BCB2469481B1E</sha256>
+<size>134774030</size>
+</file>
+</files>
+</root>

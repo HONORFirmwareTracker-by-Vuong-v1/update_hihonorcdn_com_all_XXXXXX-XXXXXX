@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>948</payloadOffset>
+<fileHash>vUzJR8OmEXUIUH60YbPkeiJbS7ZwJV0hlcX89lP5e1I=</fileHash>
+<fileSize>1005329892</fileSize>
+<metadataHash>prwoB3tHmQqs7EshXHxJDlCZPs8PKFMmBiBKwTiRRv8=</metadataHash>
+<metadataSize>41316</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MAP-AN10_all_cn_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MAP-AN10_all_cn_R3.zip</spath>
+<dpath>update_preload_MAP-AN10_all_cn_R3.zip</dpath>
+<operation>c</operation>
+<sha256>ED981D013FAC6D8F81AF18BAC2CB3F3987A0BF2244B415B32EB4557731E334F2</sha256>
+<size>1005337252</size>
+</file>
+</files>
+</root>

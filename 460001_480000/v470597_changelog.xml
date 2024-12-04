@@ -1,0 +1,1049 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <component name="TCPU" version="请自行修改"/>
+  <default-language name="en-us">1033</default-language>
+  <language name="zh-cn" code="2052">
+    <features module="">
+      <feature>本次更新包含如下内容：</feature>
+    </features>
+    <characters module="[main]">
+      <character>运营商推荐：APP1名称</character>
+      <character>运营商推荐：APP1名称、APP2名称</character>
+      <character>运营商推荐：APP1名称、APP2名称、APP3名称</character>
+      <character>运营商推荐：APP1名称、APP2名称、APP3名称、APP4名称</character>
+      <character>运营商推荐：APP1名称、APP2名称、APP3名称、APP4名称、APP5名称</character>
+    </characters>
+  </language>
+  <language name="en-us" code="1033">
+    <features module="">
+      <feature>This update includes:</feature>
+    </features>
+    <characters module="[main]">
+      <character>APP1, at the recommendation of network carriers.</character>
+      <character>APP1 and APP2, at the recommendation of network carriers.</character>
+      <character>APP1, APP2, and APP3, at the recommendation of network carriers.</character>
+      <character>APP1, APP2, APP3, and APP4, at the recommendation of network carriers.</character>
+      <character>APP1, APP2, APP3, APP4, and APP5, at the recommendation of network carriers.</character>
+    </characters>
+  </language>
+  <language name="am-ET" code="1033">
+    <features module="">
+      <feature>ይህ ዝማኔ የሚከተለውን መረጃ ይዟል፦</feature>
+    </features>
+    <characters module="[main]">
+      <character>የአገልግሎት ሰጪ፦ APP1</character>
+      <character>የአገልግሎት ሰጪ፦ APP1፣ APP2</character>
+      <character>የአገልግሎት ሰጪ፦ APP1፣ APP2፣ APP3</character>
+      <character>የአገልግሎት ሰጪ፦ APP1፣ APP2፣ APP3፣ APP4</character>
+      <character>የአገልግሎት ሰጪ፦ APP1፣ APP2፣ APP3፣ APP4፣ APP5</character>
+    </characters>
+  </language>
+  <language name="ar-eg" code="3073">
+    <features module="">
+      <feature>يحتوي هذا التحديث على المعلومات التالية:</feature>
+    </features>
+    <characters module="[main]">
+      <character>توصيات شركة الاتصالات: APP1</character>
+      <character>توصيات شركة الاتصالات: APP1، وAPP2</character>
+      <character>توصيات شركة الاتصالات: APP1، وAPP2، وAPP3</character>
+      <character>توصيات شركة الاتصالات: APP1، وAPP2، وAPP3، وAPP4</character>
+      <character>توصيات شركة الاتصالات: APP1، وAPP2، وAPP3، وAPP4، وAPP5</character>
+    </characters>
+  </language>
+  <language name="as-IN" code="3073">
+    <features module="">
+      <feature>এই আপডেটটোত নিম্নোক্ত তথ্যখিনি আছে:</feature>
+    </features>
+    <characters module="[main]">
+      <character>বাহকৰ অনুমোদন: APP1</character>
+      <character>বাহকৰ অনুমোদন: APP1, APP2</character>
+      <character>বাহকৰ অনুমোদন: APP1, APP2, APP3</character>
+      <character>বাহকৰ অনুমোদন: APP1, APP2, APP3, APP4</character>
+      <character>বাহকৰ অনুমোদন: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="az-az" code="1068">
+    <features module="">
+      <feature>Bu yeniləmə aşağıdakı məlumatları ehtiva edir:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operator tövsiyəsi: APP1</character>
+      <character>Operator tövsiyəsi: APP1, APP2</character>
+      <character>Operator tövsiyəsi: APP1, APP2, APP3</character>
+      <character>Operator tövsiyəsi: APP1, APP2, APP3, APP4</character>
+      <character>Operator tövsiyəsi: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="jv-id" code="1033">
+    <features module="">
+      <feature>Panganyaran iki ngandhut informasi ing ngisor iki:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Saran operator: APP1</character>
+      <character>Saran operator: APP1, APP2</character>
+      <character>Saran operator: APP1, APP2, APP3</character>
+      <character>Saran operator: APP1, APP2, APP3, APP4</character>
+      <character>Saran operator: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sr-rs" code="2074">
+    <features module="">
+      <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Preporuke mrežnog operatera: APP1</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sr-ba" code="2074">
+    <features module="">
+      <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Preporuke mrežnog operatera: APP1</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sr-me" code="2074">
+    <features module="">
+      <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Preporuke mrežnog operatera: APP1</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4</character>
+      <character>Preporuke mrežnog operatera: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="be-by" code="1033">
+    <features module="">
+      <feature>У гэта абнаўленне ўваходзіць наступная інфармацыя:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Рэкамендаваны аператар: APP1</character>
+      <character>Рэкамендаваны аператар: APP1, APP2</character>
+      <character>Рэкамендаваны аператар: APP1, APP2, APP3</character>
+      <character>Рэкамендаваны аператар: APP1, APP2, APP3, APP4</character>
+      <character>Рэкамендаваны аператар: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="bg-bg" code="1026">
+    <features module="">
+      <feature>Тази актуализация съдържа следната информация:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Препоръка за оператор: APP1</character>
+      <character>Препоръка за оператор: APP1, APP2</character>
+      <character>Препоръка за оператор: APP1, APP2, APP3</character>
+      <character>Препоръка за оператор: APP1, APP2, APP3, APP4</character>
+      <character>Препоръка за оператор: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="bn-bd" code="1033">
+    <features module="">
+      <feature>এই আপডেটে নিম্নলিখিত তথ্য রয়েছে:</feature>
+    </features>
+    <characters module="[main]">
+      <character>ক্যারিয়ারের সুপারিশ: APP1</character>
+      <character>ক্যারিয়ারের সুপারিশ: APP1, APP2</character>
+      <character>ক্যারিয়ারের সুপারিশ: APP1, APP2, APP3</character>
+      <character>ক্যারিয়ারের সুপারিশ: APP1, APP2, APP3, APP4</character>
+      <character>ক্যারিয়ারের সুপারিশ: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="bo-cn" code="1033">
+    <features module="">
+      <feature>ཐེངས་འདིའི་གསར་སྒྱུར་ལ་གཤམ་གྱི་ནང་དོན་ཚུད་ཡོད།</feature>
+    </features>
+    <characters module="[main]">
+      <character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། APP1 ཡི་མིང་།</character>
+      <character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། APP1 ཡི་མིང་། APP2 ཡི་མིང་།</character>
+      <character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། APP1 ཡི་མིང་། APP2 ཡི་མིང་། APP3 ཡི་མིང་།</character>
+      <character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། APP1 ཡི་མིང་། APP2 ཡི་མིང་། APP3 ཡི་མིང་། APP4 ཡི་མིང་།</character>
+      <character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། APP1 ཡི་མིང་། APP2 ཡི་མིང་། APP3 ཡི་མིང་། APP4 ཡི་མིང་། APP5 ཡི་མིང་།</character>
+    </characters>
+  </language>
+  <language name="bs-ba" code="5146">
+    <features module="">
+      <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Preporuka operatera: APP1</character>
+      <character>Preporuka operatera: APP1, APP2</character>
+      <character>Preporuka operatera: APP1, APP2, APP3</character>
+      <character>Preporuka operatera: APP1, APP2, APP3, APP4</character>
+      <character>Preporuka operatera: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ca-es" code="1033">
+    <features module="">
+      <feature>Aquesta actualització conté la següent informació:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomanació de l'operador de telefonia mòbil: APP1</character>
+      <character>Recomanació de l'operador de telefonia mòbil: APP1, APP2</character>
+      <character>Recomanació de l'operador de telefonia mòbil: APP1, APP2 i APP3</character>
+      <character>Recomanació de l'operador de telefonia mòbil: APP1, APP2, APP3 i APP4</character>
+      <character>Recomanació de l'operador de telefonia mòbil: APP1, APP2, APP3, APP4 i APP5</character>
+    </characters>
+  </language>
+  <language name="cs-cz" code="1029">
+    <features module="">
+      <feature>Tato aktualizace obsahuje následující informace:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Doporučení operátora: APP1</character>
+      <character>Doporučení operátora: APP1, APP2</character>
+      <character>Doporučení operátora: APP1, APP, APP3</character>
+      <character>Doporučení operátora: APP1, APP2, APP3, APP4</character>
+      <character>Doporučení operátora: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="da-dk" code="1030">
+    <features module="">
+      <feature>Denne opdatering indeholder følgende oplysninger:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Anbefaling fra mobilselskab: APP1</character>
+      <character>Anbefaling fra mobilselskab: APP1, APP2</character>
+      <character>Anbefaling fra mobilselskab: APP1, APP2, APP3</character>
+      <character>Anbefaling fra mobilselskab: APP1, APP2, APP3, APP4</character>
+      <character>Anbefaling fra mobilselskab: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="de-de" code="1031">
+    <features module="">
+      <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Anbieterempfehlung: APP1</character>
+      <character>Anbieterempfehlung: APP1, APP2</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="de-at" code="1031">
+    <features module="">
+      <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Anbieterempfehlung: APP1</character>
+      <character>Anbieterempfehlung: APP1, APP2</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="de-ch" code="1031">
+    <features module="">
+      <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Anbieterempfehlung: APP1</character>
+      <character>Anbieterempfehlung: APP1, APP2</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4</character>
+      <character>Anbieterempfehlung: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="el-gr" code="1032">
+    <features module="">
+      <feature>Αυτή η έκδοση περιλαμβάνει τις ακόλουθες πληροφορίες:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Πρόταση παρόχου: APP1</character>
+      <character>Πρόταση παρόχου: APP1, APP2</character>
+      <character>Πρόταση παρόχου: APP1, APP2, APP3</character>
+      <character>Πρόταση παρόχου: APP1, APP2, APP3, APP4</character>
+      <character>Πρόταση παρόχου: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="en-gb" code="2057">
+    <features module="">
+      <feature>This update contains the following information:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Carrier recommendation: APP1</character>
+      <character>Carrier recommendation: APP1, APP2</character>
+      <character>Carrier recommendation: APP1, APP2, APP3</character>
+      <character>Carrier recommendation: APP1, APP2, APP3, APP4</character>
+      <character>Carrier recommendation: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="es-es" code="1034">
+    <features module="">
+      <feature>Esta actualización incluye la siguiente información:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomendación del operador: APP1</character>
+      <character>Recomendación del operador: APP1, APP2</character>
+      <character>Recomendación del operador: APP1, APP2, APP3</character>
+      <character>Recomendación del operador: APP1, APP2, APP3, APP4</character>
+      <character>Recomendación del operador: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="es-us" code="21514">
+    <features module="">
+      <feature>Esta actualización contiene la siguiente información:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomendación de operador: APP1</character>
+      <character>Recomendación de operador: APP1, APP2</character>
+      <character>Recomendación de operador: APP1, APP2, APP3</character>
+      <character>Recomendación de operador: APP1, APP2, APP3, APP4</character>
+      <character>Recomendación de operador: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="et-ee" code="1061">
+    <features module="">
+      <feature>See värskendus sisaldab järgmist teavet:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operaatori soovitus APP1</character>
+      <character>Operaatori soovitus APP1, APP2</character>
+      <character>Operaatori soovitus: APP1, APP2, APP3</character>
+      <character>Operaatori soovitus: APP1, APP2, APP3, APP4</character>
+      <character>Operaatori soovitus: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="eu-es" code="1033">
+    <features module="">
+      <feature>Eguneratze honek informazio hau jasotzen du:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operadorearen gomendioa: APP1</character>
+      <character>Operadorearen gomendioa: APP1, APP2</character>
+      <character>Operadorearen gomendioa: APP1, APP2, APP3</character>
+      <character>Operadorearen gomendioa: APP1, APP2, APP3, APP4</character>
+      <character>Operadorearen gomendioa: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="fa-ir" code="1065">
+    <features module="">
+      <feature>این به‌روزرسانی شامل اطلاعات زیر است:</feature>
+    </features>
+    <characters module="[main]">
+      <character>توصیۀ شرکت مخابراتی: APP1</character>
+      <character>توصیۀ شرکت مخابراتی: APP1, APP2</character>
+      <character>توصیۀ شرکت مخابراتی: APP1, APP2, APP3</character>
+      <character>توصیۀ شرکت مخابراتی: APP1, APP2, APP3, APP4</character>
+      <character>توصیۀ شرکت مخابراتی: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="fi-fi" code="1035">
+    <features module="">
+      <feature>Tämä päivitys sisältää seuraavat tiedot:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operaattorin suositus: APP1</character>
+      <character>Operaattorin suositus: APP1, APP2</character>
+      <character>Operaattorin suositus: APP1, APP2, APP3</character>
+      <character>Operaattorin suositus: APP1, APP2, APP3, APP4</character>
+      <character>Operaattorin suositus: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="fr-fr" code="1036">
+    <features module="">
+      <feature>Cette mise à jour contient les informations suivantes :</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recommandation de l'opérateur : APP1</character>
+      <character>Recommandation de l'opérateur : APP1, APP2</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3, APP4</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="fr-ch" code="1036">
+    <features module="">
+      <feature>Cette mise à jour contient les informations suivantes :</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recommandation de l'opérateur : APP1</character>
+      <character>Recommandation de l'opérateur : APP1, APP2</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3, APP4</character>
+      <character>Recommandation de l'opérateur : APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="gl-es" code="1033">
+    <features module="">
+      <feature>Esta actualización contén a seguinte información:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomendación do operador: APP1</character>
+      <character>Recomendación do operador: APP1, APP2</character>
+      <character>Recomendación do operador: APP1, APP2, APP3</character>
+      <character>Recomendación do operador: APP1, APP2, APP3, APP4</character>
+      <character>Recomendación do operador: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="gu-IN" code="1033">
+    <features module="">
+      <feature>આ અપડેટમાં નીચેની માહિતીનો સમાવેશ હોય છે:</feature>
+    </features>
+    <characters module="[main]">
+      <character>કૅરિઅરની ભલામણ: APP1</character>
+      <character>કૅરિઅરની ભલામણ: APP1, APP2</character>
+      <character>કૅરિઅરની ભલામણ: APP1, APP2, APP3</character>
+      <character>કૅરિઅરની ભલામણ: APP1, APP2, APP3, APP4</character>
+      <character>કૅરિઅરની ભલામણ: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="hi-in" code="1081">
+    <features module="">
+      <feature>इस अद्यतन में निम्नलिखित जानकारी शामिल है:</feature>
+    </features>
+    <characters module="[main]">
+      <character>कैरियर अनुशंसा: APP1</character>
+      <character>कैरियर अनुशंसा: APP1, APP2</character>
+      <character>कैरियर अनुशंसा: APP1, APP2, APP3</character>
+      <character>कैरियर अनुशंसा: APP1, APP2, APP3, APP4</character>
+      <character>कैरियर अनुशंसा: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="hr-hr" code="1050">
+    <features module="">
+      <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Preporuka mobilnog operatera: APP1</character>
+      <character>Preporuka mobilnog operatera: APP1, APP2</character>
+      <character>Preporuka mobilnog operatera: APP1, APP2, APP3</character>
+      <character>Preporuka mobilnog operatera: APP1, APP2, APP3, APP4</character>
+      <character>Preporuka mobilnog operatera: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="hu-hu" code="1038">
+    <features module="">
+      <feature>Ez a frissítés az alábbi információkat tartalmazza:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Szolgáltatói javaslat: APP1</character>
+      <character>Szolgáltatói javaslat: APP1, APP2</character>
+      <character>Szolgáltatói javaslat: APP1, APP2, APP3</character>
+      <character>Szolgáltatói javaslat: APP1, APP2, APP3, APP4</character>
+      <character>Szolgáltatói javaslat: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="in-id" code="1057">
+    <features module="">
+      <feature>Pembaruan ini berisi informasi berikut:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Rekomendasi operator: APP1</character>
+      <character>Rekomendasi operator: APP1, APP2</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3, APP4</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="id-" code="1057">
+    <features module="">
+      <feature>Pembaruan ini berisi informasi berikut:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Rekomendasi operator: APP1</character>
+      <character>Rekomendasi operator: APP1, APP2</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3, APP4</character>
+      <character>Rekomendasi operator: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="it-it" code="1040">
+    <features module="">
+      <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Consigli dell'operatore: APP1</character>
+      <character>Consigli dell'operatore: APP1, APP2</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3, APP4</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="it-ch" code="1040">
+    <features module="">
+      <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Consigli dell'operatore: APP1</character>
+      <character>Consigli dell'operatore: APP1, APP2</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3, APP4</character>
+      <character>Consigli dell'operatore: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="iw-il" code="1033">
+    <features module="">
+      <feature>עדכון זה מכיל את המידע הבא:</feature>
+    </features>
+    <characters module="[main]">
+      <character>המלצת ספק השירות: APP1</character>
+      <character>המלצת ספק השירות: APP1, APP2</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3, APP4</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="he-" code="1033">
+    <features module="">
+      <feature>עדכון זה מכיל את המידע הבא:</feature>
+    </features>
+    <characters module="[main]">
+      <character>המלצת ספק השירות: APP1</character>
+      <character>המלצת ספק השירות: APP1, APP2</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3, APP4</character>
+      <character>המלצת ספק השירות: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ja-jp" code="1033">
+    <features module="">
+      <feature>この更新には次の情報が含まれています。</feature>
+    </features>
+    <characters module="[main]">
+      <character>通信事業者のおすすめ：APP1</character>
+      <character>通信事業者のおすすめ：APP1、APP2</character>
+      <character>通信事業者のおすすめ：APP1、APP2、APP3</character>
+      <character>通信事業者のおすすめ：APP1、APP2、APP3、APP4</character>
+      <character>通信事業者のおすすめ：APP1、APP2、APP3、APP4、APP5</character>
+    </characters>
+  </language>
+  <language name="ka-ge" code="1033">
+    <features module="">
+      <feature>ეს განახლება შეიცავს შემდეგ ინფორმაციას:</feature>
+    </features>
+    <characters module="[main]">
+      <character>ოპერატორის რეკომენდაცია: APP1</character>
+      <character>ოპერატორის რეკომენდაცია: APP1, APP2</character>
+      <character>ოპერატორის რეკომენდაცია: APP1, APP2, APP3</character>
+      <character>ოპერატორის რეკომენდაცია: APP1, APP2, APP3, APP4</character>
+      <character>ოპერატორის რეკომენდაცია: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="kk-kz" code="1033">
+    <features module="">
+      <feature>Бұл жаңартуда келесі ақпарат бар:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Оператор ұсынысы: APP1</character>
+      <character>Оператор ұсынысы: APP1, APP2</character>
+      <character>Оператор ұсынысы: APP1, APP2, APP3</character>
+      <character>Оператор ұсынысы: APP1, APP2, APP3, APP4</character>
+      <character>Оператор ұсынысы: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="km-kh" code="1033">
+    <features module="">
+      <feature>បច្ចុប្បន្នភាពនេះ​មានផ្ទុក​ព័ត៌មាន​ដូចខាងក្រោម៖</feature>
+    </features>
+    <characters module="[main]">
+      <character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ APP1</character>
+      <character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ APP1, APP2</character>
+      <character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ APP1, APP2, APP3</character>
+      <character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ APP1, APP2, APP3, APP4</character>
+      <character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="kn-IN" code="1033">
+    <features module="">
+      <feature>ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿದೆ:</feature>
+    </features>
+    <characters module="[main]">
+      <character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: APP1</character>
+      <character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: APP1, APP2</character>
+      <character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: APP1, APP2, APP3</character>
+      <character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: APP1, APP2, APP3, APP4</character>
+      <character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ko-kr" code="1033">
+    <features module="">
+      <feature>이 업데이트에는 다음 정보가 포함됩니다.</feature>
+    </features>
+    <characters module="[main]">
+      <character>이동통신사 추천: APP1</character>
+      <character>이동통신사 추천: APP1, APP2</character>
+      <character>이동통신사 추천: APP1, APP2, APP3</character>
+      <character>이동통신사 추천: APP1, APP2, APP3, APP4</character>
+      <character>이동통신사 추천: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="lo-la" code="1033">
+    <features module="">
+      <feature>ການອັບເດດນີ້ມີຂໍ້ມູນດັ່ງຕໍ່ໄປນີ້:</feature>
+    </features>
+    <characters module="[main]">
+      <character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: APP1</character>
+      <character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: APP1, APP2</character>
+      <character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: APP1, APP2, APP3</character>
+      <character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: APP1, APP2, APP3, APP4</character>
+      <character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="lt-lt" code="1063">
+    <features module="">
+      <feature>Šiame naujinyje pateikiama toliau nurodyta informacija.</feature>
+    </features>
+    <characters module="[main]">
+      <character>Tinklo operatoriaus rekomendacija: APP1</character>
+      <character>Tinklo operatoriaus rekomendacija: APP1, APP2</character>
+      <character>Tinklo operatoriaus rekomendacija: APP1, APP2, APP3</character>
+      <character>Tinklo operatoriaus rekomendacija: APP1, APP2, APP3, APP4</character>
+      <character>Tinklo operatoriaus rekomendacija: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="lv-lv" code="1062">
+    <features module="">
+      <feature>Šajā atjauninājumā ietverta tālāk norādītā informācija.</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operatora ieteikums: APP1</character>
+      <character>Operatora ieteikums: APP1, APP2</character>
+      <character>Operatora ieteikums: APP1, APP2, APP3</character>
+      <character>Operatora ieteikums: APP1, APP2, APP3, APP4</character>
+      <character>Operatora ieteikums: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="mai-IN" code="1062">
+    <features module="">
+      <feature>ई अपडेट निम्न जानकारी सम्मिलित करैत अछि:</feature>
+    </features>
+    <characters module="[main]">
+      <character>वाहक अनुशंसा: APP1</character>
+      <character>वाहक अनुशंसा: APP1, APP2</character>
+      <character>वाहक अनुशंसा: APP1, APP2, APP3</character>
+      <character>वाहक अनुशंसा: APP1, APP2, APP3, APP4</character>
+      <character>वाहक अनुशंसा: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="mi-NZ" code="1062">
+    <features module="">
+      <feature>Kei roto i tēnei whakahōu ko ngā mōhiohio e whai ake:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Tūtohu a te kaiwhakarato waea pūkoro: APP1</character>
+      <character>Tūtohu a te kaiwhakarato waea pūkoro: APP1, APP2</character>
+      <character>Tūtohu a te kaiwhakarato waea pūkoro: APP1, APP2, APP3</character>
+      <character>Tūtohu a te kaiwhakarato waea pūkoro: APP1, APP2, APP3, APP4</character>
+      <character>Tūtohu a te kaiwhakarato waea pūkoro: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="mk-mk" code="1071">
+    <features module="">
+      <feature>Ова ажурирање ги содржи следниве информации:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Препорака од операторот: APP1</character>
+      <character>Препорака од операторот: APP1, APP2</character>
+      <character>Препорака од операторот: APP1, APP2, APP3</character>
+      <character>Препорака од операторот: APP1, APP2, APP3, APP4</character>
+      <character>Препорака од операторот: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ml-IN" code="1071">
+    <features module="">
+      <feature>ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന വിവരങ്ങൾ അടങ്ങുന്നു:</feature>
+    </features>
+    <characters module="[main]">
+      <character>കാരിയർ ശുപാർശ: APP1</character>
+      <character>കാരിയർ ശുപാർശ: APP1, APP2</character>
+      <character>കാരിയർ ശുപാർശ: APP1, APP2, APP3</character>
+      <character>കാരിയർ ശുപാർശ: APP1, APP2, APP3, APP4</character>
+      <character>കാരിയർ ശുപാർശ: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="mn-MN" code="1071">
+    <features module="">
+      <feature>Энэ шинэчлэлт нь дараах мэдээллийг агуулна:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Үүрэн телефоны операторын зөвлөж буй: APP1</character>
+      <character>Үүрэн телефоны операторын зөвлөж буй: APP1, APP2</character>
+      <character>Үүрэн телефоны операторын зөвлөж буй: APP1, APP2, APP3</character>
+      <character>Үүрэн телефоны операторын зөвлөж буй: APP1, APP2, APP3, APP4</character>
+      <character>Үүрэн телефоны операторын зөвлөж буй: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="mr-IN" code="1071">
+    <features module="">
+      <feature>या अद्यतनामध्ये खालील माहिती आहे:</feature>
+    </features>
+    <characters module="[main]">
+      <character>वाहकाची शिफारस: APP1</character>
+      <character>वाहकाची शिफारस: APP1, APP2</character>
+      <character>वाहकाची शिफारस: APP1, APP2, APP3</character>
+      <character>वाहकाची शिफारस: APP1, APP2, APP3, APP4</character>
+      <character>वाहकाची शिफारस: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ms-my" code="1086">
+    <features module="">
+      <feature>Kemas kini ini mengandungi maklumat yang berikut:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Cadangan pembawa: APP1</character>
+      <character>Cadangan pembawa: APP1, APP2</character>
+      <character>Cadangan pembawa: APP1, APP2, APP3</character>
+      <character>Cadangan pembawa: APP1, APP2, APP3, APP4</character>
+      <character>Cadangan pembawa: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="my-mm" code="1033">
+    <features module="">
+      <feature>ဤအပ်ဒိတ်တွင် အောက်ပါ အချက်အလက်များ ပါဝင်သည်-</feature>
+    </features>
+    <characters module="[main]">
+      <character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- APP1</character>
+      <character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- APP1, APP2</character>
+      <character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- APP1, APP2, APP3</character>
+      <character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- APP1, APP2, APP3, APP4</character>
+      <character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="my-zg" code="1033">
+    <features module="">
+      <feature>ဤအပ္ဒိတ္တြင္ ေအာက္ပါ အခ်က္အလက္မ်ား ပါဝင္သည္-</feature>
+    </features>
+    <characters module="[main]">
+      <character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- APP1</character>
+      <character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- APP1, APP2</character>
+      <character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- APP1, APP2, APP3</character>
+      <character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- APP1, APP2, APP3, APP4</character>
+      <character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="nb-no" code="1044">
+    <features module="">
+      <feature>Denne oppdateringen inneholder følgende informasjon:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operatøranbefaling: APP1</character>
+      <character>Operatøranbefaling: APP1, APP2</character>
+      <character>Operatøranbefaling: APP1, APP2, APP3</character>
+      <character>Operatøranbefaling: APP1, APP2, APP3, APP4</character>
+      <character>Operatøranbefaling: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ne-np" code="1033">
+    <features module="">
+      <feature>यो अद्यावधिकमा निम्न जानकारी समावेश छ:</feature>
+    </features>
+    <characters module="[main]">
+      <character>वाहक सिफारिस: APP1</character>
+      <character>वाहक सिफारिस: APP1, APP2</character>
+      <character>वाहक सिफारिस: APP1, APP2, APP3</character>
+      <character>वाहक सिफारिस: APP1, APP2, APP3, APP4</character>
+      <character>वाहक सिफारिस: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="nl-nl" code="1043">
+    <features module="">
+      <feature>Deze update bevat de volgende informatie:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Provideraanbeveling: APP1</character>
+      <character>Provideraanbeveling: APP1, APP2</character>
+      <character>Provideraanbeveling: APP1, APP2, APP3</character>
+      <character>Provideraanbeveling: APP1, APP2, APP3, APP4</character>
+      <character>Provideraanbeveling: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="or-IN" code="1043">
+    <features module="">
+      <feature>ଏହି ଅପଡେଟ୍‌‌ରେ ନିମ୍ନଲିଖିତ ସୂଚନା ରହିଛି:</feature>
+    </features>
+    <characters module="[main]">
+      <character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: APP1</character>
+      <character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: APP1, APP2</character>
+      <character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: APP1, APP2, APP3</character>
+      <character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: APP1, APP2, APP3, APP4</character>
+      <character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="pa-IN" code="1043">
+    <features module="">
+      <feature>ਇਸ ਅੱਪਡੇਟ ਦੇ ਵਿੱਚ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਹੈ:</feature>
+    </features>
+    <characters module="[main]">
+      <character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: APP1</character>
+      <character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: APP1, APP2</character>
+      <character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: APP1, APP2, APP3</character>
+      <character>ਕੈਰੀਅਰ ਸਿਫਾਰਸ਼: APP1, APP2, APP3, APP4</character>
+      <character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="pl-pl" code="1045">
+    <features module="">
+      <feature>Ta aktualizacja zawiera następujące informacje:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Zalecenie operatora: APP1</character>
+      <character>Zalecenie operatora: APP1, APP2</character>
+      <character>Zalecenie operatora: APP1, APP2, APP3</character>
+      <character>Zalecenie operatora: APP1, APP2, APP3, APP4</character>
+      <character>Zalecenie operatora: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="pt-br" code="1046">
+    <features module="">
+      <feature>Esta atualização contém as seguintes informações:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomendação da operadora: APP1</character>
+      <character>Recomendação da operadora: APP1, APP2</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3, APP4</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="pt-pt" code="2070">
+    <features module="">
+      <feature>Esta atualização contém as seguintes informações:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomendação da operadora: APP1</character>
+      <character>Recomendação da operadora: APP1, APP2</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3, APP4</character>
+      <character>Recomendação da operadora: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ro-ro" code="1048">
+    <features module="">
+      <feature>Această actualizare conține următoarele informații:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Recomandare operator: APP1</character>
+      <character>Recomandare operator: APP1, APP2</character>
+      <character>Recomandare operator: APP1, APP2, APP3</character>
+      <character>Recomandare operator: APP1, APP2, APP3, APP4</character>
+      <character>Recomandare operator: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ru-ru" code="1049">
+    <features module="">
+      <feature>Данное обновление содержит следующие сведения:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Рекомендация оператора: APP1</character>
+      <character>Рекомендация оператора: APP1, APP2</character>
+      <character>Рекомендация оператора: APP1, APP2, APP3</character>
+      <character>Рекомендация оператора: APP1, APP2, APP3, APP4</character>
+      <character>Рекомендация оператора: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="si-lk" code="1033">
+    <features module="">
+      <feature>මෙම යාවත්කාලීනයේ පහත තොරතුරු අඩංගු වේ:</feature>
+    </features>
+    <characters module="[main]">
+      <character>වාහක නිර්දේශය: APP1</character>
+      <character>වාහක නිර්දේශය: APP1, APP2</character>
+      <character>වාහක නිර්දේශය: APP1, APP2, APP3</character>
+      <character>වාහක නිර්දේශය: APP1, APP2, APP3, APP4</character>
+      <character>වාහක නිර්දේශය: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sk-sk" code="1051">
+    <features module="">
+      <feature>Táto aktualizácia obsahuje nasledujúce informácie:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Odporúčané operátorom: APP1</character>
+      <character>Odporúčané operátorom: APP1, APP2</character>
+      <character>Odporúčané operátorom: APP1, APP2, APP3</character>
+      <character>Odporúčané operátorom: APP1, APP2, APP3, APP4</character>
+      <character>Odporúčané operátorom: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sl-si" code="1060">
+    <features module="">
+      <feature>Ta posodobitev vključuje naslednje podatke:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Priporočila operaterja: APP1</character>
+      <character>Priporočila operaterja: APP1, APP2</character>
+      <character>Priporočila operaterja: APP1, APP2, APP3</character>
+      <character>Priporočila operaterja: APP1, APP2, APP3, APP4</character>
+      <character>Priporočila operaterja: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sv-se" code="1053">
+    <features module="">
+      <feature>Den här uppdateringen innehåller följande information:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operatörsrekommendation: APP1</character>
+      <character>Operatörsrekommendation: APP1, APP2</character>
+      <character>Operatörsrekommendation: APP1, APP2, APP3</character>
+      <character>Operatörsrekommendation: APP1, APP2, APP3, APP4</character>
+      <character>Operatörsrekommendation: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="sw-KE" code="1053">
+    <features module="">
+      <feature>Sasisho hili lina maelezo yafuatayo:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Mapendekezo ya mtoa huduma: APP1</character>
+      <character>Mapendekezo ya mtoa huduma: APP1, APP2</character>
+      <character>Mapendekezo ya mtoa huduma: APP1, APP2, APP3</character>
+      <character>Mapendekezo ya mtoa huduma: APP1, APP2, APP3, APP4</character>
+      <character>Mapendekezo ya mtoa huduma: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ta-IN" code="1053">
+    <features module="">
+      <feature>இந்தப் புதுப்பிப்பில் பின்வரும் தகவல்கள் உள்ளன:</feature>
+    </features>
+    <characters module="[main]">
+      <character>கேரியர் பரிந்துரை: APP1</character>
+      <character>கேரியர் பரிந்துரை: APP1, APP2</character>
+      <character>கேரியர் பரிந்துரை: APP1, APP2, APP3</character>
+      <character>கேரியர் பரிந்துரை: APP1, APP2, APP3, APP4</character>
+      <character>கேரியர் பரிந்துரை: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="te-IN" code="1053">
+    <features module="">
+      <feature>ఈ అప్‌డేట్‌లో క్రింది సమాచారం ఉంటుంది:</feature>
+    </features>
+    <characters module="[main]">
+      <character>క్యారియర్ సిఫార్సు: APP1</character>
+      <character>క్యారియర్ సిఫార్సు: APP1, APP2</character>
+      <character>క్యారియర్ సిఫార్సు: APP1, APP2, APP3</character>
+      <character>క్యారియర్ సిఫార్సు: APP1, APP2, APP3, APP4</character>
+      <character>క్యారియర్ సిఫార్సు: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="th-th" code="1054">
+    <features module="">
+      <feature>การอัปเดตนี้มีข้อมูลดังต่อไปนี้:</feature>
+    </features>
+    <characters module="[main]">
+      <character>การแนะนำผู้ให้บริการ: APP1</character>
+      <character>การแนะนำผู้ให้บริการ: APP1, APP2</character>
+      <character>การแนะนำผู้ให้บริการ: APP1, APP2, APP3</character>
+      <character>การแนะนำผู้ให้บริการ: APP1, APP2, APP3, APP4</character>
+      <character>การแนะนำผู้ให้บริการ: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="tl-ph" code="1033">
+    <features module="">
+      <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Rekomendasyon ng carrier: APP1</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3, APP4</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="fil-ph" code="1033">
+    <features module="">
+      <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Rekomendasyon ng carrier: APP1</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3, APP4</character>
+      <character>Rekomendasyon ng carrier: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="tr-tr" code="1055">
+    <features module="">
+      <feature>Bu güncelleme aşağıdaki bilgileri içermektedir:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Operatör önerisi: APP1</character>
+      <character>Operatör önerisi: APP1, APP2</character>
+      <character>Operatör önerisi: APP1, APP2, APP3</character>
+      <character>Operatör önerisi: APP1, APP2, APP3, APP4</character>
+      <character>Operatör önerisi: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ug-cn" code="1055">
+    <features module="">
+      <feature>بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەزمۇننى ئۆز ئىچىگە ئالىدۇ:</feature>
+    </features>
+    <characters module="[main]">
+      <character>يۈرۈتكۈچى تەۋسىيەسى: APP1 نامى</character>
+      <character>يۈرۈتكۈچى تەۋسىيەسى: APP1 نامى، APP2 نامى</character>
+      <character>يۈرۈتكۈچى تەۋسىيەسى: APP1 نامى، APP2 نامى، APP3 نامى</character>
+      <character>يۈرۈتكۈچى تەۋسىيەسى: APP1 نامى، APP2 نامى، APP3 نامى، APP4 نامى</character>
+      <character>يۈرۈتكۈچى تەۋسىيەسى: APP1 نامى، APP2 نامى، APP3 نامى، APP4 نامى، APP5 نامى</character>
+    </characters>
+  </language>
+  <language name="uk-ua" code="1058">
+    <features module="">
+      <feature>Це оновлення містить таку інформацію:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Рекомендація оператора: APP1</character>
+      <character>Рекомендація оператора: APP1, APP2</character>
+      <character>Рекомендація оператора: APP1, APP2, APP3</character>
+      <character>Рекомендація оператора: APP1, APP2, APP3, APP4</character>
+      <character>Рекомендація оператора: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="ur-pk" code="1056">
+    <features module="">
+      <feature>اس اپ ڈیٹ میں مندرجہ ذیل معلومات شامل ہیں:</feature>
+    </features>
+    <characters module="[main]">
+      <character>کیرئیر کی تجویز: APP1</character>
+      <character>کیرئیر کی تجویز: APP1، APP2</character>
+      <character>کیرئیر کی تجویز: APP1، APP2، APP3</character>
+      <character>کیرئیر کی تجویز: APP1، APP2، APP3، APP4</character>
+      <character>کیرئیر کی تجویز: APP1، APP2، APP3، APP4، APP5</character>
+    </characters>
+  </language>
+  <language name="uz-uz" code="2115">
+    <features module="">
+      <feature>Bu yangilanishda quyidagi axborotlar mavjud:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Aloqa operatori tavsiyasi: APP1</character>
+      <character>Aloqa operatori tavsiyasi: APP1, APP2</character>
+      <character>Aloqa operatori tavsiyasi: APP1, APP2, APP3</character>
+      <character>Aloqa operatori tavsiyasi: APP1, APP2, APP3, APP4</character>
+      <character>Aloqa operatori tavsiyasi: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="vi-vn" code="1066">
+    <features module="">
+      <feature>Bản cập nhật này chứa các thông tin sau:</feature>
+    </features>
+    <characters module="[main]">
+      <character>Đề xuất nhà mạng: APP1</character>
+      <character>Đề xuất nhà mạng: APP1, APP2</character>
+      <character>Đề xuất nhà mạng: APP1, APP2, APP3</character>
+      <character>Đề xuất nhà mạng: APP1, APP2, APP3, APP4</character>
+      <character>Đề xuất nhà mạng: APP1, APP2, APP3, APP4, APP5</character>
+    </characters>
+  </language>
+  <language name="zh-hk" code="3076">
+    <features module="">
+      <feature>本次更新包含以下內容：</feature>
+    </features>
+    <characters module="[main]">
+      <character>供應商推介：APP1 名稱</character>
+      <character>供應商推介：APP1 名稱、APP2 名稱</character>
+      <character>供應商推介：APP1 名稱、APP2 名稱、APP3 名稱</character>
+      <character>供應商推介：APP1 名稱、APP2 名稱、APP3 名稱、APP4 名稱</character>
+      <character>供應商推介：APP1 名稱、APP2 名稱、APP3 名稱、APP4 名稱、APP5 名稱</character>
+    </characters>
+  </language>
+</root>

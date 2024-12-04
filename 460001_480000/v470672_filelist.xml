@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44167168</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>1LEtFbrQUG++pV/bNzx6e+g3REq7U4Fr89SBPXO7Qaw=</fileHash>
+<fileSize>77695</fileSize>
+<metadataHash>mvFZfxTFckj8SKL/Bi9etBlvT3TqdZaODU4QSw2Tjog=</metadataHash>
+<metadataSize>880</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ELI-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ELI-AN00_all_cn.zip</spath>
+<dpath>update_cust_ELI-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>ECD199779B3491638F09AA97FC0D4E19511CBF4289B8EEE235553CF44F246EA5</sha256>
+<size>84995</size>
+</file>
+</files>
+</root>

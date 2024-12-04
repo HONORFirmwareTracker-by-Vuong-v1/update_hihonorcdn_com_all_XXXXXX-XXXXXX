@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>base</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>3728453632</cowsize>
+<payloadOffset>933</payloadOffset>
+<fileHash>SGhEMTl9L4RGiW0DiY5m92qQJohlzwwvMVDY+1EBuBM=</fileHash>
+<fileSize>17353821</fileSize>
+<metadataHash>0n+H920+mkJPji6twqSRAVOtKQEv3LgryBgdi7PkjyU=</metadataHash>
+<metadataSize>205318</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="base" package="update_base.zip" precut_size="268435456" subpath=""/>
+<userlicense language="default" version="202003"/>
+<files>
+<file>
+<spath>update_base.zip</spath>
+<dpath>update_base.zip</dpath>
+<operation>c</operation>
+<sha256>CCF854AF67AAABEA72B41412D984137302DB454AB0F241AF1B330030612D9797</sha256>
+<size>17361149</size>
+</file>
+</files>
+</root>

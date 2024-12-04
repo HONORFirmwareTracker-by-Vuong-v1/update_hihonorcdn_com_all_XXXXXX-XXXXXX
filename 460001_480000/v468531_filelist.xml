@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2007609344</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>RlYXb0icHPNeYz1IAemhcdI0P3F4uNZXm+qxTNkfW/U=</fileHash>
+<fileSize>155020232</fileSize>
+<metadataHash>6dMG2L77GW5llw2nDWE0cYpULO4qhvl85PELN079QTE=</metadataHash>
+<metadataSize>32430</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_LLY-N03_claro_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_LLY-N03_claro_la.zip</spath>
+<dpath>update_cust_LLY-N03_claro_la.zip</dpath>
+<operation>c</operation>
+<sha256>460C832C8C5D95EB0AEE8730F62AB799D73D7FA67359C5363A11FCC71DD42BB0</sha256>
+<size>155027573</size>
+</file>
+</files>
+</root>

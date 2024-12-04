@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <component name="TCPU" version=""/>
+  <default-language name="en-us">1033</default-language>
+  <language name="zh-cn" code="2052">
+    <characters module="">
+      <character>本次更新将增加运营商版本相关的重要设置和应用。非Wi-Fi环境可能会产生流量费用，推荐您在Wi-Fi环境下更新版本。</character>
+    </characters>
+  </language>
+  <language name="en-us" code="1033">
+    <characters module="">
+      <character>This update will add important settings and applications related to the carrier version. We recommend updating under Wi-Fi to prevent data charges.</character>
+    </characters>
+  </language>
+  <language name="am-ET" code="1033">
+    <characters module="">
+      <character>ይህ ዝማኔ ከአገልግሎት ሰጪው ስሪት ጋር የሚዛመዱ አስፈላጊ ቅንብሮችን እና መተግበሪያዎችን ያክላል። የውሂብ ክፍያዎችን ለማስቀረት በWi-Fi ላይ ቢያዘምኑ እንመክራለን።</character>
+    </characters>
+  </language>
+  <language name="ar-eg" code="3073">
+    <characters module="">
+      <character>سيضيف هذا التحديث الإعدادات والتطبيقات المهمة المتعلقة بإصدار شركة الاتصالات. نوصي بالتحديث ضمن الشبكة اللاسلكية لمنع رسوم البيانات.</character>
+    </characters>
+  </language>
+  <language name="as-IN" code="3073">
+    <characters module="">
+      <character>এই আপডেটটোৱে বাহকৰ সংস্কৰণৰ লগত সম্বন্ধিত গুৰুত্বপূৰ্ণ ছেটিংচ আৰু এপ্লিকেশ্বনসমূহ যোগ কৰিব। ডাটাৰ মূল্য প্ৰতিৰোধ কৰিবলৈ আমি Wi-Fi-ৰ অধীনত আপডেট কৰিবলৈ অনুমোদন জনাও।</character>
+    </characters>
+  </language>
+  <language name="az-az" code="1068">
+    <characters module="">
+      <character>Bu yeniləmə operator versiyası ilə əlaqədar vacib parametrləri və proqramları əlavə edəcək. Verilənlər xərcindən yayınmaq üçün Wi-Fi vasitəsilə yeniləməyinizi tövsiyə edirik.</character>
+    </characters>
+  </language>
+  <language name="jv-id" code="1033">
+    <characters module="">
+      <character>Panganyaran iki bakal nambahake setelan lan aplikasi penting sing gegayitan karo versi operator. Kita nyaranake anggone nganyarake nganggo Wi-Fi supaya ora kena ongkos data.</character>
+    </characters>
+  </language>
+  <language name="sr-rs" code="2074">
+    <characters module="">
+      <character>Ovo ažuriranje će dodati važna podešavanja i aplikacije koje se odnose na verziju mrežnog operatera. Preporučujemo ažuriranje preko Wi-Fi mreže radi sprečavanja troškova korišćenja podataka.</character>
+    </characters>
+  </language>
+  <language name="sr-ba" code="2074">
+    <characters module="">
+      <character>Ovo ažuriranje će dodati važna podešavanja i aplikacije koje se odnose na verziju mrežnog operatera. Preporučujemo ažuriranje preko Wi-Fi mreže radi sprečavanja troškova korišćenja podataka.</character>
+    </characters>
+  </language>
+  <language name="sr-me" code="2074">
+    <characters module="">
+      <character>Ovo ažuriranje će dodati važna podešavanja i aplikacije koje se odnose na verziju mrežnog operatera. Preporučujemo ažuriranje preko Wi-Fi mreže radi sprečavanja troškova korišćenja podataka.</character>
+    </characters>
+  </language>
+  <language name="be-by" code="1033">
+    <characters module="">
+      <character>Гэта абнаўленне дадае важныя налады і праграмы, звязаныя з версіяй аператара. Мы рэкамендуем выконваць абнаўленне праз Wi-Fi, каб пазбегнуць спагнання сродкаў.</character>
+    </characters>
+  </language>
+  <language name="bg-bg" code="1026">
+    <characters module="">
+      <character>Тази актуализация ще добави важни настройки и приложения, свързани с версията на оператора. Препоръчваме да актуализирате с Wi-Fi, за да предотвратите такси за данни.</character>
+    </characters>
+  </language>
+  <language name="bn-bd" code="1033">
+    <characters module="">
+      <character>এই আপডেটটি ক্যারিয়ার সংস্করণ সম্পর্কিত গুরুত্বপূর্ণ সেটিংস এবং অ্যাপ্লিকেশন যোগ করবে। ডাটা চার্জ এড়াতে আমরা Wi-Fi এর অধীনে আপডেট করার সুপারিশ করছি।</character>
+    </characters>
+  </language>
+  <language name="bo-cn" code="1033">
+    <characters module="">
+      <character>ཐེངས་འདིའི་གསར་སྒྱུར་ལ་འཁོར་སྐྱོད་ཚོང་གཉེར་གྱི་པར་གཞི་དང་འབྲེལ་ཡོད་ཀྱི་གལ་ཆེའི་སྒྲིག་བཀོད་དང་ཉེར་སྤྱོད་གསར་དུ་བསྣན་སྲིད། Wi-Fi མིན་པའི་ཁོར་ཡུག་འོག་བཞུར་ཚད་ཀྱི་རིན་པ་ཐོན་སྲིད། ཁྱེད་ལ་ Wi-Fi ཁོར་ཡུག་འོག་ཏུ་པར་གཞི་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</character>
+    </characters>
+  </language>
+  <language name="bs-ba" code="5146">
+    <characters module="">
+      <character>Ovo ažuriranje će dodati važne postavke i aplikacije u vezi s verzijom operatera. Preporučujemo da ažuriranje izvršite putem Wi-Fi mreže da izbjegnete cijenu prijenosa podataka.</character>
+    </characters>
+  </language>
+  <language name="ca-es" code="1033">
+    <characters module="">
+      <character>Aquesta actualització afegirà una configuració i aplicacions importants relacionades amb la versió de l'operador de telefonia mòbil. Us recomanem que instal·leu l'actualització amb una connexió Wi-Fi per evitar càrrecs per consum de dades.</character>
+    </characters>
+  </language>
+  <language name="da-dk" code="1030">
+    <characters module="">
+      <character>Denne opdatering tilføjer vigtige indstillinger og programmer, der er relateret til mobilselskabs-versionen. Vi anbefaler, at du opdaterer når du er tilsluttet Wi-Fi for at undgå dataudgifter.</character>
+    </characters>
+  </language>
+  <language name="de-de" code="1031">
+    <characters module="">
+      <character>Mit dieser Aktualisierung werden wichtige Einstellungen und Anwendungen für die Betreiberversion hinzugefügt. Wir empfehlen, die Aktualisierung über WLAN durchzuführen, um Datengebühren zu vermeiden.</character>
+    </characters>
+  </language>
+  <language name="de-at" code="1031">
+    <characters module="">
+      <character>Mit dieser Aktualisierung werden wichtige Einstellungen und Anwendungen für die Betreiberversion hinzugefügt. Wir empfehlen, die Aktualisierung über WLAN durchzuführen, um Datengebühren zu vermeiden.</character>
+    </characters>
+  </language>
+  <language name="de-ch" code="1031">
+    <characters module="">
+      <character>Mit dieser Aktualisierung werden wichtige Einstellungen und Anwendungen für die Betreiberversion hinzugefügt. Wir empfehlen, die Aktualisierung über WLAN durchzuführen, um Datengebühren zu vermeiden.</character>
+    </characters>
+  </language>
+  <language name="en-GB" code="1031">
+    <characters module="">
+      <character>This update will add important settings and applications related to the carrier version. We recommend updating under Wi-Fi to prevent data charges.</character>
+    </characters>
+  </language>
+  <language name="de-at" code="1031">
+    <characters module="">
+      <character>This update will add important settings and applications related to the carrier version. We recommend updating under Wi-Fi to prevent data charges.</character>
+    </characters>
+  </language>
+  <language name="de-ch" code="1031">
+    <characters module="">
+      <character>This update will add important settings and applications related to the carrier version. We recommend updating under Wi-Fi to prevent data charges.</character>
+    </characters>
+  </language>
+  <language name="eu-es" code="1033">
+    <characters module="">
+      <character>Eguneratze honen bidez, operadorearen bertsioarekin erlazionatutako ezarpen eta aplikazio garrantzitsuak gehituko dira. Datuak erabiltzeagatiko karguak saihesteko, wifira konektatuta eguneratzea gomendatzen dugu.</character>
+    </characters>
+  </language>
+  <language name="fa-ir" code="1065">
+    <characters module="">
+      <character>این به‌روزرسانی تنظیمات و برنامه‌های مهم مربوط به نسخۀ شرکت مخابراتی را اضافه می‌کند. توصیه می‌کنیم برای جلوگیری از اعمال هزینه‌های داده، به‌روزرسانی را از طریق Wi-Fi انجام دهید.</character>
+    </characters>
+  </language>
+  <language name="fi-fi" code="1035">
+    <characters module="">
+      <character>Tämä päivitys lisää operaattorin versioon liittyviä tärkeitä asetuksia ja sovelluksia. Suosittelemme tekemään päivityksen Wi-Fi-yhteydessä, jotta datamaksuja ei kerry.</character>
+    </characters>
+  </language>
+  <language name="fr-fr" code="1036">
+    <characters module="">
+      <character>Cette mise à jour ajoutera d'importants paramètres et applications liés à la version de l'opérateur. Nous vous recommandons de mettre à jour via Wi-Fi pour éviter les frais de données.</character>
+    </characters>
+  </language>
+  <language name="fr-ch" code="1036">
+    <characters module="">
+      <character>Cette mise à jour ajoutera d'importants paramètres et applications liés à la version de l'opérateur. Nous vous recommandons de mettre à jour via Wi-Fi pour éviter les frais de données.</character>
+    </characters>
+  </language>
+  <language name="gl-es" code="1033">
+    <characters module="">
+      <character>Esta actualización engadirá opcións de configuración e aplicacións importantes relacionadas coa versión do operador. Recomendámoslle que faga a actualización con Wi-Fi para que non haxa cargos por datos.</character>
+    </characters>
+  </language>
+  <language name="gu-IN" code="1033">
+    <characters module="">
+      <character>આ અપડેટ કૅરિઅર સંસ્કરણ સંબંધિત મહત્વપૂર્ણ સેટિંગ્સ અને એપ્લિકેશન ઉમેરશે. ડેટા ચાર્જને રોકવા માટે અમે Wi-Fi નો ઉપયોગ કરીને અપડેટ કરવાની ભલામણ કરીએ છીએ.</character>
+    </characters>
+  </language>
+  <language name="hi-in" code="1081">
+    <characters module="">
+      <character>यह कैरियर वाहक संस्करण से संबंधित महत्वपूर्ण सेटिंग्स और एप्लिकेशन जोड़ेगा। हम डेटा शुल्क से बचने के लिए Wi-Fi से अपडेट करने की सलाह देते हैं।</character>
+    </characters>
+  </language>
+  <language name="in-id" code="1057">
+    <characters module="">
+      <character>Pembaruan ini menambahkan pengaturan dan aplikasi penting yang berkaitan dengan versi operator. Kami merekomendasikan pembaruan melalui Wi-Fi untuk mencegah biaya data.</character>
+    </characters>
+  </language>
+  <language name="id-" code="1057">
+    <characters module="">
+      <character>Pembaruan ini menambahkan pengaturan dan aplikasi penting yang berkaitan dengan versi operator. Kami merekomendasikan pembaruan melalui Wi-Fi untuk mencegah biaya data.</character>
+    </characters>
+  </language>
+  <language name="it-it" code="1040">
+    <characters module="">
+      <character>Questo aggiornamento aggiunge impostazioni e applicazioni importanti relative alla versione dell'operatore. Consigliamo di eseguire l'aggiornamento utilizzando la connessione Wi-Fi per evitare addebiti dati.</character>
+    </characters>
+  </language>
+  <language name="it-ch" code="1040">
+    <characters module="">
+      <character>Questo aggiornamento aggiunge impostazioni e applicazioni importanti relative alla versione dell'operatore. Consigliamo di eseguire l'aggiornamento utilizzando la connessione Wi-Fi per evitare addebiti dati.</character>
+    </characters>
+  </language>
+  <language name="iw-il" code="1033">
+    <characters module="">
+      <character>עדכון זה יוסיף הגדרות ויישומים חשובים הקשורים לגרסת ספק השירות. אנו ממליצים לעדכן באמצעות Wi-Fi כדי למנוע חיובי נתונים.</character>
+    </characters>
+  </language>
+  <language name="he-" code="1033">
+    <characters module="">
+      <character>עדכון זה יוסיף הגדרות ויישומים חשובים הקשורים לגרסת ספק השירות. אנו ממליצים לעדכן באמצעות Wi-Fi כדי למנוע חיובי נתונים.</character>
+    </characters>
+  </language>
+  <language name="ja-jp" code="1033">
+    <characters module="">
+      <character>この更新では、携帯通信会社のバージョンに関連する重要な設定とアプリケーションが追加されます。データ使用料の発生を防ぐために、Wi-Fi接続で更新することをお勧めします。</character>
+    </characters>
+  </language>
+  <language name="ka-ge" code="1033">
+    <characters module="">
+      <character>ეს განახლება დაამატებს ოპერატორის ვერსიასთან დაკავშირებულ მნიშვნელოვან პარამეტრებსა და აპლიკაციებს. ჩვენ გირჩევთ განაახლოთ Wi-Fi ქსელის საშუალებით, რათა თავიდან აიცილოთ მონაცემთა საფასურის დარიცხვა.</character>
+    </characters>
+  </language>
+  <language name="kk-kz" code="1033">
+    <characters module="">
+      <character>Бұл жаңарту оператор нұсқасына қатысты маңызды параметрлер мен қолданбаларды қосады. Деректерді қолдану ақыларын болдырмау үшін Wi-Fi арқылы жаңартуды ұсынамыз.</character>
+    </characters>
+  </language>
+  <language name="km-kh" code="1033">
+    <characters module="">
+      <character>បច្ចុប្បន្នភាពនេះ​នឹង​បន្ថែម​ការកំណត់ និង​កម្មវិធី​សំខាន់ៗ​ដែលពាក់ព័ន្ធនឹង​កំណែ​ក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទនេះ។ យើងសូមណែនាំ​ឱ្យ​ធ្វើបច្ចុប្បន្នភាព​ដោយប្រើ Wi-Fi ដើម្បីទប់ស្កាត់​ការគិតថ្លៃទិន្នន័យ។</character>
+    </characters>
+  </language>
+  <language name="kn-IN" code="1033">
+    <characters module="">
+      <character>ಈ ನವೀಕರಣವು ಕ್ಯಾರಿಯರ್ ಆವೃತ್ತಿಗೆ ಸಂಬಂಧಿಸಿದ ಪ್ರಮುಖ ಸೆಟ್ಟಿಂಗ್‌ಗಳು ಮತ್ತು ಅಪ್ಲಿಕೇಶನ್‌ಗಳನ್ನು ಸೇರಿಸುತ್ತದೆ. ಡೇಟಾ ಶುಲ್ಕಗಳನ್ನು ತಡೆಯಲು Wi-Fi ಅಡಿಯಲ್ಲಿ ನವೀಕರಿಸಬೇಕೆಂದು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.</character>
+    </characters>
+  </language>
+  <language name="ko-kr" code="1033">
+    <characters module="">
+      <character>이 업데이트는 이동통신사 버전과 관련된 중요한 설정 및 애플리케이션을 추가합니다. 데이터 사용료를 방지하기 위해 Wi-Fi를 통해 업데이트하는 것이 좋습니다.</character>
+    </characters>
+  </language>
+  <language name="lt-lt" code="1063">
+    <characters module="">
+      <character>Šiuo naujiniu bus įtrauktos svarbios nuostatos ir programos, susijusios su tinklo operatoriaus versija. Rekomenduojame naujinti per „Wi-Fi“, kad išvengtumėte duomenų perdavimo mokesčių.</character>
+    </characters>
+  </language>
+  <language name="mai-IN" code="1063">
+    <characters module="">
+      <character>ई अपडेट वाहक वर्जन सँ संबंधित महत्वपूर्ण सेटिंग्स आ एप्लीकेशन जोड़त। हमसभ डेटा शुल्क लगबा सँ रोकबाक लेल Wi-Fi केर अंतर्गत अपडेट करबाक अनुशंसा करैत छी।</character>
+    </characters>
+  </language>
+  <language name="mi-NZ" code="1063">
+    <characters module="">
+      <character>Ka tāpiri tēnei whakahōu i ngā tautuhinga hira me ngā taupānga e pā ana ki te putanga kaiwhakarato waea pūkoro. E tūtohu ana mātou kia whakahōutia mā te Wi-Fi kia kore ai e pā mai ngā utu raraunga.</character>
+    </characters>
+  </language>
+  <language name="mk-mk" code="1071">
+    <characters module="">
+      <character>Ова ажурирање ќе додаде важни поставки и апликации поврзани со верзијата од операторот. Препорачуваме да ажурирате преку Wi-Fi за да спречите настанување трошоци за податоци.</character>
+    </characters>
+  </language>
+  <language name="ml-IN" code="1071">
+    <characters module="">
+      <character>ഈ അപ്‌ഡേറ്റ്, കാരിയർ പതിപ്പുമായി ബന്ധപ്പെട്ട് പ്രധാന ക്രമീകരണവും ആപ്ലിക്കേഷനുകളും ചേർക്കും. ഡാറ്റാ നിരക്കുകൾ ഒഴിവാക്കാൻ, Wi-Fi യ്‌ക്ക് കീഴിൽ അപ്‌ഡേറ്റ് ചെയ്യാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു.</character>
+    </characters>
+  </language>
+  <language name="mn-MN" code="1071">
+    <characters module="">
+      <character>Энэ шинэчлэлтээр үүрэн телефоны операторын хувилбартай холбоотой чухал тохиргоо болон апликэйшнийг нэмнэ. Бид дата зарцуулалтаас сэргийлэх үүднээс Wi-Fi ашиглаж шинэчлэхийг зөвлөж байна.</character>
+    </characters>
+  </language>
+  <language name="mr-IN" code="1071">
+    <characters module="">
+      <character>हे अद्यतन वाहक आवृत्तीशी संबंधित महत्त्वाच्या सेटिंग्ज आणि अ‍ॅप्लिकेशन्स जोडेल. डेटा शुल्क टाळण्यासाठी आम्ही Wi-Fi अंतर्गत अद्यतनित करण्याची शिफारस करतो.</character>
+    </characters>
+  </language>
+  <language name="my-mm" code="1033">
+    <characters module="">
+      <character>ဤအပ်ဒိတ်က အရေးကြီးဆက်တင်များအပြင် ဆက်သွယ်ရေး ကယ်ရီယာ ဗားရှင်းနှင့်ဆိုင်သော အပလီကေးရှင်းများကို ထည့်ပေးပါမည်။ ဒေတာသုံးစွဲခများ မကျသင့်စေရန်အတွက် Wi-Fi သုံး၍ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည်။</character>
+    </characters>
+  </language>
+  <language name="my-zg" code="1033">
+    <characters module="">
+      <character>ဤအပ္ဒိတ္က အေရးႀကီးဆက္တင္မ်ားအျပင္ ဆက္သြယ္ေရး ကယ္ရီယာ ဗား႐ွင္းႏွင့္ဆိုင္ေသာ အပလီ‌ေကးရွင္းမ်ားကို ထည့္ေပးပါမည္။ ေဒတာသံုးစြဲခမ်ား မက်သင့္ေစရန္အတြက္ Wi-Fi သံုး၍ အပ္ဒိတ္လုပ္ရန္ အၾကံျပဳပါသည္။</character>
+    </characters>
+  </language>
+  <language name="nb-no" code="1044">
+    <characters module="">
+      <character>Denne oppdateringen legger til viktige innstillinger og applikasjoner som er relatert til operatørversjonen. Vi anbefaler oppdatering via Wi-Fi for å hindre datakostnader.</character>
+    </characters>
+  </language>
+  <language name="ne-np" code="1033">
+    <characters module="">
+      <character>यस अद्यावधिकले वाहक संस्करणसँग सम्बन्धित महत्त्वपूर्ण सेटिङ र एप्लिकेसनहरू थप्ने छ । हामी डाटा शुल्कहरू नलागोस् भन्नका लागि Wi-Fi अन्तर्गत अद्यावधिक गर्न सिफारिस गर्छौँ ।</character>
+    </characters>
+  </language>
+  <language name="nl-nl" code="1043">
+    <characters module="">
+      <character>Deze update voegt belangrijke instellingen en apps toe met betrekking tot de providerversie. We raden u aan de update via wifi uit te voeren om datakosten te voorkomen.</character>
+    </characters>
+  </language>
+  <language name="or-IN" code="1043">
+    <characters module="">
+      <character>ଏହି ଅପଡେଟ୍‌ କ୍ୟାରିଅର ସଂସ୍କରଣ ସମ୍ବନ୍ଧୀୟ ଜରୁରୀ ସେଟିଂସ୍‌ ଏବଂ ଆପ୍ଲିକେସନ୍‌ଗୁଡ଼ିକ ଯୋଡ଼ିବ। ଡାଟା ଦେୟ ଏଡ଼ାଇବାକୁ Wi-Fiରେ ଅପଡେଟ୍‌ କରିବାକୁ ଆମେ ସୁପାରିଶ କରୁ।</character>
+    </characters>
+  </language>
+  <language name="pa-IN" code="1043">
+    <characters module="">
+      <character>ਇਹ ਅੱਪਡੇਟ ਕੈਰੀਅਰ ਸੰਸਕਰਣ ਨਾਲ ਸਬੰਧਤ ਮਹੱਤਵਪੂਰਨ ਸੈਟਿੰਗਾਂ ਅਤੇ ਐਪਲੀਕੇਸ਼ਨਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕਰੇਗੀ। ਅਸੀਂ ਡੇਟਾ ਸਬੰਧੀ ਖਰਚਿਆਂ ਦੀ ਰੋਕਥਾਮ ਲਈ Wi-Fi ਰਾਹੀਂ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਸਿਫ਼ਾਰਿਸ਼ ਕਰਦੇ ਹਾਂ।</character>
+    </characters>
+  </language>
+  <language name="pl-pl" code="1045">
+    <characters module="">
+      <character>W tej aktualizacji zostaną dodane ważne ustawienia i aplikacje powiązane z wersją dla operatorów. Zalecamy przeprowadzenie aktualizacji za pośrednictwem sieci Wi-Fi w celu uniknięcia opłat za przesyłanie danych.</character>
+    </characters>
+  </language>
+  <language name="pt-br" code="1046">
+    <characters module="">
+      <character>Esta atualização adicionará configurações e aplicativos importantes relacionados à versão da operadora. É recomendado atualizar via Wi-Fi para evitar cobranças de dados.</character>
+    </characters>
+  </language>
+  <language name="pt-pt" code="2070">
+    <characters module="">
+      <character>A presente atualização irá adicionar definições e aplicações importantes relacionadas com a versão da operadora. Recomendamos que efetue a atualização através do Wi-Fi para evitar custos de dados.</character>
+    </characters>
+  </language>
+  <language name="ro-ro" code="1048">
+    <characters module="">
+      <character>Această actualizare va adăuga setări și aplicații importante legate de versiunea operatorului. Recomandăm actualizarea prin Wi-Fi pentru a preveni costuri cu traficul de date.</character>
+    </characters>
+  </language>
+  <language name="ru-ru" code="1049">
+    <characters module="">
+      <character>Обновление добавит важные настройки и приложения, связанные с основной версией. Мы советуем установить обновление через Wi-Fi, чтобы избежать оплаты трафика.</character>
+    </characters>
+  </language>
+  <language name="sk-sk" code="1051">
+    <characters module="">
+      <character>Táto aktualizácia pridáva dôležité nastavenia a aplikácie týkajúce sa verzie operátora. Odporúčame vám aktualizovať prostredníctvom siete Wi-Fi, aby ste predišli poplatkom za dáta.</character>
+    </characters>
+  </language>
+  <language name="sl-si" code="1060">
+    <characters module="">
+      <character>Ta posodobitev bo dodala pomembne nastavitve in aplikacije, povezane z različico operaterja. Priporočamo, da posodobitev izvedete prek omrežja Wi-Fi, da preprečite zaračunavanje stroškov podatkov.</character>
+    </characters>
+  </language>
+  <language name="sv-se" code="1053">
+    <characters module="">
+      <character>Den här uppdateringen lägger till viktiga inställningar och appar relaterade med operatörsversionen. Vi rekommendera att uppdatera med Wi-Fi för att undvika datakostnad.</character>
+    </characters>
+  </language>
+  <language name="sw-tz" code="1053">
+    <characters module="">
+      <character>Sasisho hili litaongeza mipangilio na programu muhimu zinazohusiana na toleo la mtoa huduma. Tunapendekeza kusasisha kwa kutumia Wi-Fi ili kuzuia gharama za data.</character>
+    </characters>
+  </language>
+  <language name="ta-IN" code="1053">
+    <characters module="">
+      <character>இந்தப் புதுப்பிப்பு கேரியர் பதிப்பு தொடர்பான முக்கியமான அமைப்புகளையும் செயலிகளையும் சேர்க்கும். தரவுத் கட்டணங்களைத் தவிர்க்க, Wi-Fi-இன் கீழ் புதுப்பிக்குமாறு பரிந்துரைக்கிறோம்.</character>
+    </characters>
+  </language>
+  <language name="te-IN" code="1053">
+    <characters module="">
+      <character>ఈ అప్‌డేట్ క్యారియర్ సంస్కరణకు సంబంధించిన ముఖ్యమైన సెట్టింగ్‌లు మరియు అప్లికేషన్‌లను జోడిస్తుంది. డేటా ఛార్జీలను నివారించడానికి Wi-Fi ద్వారా అప్‌డేట్ చేయాలని మేము సిఫార్సు చేస్తున్నాము.</character>
+    </characters>
+  </language>
+  <language name="th-th" code="1054">
+    <characters module="">
+      <character>การอัปเดตนี้จะเพิ่มการตั้งค่าและแอปพลิเคชันที่สำคัญซึ่งเกี่ยวข้องกับเวอร์ชันของผู้ให้บริการ เราขอแนะนำให้อัปเดตโดยใช้ Wi-Fi เพื่อป้องกันการเรียกเก็บค่าบริการข้อมูล</character>
+    </characters>
+  </language>
+  <language name="tl-ph" code="1033">
+    <characters module="">
+      <character>Magdaragdag ang update na ito ng mahahalagang setting at application na nauugnay sa bersyon ng carrier. Inirerekomenda naming mag-update sa pamamagitan ng Wi-Fi para maiwasan ang mga pagsingil ng data.</character>
+    </characters>
+  </language>
+  <language name="fil-ph" code="1033">
+    <characters module="">
+      <character>Magdaragdag ang update na ito ng mahahalagang setting at application na nauugnay sa bersyon ng carrier. Inirerekomenda naming mag-update sa pamamagitan ng Wi-Fi para maiwasan ang mga pagsingil ng data.</character>
+    </characters>
+  </language>
+  <language name="tr-tr" code="1055">
+    <characters module="">
+      <character>Bu güncelleme ile operatör sürümü ile ilgili önemli ayarlar ve ilgili uygulamalar eklenmiştir. Veri ücretlerinden kaçınmak için Wi-Fi ağı üzerinden güncellemeniz önerilir.</character>
+    </characters>
+  </language>
+  <language name="uk-ua" code="1058">
+    <characters module="">
+      <character>Це оновлення дасть змогу отримати важливі налаштування й додатки, пов’язані з версією оператора. Щоб уникнути стягнення плати за використання мобільних даних, завантажте оновлення через Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="ur-pk" code="1056">
+    <characters module="">
+      <character>یہ اپ ڈیٹ کیریئر کے ورژن سے متعلق اہم ترتیبات اور ایپلیکیشنز کو شامل کرے گی۔ ڈیٹا چارجز سے بچنے کے لیے ہم Wi-Fi کے تحت اپ ڈیٹ کرنے کی سفارش کرتے ہیں۔</character>
+    </characters>
+  </language>
+  <language name="uz-uz" code="2115">
+    <characters module="">
+      <character>Bu yangilanishda aloqa operatori versiyasiga tegishli muhim sozlamalar va ilovalar kiritildi. Biz mobil internet toʻlovlari olinmasligi uchun Wi-Fi orqali yangilashni tavsiya qilamiz.</character>
+    </characters>
+  </language>
+  <language name="vi-vn" code="1066">
+    <characters module="">
+      <character>Bản cập nhật này sẽ bổ sung các cài đặt và ứng dụng quan trọng liên quan đến phiên bản nhà mạng. Bạn nên cập nhật qua Wi-Fi để tránh tốn phí dữ liệu.</character>
+    </characters>
+  </language>
+  <language name="zh-hk" code="3076">
+    <characters module="">
+      <character>本次更新將會加入供應商版本相關的重要設定和應用程式。在未連線至 Wi-Fi 時更新可能會產生數據流量費用，建議您在連線至 Wi-Fi 時更新版本。</character>
+    </characters>
+  </language>
+  <language name="zh-tw" code="1033">
+    <characters module="">
+      <character>本次更新將新增電信業者版本相關的重要設定和應用程式。非 Wi-Fi 環境可能會產生數據流量費用，建議您在 Wi-Fi 環境下更新版本。</character>
+    </characters>
+  </language>
+  <language name="cs-cz" code="1029">
+    <characters module="">
+      <character>Tato aktualizace přidá důležitá nastavení a aplikace související s verzí operátora. Doporučujeme aktualizaci provést prostřednictvím Wi-Fi, abyste se vyhnuli poplatkům za využití dat.</character>
+    </characters>
+  </language>
+  <language name="el-gr" code="1032">
+    <characters module="">
+      <character>Αυτή η ενημέρωση θα προσθέσει σημαντικές ρυθμίσεις και εφαρμογές που σχετίζονται με την έκδοση του παρόχου. Σας προτείνουμε να κάνετε ενημέρωση μέσω Wi-Fi ώστε να αποφύγετε τις χρεώσεις δεδομένων.</character>
+    </characters>
+  </language>
+  <language name="es-es" code="1034">
+    <characters module="">
+      <character>Esta actualización añadirá ajustes importantes y aplicaciones relacionadas con la versión del operador. Le recomendamos utilizar Wi-Fi para evitar que se produzcan cargos de datos.</character>
+    </characters>
+  </language>
+  <language name="es-us" code="21514">
+    <characters module="">
+      <character>En esta actualización, se agregarán ajustes y aplicaciones importantes relacionados con la versión del operador. Recomendamos actualizar mediante Wi-Fi para evitar cargos adicionales por uso de datos.</character>
+    </characters>
+  </language>
+  <language name="et-ee" code="1061">
+    <characters module="">
+      <character>See värskendus lisab olulised käitaja versiooniga seotud sätted ja rakendused. Andmesidega seotud kulutuste vältimiseks soovitame teostada värskendus üle Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="hr-hr" code="1050">
+    <characters module="">
+      <character>Ovim će se ažuriranjem dodati važne postavke i aplikacije povezane s verzijom mobilnog operatera. Preporučujemo ažuriranje putem Wi-Fi mreže da bi se spriječili troškovi zbog prijenosa podataka.</character>
+    </characters>
+  </language>
+  <language name="hu-hu" code="1038">
+    <characters module="">
+      <character>Ez a frissítés fontos, a szolgáltatói verzióhoz kapcsolódó beállításokat és alkalmazásokat fog hozzáadni. Az adatdíjak elkerülése érdekében ajánlott Wi-Fi-n keresztül elvégezni a frissítést.</character>
+    </characters>
+  </language>
+  <language name="lo-la" code="1033">
+    <characters module="">
+      <character>ການອັບເດດນີ້ຈະເພີ່ມການຕັ້ງຄ່າ ແລະ ແອັບພລິເຄຊັນທີ່ສຳຄັນທີ່ກ່ຽວຂ້ອງກັບເວີຊັນເຄືອຂ່າຍມືຖື. ພວກເຮົາຂໍແນະນຳໃຫ້ອັບເດດດ້ວຍ Wi-Fi ເພື່ອປ້ອງກັນການຮຽກເກັບເງິນຄ່າຂໍ້ມູນ.</character>
+    </characters>
+  </language>
+  <language name="lv-lv" code="1062">
+    <characters module="">
+      <character>Ar šo atjauninājumu operatora versijai pievieno svarīgus iestatījumus un lietotnes. Iesakām atjaunināšanai izmantot Wi-Fi savienojumu, lai izvairītos no datu maksām.</character>
+    </characters>
+  </language>
+  <language name="ms-my" code="1086">
+    <characters module="">
+      <character>Kemas kini akan menambahkan tetapan dan aplikasi penting yang berkaitan dengan versi pembawa. Kami mengesyorkan agar kemas kini dibuat menggunakan Wi-Fi untuk mengelakkan bayaran data.</character>
+    </characters>
+  </language>
+  <language name="si-lk" code="1033">
+    <characters module="">
+      <character>මෙම යාවත්කාලීනය වාහක අනුවාදයට අදාළ වැදගත් සැකසුම් සහ යෙදුම් එක් කරනු ඇත. දත්ත ගාස්තු වැළැක්වීම සඳහා අපි Wi-Fi යටතේ යාවත්කාලීන කිරීම නිර්දේශ කරමු.</character>
+    </characters>
+  </language>
+  <language name="ug-cn" code="1033">
+    <characters module="">
+      <character>بۇ قېتىملىق يېڭىلاشتا يۈرۈتكۈچى نەشرىگە ئالاقىدار مۇھىم تەڭشەك ۋە ئەپ قوشۇلىدۇ. Wi-Fi غا ئۇلانمىغان مۇھىتتا ئېقىم ھەققى كېلىپ چىقىشى مۇمكىن، Wi-Fi مۇھىتىدا نەشر يېڭىلىشىڭىزنى تەۋسىيە قىلىمىز.</character>
+    </characters>
+  </language>
+</root>

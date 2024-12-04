@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>13137323</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>k4VItXYgATGFWX2YaCTmIfLQaHj7hxKBlsYBHm8C7Qw=</fileHash>
+<fileSize>151150</fileSize>
+<metadataHash>o74bJ/Sace6xeNnNE+pnDls3Ay8tBq1QgiTuWzr+yJc=</metadataHash>
+<metadataSize>1094</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_BVL-AN20HP_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_BVL-AN20HP_all_cn.zip</spath>
+<dpath>update_full_cust_BVL-AN20HP_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>2E2A91C96187C5B4D643AC5C7ECE958C4B48EAFD882757A102A86ED9FA5B2774</sha256>
+<size>158319</size>
+</file>
+</files>
+</root>

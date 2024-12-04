@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的平板运行更稳定。</feature>
+<feature>优化系统性能，让您的平板运行更流畅。
+提升系统稳定性，让您的平板运行更稳定。</feature></features>
+<features module="【安全】">
+<feature>合入安卓2024年11月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+<feature>合入安卓2024年9月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/9</feature></features>
+
+<features module="【荣耀笔记】">
+<feature>语音转文本功能新增支持俄语和西班牙语。</feature>
+</features><features module="【相机】">
+<feature>优化部分场景相机拍摄效果。</feature>
+</features><features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features></language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update improved the system stability and incorporated security patches.</feature>
+</features>
+<features module="System">
+<feature>Improved the system stability.</feature>
+<feature>Optimizes the system performance to make your device run more smoothly.
+Improves the system stability to make your device run more stably.</feature></features>
+<features module="Security">
+<feature>Android Security Patch (Nov 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android Security Patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>Speech-to-Text feature now supports Russian and Spanish.</feature>
+</features><features module="Camera">
+<feature>Optimizes the shooting effect in some scenarios.</feature>
+</features><features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+</features></language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ውድ ተጠቃሚ፣ ይህ የሚመከር ዝማኔ የስርዓት እርጋታውን አሻሽሏል እና የደህንነት መጠገኛዎችን አካትቷል።</feature>
+</features>
+<features module="ስርዓት">
+<feature>የስርዓት እርጋታውን አሻሽሏል።</feature>
+<feature>መሳሪያዎ በተቀላጠፈ ሁኔታ እንዲሠራ ለማድረግ የስርዓት አፈጻጸምን ያተባል።
+መሳሪያዎ በተረጋጋ ሁኔታ እንዲሠራ ለማድረግ የስርዓት መረጋጋትን ያሻሽላል።</feature></features>
+<features module="ደህንነት">
+<feature>ለስርዓት ደህንነት የአንድሮይድ የደህንነት መጠገኛን (ኖቭ 2024) ተካቷል። ስለ HONOR ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎን የእኛን ድር ጣቢያ https://www.honor.com/global/support/bulletin/2024/11 ይጎብኙ</feature>
+<feature>ለስርዓት ደህንነት የአንድሮይድ የደህንነት መጠገኛን (ሴፕ 2024) ተካቷል። ስለ HONOR ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎን የእኛን ድር ጣቢያ https://www.honor.com/global/support/bulletin/2024/9 ይጎብኙ</feature></features>
+
+<features module="HONOR ማስታወሻዎች">
+<feature>የንግግር-ወደ-ጽሑፍ ባህሪ አሁን ሩሲያኛን እና ስፔንኛን ይደግፋል።</feature>
+</features><features module="ካሜራ">
+<feature>በአንዳንድ ሁኔታዎች ላይ የማንሳት ተጽእኖውን ያተባል።</feature>
+</features><features module="ማስታወሻዎች፦" type="end">
+<feature>1. ይህን ማሻሻያ መጫን የእርስዎን የግል መረጃዎን አይነካም፣ ነገር ግን አሁንም ከማዘመን በፊት አስቀድሞ መጠባበቂያ ማስቀመጥ ይመከራል።
+2. በማሻሻያው ወቅት ማንኛውም አይነት ችግር ካጋጠመዎት እባክዎን ወደ HONOR አገልግሎት የቀጥታ መስመር ይደውሉ ወይም ድጋፍ ለማግኘት ወደ HONOR የደንበኞች የአገልግሎት ማዕከል ይሂዱ።</feature>
+</features></language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>عزيزنا المستخدم، أدى هذا التحديث الموصى به إلى تحسين استقرار النظام ودمج تصحيحات الأمان.</feature>
+</features>
+<features module="النظام">
+<feature>زاد من استقرار النظام.</feature>
+</features>
+<features module="الأمان">
+<feature>تم تضمين تصحيح أمان أندرويد (نوفمبر 2024) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2024/11</feature>
+<feature>تم تضمين تصحيح أمان أندرويد (سبتمبر 2024) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2024/9</feature></features>
+
+<features module="الملاحظات من HONOR">
+<feature>تدعم الآن ميزة تحويل الكلام إلى نص الروسية والإسبانية.</feature>
+</features><features module="الكاميرا">
+<feature>يحسّن تأثير التصوير في بعض السيناريوهات.</feature>
+</features><features module="نظام">
+<feature>يحسّن هذا الإصدار أداء النظام لجعل جهازك يعمل بسلاسة أكبر.
+ويحسّن استقرار النظام لجعل جهازك يعمل بشكل أكثر استقرارًا.</feature>
+</features><features module="الملاحظات:" type="end">
+<feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+</features></language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>মৰমৰ ব্যৱহাৰকাৰী, এই অনুমোদিত আপডেটে ছিষ্টেমৰ স্থিৰতা উন্নত কৰিছে আৰু নিৰাপত্তাৰ পেচসমূহ অন্তৰ্ভুক্ত কৰিছে।</feature>
+</features>
+<features module="ছিষ্টেম">
+<feature>ছিষ্টেমৰ স্থিৰতা উন্নত কৰিছে।</feature>
+<feature>আপোনাৰ ডিভাইচ অধিক মসৃণভাৱে চলাবলৈ ছিষ্টেমৰ কাৰ্যদক্ষতা অনুকূলন কৰে।
+আপোনাৰ ডিভাইচ অধিক স্থিৰতাৰে চলাবলৈ ছিষ্টেমৰ স্থিৰতা উন্নত কৰে।</feature></features>
+<features module="নিৰাপত্তা">
+<feature>ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (নবেম্বৰ 2024) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ছেপ্টেম্বৰ 2024) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR টোকাসমূহ">
+<feature>কথনৰ-পৰা-পাঠ ফিচাৰে এতিয়া ৰাছিয়ান আৰু স্পেনিচ সমৰ্থন কৰে।</feature>
+</features><features module="কেমেৰা">
+<feature>কিছুমান পৰিস্থিতিত শ্বুটিঙৰ প্ৰভাৱ অনুকূলন কৰে।</feature>
+</features><features module="মনত ৰাখিব:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়।
+2. আপডেটৰ সময়ত আপুনি যদি কোনো সমস্যাৰ সন্মুখীন হয়, তেন্তে সমৰ্থনৰ বাবে অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত ফোন কৰিব বা HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাব।</feature>
+</features></language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Hörmətli istifadəçi, tövsiyə edilən bu yeniləmə ilə sistem stabilliyi təkmilləşdirilib və təhlükəsizlik paketləri daxil edilib.</feature>
+</features>
+<features module="Sistem">
+<feature>Sistem stabilliyi təkmilləşdirilib.</feature>
+<feature>Cihazınızın daha problemsiz işləməsi üçün sistemin məhsuldarlığı optimallaşdırılıb.
+Cihazınızın daha stabil işləməsi üçün sistemin stabilliyi təkmilləşdirilib.</feature></features>
+<features module="Təhlükəsizlik">
+<feature>Sistem təhlükəsizliyi üçün Android Təhlükəsizlik Paketi (Noyabr 2024-cü il) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Sistem təhlükəsizliyi üçün Android Təhlükəsizlik Paketi (Sentyabr 2024-cü il) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Qeydlər">
+<feature>Nitqdən mətnə xüsusiyyəti artıq Rus və İspan dillərini dəstəkləyir.</feature>
+</features><features module="Kamera">
+<feature>Bəzi hallarda çəkiliş effektini optimallaşdırır.</feature>
+</features><features module="Qeydlər:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yeniləmədən əvvəl verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur.
+2. Yeniləmə zamanı hər hansı problemlərlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+</features></language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Katur pangguna, panganyaran sing disaranake iki ngapikake stabilitas sistem lan nggabungake patch keamanan.</feature>
+</features>
+<features module="Sistem">
+<feature>Ngapikake stabilitas sistem.</feature>
+<feature>Ngoptimalake kinerja sistem supaya piranti mlaku kanthi luwih lancar.
+Ngapikake kastabilan sistem supaya piranti mlaku kanthi luwih stabil.</feature></features>
+<features module="Keamanan">
+<feature>Patch Keamanan Android (November 2024) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Patch Keamanan Android (September 2024) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Cathetan HONOR">
+<feature>Fitur Omongan-dadi-Teks saiki ndhukung Basa Rusia lan Basa Spanyol.</feature>
+</features><features module="Kamera">
+<feature>Ngoptimalake efek ngrekam ing sawetara skenario.</feature>
+</features><features module="Cathetan:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake
+2. Yen ana masalah sajrone panganyaran, ubungi hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dukungan.</feature>
+</features></language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Sistem">
+<feature>Poboljšana je stabilnost sistema.</feature>
+<feature>Optimizuju se performanse sistema kako bi uređaj radio još bolje.
+Optimizuje se stabilnost sistema kako bi vaš uređaj radio stabilnije.</feature></features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (nov 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/11</feature>
+<feature>Integrisana je bezbednosna zakrpa za Android (sept 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Zabeleške">
+<feature>Funkcija govor u tekst sada podržava ruski i španski.</feature>
+</features><features module="Kamera">
+<feature>Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features><features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features></language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Sistem">
+<feature>Poboljšana je stabilnost sistema.</feature>
+<feature>Optimizuju se performanse sistema kako bi uređaj radio još bolje.
+Optimizuje se stabilnost sistema kako bi vaš uređaj radio stabilnije.</feature></features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (nov 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/11</feature>
+<feature>Integrisana je bezbednosna zakrpa za Android (sept 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Zabeleške">
+<feature>Funkcija govor u tekst sada podržava ruski i španski.</feature>
+</features><features module="Kamera">
+<feature>Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features><features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features></language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Sistem">
+<feature>Poboljšana je stabilnost sistema.</feature>
+<feature>Optimizuju se performanse sistema kako bi uređaj radio još bolje.
+Optimizuje se stabilnost sistema kako bi vaš uređaj radio stabilnije.</feature></features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (nov 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/11</feature>
+<feature>Integrisana je bezbednosna zakrpa za Android (sept 2024.) za bezbednost sistema. Za više informacija o bezbednosnim ažuriranjima koja sprovodi kompanija HONOR, posetite naš veb-sajt: https://www.honor.com/rs/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Zabeleške">
+<feature>Funkcija govor u tekst sada podržava ruski i španski.</feature>
+</features><features module="Kamera">
+<feature>Optimizuje učinak snimanja u pojedinim situacijama.</feature>
+</features><features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features></language>
+
+<language name="be-by" code="1059">
+<features module="" type="header">
+<feature>Паважаны карыстальнік, гэта рэкамендаванае абнаўленне павышае стабільнасць сістэмы і ўключае выпраўленні сістэмы бяспекі.</feature>
+</features>
+<features module="Сістэма">
+<feature>Павышае стабільнасць сістэмы.</feature>
+<feature>Аптымізавана прадукцыйнасць сістэмы, што робіць працу прылады больш плаўнай.
+Палепшана стабільнасць сістэмы, дзякуючы чаму ваша прылада працуе больш устойліва.</feature></features>
+<features module="Бяспека">
+<feature>Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (лістапад 2024 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым афіцыйным вэб-сайце: https://www.honor.com/by/support/bulletin/2024/11</feature>
+<feature>Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (верасень 2024 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым афіцыйным вэб-сайце: https://www.honor.com/by/support/bulletin/2024/9</feature></features>
+
+<features module="Нататкі HONOR">
+<feature>Функцыя «Маўленне ў тэкст» цяпер падтрымлівае рускую і іспанскую мовы.</feature>
+</features><features module="Камера">
+<feature>У некаторых сцэнарыях аптымізаваны эфект здымкі.</feature>
+</features><features module="Заўвагі." type="end">
+<feature>1. Устаноўка гэтага абнаўлення не паўплывае на вашы асабістыя даныя, але мы ўсё роўна рэкамендуем зрабіць іх рэзервовую копію перад абнаўленнем.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+</features></language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Уважаеми потребители, тази препоръчителна актуализация подобрява стабилността на системата и включените корекции за сигурност.</feature>
+</features>
+<features module="Система">
+<feature>Подобрена е стабилността на системата.</feature>
+<feature>Оптимизира производителността на системата, за да работи устройството ви по-гладко.
+Подобрява стабилността на системата, за да работи устройството ви по-стабилно.</feature></features>
+<features module="Защита">
+<feature>Корекцията за сигурност на Android (ноември 2024 г.) е включена за защита на системата. За още информация относно актуализациите за сигурност на HONOR посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2024/11</feature>
+</features>
+
+<features module="HONOR Бележки">
+<feature>Функцията „Реч към текст“ вече поддържа руски и испански език.</feature>
+</features><features module="Камера">
+<feature>Оптимизира ефекта на заснемане в някои ситуации.</feature>
+</features><features module="Сигурност">
+<feature>Корекцията за сигурност на Android (септември 2024 г.) е включена за защита на системата. За още информация относно актуализациите за сигурност на HONOR посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2024/9</feature>
+</features><features module="Бележки:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да засегне личните ви данни, но е препоръчително да ги архивирате преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+</features></language>
+
+<language name="bn-bd" code="2117">
+<features module="" type="header">
+<feature>প্রিয় ব্যবহারকারী, এই সুপারিশকৃত আপডেটটি সিস্টেমের স্থিতিশীলতা উন্নত করেছে এবং নিরাপত্তা প্যাচ অন্তর্ভুক্ত করেছে৷</feature>
+</features>
+<features module="সিস্টেম">
+<feature>সিস্টেমের স্থিতিশীলতা উন্নত করেছে।</feature>
+<feature>আপনার ডিভাইসটিকে আরও মসৃণভাবে চালানোর জন্য সিস্টেমের কর্মক্ষমতা অপটিমাইজ করে।
+আপনার ডিভাইসকে আরও স্থিতিশীলভাবে চলার জন্য সিস্টেমের স্থিতিশীলতা উন্নত করে।</feature></features>
+<features module="নিরাপত্তা">
+<feature>সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (নভেম্বর 2024) অন্তর্ভুক্ত করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, অনুগ্রহ করে আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (সেপ্টেম্বর 2024) অন্তর্ভুক্ত করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR নোট">
+<feature>স্পীচ থেকে টেক্সট বৈশিষ্ট্যটি এখন রাশিয়ান ও স্পেনীয় ভাষাকে সমর্থন করে।</feature>
+</features><features module="ক্যামেরা">
+<feature>কিছু পরিস্থিতিতে শুটিং ইফেক্টকে অপটিমাইজ করে।</feature>
+</features><features module="নোট:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়।
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+</features></language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>བརྩེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་རྒྱུད་ཁོངས་ཀྱི་བརྟན་བརླིང་རང་བཞིན་མཐོར་འདེགས་གཏོང་བ་མ་ཟད། བདེ་འཇགས་ཀྱི་ལྷན་པ་འདུས་ཡོད་པས། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས།】">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ངོས་ལེབ་འཁོར་སྐྱོད་བྱས་པ་སྔར་ལས་བརྟན་པོ་ཡོང་བར་བྱེད།</feature>
+<feature>རྒྱུད་ཁོངས་གཤིས་ནུས་ལེགས་སྒྱུར་བཏང་ནས། ཁྱེད་ཀྱི་ངོས་སྙོམས་གློག་ཀླད་འཁོར་སྐྱོད་དེ་བས་ཐགས་ཐོག་མེད་པར་བྱེད།
+རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ངོས་སྙོམས་འཁོར་སྐྱོད་དེ་བས་བརྟན་འཇགས་བྱེད།</feature></features>
+<features module="【བདེ་འཇགས།】">
+<feature>ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་ 11 པའི་བདེ་འཇགས་ལྷན་པ་བསྡེབས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་ཇེ་བཟང་དུ་གཏོང་བ། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/11 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+<feature>ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་བ་ 9 བའི་བདེ་འཇགས་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་དུ་གཏོང་བ། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/9 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature></features>
+
+<features module="【རུང་ཡོའོ་ཟིན་བྲིས།】">
+<feature>སྒྲ་གདངས་ཡིག་གཞིར་སྒྱུར་བའི་རྩོལ་ནུས་ཀྱིས་ཨུ་རུ་སུའི་སྐད་དང་སི་ཕེན་གྱི་སྐད་ལ་རྒྱབ་སྐྱོར་བྱེད་པ་གསར་སྣོན་བྱས་ཡོད།</feature>
+</features><features module="【པར་ཆས།】">
+<feature>བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+</features><features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+</features></language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Dragi korisniče, ovo preporučeno ažuriranje je poboljšalo stabilnost sistema i ugradilo sigurnosne zakrpe.</feature>
+</features>
+<features module="Sistem">
+<feature>Poboljšana je stabilnost sistema.</feature>
+<feature>Optimizira performanse sistema za bolji rad uređaja.
+Poboljšava stabilnost sistema za stabilniji rad uređaja.</feature></features>
+<features module="Sigurnost">
+<feature>Ugrađena je sigurnosna zakrpa za Android (nov 2024) radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Ugrađena je sigurnosna zakrpa za Android (sep 2024) radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Bilješke">
+<feature>Funkcija pretvaranja govora u tekst sada podržava ruski i španski jezik.</feature>
+</features><features module="Fotoaparat">
+<feature>Optimizira efekat snimanja u određenim scenarijima.</feature>
+</features><features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali ipak se preporučuje da napravite rezervnu kopiju podataka.
+2. Ako naiđete na bilo kakav problem tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+</features></language>
+
+<language name="ca-es" code="1027">
+<features module="" type="header">
+<feature>Benvolgut usuari/a, aquesta actualització recomanada ha millorat l'estabilitat del sistema i incorpora reparacions en la seguretat.</feature>
+</features>
+<features module="Sistema">
+<feature>S'ha millorat l'estabilitat del sistema.</feature>
+<feature>Optimitza el rendiment del sistema perquè el dispositiu funcioni amb més fluïdesa.
+Millora l'estabilitat del sistema perquè el dispositiu tingui un funcionament més estable.</feature></features>
+<features module="Seguretat">
+<feature>S'ha incorporat el pedaç de seguretat d'Android (novembre del 2024) per a la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>S'ha incorporat el pedaç de seguretat d'Android (setembre del 2024) per a la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>La funció Veu a text ara admet el rus i el castellà.</feature>
+</features><features module="Càmera">
+<feature>Optimitza l'efecte de captura en determinades situacions.</feature>
+</features><features module="Notes:" type="end">
+<feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però tot i així us recomanem que feu una còpia de seguretat de les dades abans de l'actualització.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o visiteu el centre de servei d'atenció al client d'HONOR.</feature>
+</features></language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Vážený uživateli, tato doporučená aktualizace vylepšila stabilitu systému a provedla bezpečnostní opravy.</feature>
+</features>
+<features module="Systém">
+<feature>Byla vylepšena stabilita systému.</feature>
+<feature>Optimalizuje výkon systému tak, aby zařízení pracovalo plynuleji.
+Vylepšuje stabilitu systému, aby zařízení pracovalo stabilněji.</feature></features>
+<features module="Bezpečnost">
+<feature>Do systému byla začleněna bezpečnostní oprava (listopad 2024) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2024/11</feature>
+<feature>Do systému byla začleněna bezpečnostní oprava (září 2024) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Poznámky">
+<feature>Funkce převodu řeči na text nyní podporuje ruštinu a španělštinu.</feature>
+</features><features module="Fotoaparát">
+<feature>Optimalizuje fotografování v některých situacích.</feature>
+</features><features module="Poznámky:" type="end">
+<feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+</features></language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Kære bruger, denne anbefalede opdatering forbedrede systemstabiliteten og indeholdt sikkerhedsrettelser.</feature>
+</features>
+<features module="System">
+<feature>Forbedrede systemstabiliteten.</feature>
+<feature>Optimerer systemets ydeevne, så din enhed kører mere gnidningsløst.
+Forbedrer systemstabiliteten, så din enhed kører mere stabilt.</feature></features>
+<features module="Sikkerhed">
+<feature>Android sikkerhedsrettelse (november 2024) er blevet integreret for øget systemsikkerhed. For yderligere oplysninger om HONOR-sikkerhedsopdateringer kan du besøge vores websted https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android sikkerhedsrettelse (sept 2024) er blevet integreret for systemsikkerhed. For yderligere oplysninger om HONOR-sikkerhedsopdateringer kan du besøge vores websted https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Noter">
+<feature>Funktionen Tale-til-tekst understøtter nu russisk og spansk.</feature>
+</features><features module="Kamera">
+<feature>Optimerer optagelseseffekten i nogle scenarier.</feature>
+</features><features module="Noter:" type="end">
+<feature>1. Installation af denne opdatering vil ikke påvirke dine personlige data, men det anbefales stadig at sikkerhedskopiere dine data, før du opdaterer.
+2. Hvis du støder på problemer under opdateringen, kan du ringe til HONORs service-hotline eller gå til HONORs kundeservicecenter for support.</feature>
+</features></language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte Nutzer, mit dieser empfohlenen Aktualisierung wurde die Systemstabilität verbessert und Sicherheitspatches wurden eingespielt.</feature>
+</features>
+<features module="System">
+<feature>Die Systemstabilität wurde verbessert.</feature>
+<feature>Optimiert die Systemleistung, damit Ihr Gerät reibungsloser läuft.
+Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature></features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Nov. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/11</feature>
+<feature>Der Android Sicherheitspatch (Sept. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notizen">
+<feature>Die Funktion Speech-to-Text unterstützt jetzt Russisch und Spanisch.</feature>
+</features><features module="Kamera">
+<feature>Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features><features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features></language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte Nutzer, mit dieser empfohlenen Aktualisierung wurde die Systemstabilität verbessert und Sicherheitspatches wurden eingespielt.</feature>
+</features>
+<features module="System">
+<feature>Die Systemstabilität wurde verbessert.</feature>
+<feature>Optimiert die Systemleistung, damit Ihr Gerät reibungsloser läuft.
+Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature></features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Nov. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/11</feature>
+<feature>Der Android Sicherheitspatch (Sept. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notizen">
+<feature>Die Funktion Speech-to-Text unterstützt jetzt Russisch und Spanisch.</feature>
+</features><features module="Kamera">
+<feature>Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features><features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features></language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte Nutzer, mit dieser empfohlenen Aktualisierung wurde die Systemstabilität verbessert und Sicherheitspatches wurden eingespielt.</feature>
+</features>
+<features module="System">
+<feature>Die Systemstabilität wurde verbessert.</feature>
+<feature>Optimiert die Systemleistung, damit Ihr Gerät reibungsloser läuft.
+Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature></features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Nov. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/11</feature>
+<feature>Der Android Sicherheitspatch (Sept. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notizen">
+<feature>Die Funktion Speech-to-Text unterstützt jetzt Russisch und Spanisch.</feature>
+</features><features module="Kamera">
+<feature>Optimiert den Aufnahmeeffekt in einigen Szenarien.</feature>
+</features><features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features></language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Αγαπητέ χρήστη, αυτή η προτεινόμενη ενημέρωση βελτίωσε τη σταθερότητα του συστήματος και ενσωμάτωσε ενημερώσεις κώδικα ασφάλειας.</feature>
+</features>
+<features module="Σύστημα">
+<feature>Βελτίωσε τη σταθερότητα του συστήματος.</feature>
+<feature>Βελτιστοποιεί την απόδοση του συστήματος για να λειτουργεί η συσκευή σας πιο ομαλά.
+Βελτιώνει τη σταθερότητα του συστήματος για να λειτουργεί η συσκευή σας πιο σταθερά.</feature></features>
+<features module="Ασφάλεια">
+<feature>Η ενημέρωση κώδικα ασφαλείας Android (Νοέμβριος 2024) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2024/11</feature>
+<feature>Η ενημέρωση κώδικα ασφαλείας Android (Σεπτέμβριος 2024) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2024/9</feature></features>
+
+<features module="Σημειώσεις HONOR">
+<feature>Η δυνατότητα «Ομιλία σε κείμενο» υποστηρίζει πλέον τα ρωσικά και τα ισπανικά.</feature>
+</features><features module="Κάμερα">
+<feature>Βελτιστοποιεί το αποτέλεσμα λήψης σε ορισμένα σενάρια.</feature>
+</features><features module="Σημειώσεις:" type="end">
+<feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση.
+2. Εάν αντιμετωπίσετε προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+</features></language>
+
+<language name="en-GB" code="1032">
+<features module="" type="header">
+<feature>Dear user, this recommended update improved the system stability and incorporated security patches.</feature>
+</features>
+<features module="System">
+<feature>Improved the system stability.</feature>
+<feature>Optimises the system performance to make your device run more smoothly.
+Improves the system stability to make your device run more stably.</feature></features>
+<features module="Security">
+<feature>Android Security Patch (Nov 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2024/11</feature>
+<feature>Android Security Patch (Sept 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>Speech-to-Text feature now supports Russian and Spanish.</feature>
+</features><features module="Camera">
+<feature>Optimises the shooting effect in some scenarios.</feature>
+</features><features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+</features></language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Estimado usuario: Esta actualización recomendada ha mejorado la estabilidad del sistema e incorporado parches de seguridad.</feature>
+</features>
+<features module="Sistema">
+<feature>Se ha mejorado la estabilidad del sistema.</feature>
+<feature>Optimiza el rendimiento del sistema para que el dispositivo funcione con más fluidez.
+Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature></features>
+<features module="Seguridad">
+<feature>Se ha incorporado el parche de seguridad de Android (noviembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2024/11</feature>
+<feature>Se ha incorporado el parche de seguridad de Android (septiembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2024/9</feature></features>
+
+<features module="Notas de HONOR">
+<feature>La funcionalidad Voz a texto ahora admite ruso y español.</feature>
+</features><features module="Cámara">
+<feature>Optimiza el efecto de disparo en algunos escenarios.</feature>
+</features><features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+</features></language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Estimado usuario, en esta actualización recomendada, se mejoró la estabilidad del sistema y se incorporaron parches de seguridad.</feature>
+</features>
+<features module="Sistema">
+<feature>Se mejoró la estabilidad del sistema.</feature>
+<feature>Optimiza el rendimiento del sistema para que el dispositivo funcione con mayor fluidez.
+Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature></features>
+<features module="Seguridad">
+<feature>Se incorporó un parche de seguridad de Android (noviembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/latam/support/bulletin/2024/11</feature>
+<feature>Se incorporó un parche de seguridad de Android (septiembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/latam/support/bulletin/2024/9</feature></features>
+
+<features module="Notas de HONOR">
+<feature>La funcionalidad de voz a texto ahora admite ruso y español.</feature>
+</features><features module="Cámara">
+<feature>Optimiza el efecto de captura en algunas situaciones.</feature>
+</features><features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+</features></language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>Hea kasutaja, see soovituslik värskendus parandas süsteemi stabiilsust ja lisas turvapaiku.</feature>
+</features>
+<features module="Süsteem">
+<feature>Parandas süsteemi stabiilsust.</feature>
+<feature>See optimeerib süsteemi jõudlust ja muudab teie seadme töö sujuvamaks.
+Parandab süsteemi stabiilsust, et teie seade töötaks tõrgeteta.</feature></features>
+<features module="Turvalisus">
+<feature>Lisati süsteemi turvalisemaks muutev Androidi turvapaik (november 2024). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2024/11</feature>
+</features>
+
+<features module="HONORi Märkmed">
+<feature>Kõne tekstiks teisendamise funktsioon toetab nüüd vene ja hispaania keelt.</feature>
+</features><features module="Kaamera">
+<feature>Optimeerib mõnes olukorras jäädvustamisefekti.</feature>
+</features><features module="Turve">
+<feature>Lisati süsteemi turvalisemaks muutev Androidi turvapaik (september 2024). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2024/9</feature>
+</features><features module="Märkused:" type="end">
+<feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+</features></language>
+
+<language name="eu-es" code="1069">
+<features module="" type="header">
+<feature>Erabiltzaile hori, gomendatutako eguneratze honetan, sistemaren egonkortasuna hobetu da eta segurtasun-adabakiak txertatu dira.</feature>
+</features>
+<features module="Sistema">
+<feature>Sistemaren egonkortasuna hobetu da.</feature>
+<feature>Sistemaren errendimendua optimizatzen du gailuak arazorik gabe funtziona dezan.
+Sistemaren egonkortasuna hobetzen du gailuak egonkortasunez funtziona dezan.</feature></features>
+<features module="Segurtasuna">
+<feature>Android-en segurtasun-adabakia (2024ko aza.) gehitu da sistema seguru egoteko. HONOR Segurtasun-eguneratzeei buruzko informazio gehiago nahi izanez gero, joan gure webgunera: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android-en segurtasun-adabakia (2024ko ira.) gehitu da sistemaren segurtasuna hobetzeko. HONOR Segurtasun-eguneratzeei buruzko informazio gehiago nahi izanez gero, joan gure webgunera: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Oharrak">
+<feature>Hizketa testu bihurtzeko eginbideak errusiera eta gaztelania onartzen ditu orain.</feature>
+</features><features module="Kamera">
+<feature>Argazkiak ateratzeko efektua optimizatzen du zenbait egoeratan.</feature>
+</features><features module="Oharrak:" type="end">
+<feature>1. Eguneratze hau instalatzen baduzu ere, ez diezu eragingo datu pertsonalei, baina gomendagarria da datuen babeskopia bat egitea eguneratzea egin baino lehen.
+2. Arazorik baduzu eguneratzea egitean, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza lortzeko.</feature>
+</features></language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>کاربر گرامی، در این به‌روزرسانی پیشنهادی، پایداری سیستم بهبود یافته است و وصله‌های امنیتی در آن گنجانده شده است.</feature>
+</features>
+<features module="سیستم">
+<feature>پایداری سیستم بهبود یافته است.</feature>
+<feature>عملکرد سیستم را بهینه می‌سازد تا دستگاه شما روان‌تر کار کند.
+پایداری سیستم را بهبود می‌بخشد تا دستگاه شما پایدارتر کار کند.</feature></features>
+<features module="امنیت">
+<feature>برای حفظ امنیت سیستم، وصلۀ امنیتی Android (نوامبر ۲۰۲۴) گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های امنیتی HONOR، لطفاً به وب‌سایت ما به این نشانی مراجعه کنید: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>برای حفظ امنیت سیستم، وصلۀ امنیتی Android (سپتامبر ۲۰۲۴) گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های امنیتی HONOR، لطفاً به وب‌سایت ما به این نشانی مراجعه کنید: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="یادداشت‌های HONOR">
+<feature>قابلیت «تبدیل گفتار به متن» اکنون از زبان‌های روسی و اسپانیایی پشتیبانی می‌کند.</feature>
+</features><features module="دوربین">
+<feature>نتیجه تصویربرداری در برخی شرایط را بهینه می‌کند.</feature>
+</features><features module="نکات قابل‌توجه:" type="end">
+<feature>‏‏۱. نصب این به‌روزرسانی، داده‌های شخصی شما را تحت تأثیر قرار نخواهد داد، اما همچنان توصیه می‌شود قبل از انجام به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+‏‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+</features></language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Hyvä käyttäjä, tämä suositeltu päivitys paransi järjestelmän vakautta ja sisälsi turvallisuuskorjauksia.</feature>
+</features>
+<features module="Järjestelmä">
+<feature>Paransi järjestelmän vakautta.</feature>
+<feature>Optimoi järjestelmän suorituskyvyn, jolloin laite toimii sujuvammin.
+Parantaa järjestelmän vakautta, jolloin laite toimii vakaammin.</feature></features>
+<features module="Turvallisuus">
+<feature>Android-turvallisuuskorjaus (marraskuu 2024) on sisällytetty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on verkkosivustollamme: https://www.honor.com/fi/support/bulletin/2024/11</feature>
+<feature>Android-turvallisuuskorjaus (syyskuu 2024) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.honor.com/fi/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Muistiinpanot">
+<feature>Puhe tekstiksi -ominaisuus tukee nyt venäjää ja espanjaa.</feature>
+</features><features module="Kamera">
+<feature>Optimoi kuvaustehosteen joissakin tilanteissa.</feature>
+</features><features module="Huomautukset:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+</features></language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour recommandée améliore la stabilité du système et incorpore des correctifs de sécurité.</feature>
+</features>
+<features module="Système">
+<feature>Amélioration de la stabilité du système.</feature>
+<feature>Optimise les performances du système pour que votre appareil fonctionne avec plus de fluidité.
+Améliore la stabilité du système de votre appareil.</feature></features>
+<features module="Sécurité">
+<feature>Un correctif de sécurité Android (novembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/11</feature>
+<feature>Un correctif de sécurité Android (septembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>La fonction Transcription prend désormais en charge le russe et l'espagnol.</feature>
+</features><features module="Appareil photo">
+<feature>Optimise l'effet de prise de vue dans certains scénarios.</feature>
+</features><features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features></language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour recommandée améliore la stabilité du système et incorpore des correctifs de sécurité.</feature>
+</features>
+<features module="Système">
+<feature>Amélioration de la stabilité du système.</feature>
+<feature>Optimise les performances du système pour que votre appareil fonctionne avec plus de fluidité.
+Améliore la stabilité du système de votre appareil.</feature></features>
+<features module="Sécurité">
+<feature>Un correctif de sécurité Android (novembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/11</feature>
+<feature>Un correctif de sécurité Android (septembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>La fonction Transcription prend désormais en charge le russe et l'espagnol.</feature>
+</features><features module="Appareil photo">
+<feature>Optimise l'effet de prise de vue dans certains scénarios.</feature>
+</features><features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features></language>
+
+<language name="gl-es" code="1110">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización recomendada mellora a estabilidade do sistema e incorpora parches de seguranza.</feature>
+</features>
+<features module="Sistema">
+<feature>Mellora a estabilidade do sistema.</feature>
+<feature>Optimiza o rendemento do sistema para que o dispositivo funcione con maior fluidez.
+Mellora a estabilidade do sistema para facer que o dispositivo funcione dun xeito máis estable.</feature></features>
+<features module="Seguranza">
+<feature>Incorporouse o parche de seguranza de Android (novembro de 2024) para a seguranza do sistema. Para obter máis información acerca das actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Incorporouse un parche de seguranza de Android (setembro de 2024) para a seguranza do sistema. Para obter máis información acerca das actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Notas de HONOR">
+<feature>A funcionalidade Voz a texto agora é compatible cos idiomas ruso e español.</feature>
+</features><features module="Cámara">
+<feature>Optimiza o efecto de captura en determinadas situacións.</feature>
+</features><features module="Notas:" type="end">
+<feature>1. Instalar esta actualización non afectará os datos persoais, aínda que se recomenda realizar unha copia de seguranza dos datos antes da actualización.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou vaia a un centro de servizos ao cliente de HONOR para obter axuda.</feature>
+</features></language>
+
+<language name="gu-IN" code="1110">
+<features module="" type="header">
+<feature>પ્રિય વપરાશકર્તા, આ ભલામણ કરેલ અપડેટે સિસ્ટમની સ્થિરતા સુધારી છે અને સુરક્ષા પૅચિસ સમાવ્યા છે.</feature>
+</features>
+<features module="સિસ્ટમ">
+<feature>સિસ્ટમની સ્થિરતા સુધારી છે.</feature>
+<feature>તમારા ઉપકરણને વધુ સરળ રીતે ચલાવવા માટે સિસ્ટમ પ્રદર્શનને ઑપ્ટિમાઇઝ કરે છે.
+તમારા ઉપકરણને વધુ સ્થિર રીતે ચલાવવા માટે સિસ્ટમની સ્થિરતાને સુધારે છે.</feature></features>
+<features module="સુરક્ષા">
+<feature>Android સુરક્ષા પેચ (નવેમ્બર 2024) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી વેબસાઇટ https://www.honor.com/global/support/bulletin/2024/11 ની મુલાકાત લો</feature>
+<feature>Android સુરક્ષા પેચ (સપ્ટેમ્બર 2024) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી વેબસાઇટ https://www.honor.com/global/support/bulletin/2024/9 ની મુલાકાત લો</feature></features>
+
+<features module="HONOR નોંધો">
+<feature>સ્પીચ-ટુ-ટેક્સ્ટ સુવિધા હવે રશિયન અને સ્પેનિશને સમર્થન કરે છે.</feature>
+</features><features module="કૅમેરા">
+<feature>કેટલીક પરિસ્થિતિઓમાં શૂટિંગ પ્રભાવને ઓપ્ટિમાઇઝ કરે છે.</feature>
+</features><features module="નોંધો:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલા તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+</features></language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, इस अनुशंसित अद्यतन ने सिस्टम स्थिरता और शामिल सुरक्षा पैच में सुधार किया है।</feature>
+</features>
+<features module="सिस्टम">
+<feature>सिस्टम स्थिरता में सुधार किया गया है।</feature>
+<feature>आपके डिवाइस को अधिक सुचारू रूप से चलाने के लिए, सिस्टम के प्रदर्शन को अनुकूलित किया जाता है।
+आपके डिवाइस को अधिक स्थिर रूप से चलाने के लिए, सिस्टम की स्थिरता को बेहतर बनाया जाता है।</feature></features>
+<features module="सुरक्षा">
+<feature>सिस्टम की सुरक्षा के लिए Android सुरक्षा पैच (नवंबर, 2024) शामिल किया गया है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट: https://www.honor.com/global/support/bulletin/2024/11 पर जाएँ</feature>
+<feature>सिस्टम की सुरक्षा के लिए Android सुरक्षा पैच (सितंबर, 2024) शामिल किया गया है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR नोट्स">
+<feature>वाक् से पाठ सुविधा में अब रूसी और स्पैनिश भाषा का समर्थन किया जाता है।</feature>
+</features><features module="कैमरा">
+<feature>कुछ परिदृश्यों में शूटिंग प्रभाव को अनुकूलित किया जाता है।</feature>
+</features><features module="टिप्पणियाँ:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपका व्यक्तिगत डेटा नहीं मिटेगा, लेकिन फिर भी पहले से बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता पाने के लिए, HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+</features></language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim je preporučenim ažuriranjem poboljšana stabilnost sustava, a dodane su i sigurnosne zakrpe.</feature>
+</features>
+<features module="Sustav">
+<feature>Poboljšana je stabilnost sustava.</feature>
+<feature>Optimiziraju se performanse sustava pa uređaj radi ujednačenije.
+Poboljšava se stabilnost sustava pa uređaj radi stabilnije.</feature></features>
+<features module="Sigurnost">
+<feature>Implementirana je sigurnosna zakrpa za Android (studeni 2024.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Implementirana je sigurnosna zakrpa za Android (rujan 2024.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Bilješke">
+<feature>Značajka Pretvaranje govora u tekst sada podržava ruski i španjolski jezik.</feature>
+</features><features module="Fotoaparat">
+<feature>Optimizira se efekt snimanja u nekim scenarijima.</feature>
+</features><features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja.
+2. Ako tijekom ažuriranja naiđete na bilo kakve probleme, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+</features></language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Kedves Felhasználó! Ez a javasolt frissítés javítja a rendszerstabilitást és biztonsági javításokat tartalmaz.</feature>
+</features>
+<features module="Rendszer">
+<feature>Javítja a rendszerstabilitást.</feature>
+<feature>Emellett optimalizáltuk a rendszer teljesítményét, így a készülék stabilabban működik.
+Javítottuk a rendszer stabilitását, így a készülék zökkenőmentesebben működik.</feature></features>
+<features module="Biztonság">
+<feature>Tartalmazza a rendszer biztonságát fokozó Android biztonsági javítást (2024. november). A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2024/11</feature>
+<feature>Tartalmazza a rendszer biztonságát fokozó Android biztonsági javítást (2024. szeptember). A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Jegyzetek">
+<feature>A Beszéd szöveggé alakítása funkció mostantól támogatja az orosz és a spanyol nyelvet.</feature>
+</features><features module="Kamera">
+<feature>Bizonyos helyzetekben optimalizáltuk a fényképezés működését.</feature>
+</features><features module="Megjegyzések:" type="end">
+<feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+</features></language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan yang direkomendasikan ini meningkatkan stabilitas sitem dan menyertakan patch keamanan.</feature>
+</features>
+<features module="Sistem">
+<feature>Memperbaiki stabilitas sistem.</feature>
+<feature>Mengoptimalkan kinerja sistem untuk membuat perangkat Anda berjalan dengan lebih lancar.
+Meningkatkan stabilitas sistem sehingga perangkat Anda berjalan dengan lebih stabil.</feature></features>
+<features module="Keamanan">
+<feature>Penambal Keamanan Android (Nov 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Penambal Keamanan Android (Sept 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Catatan">
+<feature>Fitur Ucapan ke Teks kini mendukung bahasa Rusia dan Spanyol.</feature>
+</features><features module="Kamera">
+<feature>Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+</features><features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features></language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan yang direkomendasikan ini meningkatkan stabilitas sitem dan menyertakan patch keamanan.</feature>
+</features>
+<features module="Sistem">
+<feature>Memperbaiki stabilitas sistem.</feature>
+<feature>Mengoptimalkan kinerja sistem untuk membuat perangkat Anda berjalan dengan lebih lancar.
+Meningkatkan stabilitas sistem sehingga perangkat Anda berjalan dengan lebih stabil.</feature></features>
+<features module="Keamanan">
+<feature>Penambal Keamanan Android (Nov 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Penambal Keamanan Android (Sept 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Catatan">
+<feature>Fitur Ucapan ke Teks kini mendukung bahasa Rusia dan Spanyol.</feature>
+</features><features module="Kamera">
+<feature>Mengoptimalkan efek pengambilan gambar di beberapa skenario.</feature>
+</features><features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features></language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consigliato ha migliorato la stabilità del sistema e ha integrato delle patch di sicurezza.</feature>
+</features>
+<features module="Sistema">
+<feature>Stabilità del sistema migliorata.</feature>
+<feature>Vengono ottimizzate le prestazioni del sistema per garantire un funzionamento più fluido del dispositivo.
+Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature></features>
+<features module="Sicurezza">
+<feature>È stata incorporata la patch di sicurezza di Android (novembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/11</feature>
+<feature>È stata incorporata la patch di sicurezza di Android (settembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/9</feature></features>
+
+<features module="Note HONOR">
+<feature>La funzione Riconoscimento vocale supporta ora il russo e lo spagnolo.</feature>
+</features><features module="Fotocamera">
+<feature>Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+</features><features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features></language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consigliato ha migliorato la stabilità del sistema e ha integrato delle patch di sicurezza.</feature>
+</features>
+<features module="Sistema">
+<feature>Stabilità del sistema migliorata.</feature>
+<feature>Vengono ottimizzate le prestazioni del sistema per garantire un funzionamento più fluido del dispositivo.
+Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature></features>
+<features module="Sicurezza">
+<feature>È stata incorporata la patch di sicurezza di Android (novembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/11</feature>
+<feature>È stata incorporata la patch di sicurezza di Android (settembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/9</feature></features>
+
+<features module="Note HONOR">
+<feature>La funzione Riconoscimento vocale supporta ora il russo e lo spagnolo.</feature>
+</features><features module="Fotocamera">
+<feature>Viene ottimizzato l'effetto di scatto in alcuni scenari.</feature>
+</features><features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features></language>
+
+<language name="iw-il" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון מומלץ זה שיפר את יציבות המערכת ושילב תיקוני אבטחה.</feature>
+</features>
+<features module="מערכת">
+<feature>שיפור יציבות המערכת.</feature>
+<feature>ממטב את ביצועי המערכת כדי שההתקן יפעל באופן חלק יותר.
+משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature></features>
+<features module="אבטחה">
+<feature>‏'תיקון אבטחה של Android' (מנוב' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>‏'תיקון אבטחה של Android' (מספט' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="הערות של HONOR">
+<feature>תכונת 'דיבור לטקסט' תומכת כעת ברוסית ובספרדית.</feature>
+</features><features module="מצלמה">
+<feature>ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+</features><features module="הערות:" type="end">
+<feature>‏‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features></language>
+
+<language name="he-" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון מומלץ זה שיפר את יציבות המערכת ושילב תיקוני אבטחה.</feature>
+</features>
+<features module="מערכת">
+<feature>שיפור יציבות המערכת.</feature>
+<feature>ממטב את ביצועי המערכת כדי שההתקן יפעל באופן חלק יותר.
+משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature></features>
+<features module="אבטחה">
+<feature>‏'תיקון אבטחה של Android' (מנוב' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>‏'תיקון אבטחה של Android' (מספט' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="הערות של HONOR">
+<feature>תכונת 'דיבור לטקסט' תומכת כעת ברוסית ובספרדית.</feature>
+</features><features module="מצלמה">
+<feature>ממטב את אפקט הצילום בתרחישים מסוימים.</feature>
+</features><features module="הערות:" type="end">
+<feature>‏‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features></language>
+
+<language name="ja-jp" code="1041">
+<features module="" type="header">
+<feature>ユーザーの皆様、今回の推奨更新では、システムの安定性を改善し、セキュリティパッチを組み込みました。</feature>
+</features>
+<features module="システム">
+<feature>システムの安定性が改善されました。</feature>
+<feature>システムパフォーマンスが最適化され、デバイスがよりスムーズに動作できるようになります。
+システムの安定性が向上し、デバイスがより安定して動作できるようになります。</feature></features>
+<features module="セキュリティ">
+<feature>システムセキュリティのためにAndroidセキュリティパッチ（2024年11月）が組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>システムセキュリティのためにAndroidセキュリティパッチ（2024年9月）が組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONORメモ">
+<feature>音声文字起こし機能がロシア語とスペイン語をサポートするようになります。</feature>
+</features><features module="カメラ">
+<feature>一部の状況における撮影効果が最適化されます。</feature>
+</features><features module="注意：" type="end">
+<feature>1. この更新をインストールしてもユーザーの個人情報に影響はありませんが、更新前にバックアップを取ることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+</features></language>
+
+<language name="ka-ge" code="1079">
+<features module="" type="header">
+<feature>ძვირფასო მომხმარებელო, ამ რეკომენდებულმა განახლებამ გააუმჯობესა სისტემის სტაბილურობა და ჩართო უსაფრთხოების შესწორებები.</feature>
+</features>
+<features module="სისტემა">
+<feature>გაუმჯობესდა სისტემის სტაბილურობა.</feature>
+<feature>ახდენს სისტემის მუშაობის ხარისხის ოპტიმიზებას, რის შედეგადაც მოწყობილობა უფრო შეუფერხებლად მუშაობს.
+აუმჯობესებს სისტემის სტაბილურობას, რის შედეგადაც მოწყობილობა უფრო სტაბილურად მუშაობს.</feature></features>
+<features module="უსაფრთხოება">
+<feature>სისტემის უსაფრთხოებისთვის ჩაირთო Android უსაფრთხოების შესწორება (2024 წლის ნოემბერი). HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>სისტემის უსაფრთხოებისთვის ჩაირთო Android უსაფრთხოების შესწორება (2024 წლის სექტემბერი). HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR შენიშვნები">
+<feature>მეტყველების ტექსტად გარდაქმნის ფუნქციაში უკვე მხარდაჭერილია რუსული და ესპანური ენები.</feature>
+</features><features module="კამერა">
+<feature>ახდენს გადაღების ეფექტის ოპტიმიზებას ზოგიერთ სცენარში.</feature>
+</features><features module="შენიშვნები:" type="end">
+<feature>1. ამ განახლების ინსტალირება არ იქონიებს გავლენას თქვენს პერსონალურ მონაცემებზე, თუმცა მაინც გირჩევთ წინასწარ სარეზერვო კოპირებას.
+2. განახლების დროს პრობლემების წარმოქმნის შემთხვევაში, მხარდაჭერის მისაღებად დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან მიმართეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+</features></language>
+
+<language name="kk-kz" code="1087">
+<features module="" type="header">
+<feature>Құрметті пайдаланушы, бұл ұсынылған жаңарту жүйе тұрақтылығын жақсартты және қауіпсіздік патчтарын біріктірді.</feature>
+</features>
+<features module="Жүйе">
+<feature>Жүйе тұрақтылығы жақсартылды.</feature>
+<feature>Құрылғыңыз бірқалыптырақ іске қосылуы үшін жүйенің өнімділігін оңтайландырады.
+Құрылғының тұрақты жұмыс істеуі үшін жүйенің тұрақтылығын жақсартады.</feature></features>
+<features module="Қауіпсіздік">
+<feature>Android қауіпсіздік патчы (қараша, 2024) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android қауіпсіздік патчы (қыркүйек, 2024) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Ескертпелер">
+<feature>«Сөзді мәтінге түрлендіру» мүмкіндігі енді орыс және испан тілдерін қолдайды.</feature>
+</features><features module="Камера">
+<feature>Кейбір сценарийлерде түсіру әсерін оңтайландырады.</feature>
+</features><features module="Ескертпелер:" type="end">
+<feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+</features></language>
+
+<language name="km-kh" code="1107">
+<features module="" type="header">
+<feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពដែលបានណែនាំនេះ​បានកែលម្អស្ថិរភាពប្រព័ន្ធ និង​បានរួមបញ្ចូល​បំណះសន្តិសុខ។</feature>
+</features>
+<features module="ប្រព័ន្ធ">
+<feature>បានកែលម្អស្ថិរភាពប្រព័ន្ធ។</feature>
+<feature>ធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធ​ប្រសើរឡើង ដើម្បីធ្វើឱ្យ​ឧបករណ៍​របស់អ្នក​ដំណើរការ​បាន​កាន់តែ​រលូន។
+កែលម្អស្ថិរភាពប្រព័ន្ធ ដើម្បីធ្វើឱ្យ​ឧបករណ៍​របស់អ្នក​ដំណើរការ​បាន​កាន់តែមានស្ថិរភាព។</feature></features>
+<features module="សន្តិសុខ">
+<feature>បំណះសន្តិសុខ Android (វិច្ឆិកា 2024) ត្រូវបាន​រួមបញ្ចូល​សម្រាប់​សន្តិសុខ​ប្រព័ន្ធ។ សម្រាប់​ព័ត៌មាន​បន្ថែម​អំពី​បច្ចុប្បន្នភាព​សន្តិសុខ HONOR សូមចូលទៅ​គេហទំព័រ​របស់យើង https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>បំណះសន្តិសុខ Android (កញ្ញា 2024) ត្រូវបាន​រួមបញ្ចូល​សម្រាប់​សន្តិសុខ​ប្រព័ន្ធ។ សម្រាប់​ព័ត៌មាន​បន្ថែម​អំពី​បច្ចុប្បន្នភាព​សន្តិសុខ HONOR សូមចូលទៅ​គេហទំព័រ​របស់យើង https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="កំណត់សម្គាល់ HONOR">
+<feature>ឥឡូវនេះ មុខងារ​សំដីទៅ​ជាអត្ថបទអាចប្រើភាសារុស្ស៊ី និងភាសាអេស្ប៉ាញបានហើយ។</feature>
+</features><features module="កាមេរ៉ា​​​">
+<feature>ធ្វើឱ្យ​បែបផែនថត​ប្រសើរឡើង​ក្នុង​សេណារីយោ​មួយចំនួន។</feature>
+</features><features module="កំណត់សម្គាល់៖" type="end">
+<feature>1. ការដំឡើង​បច្ចុប្បន្នភាព​នេះ​នឹងមិន​ប៉ះពាល់ទិន្នន័យផ្ទាល់ខ្លួន​របស់អ្នក​ទេ ប៉ុន្តែ​នៅតែ​ណែនាំឱ្យ​ធ្វើ​ការបម្រុងទុក​ជាមុន​ដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេល​ធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅ​ខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌល​សេវាកម្មអតិថិជន HONOR ដើម្បី​ទទួលបាន​ជំនួយ។</feature>
+</features></language>
+
+<language name="kn-IN" code="1107">
+<features module="" type="header">
+<feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ಶಿಫಾರಸು ಮಾಡಿದ ನವೀಕರಣವು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸಿದೆ ಮತ್ತು ಭದ್ರತಾ ಪ್ಯಾಚ್‌ಗಳನ್ನು ಅಳವಡಿಸಿದೆ.</feature>
+</features>
+<features module="ಸಿಸ್ಟಂ">
+<feature>ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸಿದೆ.</feature>
+<feature>ನಿಮ್ಮ ಸಾಧನವು ಹೆಚ್ಚು ಸುಗಮವಾಗಿ ಕಾರ್ಯನಿರ್ವಹಿಸಲು ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.
+ನಿಮ್ಮ ಸಾಧನವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರವಾಗಿ ರನ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature></features>
+<features module="ಭದ್ರತೆ">
+<feature>ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ನವೆಂಬರ್ 2024) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಸೆಪ್ಟೆಂಬರ್ 2024) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR ಟಿಪ್ಪಣಿಗಳು">
+<feature>ಮಾತಿನಿಂದ-ಪಠ್ಯ ಸೌಲಭ್ಯವು ಈಗ ರಷ್ಯನ್ ಮತ್ತು ಸ್ಪ್ಯಾನಿಶ್ ಅನ್ನು ಬೆಂಬಲಿಸುತ್ತದೆ.</feature>
+</features><features module="ಕ್ಯಾಮರಾ">
+<feature>ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಎಫೆಕ್ಟ್ ಅನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+</features><features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+<feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೆ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಈಗಲೂ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+</features></language>
+
+<language name="ko-kr" code="1042">
+<features module="" type="header">
+<feature>사용자 여러분 이 권장 업데이트에는 시스템 안정성 개선 및 통합 보안 패치가 포함되어 있습니다.</feature>
+</features>
+<features module="시스템">
+<feature>시스템 안정성이 개선되었습니다.</feature>
+<feature>시스템 성능을 최적화하여 장치가 더 원활하게 실행되도록 합니다.
+시스템 안정성을 개선하여 장치를 더욱 안정적으로 실행할 수 있도록 합니다.</feature></features>
+<features module="보안">
+<feature>시스템 보안을 위해 Android 보안 패치(2024년 11월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 다음에 있는 당사 웹사이트를 방문하세요. https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>시스템 보안을 위해 Android 보안 패치(2024년 9월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 다음에 있는 당사 웹사이트를 방문하세요. https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR 노트">
+<feature>이제 음성 텍스트 변환 기능이 러시아어와 스페인어를 지원합니다.</feature>
+</features><features module="카메라">
+<feature>일부 시나리오에서 촬영 효과를 최적화합니다.</feature>
+</features><features module="참고:" type="end">
+<feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으십시오.</feature>
+</features></language>
+
+<language name="lo-la" code="1108">
+<features module="" type="header">
+<feature>ຮຽນຜູ້ໃຊ້, ການອັບເດດທີ່ແນະນຳນີ້ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ແລະ ລວມເອົາແພດຊ໌ຄວາມປອດໄພ.</feature>
+</features>
+<features module="ລະບົບ">
+<feature>ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ.</feature>
+<feature>ປັບປະ​ສິດ​ທິ​ພາບຂອງລະບົບ​ໃຫ້​ເໝາະ​ສົມ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້​ຄ່ອງ​ແຄ້ວຍິ່ງຂຶ້ນ.
+ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້ສະຖຽນຍິ່ງຂຶ້ນ.</feature></features>
+<features module="ຄວາມ​ປອດ​ໄພ">
+<feature>ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ພະ​ຈິກ 2024) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ກັນ​ຍາ 2024) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>ຕອນ​ນີ້ຄຸນ​ສົມ​ບັດການ​ປ່ຽນ​ຄຳ​ເວົ້າ​ເປັນ​ຂໍ້​ຄວາມ​​ຮອງ​ຮັບພາ​ສາ​ຣັດ​ເຊຍ ແລະ ​ພາ​ສາ​ສະ​ເປນແລ້ວ.</feature>
+</features><features module="ກ້ອງຖ່າຍຮູບ">
+<feature>ປັບເອັບ​ເຝັກການ​ຖ່າຍ​ຮູບໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ.</feature>
+</features><features module="ໝາຍ​ເຫດ:" type="end">
+<feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+</features></language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Gerbiamasis naudotojau, šiuo rekomenduojamu naujiniu buvo pagerintas sistemos stabilumas ir įtrauktos saugumo pataisos.</feature>
+</features>
+<features module="Sistema">
+<feature>Pagerintas sistemos stabilumas.</feature>
+<feature>Optimizuojamas sistemos veikimas, kad įrenginys veiktų sklandžiau.
+Pagerinamas sistemos stabilumas, kad įrenginys veiktų stabiliau.</feature></features>
+<features module="Saugumas">
+<feature>Siekiant užtikrinti sistemos saugumą, įtraukta „Android“ saugumo pataisa (2024 m. lapkričio mėn.). Jei reikia daugiau informacijos apie HONOR saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Siekiant užtikrinti sistemos saugumą, įtraukta „Android“ saugumo pataisa (2024 m. rugsėjo mėn.). Jei reikia daugiau informacijos apie HONOR saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR pastabos">
+<feature>Kalbos vertimo tekstu funkcija nuo šiol dera su rusų ir ispanų kalbomis.</feature>
+</features><features module="Kamera">
+<feature>Kai kuriais atvejais optimizuojamas fotografavimo efektas.</feature>
+</features><features module="Pastabos" type="end">
+<feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+</features></language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Cienījamo lietotāj! Ar šo ieteikto atjauninājumu ir uzlabota sistēmas stabilitāte un ir iekļauti drošības ielāpi.</feature>
+</features>
+<features module="Sistēma">
+<feature>Uzlabota sistēmas stabilitāte.</feature>
+<feature>Optimizē sistēmas veiktspēju, padarot jūsu ierīci vienmērīgāku.
+Uzlabo sistēmas stabilitāti, padarot jūsu ierīci stabilāku.</feature></features>
+<features module="Drošība">
+<feature>Sistēmas drošībai iekļauts Android drošības ielāps (2024. gada novembris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Sistēmas drošībai iekļauts Android drošības ielāps (2024. gada septembris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR piezīmes">
+<feature>Funkcija Runas pārveide tekstā tagad atbalsta krievu un spāņu valodu.</feature>
+</features><features module="Kamera">
+<feature>Optimizē uzņemšanas efektu dažiem scenārijiem.</feature>
+</features><features module="Piezīmes." type="end">
+<feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+</features></language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, ई अनुशंसित अपडेट सिस्टमक स्थिरता मे सुधार आओर सुरक्षा पैच सभ केँ समाविष्ट कयलक अछि।</feature>
+</features>
+<features module="सिस्टम">
+<feature>सिस्टमक स्थिरता मे सुधार कयल गेल।</feature>
+<feature>अहाँक डिवाइस केँ आओर सहज रूप सँ चलयबाक लेल सिस्टमक कार्य-प्रदर्शन मे सुधार करैत अछि।
+अहाँक डिवाइस केँ बेसी स्थिर रूप सँ चलयबाक लेल सिस्टमक स्थिरता मे सुधार करैत अछि।</feature></features>
+<features module="सुरक्षा">
+<feature>सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (नवंबर 2024) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (सितंबर 2024) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR नोट्स">
+<feature>स्पीच-टू-टेक्स्ट विशेषता आब रूसी आ स्पैनिश केर सपोर्ट करैत अछि।</feature>
+</features><features module="कैमरा">
+<feature>किछु परिदृश्य सभ मे शूटिंग प्रभाव केँ अनुकूलित करैत अछि।</feature>
+</features><features module="नोट:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अपन डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+</features></language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>Tēnā koe e te kaiwhakamahi, i pai ake i tēnei whakahōu i tūtohua te tūtorotika o te pūnaha me ngā pāti haumarutanga i manatōpūtia.</feature>
+</features>
+<features module="Pūnaha">
+<feature>Ka whakapai ake i te tūtorotika o te pūnaha.</feature>
+<feature>Arotautia ai te mahinga pūnaha kia rōnaki ake ētahi anō ai te haere o tō pūrere.
+Ka whakapai ake i te taimautanga pūnaha kia pai ētahi anō ai te haere o tō pūrere.</feature></features>
+<features module="Haumarutanga">
+<feature>Kua whakaurua te Āpure Haumarutanga Android (Noema 2024) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Kua whakaurua te Āpure Haumarutanga Android (Mahuru 2024) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Ngā Tuhipoka HONOR">
+<feature>Ināianei e tautoko ana te āhuahira Kōrero-ki-Kuputuhi i te Rūhiana me te Pāniora.</feature>
+</features><features module="Kāmera">
+<feature>Ka arotautia te pānga tākaro i ētahi tauari.</feature>
+</features><features module="Ngā Tuhipoka:" type="end">
+<feature>1. Kāore e pā te tāuta i tēnei whakahōu ki ō ngā raraunga whaiaro, engari me tārua tonu ō raraunga i mua i te whakahōu.
+2. Ki te tūtaki koe i ētahi raruraru i te wā o te whakahōu, waea atu koa ki te raina waewera ratonga HONOR, haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+</features></language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Почитуван кориснику, ова препорачано ажурирање ја подобрува стабилноста на системот и применува безбедносни крпеници.</feature>
+</features>
+<features module="Систем">
+<feature>Ја подобрува стабилноста на системот.</feature>
+<feature>Ги оптимизира перформансите на системот за уредот да работи поглатко.
+Ја подобрува стабилноста на системот за уредот да работи постабилно.</feature></features>
+<features module="Безбедност">
+<feature>Вградена е безбедносна крпеница за Android (ноември 2024) за безбедност на системот. За повеќе информации за ажурирања на безбедноста од HONOR, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Вградена е безбедносна крпеница за Android (септември 2024) за безбедност на системот. За повеќе информации за ажурирања на безбедноста од HONOR, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Белешки од HONOR">
+<feature>Карактеристиката Говор во текст сега поддржува руски и шпански јазик.</feature>
+</features><features module="Камера">
+<feature>Го оптимизира ефектот на сликањето во некои сценарија.</feature>
+</features><features module="Белешки:" type="end">
+<feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но сепак се препорачува да направите резервна копија од податоците пред да ажурирате.
+2. Ако наидете на какви било проблеми при ажурирањето, јавете се на телефонскиот број на службата на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+</features></language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>പ്രിയ ഉപയോക്താവേ, ഈ ശുപാർശ ചെയ്യുന്ന അപ്‌ഡേറ്റിൽ സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുകയും സുരക്ഷാ പാച്ചുകൾ ഉൾപ്പെടുത്തുകയും ചെയ്‌തിട്ടുണ്ട്.</feature>
+</features>
+<features module="സിസ്റ്റം">
+<feature>സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തിയിരിക്കുന്നു.</feature>
+<feature>നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സുഗമമായി പ്രവർത്തിക്കാൻ സിസ്റ്റം പ്രകടനം ഒപ്റ്റിമൈസ് ചെയ്യുന്നു.
+നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സ്ഥിരതയോടെ പ്രവർത്തിക്കാൻ സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature></features>
+<features module="സുരക്ഷ">
+<feature>സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (നവംബർ 2024) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ ഔദ്യോഗിക വെബ്‌സൈറ്റ് ആയ https://www.honor.com/global/support/bulletin/2024/11 സന്ദർശിക്കുക</feature>
+<feature>സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (സെപ്‌റ്റംബർ 2024) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ ഔദ്യോഗിക വെബ്‌സൈറ്റ് ആയ https://www.honor.com/global/support/bulletin/2024/9 സന്ദർശിക്കുക</feature></features>
+
+<features module="HONOR കുറിപ്പുകൾ">
+<feature>സ്‌പീച്ച്-ടു-ടെക്‌സ്‌റ്റ് സവിശേഷത ഇപ്പോൾ റഷ്യൻ, സ്പാനിഷ് ഭാഷകളെ പിന്തുണയ്‌ക്കുന്നു.</feature>
+</features><features module="ക്യാമറ">
+<feature>ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് ഇഫക്റ്റ് ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+</features><features module="കുറിപ്പുകൾ:" type="end">
+<feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features></language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Хүндэт хэрэглэгч танаа, энэхүү санал болгож буй шинэчлэлтээр системийн тогтвортой байдлыг сайжруулж, хамгаалалтын нөхөөсийг багтаав.</feature>
+</features>
+<features module="Систем">
+<feature>Системийн тогтворжилтыг нэмэгдүүлсэн.</feature>
+<feature>Таны төхөөрөмжийг илүү жигд ажиллуулахын тулд системийн тогтворжилтыг оновчиллоо.
+Таны төхөөрөмжийг илүү жигд ажиллуулахын тулд системийн тогтвортой байдлыг сайжруулав.</feature></features>
+<features module="Хамгаалалт">
+<feature>Системийн хамгаалалтад зориулж Андройд хамгаалалтын нөхөөсийг (2024 оны арван нэгдүгээр сар) багтаав. HONOR-н хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтад зочилно уу: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Системийн хамгаалалтад зориулж Андройд хамгаалалтын нөхөөсийг (2024 оны есдүгээр сар) багтаав. HONOR-н хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтад зочилно уу: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Тэмдэглэл">
+<feature>Яриаг бичвэр болгох онцлог одоо орос, испани хэлийг дэмждэг боллоо.</feature>
+</features><features module="Камер">
+<feature>Зарим тохиолдолд зураг авах эффектийг оновчилсон.</feature>
+</features><features module="Тэмдэглэл:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгах нь таны хувийн мэдээллийг арилгахгүй ч, шинэчлэхийн өмнө өгөгдлөө нөөцөлсөн нь дээр.
+2. Шинэчлэх явцад ямар нэг асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төв рүү очиж дэмжлэг авна уу.</feature>
+</features></language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>प्रिय वापरकर्ता, या शिफारस केलेल्या अद्यतनाने सिस्टम स्थिरता सुधारली आणि सुरक्षितता पॅचेस समाविष्ट केले आहेत.</feature>
+</features>
+<features module="सिस्टम">
+<feature>सिस्टम स्थिरता सुधारित केली.</feature>
+<feature>आपले उपकरण अधिक सहजतेने चालण्यासाठी सिस्टम कार्यप्रदर्शन ऑप्टिमाइझ करते.
+आपले उपकरण अधिक स्थिरपणे चालवण्यासाठी सिस्टम स्थिरता सुधारते.</feature></features>
+<features module="सुरक्षितता">
+<feature>सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (नोव्हेंबर 2024) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2024/11 वर जा</feature>
+<feature>सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (सप्टेंबर 2024) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2024/9 वर जा</feature></features>
+
+<features module="HONOR नोट्स">
+<feature>स्‍पीच-टू-टेक्‍स्‍ट वैशिष्ट्य आता रशियन आणि स्पॅनिशला सपोर्ट करते.</feature>
+</features><features module="कॅमेरा">
+<feature>काही परिस्थितींमध्ये शूटिंग प्रभाव ऑप्टिमाइझ करते.</feature>
+</features><features module="नोट्स:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा समर्थनासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+</features></language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Pengguna yang dihormati, kemas kini yang dicadangkan ini meningkatkan kestabilan sistem dan menggabungkan tampalan keselamatan.</feature>
+</features>
+<features module="Sistem">
+<feature>Kestabilan sistem dioptimumkan.</feature>
+<feature>Optimumkan prestasi sistem membolehkan peranti anda berjalan dengan lebih lancar.
+Tingkatkan kestabilan sistem untuk membolehkan peranti anda berjalan dengan lebih stabil.</feature></features>
+<features module="Keselamatan">
+<feature>Tampalan Keselamatan Android (Nov 2024) telah dimasukkan untuk keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Tampalan Keselamatan Android (Sep 2024) telah dimasukkan untuk keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Nota HONOR">
+<feature>Ciri Pertuturan kepada Teks kini menyokong Bahasa Rusia dan Sepanyol.</feature>
+</features><features module="Kamera">
+<feature>Optimumkan kesan penangkapan dalam beberapa senario.</feature>
+</features><features module="Nota:" type="end">
+<feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini.
+2. Jika anda menghadapi sebarang masalah semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+</features></language>
+
+<language name="my-mm" code="1109">
+<features module="" type="header">
+<feature>လေးစားအပ်ပါသော သုံးစွဲသူ၊ ဤအကြံပြုထားသောအပ်ဒိတ်တွင် စနစ် ပိုမိုတည်ငြိမ်စေရန် ဆောင်ရွက်ထားပြီး လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲများကို ပေါင်းစပ်ထည့်သွင်းထားသည်။</feature>
+</features>
+<features module="စနစ်">
+<feature>စနစ် ပိုမိုတည်ငြိမ်စေရန် ဆောင်ရွက်ပေးထားသည်။</feature>
+<feature>သင့်စက် ပိုမိုချောမွေ့စွာ လည်ပတ်နိုင်စေရန် စနစ် စွမ်းဆောင်ရည်ကို အကောင်းဆုံး ချိန်ညှိပေးထားသည်။
+သင့်စက် ပိုမိုတည်ငြိမ်စွာ လည်ပတ်နိုင်စေရန် စနစ် တည်ငြိမ်မှုကို မြှင့်တင်ပေးထားသည်။</feature></features>
+<features module="လုံခြုံရေး">
+<feature>စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (နိုဝင်ဘာ 2024) ကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (စက်တင်ဘာ 2024) ကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>စကားပြောမှ စာသားသို့ပြောင်းသည့် လုပ်ဆောင်ချက်ကို ယခုအခါ ရုရှားနှင့် စပိန်ဘာသာဖြင့် ရရှိနိုင်သည်။</feature>
+</features><features module="ကင်မရာ">
+<feature>အချို့အခြေအနေများ၌ ရိုက်ကူးမှု အထူးပြုလုပ်ချက်ကို အကောင်းဆုံးဖြစ်စေရန် ချိန်ညှိပေးသည်။</feature>
+</features><features module="မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာအပေါ် ထိခိုက်မည် မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်အတောအတွင်း ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီအတွက် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+</features></language>
+
+<language name="my-zg" code="1109">
+<features module="" type="header">
+<feature>ေလးစားအပ္ပါေသာ သံုးစြဲသူ၊ ဤအၾကံျပဳထားေသာအပ္ဒိတ္တြင္ စနစ္ ပိုမိုတည္ၿငိမ္ေစရန္ ေဆာင္ရြက္ထားၿပီး လံုျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲမ်ားကို ေပါင္းစပ္ထည့္သြင္းထားသည္။</feature>
+</features>
+<features module="စနစ္">
+<feature>စနစ္ ပိုမိုတည္ၿငိမ္ေစရန္ ေဆာင္ရြက္ေပးထားသည္။</feature>
+<feature>သင့္စက္ ပိုမိုေခ်ာေမြ႕စြာ လည္ပတ္ႏိုင္ေစရန္ စနစ္ စြမ္းေဆာင္ရည္ကို အေကာင္းဆုံး ခ်ိန္ညႇိေပးထားသည္။
+သင့္စက္ ပိုမိုတည္ၿငိမ္စြာ လည္ပတ္ႏိုင္ေစရန္ စနစ္ တည္ၿငိမ္မႈကို ျမႇင့္တင္ေပးထားသည္။</feature></features>
+<features module="လုံျခံဳေရး">
+<feature>စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ႏိုဝင္ဘာ 2024) ကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။ HONOR လုံၿခဳံေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (စက္တင္ဘာ 2024) ကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။ HONOR လုံၿခဳံေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>စကားေျပာမွ စာသားသို႔ေျပာင္းသည့္ လုပ္ေဆာင္ခ်က္ကို ယခုအခါ ႐ု႐ွားႏွင့္ စပိန္ဘာသာျဖင့္ ရရွိႏိုင္သည္။</feature>
+</features><features module="ကင္မရာ">
+<feature>အခ်ိဳ႕အေျခအေနမ်ား၌ ႐ိုက္ကူးမႈ အထူးျပဳလုပ္ခ်က္ကို အေကာင္းဆုံးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးသည္။</feature>
+</features><features module="မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာအေပၚ ထိခိုက္မည္ မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္အေတာအတြင္း ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီအတြက္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+</features></language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Kjære bruker, denne anbefalte oppdateringen forbedret systemstabiliteten og innlemmet sikkerhetsprogrammer.</feature>
+</features>
+<features module="System">
+<feature>Forbedret systemstabiliteten.</feature>
+<feature>Optimaliserer systemytelsen for å få enheten til å kjøre jevnere.
+Forbedrer systemstabiliteten, slik at enheten kjører mer stabilt.</feature></features>
+<features module="Sikkerhet">
+<feature>Android-sikkerhetsoppdatering (nov 2024) er innlemmet for systemsikkerheten. For mer informasjon om sikkerhetsoppdateringer fra HONOR, besøk nettstedet vårt https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android-sikkerhetsoppdatering (sept. 2024) er innlemmet for systemsikkerhet. For mer informasjon om sikkerhetsoppdateringer fra HONOR, se nettstedet vårt: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notater">
+<feature>Tale-til-tekst-funksjonen støtter nå russisk og spansk.</feature>
+</features><features module="Kamera">
+<feature>Optimerer fotograferingseffekten i enkelte scenarier.</feature>
+</features><features module="Merknader:" type="end">
+<feature>1. Å installere denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for support.</feature>
+</features></language>
+
+<language name="ne-np" code="1121">
+<features module="" type="header">
+<feature>आदरणीय प्रयोगकर्ता, यो सिफारिस गरिएको अद्यावधिकले प्रणालीको स्थिरता सुधार गर्‍यो र सुरक्षा प्याचहरू समावेश गर्‍यो ।</feature>
+</features>
+<features module="प्रणाली">
+<feature>प्रणालीको स्थिरता सुधार गर्‍यो ।</feature>
+<feature>तपाईंको यन्त्र अझ स्थिर रूपमा चल्ने बनाउन प्रणालीको कार्यसम्पादन अप्टिमाइज गर्छ ।
+तपाईंको यन्त्रलाई थप स्थिर रूपमा चल्ने बनाउन प्रणालीको स्थिरतामा सुधार ल्याउँछ ।</feature></features>
+<features module="सुरक्षा">
+<feature>एन्ड्रोइड सुरक्षा प्याच (नोभेम्बर 2024) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारीका लागि, कृपया हाम्रो वेबसाइटमा जानुहोस्: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>एन्ड्रोइड सुरक्षा प्याच (सेप्टेम्बर 2024) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारीका लागि, कृपया हाम्रो वेबसाइटमा जानुहोस् https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>स्पिच-टु-टेक्स्ट सुविधामा अब रसियन र स्पेनिस भाषा प्रयोग गर्न मिल्छ ।</feature>
+</features><features module="क्यामेरा">
+<feature>यसले केही परिदृश्यहरूमा सुटिङको प्रभाव अप्टिमाइज गर्छ ।</feature>
+</features><features module="नोटहरू:" type="end">
+<feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेटको समयमा तपाईंले कुनै पनि समस्याको सामना गर्नुभयो भने, कृपया HONOR सेवा हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+</features></language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Beste gebruiker, deze aanbevolen update verbetert de systeemstabiliteit en bevat beveiligingspatches.</feature>
+</features>
+<features module="Systeem">
+<feature>Verbetert de systeemstabiliteit.</feature>
+<feature>Optimaliseert de systeemprestaties om uw apparaat soepeler te laten werken.
+Verbetert de systeemstabiliteit om uw apparaat stabieler te laten werken.</feature></features>
+<features module="Beveiliging">
+<feature>Android-beveiligingspatch (november 2024) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android-beveiligingspatch (september 2024) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notities">
+<feature>De functie Spraak-naar-tekst ondersteunt nu Russisch en Spaans.</feature>
+</features><features module="Camera">
+<feature>Optimaliseert de opname-ervaring in bepaalde scenario's.</feature>
+</features><features module="Opmerkingen:" type="end">
+<feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+</features></language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ସୁପାରିଶ କରାଯାଇଥିବା ଏହି ଅପଡେଟ୍‌‌ରେ ସିଷ୍ଟମ୍ ସ୍ଥିରତା ବିକାଶ କରାଯାଇଛି ଏବଂ ସୁରକ୍ଷା ପ୍ୟାଚ୍‌‌ଗୁଡ଼ିକ ଅନ୍ତର୍ଭୂକ୍ତ କରାଯାଇଛି।</feature>
+</features>
+<features module="ସିଷ୍ଟମ୍‌">
+<feature>ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାରେ ଉନ୍ନତି କରାଯାଇଛି।</feature>
+<feature>ଆପଣଙ୍କ ଡିଭାଇସ୍‌କୁ ଅଧିକ ସୁଚାରୁ ରୂପେ ଚଲାଇବାକୁ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତା ଅପ୍ଟିମାଇଜ୍‌ କରେ
+ଅପଣଙ୍କ ଡିଭାଇସ୍‌କୁ ଅଧିକ ସ୍ଥିର ଭାବେ ଚଲାଇବାକୁ ସିଷ୍ଟମ୍ ସ୍ଥିରତାକୁ ବଢ଼ାଏ।</feature></features>
+<features module="ସୁରକ୍ଷା">
+<feature>Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ନଭେମ୍ବର 2024) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ସେପ୍ଟେମ୍ବର 2024) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR ନୋଟ୍‌ଗୁଡ଼ିକ">
+<feature>ସ୍ପିଚ୍-ଟୁ-ଟେକ୍ସଟ୍‌ ବିଶେଷତା ବର୍ତ୍ତମାନ ଋଷିୟ ଏବଂ ସ୍ପାନୀୟ ଭାଷାକୁ ସମର୍ଥନ କରେ।</feature>
+</features><features module="କ୍ୟାମେରା">
+<feature>କେତେକ ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ପ୍ରଭାବକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+</features><features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features></language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਅੱਪਡੇਟ ਵਿੱਚ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਹੈ ਅਤੇ ਸੁਰੱਖਿਆ ਪੈਚਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਸਿਸਟਮ">
+<feature>ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।</feature>
+<feature>ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਵਧੇਰੇ ਸੁਚਾਰੂ ਢੰਗ ਨਾਲ ਚਲਾਉਣ ਲਈ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।
+ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਨੂੰ ਵਧੇਰੇ ਸਥਿਰਤਾ ਨਾਲ ਚਲਾਉਣ ਲਈ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ।</feature></features>
+<features module="ਸੁਰੱਖਿਆ">
+<feature>ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਨਵੰਬਰ 2024) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਸਤੰਬਰ 2024) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR ਨੋਟਸ">
+<feature>ਬੋਲੀ-ਤੋਂ-ਲਿਕਤ ਵਿਸ਼ੇਸ਼ਤਾ ਹੁਣ ਰੂਸੀ ਅਤੇ ਸਪੈਨਿਸ਼ ਦਾ ਸਮਰਥਨ ਕਰਦੀ ਹੈ।</feature>
+</features><features module="ਕੈਮਰਾ">
+<feature>ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਪ੍ਰਭਾਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features><features module="ਨੋਟਸ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+</features></language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>Ta zalecana aktualizacja obejmuje poprawę stabilności systemu i wprowadzenie poprawek zabezpieczeń.</feature>
+</features>
+<features module="System">
+<feature>Poprawiono stabilność systemu.</feature>
+<feature>Optymalizuje wydajność systemu, aby urządzenie działało płynniej.
+Poprawia stabilność systemu, aby urządzenie działało stabilniej.</feature></features>
+<features module="Zabezpieczenia">
+<feature>Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (listopad 2024 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń HONOR można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (wrzesień 2024 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń HONOR można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Notatki HONOR">
+<feature>Funkcja Przetwarzanie mowy na tekst obsługuje teraz języki hiszpański i rosyjski.</feature>
+</features><features module="Aparat">
+<feature>Zoptymalizowano efekty aparatu w pewnych sytuacjach.</feature>
+</features><features module="Uwagi:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie wpływa na dane użytkownika, jednak zaleca się wykonanie kopii zapasowej przed aktualizacją.
+2. Jeśli podczas aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+</features></language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Caro usuário, esta atualização recomendada melhorou a estabilidade do sistema e incorporou patches de segurança.</feature>
+</features>
+<features module="Sistema">
+<feature>Melhorou a estabilidade do sistema.</feature>
+<feature>Otimiza o desempenho do sistema para fazer com que seu dispositivo funcione com mais suavidade.
+Aprimora a estabilidade do sistema para fazer com que o dispositivo funcione com mais estabilidade.</feature></features>
+<features module="Segurança">
+<feature>Patch de segurança do Android (novembro de 2024) incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite nosso site: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Patch de segurança do Android (setembro de 2024) incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite nosso site: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Notas HONOR">
+<feature>O recurso de Conversão de fala em texto agora suporta russo e espanhol.</feature>
+</features><features module="Câmera">
+<feature>Otimiza o efeito de captura em alguns cenários.</feature>
+</features><features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não afetará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento de serviço da HONOR ou vá à Central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+</features></language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Caro utilizador, esta atualização recomendada melhorou a estabilidade do sistema e incorporou correções de segurança.</feature>
+</features>
+<features module="Sistema">
+<feature>Estabilidade do sistema melhorada.</feature>
+<feature>Otimiza o desempenho do sistema para que o seu dispositivo funcione de forma mais suave.
+Melhora a estabilidade do sistema para que o seu dispositivo funcione de forma mais estável.</feature></features>
+<features module="Segurança">
+<feature>Foi incorporada uma Correção de Segurança Android (Novembro de 2024) para segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Foi incorporada uma correção de segurança Android (setembro de 2024) para a segurança do sistema. Para mais informações sobre as atualizações de segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Notas HONOR">
+<feature>A funcionalidade de conversão de Voz para Texto suporta agora russo e espanhol.</feature>
+</features><features module="Câmara">
+<feature>Otimiza o efeito de captura em alguns cenários.</feature>
+</features><features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização prévia de uma cópia de segurança.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+</features></language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Stimate utilizator, această actualizare recomandată îmbunătățește stabilitatea sistemului și incorporează corecții de securitate.</feature>
+</features>
+<features module="Sistem">
+<feature>Am îmbunătățit stabilitatea sistemului.</feature>
+<feature>Optimizează performanța sistemului pentru ca dispozitivul să funcționeze mai ușor.
+Îmbunătățește stabilitatea sistemului pentru ca dispozitivul să funcționeze mai stabil.</feature></features>
+<features module="Securitate">
+<feature>Corecția de securitate Android (noiembrie 2024) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2024/11</feature>
+<feature>Corecția de securitate Android (septembrie 2024) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2024/9</feature></features>
+
+<features module="Notițe HONOR">
+<feature>Funcția Voce-text acceptă acum limbile rusă și spaniolă.</feature>
+</features><features module="Cameră foto">
+<feature>Optimizează efectul de fotografiere în anumite scenarii.</feature>
+</features><features module="Note:" type="end">
+<feature>1. Instalarea actualizării nu va cauza ștergerea datelor dvs. personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+</features></language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Уважаемый пользователь! Мы разработали это рекомендованное обновление, чтобы повысить стабильность системы и внедрить исправления безопасности.</feature>
+</features>
+<features module="Система">
+<feature>Улучшена стабильность системы.</feature>
+<feature>Оптимизирована производительность системы, что делает работу с устройством более комфортной.
+Улучшена стабильность системы и, соответственно, работа вашего устройства.</feature></features>
+<features module="Безопасность">
+<feature>В обновление включено исправление безопасности для Android (ноябрь 2024 г.). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2024/11</feature>
+<feature>В обновление включено исправление безопасности для Android (сентябрь 2024 г.). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2024/9</feature></features>
+
+<features module="Заметки HONOR">
+<feature>Функция «Преобразования речи в текст» теперь поддерживает русский и испанский языки.</feature>
+</features><features module="Камера">
+<feature>Оптимизирован эффект съемки в некоторых сценариях.</feature>
+</features><features module="Примечания:" type="end">
+<feature>1. Установка этого обновления не затронет ваши персональные данные, но мы рекомендует сделать резервную копию данных перед обновлением.
+2. При возникновении каких-либо проблем при обновлении обратитесь на горячую линию обслуживания HONOR или в службу поддержки клиента HONOR за помощью.</feature>
+</features></language>
+
+<language name="si-lk" code="1115">
+<features module="" type="header">
+<feature>හිතවත් පරිශීලක, මෙම නිර්දේශිත යාවත්කාලීනය පද්ධතියේ ස්ථායීතාවය වැඩිදියුණු කර ආරක්ෂක පැච් අන්තර්ගත කර ඇත.</feature>
+</features>
+<features module="පද්ධතිය">
+<feature>පද්ධති ස්ථායිතාව වැඩිදියුණු කර ඇත.</feature>
+<feature>ඔබගේ උපාංගය වඩා සුමටව ධාවනය කරවීමට පද්ධතියේ කාර්යසාධනය ප්‍රශස්ත කරයි.
+ඔබගේ උපාංගය වඩා ස්ථායීව ධාවනය කරවීමට පද්ධතියේ ස්ථායිතාවය වැඩිදියුණු කරයි.</feature></features>
+<features module="ආරක්ෂාව">
+<feature>පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2024 නොවැ) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය https://www.honor.com/global/support/bulletin/2024/11 වෙත යන්න</feature>
+<feature>පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2024 සැප්) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය https://www.honor.com/global/support/bulletin/2024/9 වෙත යන්න</feature></features>
+
+<features module="HONOR Notes">
+<feature>කථනය-පෙළ-වෙත විශේෂාංගය දැන් රුසියානු සහ ස්පාඤ්ඤ සඳහා සහය දක්වයි.</feature>
+</features><features module="කැමරාව">
+<feature>සමහර අවස්ථාවල රූගත කිරීමේ ප්‍රයෝගය ප්‍රශස්ත කරයි.</feature>
+</features><features module="සටහන්:" type="end">
+<feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ.
+2. යාවත්කාල කිරීමේ දී ඔබට ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+</features></language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Vážený používateľ, táto odporúčaná aktualizácia zlepšila stabilitu systému a obsahuje bezpečnostné opravy.</feature>
+</features>
+<features module="Systém">
+<feature>Zlepšuje stabilitu systému.</feature>
+<feature>Optimalizuje výkonnosť systému, vďaka čomu zariadenie funguje plynulejšie.
+Zlepšuje stabilitu systému, vďaka čomu zariadenie funguje stabilnejšie.</feature></features>
+<features module="Zabezpečenie">
+<feature>Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z novembra 2024). Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2024/11</feature>
+<feature>Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (zo septembra 2024). Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notes">
+<feature>Funkcia Prevod reči na text teraz podporuje ruštinu a španielčinu.</feature>
+</features><features module="Fotoaparát">
+<feature>Optimalizuje efekt snímania v niektorých situáciách.</feature>
+</features><features module="Poznámky:" type="end">
+<feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+</features></language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Spoštovani uporabnik, ta priporočena posodobitev je izboljšala stabilnost sistema in vključila varnostne popravke.</feature>
+</features>
+<features module="Sistem">
+<feature>Izboljšana stabilnost sistema.</feature>
+<feature>Sistem je optimiziran za nemoteno delovanje naprave.
+Izboljšana je stabilnost sistema, zato je delovanje naprave stabilnejše.</feature></features>
+<features module="Varnost">
+<feature>Varnostni popravki za Android (november 2024) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite spletno mesto https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Varnostni popravki za Android (september 2024) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite spletno mesto https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Zapiski HONOR">
+<feature>Funkcija pretvorbe govora v besedilo zdaj podpira ruščino in španščino.</feature>
+</features><features module="Kamera">
+<feature>Učinek snemanja je optimiziran v nekaterih situacijah.</feature>
+</features><features module="Opombe:" type="end">
+<feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodobitvijo naletite na težave, za podporo pokličite odprto linijo za pomoč uporabnikom izdelkov HONOR ali obiščite središče za storitve družbe HONOR.</feature>
+</features></language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Bästa användare, den här rekommenderade uppdateringen förbättrade systemstabiliteten och implementerade säkerhetskorrigeringar.</feature>
+</features>
+<features module="System">
+<feature>Förbättrade systemets stabilitet.</feature>
+<feature>Optimerar systemets prestanda så att enheten körs jämnare.
+Förbättrar systemets stabilitet så att enheten körs stabilare.</feature></features>
+<features module="Säkerhet">
+<feature>Android-säkerhetskorrigeringen (november 2024) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Android-säkerhetskorrigeringen (september 2024) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Noteringar">
+<feature>Funktionen Tal till text har nu stöd för ryska och spanska.</feature>
+</features><features module="Kamera">
+<feature>Optimerar fotograferingseffekten i vissa scenarier.</feature>
+</features><features module="Noteringar:" type="end">
+<feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar.
+2. Om du stöter på några problem under uppdateringen kan du ringa HONORs hotline för service eller besöka HONORs servicecenter och få support.</feature>
+</features></language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Mtumiaji mpendwa, sasisho hili linalopendekezwa liliboresha uthabiti wa mfumo na likajumuisha marekebisho ya usalama.</feature>
+</features>
+<features module="Mfumo">
+<feature>Iliboresha udhabiti wa mfumo.</feature>
+<feature>Huboresha utendaji wa mfumo ili kufanya kifaa chako kiendeshwe kwa ulaini zaidi.
+Huboresha uthabiti wa mfumo ili kufanya kifaa chako kiendeshwe kwa ulaini zaidi.</feature></features>
+<features module="Usalama">
+<feature>Rekebisho la Usalama wa Android (Nov 2024) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Rekebisho la Usalama wa Android (Sep 2024) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Madokezo ya HONOR">
+<feature>Kipengele cha Usemi hadi Maandishi sasa kinaruhusu Kirusi na Kihispania.</feature>
+</features><features module="Kamera">
+<feature>Linaboresha athari ya upigaji picha katika baadhi ya miktadha.</feature>
+</features><features module="Madokezo:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuweka hifadhi rudufu ya data yako kabla ya kusasisha.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+</features></language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>அன்புள்ள பயனரே, இந்தப் பரிந்துரைக்கப்படும் புதுப்பிப்பு சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது மற்றும் பாதுகாப்புத் தொகுப்புகளைக் கொண்டுள்ளது.</feature>
+</features>
+<features module="சிஸ்டம்">
+<feature>சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+<feature>உங்கள் சாதனத்தை மேலும் ஸ்மூத்தாக இயங்க வைக்க, சிஸ்டம் செயல்திறனை உகந்ததாக்குகிறது.
+உங்கள் சாதனத்தை மேலும் நிலையாக இயங்க வைக்க, சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature></features>
+<features module="பாதுகாப்பு">
+<feature>சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (நவ 2024) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (செப் 2024) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR குறிப்புகள்">
+<feature>பேச்சிலிருந்து உரை அம்சம் இப்போது ரஷ்யன் மற்றும் ஸ்பானிஷ் மொழிகளை ஆதரிக்கிறது.</feature>
+</features><features module="கேமரா">
+<feature>சில சூழ்நிலைகளில் ஷூட்டிங் விளைவை உகந்ததாக்குகிறது.</feature>
+</features><features module="குறிப்புகள்:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features></language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ప్రియమైన వినియోగదారుకి, ఈ సిఫార్సు చేయబడిన సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరిచింది మరియు భద్రతా ప్యాచ్‌లను చొప్పించింది.</feature>
+</features>
+<features module="సిస్టమ్">
+<feature>సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరిచింది.</feature>
+<feature>మీ పరికరం మరింత సజావుగా అమలు కావడానికి సిస్టమ్ పనితీరును ఆప్టిమైజ్ చేస్తుంది.
+మీ పరికరం మరింత స్థిరంగా పని చేయడానికి సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది.</feature></features>
+<features module="భద్రత">
+<feature>సిస్టమ్ భద్రత కోసం Android భద్రత ప్యాచ్ (నవంబర్ 2024) పొందుపరచబడింది. HONOR భద్రత నవీకరణల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్ సందర్శించండి https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>సిస్టమ్ భద్రత కోసం Android భద్రత ప్యాచ్ (సెప్టెంబర్ 2024) పొందుపరచబడింది. HONOR భద్రత నవీకరణల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్ సందర్శించండి https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR గమనికలు">
+<feature>స్పీచ్-నుండి-టెక్స్ట్ ఇప్పుడు రష్యన్ మరియు స్పానిష్ భాషలకు మద్దతు ఇస్తుంది.</feature>
+</features><features module="కెమెరా">
+<feature>కొన్ని సందర్భాల్లో షూటింగ్ ప్రభావాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+</features><features module="గమనికలు:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వల్ల మీ వ్యక్తిగత డేటాపై ప్రభావం ఉండదు, అయితే అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇప్పటికీ సిఫార్సు చేయబడింది.
+2. అప్‌డేట్ సమయంలో మీకు ఏవైనా సమస్యలు ఎదురైతే, దయచేసి HONOR సర్వీస్ హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+</features></language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>เรียนผู้ใช้ การอัปเดตที่แนะนำนี้ได้ปรับปรุงความเสถียรของระบบและรวมแพตช์ความปลอดภัยไว้ในระบบ</feature>
+</features>
+<features module="ระบบ">
+<feature>ปรับปรุงความเสถียรของระบบ</feature>
+<feature>ปรับปรุงประสิทธิภาพของระบบเพื่อทำให้อุปกรณ์ทำงานอย่างราบรื่นยิ่งขึ้น
+ปรับปรุงความเสถียรของระบบเพื่อให้อุปกรณ์ของคุณใช้งานได้อย่างเสถียรมากขึ้น</feature></features>
+<features module="ความปลอดภัย">
+<feature>มีการรวมแพตช์การรักษาความปลอดภัยของ Android (พ.ย. 2024) เพื่อการรักษาความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>มีการรวมแพตช์การรักษาความปลอดภัยของ Android (ก.ย. 2024) เพื่อการรักษาความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR โน้ต">
+<feature>ในตอนนี้ฟีเจอร์การแปลงคำพูดเป็นข้อความรองรับภาษารัสเซียและภาษาสเปนแล้ว</feature>
+</features><features module="กล้องถ่ายรูป">
+<feature>ปรับปรุงเอฟเฟ็กต์การถ่ายภาพในบางสถานการณ์</feature>
+</features><features module="โปรดทราบ:" type="end">
+<feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+</features></language>
+
+<language name="tl-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, pinahusay ng inirerekomendang update na ito ang kakayahan ng system at isinama ang mga panseguridad na patch.</feature>
+</features>
+<features module="System">
+<feature>Pinahusay ang stability ng system.</feature>
+<feature>Ino-optimize ang performance ng system para gawing mas smooth ang pagtakbo ng iyong device.
+Pinapahusay ang stability ng system para gawing mas stable ang pagtakbo ng iyong device.</feature></features>
+<features module="Seguridad">
+<feature>Isinama ang Panseguridad na Patch ng Android (Nob 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Isinama ang Panseguridad na Patch ng Android (Set 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Mga Tala ng HONOR">
+<feature>Sinusuportahan na ng feature na Speech-to-Text ang Russian at Spanish.</feature>
+</features><features module="Camera">
+<feature>Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+</features><features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features></language>
+
+<language name="fil-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, pinahusay ng inirerekomendang update na ito ang kakayahan ng system at isinama ang mga panseguridad na patch.</feature>
+</features>
+<features module="System">
+<feature>Pinahusay ang stability ng system.</feature>
+<feature>Ino-optimize ang performance ng system para gawing mas smooth ang pagtakbo ng iyong device.
+Pinapahusay ang stability ng system para gawing mas stable ang pagtakbo ng iyong device.</feature></features>
+<features module="Seguridad">
+<feature>Isinama ang Panseguridad na Patch ng Android (Nob 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Isinama ang Panseguridad na Patch ng Android (Set 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Mga Tala ng HONOR">
+<feature>Sinusuportahan na ng feature na Speech-to-Text ang Russian at Spanish.</feature>
+</features><features module="Camera">
+<feature>Ino-optimize ang effect sa pag-shoot sa ilang sitwasyon.</feature>
+</features><features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features></language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Sayın kullanıcı, önerilen bu güncelleme ile sistem istikrarı iyileştirilmiş ve güvenlik yamaları sunulmuştur.</feature>
+</features>
+<features module="Sistem">
+<feature>Sistem istikrarı iyileştirilmiştir.</feature>
+<feature>Cihazınızın daha sorunsuz çalışmasını sağlamak için sistem performansı optimize edildi.
+Cihazınızın daha istikrarlı çalışmasını sağlamak için sistem kararlılığı iyileştirildi.</feature></features>
+<features module="Güvenlik">
+<feature>Sistem güvenliği için Android Güvenlik Yamasını (Kasım 2024) içermektedir. HONOR Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2024/11</feature>
+<feature>Sistem güvenliği için Android Güvenlik Yamasını (Eylül 2024) içermektedir. HONOR Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Notlar">
+<feature>Konuşma-Metin özelliği artık Rusça ve İspanyolca'yı destekliyor.</feature>
+</features><features module="Kamera">
+<feature>Bazı senaryolarda fotoğraf çekme efekti optimize edildi.</feature>
+</features><features module="Notlar:" type="end">
+<feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir, fakat yine de güncelleme yapmadan önce yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri servisi merkezlerinden birine gidin.</feature>
+</features></language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىم يېڭىلاشتا سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="«سىستېما»">
+<feature>سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، تاختا كومپيۇتېرىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+<feature>سىستېما ئىقتىدارى ئەلالاشتۇرۇلدى، تاختا كومپيۇتېرىڭىز تېخىمۇ راۋان ئىجرا بولىدۇ.
+سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، تاختا كومپيۇتېرىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature></features>
+<features module="«بىخەتەرلىك»">
+<feature>ئاندرويدنىڭ 2024-يىل 11-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/11</feature>
+<feature>ئاندرويدنىڭ 2024-يىل 9-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/9</feature></features>
+
+<features module="«روڭياۋ خاتىرىسى»">
+<feature>ئاۋازنى تېكىستكە ئايلاندۇرۇش ئىقتىدارى رۇسچە ۋە ئىسپانچە قوللايدىغان بولدى.</feature>
+</features><features module="«كامېرا»">
+<feature>كامېرانىڭ بىر قىسىم كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+</features><features module="يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features></language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Шановний користувачу! Це рекомендоване оновлення покращує стабільність роботи системи й містить виправлення системи безпеки.</feature>
+</features>
+<features module="Система">
+<feature>Покращено стабільність роботи системи.</feature>
+<feature>Оптимізовано продуктивність системи, щоб пристрій працював плавніше.
+Покращено стабільність системи, щоб ваш пристрій працював надійніше.</feature></features>
+<features module="Безпека">
+<feature>Виправлення для системи безпеки Android від листопада 2024 року впроваджено для посилення безпеки системи. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Виправлення для системи безпеки Android від вересня 2024 року впроваджено для посилення безпеки системи. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="Нотатки HONOR">
+<feature>Функція "Перетворення мовлення на текст" тепер підтримує іспанську та російську мови.</feature>
+</features><features module="Камера">
+<feature>Оптимізовано процес знімання на камеру у деяких сценаріях.</feature>
+</features><features module="Примітки." type="end">
+<feature>1. Установлення цього оновлення не вплине на ваші особисті дані, але перед оновленням радимо створити їхню резервну копію.
+2. Якщо під час оновлення виникнуть якісь проблеми, зателефонуйте на гарячу лінію служби підтримки HONOR або зверніться по допомогу в сервісний центр для клієнтів HONOR.</feature>
+</features></language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>معزز صارف، اس تجویز کردہ اپ ڈیٹ نے سسٹم کے استحکام کو بہتر بنا دیا ہے اور سکیورٹی پیچز شامل کر دیے ہیں۔</feature>
+</features>
+<features module="سسٹم">
+<feature>سسٹم کے استحکام کو بہتر بنا دیا ہے۔</feature>
+<feature>آپ کی ڈیوائس کو زیادہ آسانی سے چلانے کے لیے سسٹم کی کارکردگی کو بہتر بناتی ہے۔
+آپ کی ڈیوائس کو مزید مستحکم طریقے سے چلانے کے لیے سسٹم کے استحکام کو بہتر بناتی ہے۔</feature></features>
+<features module="سکیورٹی">
+<feature>‏‏Android سکیورٹی پیچ (نومبر 2024) شامل کر دیا گیا ہے۔ HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں: https://www.honor.com/global/support/bulletin/2024/11</feature>
+</features>
+
+<features module="‏‏‏HONOR نوٹس">
+<feature>اسپیچ ٹو ٹیکسٹ کی خصوصیت اب روسی اور ہسپانوی میں تعاون کرتی ہے۔</feature>
+</features><features module="کیمرہ">
+<feature>کچھ مناظر میں شوٹنگ کا اثر بہتر بناتی ہے۔</feature>
+</features><features module="سیکورٹی">
+<feature>‏‏Android سکیورٹی پیچ (ستمبر 2024) شامل کر دیا گیا ہے۔ HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں: https://www.honor.com/global/support/bulletin/2024/9</feature>
+</features><features module="نوٹس:" type="end">
+<feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں متاثر ہو گا، لیکن پھر بھی اپ ڈیٹ کرنے سے پہلے سے اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2۔ اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+</features></language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Hurmatli foydalanuvchi, ushbu tavsiya etilgan yangilanishda tizim barqarorligi oshirildi va xavfsizlik tuzatmalari kiritildi.</feature>
+</features>
+<features module="Tizim">
+<feature>Tizim barqarorligi oshirildi.</feature>
+<feature>Qurilmangiz muammosiz ishlashi uchun tizim unumdorligi optimallandi.
+Qurilmangiz yanada barqaror ishlashi uchun tizim barqarorligi oshirildi.</feature></features>
+<features module="Xavfsizlik">
+<feature>Tizim xavfsizligi uchun Android xavfsizlik tuzatmasi (2024-yil, noyabr) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Tizim xavfsizligi uchun Android xavfsizlik tuzatmasi (2024-yil, sentabr) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Qaydlar">
+<feature>Nutqni matnga aylantirish funksiyasi endi rus va ispan tillarini dastaklaydi.</feature>
+</features><features module="Kamera">
+<feature>Ayrim holatlardagi tasvirga olish effekti optimallandi.</feature>
+</features><features module="Eslatmalar:" type="end">
+<feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi.
+2. Agar yangilash paytida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+</features></language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Người dùng thân mến! Bản cập nhật đề xuất này cải thiện độ ổn định của hệ thống, đồng thời tích hợp các bản vá bảo mật.</feature>
+</features>
+<features module="Hệ thống">
+<feature>Cải thiện độ ổn định của hệ thống.</feature>
+<feature>Tối ưu hóa hiệu suất hệ thống để thiết bị của bạn chạy mượt mà hơn.
+Cải thiện độ ổn định của hệ thống để giúp thiết bị của bạn chạy ổn định hơn.</feature></features>
+<features module="Bảo mật">
+<feature>Bản cập nhật này tích hợp Bản vá bảo mật Android (tháng 11 năm 2024) để bảo mật hệ thống. Để biết thêm thông tin về các Bản cập nhật bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2024/11</feature>
+<feature>Bản cập nhật này tích hợp Bản vá bảo mật Android (tháng 9 năm 2024) để bảo mật hệ thống. Để biết thêm thông tin về các Bản cập nhật bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2024/9</feature></features>
+
+<features module="HONOR Ghi chú">
+<feature>Tính năng Xuất lời nói thành văn bản hiện hỗ trợ tiếng Nga và tiếng Tây Ban Nha.</feature>
+</features><features module="Máy ảnh">
+<feature>Tối ưu hóa hiệu ứng quay/chụp trong một số trường hợp.</feature>
+</features><features module="Ghi chú:" type="end">
+<feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị ảnh hưởng. Tuy nhiên, bạn vẫn nên sao lưu dữ liệu trước khi cập nhật.
+2. Nếu bạn gặp bất kỳ sự cố nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ khách hàng của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+</features></language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新提升了系統穩定性，整合了安全性修補程式，建議您更新。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的平板電腦運行更穩定。</feature>
+<feature>優化系統效能，讓您的平板電腦運行更流暢。
+提升系統穩定性，讓您的平板電腦運行更穩定。</feature></features>
+<features module="【安全】">
+<feature>整合 Android 2024年11月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+<feature>整合 Android 2024 年 9 月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/9</feature></features>
+
+<features module="【榮耀記事】">
+<feature>語音轉文字功能新增了支援俄文和西班牙文。</feature>
+</features><features module="【相機】">
+<feature>優化部分場景的相機拍攝效果。</feature>
+</features><features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features></language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新提升了系統穩定性，並整合安全修補程式，建議您進行更新。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的平板電腦運作更加穩定。</feature>
+<feature>最佳化系統效能，讓您的平板電腦執行更流暢。
+提升系統穩定性，讓您的平板電腦執行更加穩定。</feature></features>
+<features module="【安全】">
+<feature>整合 Android 2024 年 11 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/11</feature>
+<feature>整合 Android 2024 年 9月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/9</feature></features>
+
+<features module="【榮耀筆記】">
+<feature>語音轉文字功能新增支援俄文和西班牙文。</feature>
+</features><features module="【相機】">
+<feature>最佳化在部分場景下的相機拍攝效果。</feature>
+</features><features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features></language>
+
+</root>

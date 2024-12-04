@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>e94LNrRUlISY9SJGSARDOBFtQFeydRUGZKhFulI/2lI=</fileHash>
+<fileSize>36088</fileSize>
+<metadataHash>ZDWngrg3iI4J5EJyJAZqzWJm2g0lVpNA4XcBNTqcjbs=</metadataHash>
+<metadataSize>15882</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_GFY-L33_claro_la_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_GFY-L33_claro_la_R1.zip</spath>
+<dpath>update_full_preload_GFY-L33_claro_la_R1.zip</dpath>
+<operation>c</operation>
+<sha256>ED86E060D7642F74491F9F3EE43EACCA4C1AED3C61AF54F621A9D577C862D7D7</sha256>
+<size>43265</size>
+</file>
+</files>
+</root>
