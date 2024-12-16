@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1088430080</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>J4gPJoVGh/fRt7S/1cvazyxhiFIKYrmm8rk9w0oaPd0=</fileHash>
+<fileSize>58138</fileSize>
+<metadataHash>Lb6HB+y/12wx6yVYZvEsPAUy051C1pYVYUp0jyA8Ems=</metadataHash>
+<metadataSize>27132</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_ELN-L09_egovcensus_iq.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_ELN-L09_egovcensus_iq.zip</spath>
+<dpath>update_full_cust_ELN-L09_egovcensus_iq.zip</dpath>
+<operation>c</operation>
+<sha256>AFF4F9922E0B4CE935E34526C4C0D5BC8A6B0946EE8FE3C168FBC4FA2737D812</sha256>
+<size>65307</size>
+</file>
+</files>
+</root>

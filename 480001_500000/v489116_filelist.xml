@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>829613791</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>4ou4ywCVZV+2YOH4+M7JWUDAoQBP07DRyAIQPVCnh4k=</fileHash>
+<fileSize>734348767</fileSize>
+<metadataHash>Wq5objFu/2+82Zq198yB08p5aHQRIW38HSi9irM8Z1E=</metadataHash>
+<metadataSize>57250</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_PTP-N49_def_eea_R4.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_PTP-N49_def_eea_R4.zip</spath>
+<dpath>update_full_preload_PTP-N49_def_eea_R4.zip</dpath>
+<operation>c</operation>
+<sha256>4AEC6008B30F22B46D04A9BD319C257F720173730DA560FD1CE9B2D4F4F7D827</sha256>
+<size>734355975</size>
+</file>
+</files>
+</root>

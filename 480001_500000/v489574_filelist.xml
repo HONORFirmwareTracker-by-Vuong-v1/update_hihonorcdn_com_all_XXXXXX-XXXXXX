@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>gxDMkixLJNa9QvvNCKOqCavmlAhV4rxKTxrs1NS0gB4=</fileHash>
+<fileSize>333481732</fileSize>
+<metadataHash>e/ZSpDf2wxGtB44fUvD2zh3J/00FyAm4d81LH6KQdyE=</metadataHash>
+<metadataSize>56771</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRC-N21_def_la_R200.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRC-N21_def_la_R200.zip</spath>
+<dpath>update_full_preload_BRC-N21_def_la_R200.zip</dpath>
+<operation>c</operation>
+<sha256>491DAD2D812167AD301F54C0C50896C97D264D7F1721FFC637F091DCB863E592</sha256>
+<size>333488943</size>
+</file>
+</files>
+</root>

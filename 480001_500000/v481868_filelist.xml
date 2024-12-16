@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593704448</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>wUrTXW4kTUVGwZeRTGL1swBXh0hpD8jQZivQ9WnsIzM=</fileHash>
+<fileSize>98613097</fileSize>
+<metadataHash>8D55IrHpK50zMGlkJhE6F4h+LZAE1VzvmCi7XWCQ+OE=</metadataHash>
+<metadataSize>43026</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_VES-AN00_all_cn_R5.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_VES-AN00_all_cn_R5.zip</spath>
+<dpath>update_preload_VES-AN00_all_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>0AAC88DC3D5761E45CDA5BB421BC12AFBF66124D76D148D1626E5673D3FFF8CD</sha256>
+<size>98620443</size>
+</file>
+</files>
+</root>

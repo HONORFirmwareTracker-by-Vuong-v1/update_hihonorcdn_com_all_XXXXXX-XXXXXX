@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>503174748</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>Xz+g/JguwDRET9lef9AvjyAKCI7fJDT1SpJLyUshyhA=</fileHash>
+<fileSize>452739873</fileSize>
+<metadataHash>15rO6FX+5bNovvcXqrxbVAJxbSUaumTc2Cs4VWM9xY0=</metadataHash>
+<metadataSize>32050</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_FCP-N49_def_meafnaf_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_FCP-N49_def_meafnaf_R3.zip</spath>
+<dpath>update_full_preload_FCP-N49_def_meafnaf_R3.zip</dpath>
+<operation>c</operation>
+<sha256>7E769E796ADE856FBD296D947CFED946A8742100258C9AE2C9850FACFD8A776D</sha256>
+<size>452747085</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>vJEqey1HzXBofUZb+ioT8exyLvC/4MC8KzNW0V9Q/c8=</fileHash>
+<fileSize>150305</fileSize>
+<metadataHash>uxnhTqa3MMD0thW6nB3PBCmj5m74UbaOFYqi1Jq9Y/w=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_HPB-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_HPB-AN00_all_cn.zip</spath>
+<dpath>update_full_cust_HPB-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>9EF2A02E49AFAC92D2093C00136FC10C986F2F7157BDC9BD12F2BD47FAA0C152</sha256>
+<size>157478</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>432201728</cowsize>
+<payloadOffset>907</payloadOffset>
+<fileHash>pgqwq7UCTfYy/9YasX2VLzKRIE60GmjUARpyUggED8s=</fileHash>
+<fileSize>12271</fileSize>
+<metadataHash>7FUGhTWyWc4d/OMqU8AnFsydMVtlASiV22wa85seIPw=</metadataHash>
+<metadataSize>8318</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_ALT-N31_opr_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_ALT-N31_opr_eea.zip</spath>
+<dpath>update_cust_ALT-N31_opr_eea.zip</dpath>
+<operation>c</operation>
+<sha256>F281F9363E6A46E59A6EF6E8C2C604F1877EFCB2734BEF66D4BE83076DEAED3C</sha256>
+<size>19573</size>
+</file>
+</files>
+</root>

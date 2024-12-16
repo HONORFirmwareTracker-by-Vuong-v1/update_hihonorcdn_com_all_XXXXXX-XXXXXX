@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次更新新增重复来电不拦截功能，应用管理页新增应用更新和卸载快捷入口，提升系统性能和稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="设置">
+<feature>•  应用管理页新增应用更新和卸载快捷入口。</feature>
+</features>
+<features module="骚扰拦截">
+<feature>•  新增重复来电不拦截功能，相同号码三分钟内重复来电不再拦截。体验路径：系统管家-骚扰拦截-电话拦截规则-重复来电不拦截。</feature>
+</features>
+<features module="性能">
+<feature>•  优化系统性能，让您的系统更流畅。</feature>
+</features>
+<features module="系统">
+<feature>•  提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="安全">
+<feature>•  合入安卓2024年12月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>this update ensures that repeated incoming calls will not be blocked.  It also enables you to access App update and App uninstall quickly in Manage apps.Additionally, this release improves the system performance and stability, and incorporates a security patch. Update to enjoy the new features and improvements.</feature>
+</features>
+<features module="Settings">
+<feature>• Manage apps now includes shortcuts for App update and App uninstall.</feature>
+</features>
+<features module="Blocked">
+<feature>• A second call from the same number within 3 minutes will not be blocked. Try it out by going to: System Manager > Blocked > Block rules > Call block rules > Allow repeated incoming calls.</feature>
+</features>
+<features module="Performance">
+<feature>• Enhances the system performance for smoother use.</feature>
+</features>
+<features module="System">
+<feature>• Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• Android Security Patch (Dec 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Discover more information on product features in the Tips app.
+3. If you encounter any issues during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

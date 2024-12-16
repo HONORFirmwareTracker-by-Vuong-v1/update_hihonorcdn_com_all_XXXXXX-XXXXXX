@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>2279612416</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>Wl3devxW+vhfU+1PiQXOglt5NIuWG5F4GXwpjHDEb4U=</fileHash>
+<fileSize>306042767</fileSize>
+<metadataHash>ZoCEw1pHn45gXhPI0SINyNDLckkp0DwdaVQv37FtVts=</metadataHash>
+<metadataSize>42200</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ALT-AN00_all_cn_R105.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ALT-AN00_all_cn_R105.zip</spath>
+<dpath>update_preload_ALT-AN00_all_cn_R105.zip</dpath>
+<operation>c</operation>
+<sha256>C7D1C1AE9C47DCA04AE059C5CC8FD18414B15D710483C5A2E786E8AF43B0566C</sha256>
+<size>306050116</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1455149056</cowsize>
+<payloadOffset>932</payloadOffset>
+<fileHash>5CZbpqiszWTm5DlhwLPgQbezfEe69jtJa/CivwokVC0=</fileHash>
+<fileSize>74152672</fileSize>
+<metadataHash>5dzlQtycfGFsay7VFEMZqlmk4mRhWiFccxJzlADNDn0=</metadataHash>
+<metadataSize>44273</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_MGI-AN00_all_cn_R7.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_MGI-AN00_all_cn_R7.zip</spath>
+<dpath>update_preload_MGI-AN00_all_cn_R7.zip</dpath>
+<operation>c</operation>
+<sha256>E28ACFC4AEA42B82F6824EEB52DD5293B7E1C3B350484466CEF0A42BB44B41AA</sha256>
+<size>74160011</size>
+</file>
+</files>
+</root>

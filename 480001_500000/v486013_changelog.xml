@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="请自行修改"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次更新优化拍照效果与拍照体验，优化部分界面显示效果，优化部分场景的充电速度等，推荐您进行更新。</feature>
+</features>
+<features module="【拍照】">
+<feature>优化拍照效果与拍照体验。</feature>
+</features>
+<features module="【显示】">
+<feature>优化部分界面显示效果。</feature>
+</features>
+<features module="【充电】">
+<feature>优化部分场景的充电速度。</feature>
+</features>
+<features module="【性能】">
+<feature>优化系统性能体验，让您的手机运行更流畅。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This recommended update includes system stability optimizations for your device.</feature>
+</features>
+<features module="System">
+<feature>System stability optimizations.</feature>
+</features>
+<features module="Update note:" type="end">
+<feature>1. Installing this update will not erase your personal data, but we recommend that you back up any important data before proceeding.
+2. For more introductions to product features, please visit the "Tips" app.
+</feature>
+</features>
+</language>
+
+</root>
+
+
+

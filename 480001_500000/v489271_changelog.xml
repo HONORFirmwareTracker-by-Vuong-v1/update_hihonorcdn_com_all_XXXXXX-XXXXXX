@@ -1,0 +1,2029 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增隐藏应用桌面图标功能， 优化部分场景相机拍摄效果，提升系统性能和稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="相机">
+<feature>•  优化部分场景相机拍摄效果。</feature>
+</features>
+<features module="性能">
+<feature>•  优化系统性能，让您的系统更流畅。</feature>
+</features>
+<features module="稳定性">
+<feature>•  提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="安全">
+<feature>•  新增隐藏应用桌面图标功能，体验路径：设置>安全和隐私>设备与数据保护>隐藏应用桌面图标。
+•  合入安卓2024年12月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update allows you to hide apps from Home screen. It also optimizes the shooting experience in some scenarios, and improves the system performance and stability. Additionally, this release incorporates a security patch. Update and enjoy the new features and improvements.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimizes the shooting experience in some scenarios.</feature>
+</features>
+<features module="Performance">
+<feature>• Enhances the system performance for smoother operation.</feature>
+</features>
+<features module="Stability">
+<feature>• Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• You can now hide home screen apps. Try it out by going to: Settings > Security &amp; privacy > Device &amp; data protection > Hide apps from Home screen.
+• Android Security Patch (Dec 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+</features>
+</language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ መተግበሪያዎችን ከመነሻ ገጽ ደብቅ ያስችልዎታል። እንዲሁም በአንዳንድ ሁኔታዎች ላይ የማንሳት/መቅረጽ ተሞክሮውን ያተባል፣ እና የስርዓት አፈጻጸምንና እርጋታን ያሻሽላል። በተጨማሪም፣ ይህ ልቀት የደህንነት መጠገኛ ያካትታል። ያዘምኑ እና በአዲሶቹ ባህሪያት እና ማሻሻያዎች ይደሰቱ።</feature>
+</features>
+<features module="ካሜራ">
+<feature>• ይህ ዝማኔ በአንዳንድ ሁኔታዎች የማንሳት/ቀረጻ ተሞክሮውን ያተባል።</feature>
+</features>
+<features module="አፈጻጸም">
+<feature>• ለተሳለጠ ክወና የስርዓቱን አፈጻጸም ያሻሽላል።</feature>
+</features>
+<features module="እርጋታ">
+<feature>• መሳሪያዎን በበለጠ እርጋታ ለማሄድ የስርዓት እርጋታን ያሻሽላል።</feature>
+</features>
+<features module="ደህንነት">
+<feature>• አሁን የመነሻ ገጽ አዶዎችን መደበቅ ይችላሉ። ወደሚከተለው በመሄድ ይሞክሩት፦ ቅንብሮች > ደህንነት እና ግላዊነት > የመሳሪያ እና የውሂብ ጥበቃ > መተግበሪያዎችን ከመነሻ ገጽ ደብቅ።
+የአንድሮይድ የደህንነት መጠገኛ (ዲሴምበር 2024) ለስርዓት ደህንነት ተካትቷል። ስለHONOR ደህንነት ዝማኔዎች የበለጠ መረጃ ለማግኘት እባክዎ ድር ጣቢያችን ይጎብኙ፦ https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ማስታወሻዎች፦" type="end">
+<feature>1. ይህን ዝማኔ መጫን በግል ውሂብዎ ላይ ተጽዕኖ አያሳርፍም፣ ነገር ግን አሁንም ከማዘመንዎ በፊት የውሂብዎን መጠባበቂያ እንዲያስቀምጡ ይመከራል።
+2. በዝማኔው ጊዜ ማናቸውም ችግሮች ካጋጠመዎት እባክዎ ድጋፍ ለማግኘት ወደ የHONOR አገልግሎት ቀጥታ መስመር ይደውሉ ወይም ወደ የHONOR ደንበኛ አገልግሎት ማዕከል ይሂዱ።</feature>
+</features>
+</language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>عزيزي المستخدم، يسمح لك هذا التحديث بإخفاء التطبيقات من الشاشة الرئيسية. وهو يحسّن أيضًا تجربة التصوير في بعض السيناريوهات، ويحسّن أداء النظام واستقراره. ‏‫بالإضافة إلى ذلك، يضمّن هذا الإصدار أيضًا تصحيح أمان. للاستمتاع بالتحسينات والميزات الجديدة، ما عليك سوى التحديث.</feature>
+</features>
+<features module="الكاميرا">
+<feature>• يحسّن تجربة التصوير في بعض السيناريوهات.</feature>
+</features>
+<features module="الأداء">
+<feature>• يحسّن أداء النظام لتشغيل أكثر سلاسة.</feature>
+</features>
+<features module="الاستقرار">
+<feature>• يحسّن استقرار النظام لجعل جهازك يعمل بشكل أكثر استقرارًا.</feature>
+</features>
+<features module="الأمان">
+<feature>• يمكنك الآن إخفاء تطبيقات الشاشة الرئيسية. يمكنك تجربة ذلك بالانتقال إلى: الإعدادات > الأمان والخصوصية > حماية الجهاز > إخفاء التطبيقات من الشاشة الرئيسية.
+• تم تضمين تصحيح أمان أندرويد (ديسمبر 2024) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2024/12</feature>
+</features>
+<features module="الملاحظات:" type="end">
+<feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+</features>
+</language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে আপোনাক হোম স্ক্ৰীণৰ পৰা এপ্প্‌সমূহ লুকুৱাবলৈ অনুমতি দিয়ে। ই লগতে কিছুমান পৰিস্থিতিত শ্বুটিঙৰ অভিজ্ঞতা অনুকূলন কৰে আৰু ছিষ্টেমৰ কাৰ্যদক্ষতা আৰু স্থিৰতা উন্নত কৰে। ইয়াৰ উপৰিও, এই মুক্তিয়ে এটা নিৰাপত্তাৰ পেচ অন্তৰ্ভুক্ত কৰে। নতুন ফিচাৰসমূহ আৰু উন্নতিসমূহ আপডেট কৰক আৰু সেইবোৰ উপভোগ কৰক।</feature>
+</features>
+<features module="কেমেৰা">
+<feature>• কিছুমান পৰিস্থিতিত শ্বুটিঙৰ অভিজ্ঞতা অনুকূলন কৰে।</feature>
+</features>
+<features module="কাৰ্যদক্ষতা">
+<feature>• বাধাহীন কাৰ্যৰ বাবে ছিষ্টেমৰ কাৰ্যদক্ষতা উন্নত কৰে।</feature>
+</features>
+<features module="স্থিৰতা">
+<feature>• আপোনাৰ ডিভাইচ অধিক স্থিৰতাৰে চলাবলৈ ছিষ্টেমৰ স্থিৰতা উন্নত কৰে।</feature>
+</features>
+<features module="নিৰাপত্তা">
+<feature>• আপুনি এতিয়া হোম স্ক্ৰীণৰ এপ্প্‌সমূহ লুকুৱাব পাৰে। ইয়ালৈ গৈ ইয়াক ব্যৱহাৰ কৰি চাওক: ছেটিংছ > নিৰাপত্তা আৰু গোপনীয়তা > ডিভাইচ আৰু ডাটা সুৰক্ষা > হোম স্ক্ৰীণৰ পৰা এপ্প্‌সমূহ লুকুৱাওক।
+• ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ডিচেম্বৰ 2024) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="মনত ৰাখিব:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়।
+2. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ'লে, অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত কল কৰক বা সমৰ্থনৰ বাবে HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাওক।</feature>
+</features>
+</language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Hörmətli istifadəçi, bu yeniləmə Proqramları Əsas ekrandan gizlədin imkan verir. O həmçinin bəzi hallarda çəkiliş təcrübəsini optimallaşdırır və sistemin performansını və sabitliyini yaxşılaşdırır. Bundan əlavə, bu buraxılış təhlükəsizlik paketini ehtiva edir. Yeniləyin və yeni funksiyalar və təkmilləşdirmələrdən həzz alın.</feature>
+</features>
+<features module="Kamera">
+<feature>• Bəzi hallarda çəkiliş təcrübəsini optimallaşdırır.</feature>
+</features>
+<features module="Performans">
+<feature>• Daha rəvan işləməsi üçün sistemin performansını artırır.</feature>
+</features>
+<features module="Stabillik">
+<feature>• Cihazınızın daha stabil işləməsi üçün sistem stabilliyini təkmilləşdirir.</feature>
+</features>
+<features module="Təhlükəsizlik">
+<feature>• Artıq əsas ekran proqramlarını gizlədə bilərsiniz. Bura keçməklə sınayın: Parametrlər > Təhlükəsizlik və məxfilik > Cihaz və verilənlərin mühafizəsi > Proqramları Əsas ekrandan gizlədin.
+• Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (dekabr 2024) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün bu ünvana daxil olun: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Qeydlər:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yeniləmədən əvvəl verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur.
+2. Yeniləmə zamanı hər hansı problemlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+</features>
+</language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Katur pangguna, panganyaran iki mbisakake sampeyan ndhelikake apl saka Layar ngarep. Panganyaran iki uga ngoptimalake pangalaman ngrekam ing sawetara skenario, lan ningkatake kinerja sarta stabilitas sistem. Saliyane iku, rilis iki nggabungake patch keamanan. Anyarake lan nikmati pangapikan sarta fitur anyar.</feature>
+</features>
+<features module="Kamera">
+<feature>• Ngoptimalake pangalaman ngrekam ing sawetara skenario.</feature>
+</features>
+<features module="Kinerja">
+<feature>• Ningkatake kinerja sistem kanggo operasi sing luwih lancar.</feature>
+</features>
+<features module="Stabilitas">
+<feature>• Ngapikake stabilitas sistem supaya piranti mlaku kanthi luwih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Sampeyan saiki bisa ndhelikake apl layar ngarep. Coba fungsi iki kanthi mbukak: Setelan > Keamanan &amp; privasi > Piranti &amp; proteksi data > Dhelikake apl saka Layar ngarep.
+• Patch Keamanan Android (Des 2024) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Cathetan:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mangaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake.
+2. Yen ana masalah sajrone panganyaran, ubungi hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+</features>
+</language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem biće vam omogućeno skrivanje aplikacija sa početnog ekrana. Takođe, njime je optimizovano snimanje u pojedinim situacijama i unapređeni su performanse i stabilnost sistema. Pored toga, ovo ažuriranje obuhvata i bezbednosnu zakrpu. Ažurirajte i uživajte u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Performanse">
+<feature>• Unapređene su performanse sistema radi tečnijeg rada.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Sada možete da sakrijete aplikacije na početnom ekranu. Isprobajte tako što ćete ući u Podešavanja > Bezbednost i privatnost > Zaštita uređaja i podataka > Skrivanje aplikacija sa početnog ekrana.
+• Bezbednosna zakrpa Android (decembar 2024) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem biće vam omogućeno skrivanje aplikacija sa početnog ekrana. Takođe, njime je optimizovano snimanje u pojedinim situacijama i unapređeni su performanse i stabilnost sistema. Pored toga, ovo ažuriranje obuhvata i bezbednosnu zakrpu. Ažurirajte i uživajte u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Performanse">
+<feature>• Unapređene su performanse sistema radi tečnijeg rada.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Sada možete da sakrijete aplikacije na početnom ekranu. Isprobajte tako što ćete ući u Podešavanja > Bezbednost i privatnost > Zaštita uređaja i podataka > Skrivanje aplikacija sa početnog ekrana.
+• Bezbednosna zakrpa Android (decembar 2024) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim ažuriranjem biće vam omogućeno skrivanje aplikacija sa početnog ekrana. Takođe, njime je optimizovano snimanje u pojedinim situacijama i unapređeni su performanse i stabilnost sistema. Pored toga, ovo ažuriranje obuhvata i bezbednosnu zakrpu. Ažurirajte i uživajte u novim funkcijama i unapređenjima.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Performanse">
+<feature>• Unapređene su performanse sistema radi tečnijeg rada.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Poboljšana je stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Sada možete da sakrijete aplikacije na početnom ekranu. Isprobajte tako što ćete ući u Podešavanja > Bezbednost i privatnost > Zaštita uređaja i podataka > Skrivanje aplikacija sa početnog ekrana.
+• Bezbednosna zakrpa Android (decembar 2024) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima koja sprovodi HONOR, posetite našu veb-stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="be-by" code="1059">
+<features module="" type="header">
+<feature>Паважаны карыстальнік, гэта абнаўленне дазваляе схаваць праграмы з галоўнага экрана. Палепшана ўстойлівасць і прадукцыйнасць прылады, а ў некаторых сцэнарыях аптымізаваны функцыі здымкі. Акрамя таго, у гэту версію ўключана выпраўленне сістэмы бяспекі. Устанавіце абнаўленне, каб карыстацца новымі функцыямі і паляпшэннямі.</feature>
+</features>
+<features module="Камера">
+<feature>• У некаторых сцэнарыях аптымізаваны функцыі здымкі.</feature>
+</features>
+<features module="Прадукцыйнасць">
+<feature>• Прадукцыйнасць сістэмы палепшана, што робіць працу больш плаўнай.</feature>
+</features>
+<features module="Устойлівасць">
+<feature>• Устойлівасць сістэмы павышана, што робіць працу прылады больш стабільнай.</feature>
+</features>
+<features module="Бяспека">
+<feature>• Цяпер вы можаце хаваць праграмы з галоўнага экрана. Каб паспрабаваць, прайдзіце ў меню «Налады > Бяспека і прыватнасць > Абарона прылады і даных > Схаваць праграмы з галоўнага экрана».
+• Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (снежань 2024 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым афіцыйным вэб-сайце: https://www.honor.com/by/support/bulletin/2024/12</feature>
+</features>
+<features module="Заўвагі." type="end">
+<feature>1. Устаноўка гэтага абнаўлення не паўплывае на вашы асабістыя даныя, але мы ўсё роўна рэкамендуем зрабіць іх рэзервовую копію перад абнаўленнем.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+</features>
+</language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Уважаеми потребители, тази актуализация ви позволява да Скриване на приложения от началния екран. Също така с нея се оптимизира изживяването при заснемане в някои сценарии и се подобрява производителността на системата. Освен това тази версия включва корекция за сигурността. Актуализирайте и се насладете на новите функции и подобрения.</feature>
+</features>
+<features module="Камера">
+<feature>• Оптимизира се изживяването при заснемане в някои сценарии.</feature>
+</features>
+<features module="Производителност">
+<feature>• Подобрява се производителността на системата за по-гладка работа.</feature>
+</features>
+<features module="Стабилност">
+<feature>• Подобрява се стабилността на системата, за да работи устройството ви по-стабилно.</feature>
+</features>
+<features module="Сигурност">
+<feature>• Вече можете да скривате приложенията от началния екран. Изпробвайте го, като отидете на: „Настройки > Сигурност и поверителност > Устройство и защита на данни > Скриване на приложения от началния екран“.
+• Включена е корекция на сигурността на Android (декември 2024 г.) за системна сигурност. За повече информация относно актуализациите за сигурност на HONOR, моля, посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2024/12</feature>
+</features>
+<features module="Бележки:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да засегне личните ви данни, но е препоръчително архивирането им преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+</features>
+</language>
+
+<language name="bn-bd" code="2117">
+<features module="" type="header">
+<feature>প্রিয় ব্যবহারকারী, এই আপডেটটি আপনাকে হোম স্ক্রিন থেকে অ্যাপগুলি লুকাতে দেয়। এটি কিছু পরিস্থিতিতে শুটিং-এর অভিজ্ঞতাকে অপটিমাইজ করে এবং সিস্টেমের পারফরম্যান্স এবং স্থিতিশীলতাকে উন্নত করে। এছাড়াও এই রিলিজে একটি নিরাপত্তা প্যাচ অন্তর্ভুক্ত করা হয়েছে। আপডেট করুন এবং নতুন বৈশিষ্ট্য ও উন্নতি উপভোগ করুন।</feature>
+</features>
+<features module="ক্যামেরা">
+<feature>• কিছু পরিস্থিতিতে শুটিং-এর অভিজ্ঞতাকে অপটিমাইজ করে।</feature>
+</features>
+<features module="পারফরম্যান্স">
+<feature>• আরও মসৃণভাবে কাজ করার জন্য সিস্টেমের পারফরম্যান্স বাড়ায়।</feature>
+</features>
+<features module="স্থিতিশীলতা">
+<feature>• আপনার ডিভাইসটিকে আরও স্থিতিশীলভাবে চালানোর জন্য সিস্টেমের স্থিতিশীলতা উন্নত করে।</feature>
+</features>
+<features module="নিরাপত্তা">
+<feature>• আপনি এখন হোম স্ক্রিন অ্যাপগুলি লুকাতে পারেন। এখানে গিয়ে এটি ব্যবহার করে দেখুন: সেটিংস > নিরাপত্তা ও গোপনীয়তা > ডিভাইস এবং ডেটা সুরক্ষা > হোম স্ক্রিন থেকে অ্যাপগুলি লুকান।
+• সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (ডিসেম্বর 2024) অন্তর্ভুক্ত করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="নোট:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়।
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་སྦས་སྐུང་ཉེར་སྤྱོད་ཀྱི་ཅོག་ངོས་རིས་རྟགས་ཀྱི་རྩོལ་ནུས་གསར་སྣོན་བྱས་པ་དང་། བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་པར་ལེན་པའི་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ལ། རྒྱུད་ཁོངས་ཀྱི་གཤིས་ནུས་རང་བཞིན་དང་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་། བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཡོད། ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་པར་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="པར་ཆས།">
+<feature>• བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ཆས་ཀྱི་བརྙན་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+</features>
+<features module="གཤིས་ནུས།">
+<feature>• རྒྱུད་ཁོངས་ཀྱི་གཤིས་ནུས་ལེགས་སྒྱུར་བྱས་ནས། ཁྱེད་ཀྱི་རྒྱུད་ཁོངས་དེ་བས་ཐོགས་ཐུག་མེད་པར་བྱེད།</feature>
+</features>
+<features module="བརྟན་འཇགས་རང་བཞིན།">
+<feature>• རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་སྟེ། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་གྱི་འཁོར་སྐྱོད་སྔར་ལས་བརྟན་འཇགས་སུ་གཏོང་དགོས།</feature>
+</features>
+<features module="བདེ་འཇགས།">
+<feature>• སྦས་སྐུང་ཉེར་སྤྱོད་ཀྱི་ཅོག་ངོས་རིས་རྟགས་ཀྱི་རྩོལ་ནུས་གསར་སྣོན་བྱེད། ཉམས་ལེན་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་བདེ་འཇགས་དང་སྒེར་གསང་། དེ་ནས་སྒྲིག་ཆས་དང་གཞི་གྲངས་སྲུང་སྐྱོབ།
+•ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་བ་ 12 པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱེད། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/12 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་སྔར་བཞིན་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་ལེགས་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་བྱེད་པའི་བརྒྱུད་རིམ་ཁྲོད་དུ། གལ་ཏེ་གནད་དོན་གང་རུང་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ། ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་མཁོ་མཁན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་ཕེབས་ནས་རྒྱབ་སྐྱོར་འཚོལ་རོགས།</feature>
+</features>
+</language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovo ažuriranje vam pomaže da sakrijete aplikacije s početnog ekrana. Također optimizira iskustvo snimanja u nekim scenarijima te poboljšava performanse i stabilnost sistema. Pored toga, ovo izdanje uključuje sigurnosnu zakrpu. Ažurirajte i uživajte u novim funkcijama i poboljšanjima.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>• Optimizira iskustvo snimanja u određenim scenarijima.</feature>
+</features>
+<features module="Performanse">
+<feature>• Poboljšava performanse sistema za besprijekorniji rad.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Poboljšava stabilnost sistema kako bi se omogućio stabilniji rad uređaja.</feature>
+</features>
+<features module="Sigurnost">
+<feature>• Sada možete sakriti aplikacije početnog ekrana. Isprobajte ih odlaskom u opciju: Postavke > Sigurnost i privatnost > Zaštita uređaja i podataka > Sakrivanje aplikacija s početnog ekrana.
+• Sigurnosna zakrpa za Android (decembar 2024.) je ugrađena radi sigurnosti sistema. Za više informacija o HONOR sigurnosnim ažuriranjima, posjetite našu web lokaciju https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali ipak se preporučuje da napravite rezervnu kopiju podataka.
+2. Ako naiđete na bilo kakvi problemi tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+</features>
+</language>
+
+<language name="ca-es" code="1027">
+<features module="" type="header">
+<feature>Benvolgut usuari, aquesta actualització us permet amagar aplicacions de la Pantalla inicial. També optimitza l'experiència de captura en algunes situacions i millora el rendiment i l'estabilitat del sistema. A més, aquesta versió incorpora un pedaç de seguretat. Actualitzeu i gaudiu de les noves funcions i millores.</feature>
+</features>
+<features module="Càmera">
+<feature>• Optimitza l'experiència de captura en determinades situacions.</feature>
+</features>
+<features module="Rendiment">
+<feature>• Millora el rendiment del sistema per aconseguir un funcionament més fluid.</feature>
+</features>
+<features module="Estabilitat">
+<feature>• Millora l'estabilitat del sistema, la qual cosa permet que el funcionament del dispositiu sigui més estable.</feature>
+</features>
+<features module="Seguretat">
+<feature>• Ara podeu amagar les aplicacions de la Pantalla inicial. Proveu-ho des de: Configuració > Seguretat i privacitat > Protecció del dispositiu i de les dades > Amagar aplicacions de la Pantalla inicial.
+• S'ha incorporat el pedaç de seguretat d'Android (desembre del 2024) per garantir la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, visiteu el nostre lloc web https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però, així i tot, us recomanem que feu una còpia de seguretat de les dades abans de l'actualització.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o visiteu el centre de servei d'atenció al client d'HONOR.</feature>
+</features>
+</language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Vážený uživateli, tato aktualizace umožňuje skrýt aplikace na domovské obrazovce. V některých situacích také optimalizuje fotografování a zlepšuje výkon a stabilitu systému. Toto vydání obsahuje také opravu zabezpečení. Aktualizujte systém a užívejte si nové funkce a vylepšení.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>• Optimalizuje zážitek z pořizování fotografií a videí v určitých situacích.</feature>
+</features>
+<features module="Výkon">
+<feature>• Zvyšuje výkon systému pro jeho plynulejší obsluhu.</feature>
+</features>
+<features module="Stabilita">
+<feature>• Vylepšuje stabilitu systému, aby zařízení pracovalo stabilněji.</feature>
+</features>
+<features module="Bezpečnost">
+<feature>• Nyní můžete skrýt ikony na domovské obrazovce. Vyzkoušejte to v nabídce Nastavení > Zabezpečení a soukromí > Ochrana zařízení a dat > Skrýt aplikace na domovské obrazovce.
+• Do systému byla začleněna bezpečnostní oprava (prosinec 2024) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2024/12</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+</features>
+</language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Kære bruger, denne opdatering giver dig mulighed for at skjule apps fra Startskærmen. Den optimerer også optagelsesoplevelsen i nogle scenarier og forbedrer systemets ydeevne og stabilitet. Derudover integreres en sikkerhedspatch i denne udgivelse. Opdater og nyd de nye funktioner og forbedringer.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerer optagelsesoplevelsen i nogle scenarier.</feature>
+</features>
+<features module="Ydeevne">
+<feature>• Forbedrer systemets ydeevne, så det kører mere flydende.</feature>
+</features>
+<features module="Stabilitet">
+<feature>• Forbedrer systemets stabilitet, så din enhed kører mere stabilt.</feature>
+</features>
+<features module="Sikkerhed">
+<feature>• Du kan nu skjule apps på Startskærmen. Prøv det ved at gå til: Indstillinger > Sikkerhed og personlige oplysninger > Enhed &amp; databeskyttelse > Skjul apps på Startskærmen.
+• Android-sikkerhedspatch (dec 2024) er blevet integreret med henblik på systemets sikkerhed. Besøg vores websted på https://www.honor.com/global/support/bulletin/2024/12 for at få flere oplysninger om HONOR-sikkerhedsopdateringer.</feature>
+</features>
+<features module="Noter:" type="end">
+<feature>1. Dine personoplysninger vil ikke blive påvirket af at installere denne opdatering, men det anbefales alligevel at sikkerhedskopiere dine data før opdateringen.
+2. Hvis du oplever nogen problemer under opdateringen, bedes du ringe til HONOR-kundeservicenummeret eller gå til HONOR-kundeservicecenter for support.</feature>
+</features>
+</language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, dieses Update ermöglicht es Ihnen, Apps vom Startbildschirm auszublenden. Darüber hinaus optimiert es das Aufnahmeerlebnis für einige Szenarien und verbessert die Systemleistung und -stabilität. Darüber hinaus enthält diese Version einen Sicherheitspatch. Nehmen Sie die Aktualisierung vor und genießen Sie die neuen Funktionen und Verbesserungen.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert das Aufnahmeerlebnis in einigen Szenarien.</feature>
+</features>
+<features module="Leistung">
+<feature>• Verbessert die Systemleistung für einen reibungsloseren Betrieb.</feature>
+</features>
+<features module="Stabilität">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Sie können jetzt Apps auf dem Startbildschirm ausblenden. Sie können es hier ausprobieren: Einstellungen > Sicherheit &amp; Datenschutz > Geräte- und Datenschutz > Apps vom Startbildschirm ausblenden.
+• Der Android Sicherheitspatch (Dez. 2024) für die Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, dieses Update ermöglicht es Ihnen, Apps vom Startbildschirm auszublenden. Darüber hinaus optimiert es das Aufnahmeerlebnis für einige Szenarien und verbessert die Systemleistung und -stabilität. Darüber hinaus enthält diese Version einen Sicherheitspatch. Nehmen Sie die Aktualisierung vor und genießen Sie die neuen Funktionen und Verbesserungen.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert das Aufnahmeerlebnis in einigen Szenarien.</feature>
+</features>
+<features module="Leistung">
+<feature>• Verbessert die Systemleistung für einen reibungsloseren Betrieb.</feature>
+</features>
+<features module="Stabilität">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Sie können jetzt Apps auf dem Startbildschirm ausblenden. Sie können es hier ausprobieren: Einstellungen > Sicherheit &amp; Datenschutz > Geräte- und Datenschutz > Apps vom Startbildschirm ausblenden.
+• Der Android Sicherheitspatch (Dez. 2024) für die Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, dieses Update ermöglicht es Ihnen, Apps vom Startbildschirm auszublenden. Darüber hinaus optimiert es das Aufnahmeerlebnis für einige Szenarien und verbessert die Systemleistung und -stabilität. Darüber hinaus enthält diese Version einen Sicherheitspatch. Nehmen Sie die Aktualisierung vor und genießen Sie die neuen Funktionen und Verbesserungen.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimiert das Aufnahmeerlebnis in einigen Szenarien.</feature>
+</features>
+<features module="Leistung">
+<feature>• Verbessert die Systemleistung für einen reibungsloseren Betrieb.</feature>
+</features>
+<features module="Stabilität">
+<feature>• Verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>• Sie können jetzt Apps auf dem Startbildschirm ausblenden. Sie können es hier ausprobieren: Einstellungen > Sicherheit &amp; Datenschutz > Geräte- und Datenschutz > Apps vom Startbildschirm ausblenden.
+• Der Android Sicherheitspatch (Dez. 2024) für die Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Αγαπητέ χρήστη, αυτή η ενημέρωση σας επιτρέπει να αποκρύψετε εφαρμογές από την Αρχική οθόνη. Βελτιστοποιεί επίσης την εμπειρία λήψης σε ορισμένα σενάρια και βελτιώνει την απόδοση και τη σταθερότητα του συστήματος. Επιπλέον, αυτή η έκδοση ενσωματώνει μια ενημέρωση κώδικα ασφαλείας. Πραγματοποιήστε ενημέρωση και απολαύστε τις νέες δυνατότητες και βελτιώσεις.</feature>
+</features>
+<features module="Κάμερα">
+<feature>• Βελτιστοποιεί την εμπειρία λήψης σε ορισμένα σενάρια.</feature>
+</features>
+<features module="Απόδοση">
+<feature>• Βελτιώνει την απόδοση του συστήματος για πιο ομαλή λειτουργία.</feature>
+</features>
+<features module="Σταθερότητα">
+<feature>• Βελτιώνει τη σταθερότητα του συστήματος για να λειτουργεί η συσκευή σας πιο σταθερά.</feature>
+</features>
+<features module="Ασφάλεια">
+<feature>• Πλέον μπορείτε να αποκρύψετε εφαρμογές της αρχικής οθόνης. Δοκιμάστε το μεταβαίνοντας στις εξής επιλογές: Ρυθμίσεις > Ασφάλεια και απόρρητο > Προστασία συσκευής και δεδομένων > Απόκρυψη εφαρμογών από την Αρχική οθόνη.
+• Η ενημέρωση κώδικα ασφαλείας Android (Δεκέμβριος 2024) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2024/12</feature>
+</features>
+<features module="Σημειώσεις:" type="end">
+<feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση.
+2. Εάν αντιμετωπίσετε τυχόν προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+</features>
+</language>
+
+<language name="en-GB" code="1032">
+<features module="" type="header">
+<feature>Dear user, this update allows you to hide apps from Home screen. It also optimises the shooting experience in some scenarios, and improves the system performance and stability. Additionally, this release incorporates a security patch. Update and enjoy the new features and improvements.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimises the shooting experience in some scenarios.</feature>
+</features>
+<features module="Performance">
+<feature>• Enhances the system performance for smoother operation.</feature>
+</features>
+<features module="Stability">
+<feature>• Improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>• You can now hide home screen apps. Try it out by going to: Settings > Security &amp; privacy > Device &amp; data protection > Hide apps from Home screen.
+• Android Security Patch (Dec 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+</features>
+</language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Estimado/a usuario/a, esta actualización le permite ocultar aplicaciones de la pantalla principal. También optimiza la experiencia de disparo en algunos escenarios y mejora el rendimiento y la estabilidad del sistema. Además, esta versión también incorpora un parche de seguridad. Actualice y disfrute de las nuevas funcionalidades y mejoras.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza la experiencia de grabación en algunas situaciones.</feature>
+</features>
+<features module="Rendimiento">
+<feature>• Mejora el rendimiento del sistema para conseguir un funcionamiento más fluido.</feature>
+</features>
+<features module="Estabilidad">
+<feature>• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Ahora puede ocultar las aplicaciones de la pantalla principal. Para probarlo, vaya a: Ajustes > Seguridad y privacidad > Protección de dispositivos y datos > Ocultar aplicaciones de la pantalla principal.
+• Se ha incorporado el parche de seguridad de Android (diciembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+</features>
+</language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización le permite ocultar aplicaciones de la pantalla principal. También optimiza la experiencia de disparo en algunos escenarios y mejora el rendimiento y la estabilidad del sistema. Además, esta versión también incorpora un parche de seguridad. Actualice y disfrute de las nuevas funcionalidades y mejoras.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza la experiencia de grabación en algunas situaciones.</feature>
+</features>
+<features module="Rendimiento">
+<feature>• Mejora el rendimiento del sistema para conseguir un funcionamiento más fluido.</feature>
+</features>
+<features module="Estabilidad">
+<feature>• Mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Ahora puede ocultar las aplicaciones de la pantalla principal. Para probarlo, vaya a: Ajustes > Sécurité &amp; vie privée > Protection des appareils et des données > Ocultar aplicaciones de la pantalla principal.
+• Se incorporó un parche de seguridad de Android (diciembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/latam/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+</features>
+</language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>Hea kasutaja! See värskendus võimaldab teil rakendusi avakuval peita. Samuti optimeerib see värskendus mõnes olukorras jäädvustamiskogemust ning parandab süsteemi jõudlust ja stabiilsust. Lisaks sisaldab see värskendus turvapaika. Värskendage, et nautida uusi funktsioone ja täiustusi.</feature>
+</features>
+<features module="Kaamera">
+<feature>• Optimeerib jäädvustamiskogemust mõnes olukorras.</feature>
+</features>
+<features module="Jõudlus">
+<feature>• Parandab süsteemi jõudlust sujuvama töötamise tagamiseks.</feature>
+</features>
+<features module="Stabiilsus">
+<feature>• Parandab süsteemi stabiilsust, et seade töötaks tõrgeteta.</feature>
+</features>
+<features module="Turve">
+<feature>• Nüüd saate avakuva rakendused ära peita. Proovige seda, minnes menüüsse Sätted > Turve ja privaatsus > Seadme- ja andmekaitse > Peida avakuval olevad rakendused.
+• Lisati süsteemi turvalisemaks muutev Androidi turvapaik (detsember 2024). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Märkused:" type="end">
+<feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+</features>
+</language>
+
+<language name="eu-es" code="1069">
+<features module="" type="header">
+<feature>Erabiltzaile hori, eguneratzen honi esker, Ezkutatu hasierako pantailako aplikazioak ditzakezu. Horrez gain, zenbait egoeratan argazkiak ateratzeko esperientzia optimizatu da eta sistemaren errendimendua eta egonkortasuna hobetu dira. Gainera, kaleratze honetan segurtasun-adabaki bat gehitu da. Eguneratu eta gozatu eginbide eta hobekuntza berriez.</feature>
+</features>
+<features module="Kamera">
+<feature>• Zenbait egoeratan argazkiak ateratzeko esperientzia optimizatu da.</feature>
+</features>
+<features module="Errendimendua">
+<feature>• Sistemaren errendimendua hobetu da, eragiketak leunago egiteko.</feature>
+</features>
+<features module="Egonkortasuna">
+<feature>• Sistemaren egonkortasuna hobetu da, gailuak hobeto funtziona dezan.</feature>
+</features>
+<features module="Segurtasuna">
+<feature>• Orain hasierako pantailako aplikazioak ezkuta ditzakezu. Probatzeko, joan hona: Ezarpenak > Segurtasuna eta pribatutasuna > Gailuen eta datuen babesa > Ezkutatu hasierako pantailako aplikazioak.
+• Sistemaren segurtasunerako, Android-en segurtasun-adabakia gehitu da (2024ko abe). HONOR segurtasun-eguneratzeei buruzko informazio gehiago nahi izanez gero, bisitatu gure webgunea: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Oharrak:" type="end">
+<feature>1. Eguneratze hau instalatzen baduzu ere, ez diezu eragingo datu pertsonalei, baina gomendagarria da datuen babeskopia bat egitea eguneratzea egin baino lehen.
+2. Arazorik baduzu eguneratzean, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza lortzeko.</feature>
+</features>
+</language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>کاربر گرامی، این به‌روزرسانی امکان پنهان کردن برنامه‌ها از «صفحۀ اصلی» را فراهم می‌کند. همچنین، تجربه تصویربرداری را در برخی سناریوها بهینه می‌کند و عملکرد و پایداری سیستم را بهبود می‌بخشد. به‌علاوه، این نسخه دارای یک وصلۀ امنیتی است. به‌روزرسانی کنید و از قابلیت‌ها و بهبودهای جدید لذت ببرید.</feature>
+</features>
+<features module="دوربین">
+<feature>‏• تجربۀ تصویربرداری را در برخی شرایط بهینه می‌کند.</feature>
+</features>
+<features module="عملکرد">
+<feature>‏• عملکرد سیستم را بهبود می‌بخشد تا عملیات روان‌تر انجام شوند.</feature>
+</features>
+<features module="پایداری">
+<feature>‏• پایداری سیستم را بهبود می‌بخشد تا دستگاه شما عملکرد پایدارتری داشته باشد.</feature>
+</features>
+<features module="امنیت">
+<feature>‏• اکنون می توانید آیکون‌های «صفحۀ اصلی» را پنهان کنید. آن را با رفتن به این قسمت امتحان کنید: تنظیمات > امنیت و حریم خصوصی > محافظت از دستگاه و داده‌ها > پنهان کردن برنامه‌ها از «صفحۀ اصلی».
+‏• وصله امنیتی Android (دسامبر ۲۰۲۴) برای امنیت سیستم گنجانده شده است. برای کسب اطلاعات بیشتر درباره به‌روزرسانی‌های امنیتی HONOR، لطفاً به وب‌سایت ما به این نشانی مراجعه کنید: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="نکات:" type="end">
+<feature>‏۱. نصب این به‌روزرسانی، داده‌های شخصی شما را تحت تأثیر قرار نخواهد داد، اما همچنان توصیه می‌شود قبل از انجام به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+</features>
+</language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Hyvä käyttäjä, tämä päivitys mahdollistaa sovellusten piilottamisen aloitusnäytöltä. Se myös optimoi kuvauskokemuksen joissakin tilanteissa sekä parantaa järjestelmän suorituskykyä ja vakautta. Lisäksi tämä päivitys sisältää turvallisuuskorjauksen. Päivitä, niin pääset nauttimaan uusista ominaisuuksista ja parannuksista.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimoi kuvauskokemuksen joissakin tilanteissa.</feature>
+</features>
+<features module="Suorituskyky">
+<feature>• Parantaa järjestelmän suorituskykyä sujuvampaa toimintaa varten.</feature>
+</features>
+<features module="Vakaus">
+<feature>• Parantaa järjestelmän vakautta, jotta laite toimii vakaammin.</feature>
+</features>
+<features module="Turvallisuus">
+<feature>• Voit nyt piilottaa aloitusnäytön kuvakkeet. Kokeile sitä menemällä kohtaan Asetukset > Turvallisuus ja tietosuoja > Laitteen ja tietojen suojaus > Piilota sovellukset aloitusnäytöltä.
+• Android-turvallisuuskorjaus (joulukuu 2024) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.honor.com/fi/support/bulletin/2024/12</feature>
+</features>
+<features module="Huomautukset:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+</features>
+</language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour vous permet de masquer les applications de l'écran d'accueil. Elle optimise également l'expérience de prise de vue dans certains scénarios et améliore les performances et la stabilité du système. De plus, cette version intègre un correctif de sécurité. Effectuez la mise à jour et profitez des nouvelles fonctionnalités et des améliorations.</feature>
+</features>
+<features module="Appareil photo">
+<feature>• Optimise l'expérience de prise de vue dans certains scénarios.</feature>
+</features>
+<features module="Performance">
+<feature>• Améliore les performances du système pour un fonctionnement plus fluide.</feature>
+</features>
+<features module="Stabilité">
+<feature>• Améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>• Vous pouvez désormais masquer les applications de l'écran d'accueil. Essayez cette fonctionnalité en allant dans : Paramètres > Sécurité &amp; vie privée > Protection des appareils et des données > Masquer les applications de l'écran d'accueil.
+• Un correctif de sécurité Android (décembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/12</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour vous permet de masquer les applications de l'écran d'accueil. Elle optimise également l'expérience de prise de vue dans certains scénarios et améliore les performances et la stabilité du système. De plus, cette version intègre un correctif de sécurité. Effectuez la mise à jour et profitez des nouvelles fonctionnalités et des améliorations.</feature>
+</features>
+<features module="Appareil photo">
+<feature>• Optimise l'expérience de prise de vue dans certains scénarios.</feature>
+</features>
+<features module="Performance">
+<feature>• Améliore les performances du système pour un fonctionnement plus fluide.</feature>
+</features>
+<features module="Stabilité">
+<feature>• Améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>• Vous pouvez désormais masquer les applications de l'écran d'accueil. Essayez cette fonctionnalité en allant dans : Paramètres > Sécurité &amp; vie privée > Protection des appareils et des données > Masquer les applications de l'écran d'accueil.
+• Un correctif de sécurité Android (décembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/12</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="gl-es" code="1110">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización permítelle ocultar aplicacións de Pantalla de inicio. Tamén optimiza a experiencia de captura nalgunhas situacións e mellora o rendemento e a estabilidade do sistema. Ademais, esta versión incorpora un parche de seguranza. Actualice e goce das novas características e melloras.</feature>
+</features>
+<features module="Cámara">
+<feature>• Optimiza a experiencia de captura nalgunhas situacións.</feature>
+</features>
+<features module="Rendemento">
+<feature>• Mellora o rendemento do sistema para que funcione con máis fluidez.</feature>
+</features>
+<features module="Estabilidade">
+<feature>• Mellora a estabilidade do sistema para que o dispositivo funcione dun xeito máis estable.</feature>
+</features>
+<features module="Seguranza">
+<feature>• Agora pode ocultar as aplicacións da Pantalla de inicio. Pode probalo indo a: Configuración > Seguranza e privacidade > Dispositivo e protección de datos > Ocultar aplicacións de Pantalla de inicio.
+• Incorporouse o parche de seguranza de Android (decembro de 2024) para a seguranza do sistema. Para obter máis información sobre as actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta actualización non afectará os seus datos persoais, aínda que se recomenda realizar antes unha copia de seguranza.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou vaia ao centro de servizos ao cliente de HONOR para obter axuda.</feature>
+</features>
+</language>
+
+<language name="gu-IN" code="1110">
+<features module="" type="header">
+<feature>પ્રિય વપરાશકર્તા, આ અપડેટ તમને હોમ સ્ક્રીન પરથી એપ્લિકેશન્સ છુપાવો છુપાવવાની અનુમતિ આપે છે. તે કેટલિક પરિસ્થિતિમાં શૂટિંગના અનુભવને પણ ઑપ્ટિમાઇઝ કરે છે અને સિસ્ટમની કામગીરી અને સ્થિરતાને સુધારે છે. વધુમાં, આ રિલીઝમાં સુરક્ષા પેચનો સમાવેશ થાય છે. અપડેટ કરો અને નવી સુવિધાઓ અને સુધારાઓનો આનંદ લો.</feature>
+</features>
+<features module="કૅમેરા">
+<feature>• અમુક પરિસ્થિતિઓમાં શૂટિંગના અનુભવને ઑપ્ટિમાઇઝ કરે છે.</feature>
+</features>
+<features module="કામગીરી">
+<feature>• સરળ કામગીરી માટે સિસ્ટમની કામગીરીને વધારે છે.</feature>
+</features>
+<features module="સ્થિરતા">
+<feature>• તમારા ઉપકરણને વધુ સ્થિર રીતે ચલાવવા માટે સિસ્ટમની સ્થિરતાને સુધારે છે.</feature>
+</features>
+<features module="સુરક્ષા">
+<feature>તમે હવે હોમ સ્ક્રીન એપ્લિકેશન્સ છુપાવી શકો છો. આના પર જઈને અજમાવી જુઓ: સેટિંગ્સ > સુરક્ષા અને ગોપનીયતા > ઉપકરણ અને ડેટા સંરક્ષણ > હોમ સ્ક્રીન પરથી એપ્લિકેશન્સ છુપાવો.
+• સિસ્ટમ સુરક્ષા માટે એન્ડ્રોઇડ Android પેચ (ડિસેમ્બર 2024) સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી વેબસાઇટની મુલાકાત લો https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="નોંધો:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલાં તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+</features>
+</language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>नमस्ते उपयोगकर्ता, इस अद्यतन से आपको ऐप्स को होम स्क्रीन से छिपाएँ की अनुमति मिलती है। इससे कुछ परिदृश्यों में शूटिंग अनुभव को भी अनुकूलित किया जाता है और सिस्टम प्रदर्शन और स्थिरता में सुधार किया जाता है। इसके अलावा, इस रिलीज़ में सुरक्षा पैच शामिल है। अद्यतन करें और नई सुविधाओं और सुधारों का फ़ायदा उठाएँ।</feature>
+</features>
+<features module="कैमरा">
+<feature>• कुछ परिदृश्यों में शूटिंग अनुभव को अनुकूलित किया जाता है।</feature>
+</features>
+<features module="प्रदर्शन">
+<feature>• अधिक सुचारू संचालन के लिए सिस्टम प्रदर्शन को बढ़ाया जाता है।</feature>
+</features>
+<features module="स्थिरता">
+<feature>• आपके डिवाइस को अधिक स्थिर रूप से चलाने के लिए सिस्टम स्थिरता में सुधार किया जाता है।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>• अब आप होम स्क्रीन ऐप्स छिपा सकते हैं। इसे आज़माने के लिए यहाँ जाएँ: सेटिंग्स > सुरक्षा और गोपनीयता > डिवाइस और डेटा सुरक्षा > ऐप्स को होम स्क्रीन से छिपाएँ।
+• सिस्टम सुरक्षा के लिए Android सुरक्षा पैच (दिसंबर 2024) शामिल किया जाता है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="टिप्पणियाँ:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपके व्यक्तिगत डेटा पर प्रभाव नहीं पड़ेगा, लेकिन फिर भी अद्यतन करने से अपने डेटा का बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता पाने के लिए HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+</features>
+</language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim se ažuriranjem omogućuje skrivanje aplikacija s Početnog zaslona. Optimizira se i iskustvo snimanja u nekim scenarijima te se poboljšavaju performanse i stabilnost sustava. Usto, ovo izdanje uključuje i sigurnosnu zakrpu. Ažurirajte i uživajte u novim značajkama i poboljšanjima.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>• Optimizira se iskustvo snimanja u određenim situacijama.</feature>
+</features>
+<features module="Performanse">
+<feature>• Poboljšavaju se performanse sustava za ujednačeniji rad.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Poboljšava se stabilnost sustava pa uređaj radi stabilnije.</feature>
+</features>
+<features module="Sigurnost">
+<feature>• Sada možete sakriti aplikacije s Početnog zaslona. Isprobajte odlaskom na: Postavke > Sigurnost i privatnost > Zaštita uređaja i podataka > Skrivanje aplikacija s Početnog zaslona.
+• Implementirana je sigurnosna zakrpa za Android (prosinac 2024.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja.
+2. Ako tijekom ažuriranja naiđete na bilo kakve poteškoće, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+</features>
+</language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Kedves felhasználó! Ez a frissítés bevezeti az Alkalmazások elrejtése a főképernyőről funkciót. Ezenfelül bizonyos helyzetekben optimalizálja a fényképezés működését és javítja a rendszer teljesítményét és stabilitását. Emellett ez a verzió egy biztonsági javítást is tartalmaz. Frissítsen, hogy élvezhesse az új funkciókat és fejlesztéseket!</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimalizálja a felvételkészítési élményt bizonyos helyzetekben.</feature>
+</features>
+<features module="Teljesítmény">
+<feature>• Növeli a rendszer teljesítményét a gördülékenyebb működés érdekében.</feature>
+</features>
+<features module="Stabilitás">
+<feature>• Javítottuk a rendszer stabilitását, így a készülék zökkenőmentesebben működik.</feature>
+</features>
+<features module="Biztonság">
+<feature>• Mostantól elrejtheti az alkalmazásokat a főképernyőn. Próbálja ki az alábbi útvonalon: Beállítások > Biztonság és adatvédelem > Készülék- és adatvédelem > Alkalmazások elrejtése a főképernyőről.
+• Tartalmazza a rendszer biztonságát fokozó Android biztonsági javítást (2024. december). A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2024/12</feature>
+</features>
+<features module="Megjegyzések:" type="end">
+<feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+</features>
+</language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan ini memungkinkan Anda menyembunyikan aplikasi dari Layar beranda. Pembaruan ini juga mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario, serta meningkatkan kinerja dan stabilitas sistem. Selain itu, rilis ini menyertakan penambal keamanan. Instal pembaruan ini dan nikmati fitur serta peningkatan barunya.</feature>
+</features>
+<features module="Kamera">
+<feature>• Mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario.</feature>
+</features>
+<features module="Kinerja">
+<feature>• Meningkatkan kinerja sistem untuk pengoperasian yang lebih lancar.</feature>
+</features>
+<features module="Stabilitas">
+<feature>• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Kini, Anda bisa menyembunyikan aplikasi layar beranda. Cobalah dengan membuka: Pengaturan > Keamanan &amp; privasi > Perlindungan data &amp; perangkat > Sembunyikan aplikasi dari Layar beranda.
+• Penambal Keamanan Android (Des 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan untuk mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan ini memungkinkan Anda menyembunyikan aplikasi dari Layar beranda. Pembaruan ini juga mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario, serta meningkatkan kinerja dan stabilitas sistem. Selain itu, rilis ini menyertakan penambal keamanan. Instal pembaruan ini dan nikmati fitur serta peningkatan barunya.</feature>
+</features>
+<features module="Kamera">
+<feature>• Mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario.</feature>
+</features>
+<features module="Kinerja">
+<feature>• Meningkatkan kinerja sistem untuk pengoperasian yang lebih lancar.</feature>
+</features>
+<features module="Stabilitas">
+<feature>• Meningkatkan stabilitas sistem sehingga perangkat berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>• Kini, Anda bisa menyembunyikan aplikasi layar beranda. Cobalah dengan membuka: Pengaturan > Keamanan &amp; privasi > Perlindungan data &amp; perangkat > Sembunyikan aplikasi dari Layar beranda.
+• Penambal Keamanan Android (Des 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan untuk mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consente di nascondere le app dalla schermata Home. Inoltre ottimizza l'esperienza fotografica in alcuni scenari e migliora le prestazioni e la stabilità del sistema. Questa versione incorpora anche una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+</features>
+<features module="Fotocamera">
+<feature>• Viene ottimizzata l'esperienza fotografica in alcuni scenari.</feature>
+</features>
+<features module="Prestazioni">
+<feature>• Vengono migliorate le prestazioni del sistema per un funzionamento più fluido.</feature>
+</features>
+<features module="Stabilità">
+<feature>• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>• Ora è possibile nascondere le app dalla schermata Home. Per provare la funzione, vai in: Impostazioni > Sicurezza e privacy > Protezione dei dispositivi e dei dati > Nascondi le app dalla schermata Home.
+• È stata incorporata la patch di sicurezza di Android (dicembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consente di nascondere le app dalla schermata Home. Inoltre ottimizza l'esperienza fotografica in alcuni scenari e migliora le prestazioni e la stabilità del sistema. Questa versione incorpora anche una patch di sicurezza. Effettua l'aggiornamento per usufruire delle nuove funzionalità e dei miglioramenti.</feature>
+</features>
+<features module="Fotocamera">
+<feature>• Viene ottimizzata l'esperienza fotografica in alcuni scenari.</feature>
+</features>
+<features module="Prestazioni">
+<feature>• Vengono migliorate le prestazioni del sistema per un funzionamento più fluido.</feature>
+</features>
+<features module="Stabilità">
+<feature>• Viene migliorata la stabilità del sistema per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>• Ora è possibile nascondere le app dalla schermata Home. Per provare la funzione, vai in: Impostazioni > Sicurezza e privacy > Protezione dei dispositivi e dei dati > Nascondi le app dalla schermata Home.
+• È stata incorporata la patch di sicurezza di Android (dicembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="iw-il" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון זה מאפשר להסתיר יישומים ממסך הבית. כמו כן, הוא ממטב את חוויית הצילום בתרחישים מסוימים ומשפר את ביצועי המערכת ואת יציבותה. בנוסף, שחרור זה משלב תיקון אבטחה. עדכן כדי להתחיל ליהנות מהתכונות והשיפורים החדשים.</feature>
+</features>
+<features module="מצלמה">
+<feature>‏•ממטב את חוויית הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="ביצועים">
+<feature>‏• משפר את ביצועי המערכת לפעולה חלקה יותר.</feature>
+</features>
+<features module="יציבות">
+<feature>‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏• כעת ניתן להסתיר את יישומי מסך הבית. נסה זאת על ידי מעבר אל 'הגדרות' > 'אבטחה ופרטיות' > 'הגנה על ההתקן ועל נתונים' > 'הסתר יישומים ממסך הבית'.
+‏•'תיקון אבטחה של Android' (מדצמ' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="he-" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון זה מאפשר להסתיר יישומים ממסך הבית. כמו כן, הוא ממטב את חוויית הצילום בתרחישים מסוימים ומשפר את ביצועי המערכת ואת יציבותה. בנוסף, שחרור זה משלב תיקון אבטחה. עדכן כדי להתחיל ליהנות מהתכונות והשיפורים החדשים.</feature>
+</features>
+<features module="מצלמה">
+<feature>‏•ממטב את חוויית הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="ביצועים">
+<feature>‏• משפר את ביצועי המערכת לפעולה חלקה יותר.</feature>
+</features>
+<features module="יציבות">
+<feature>‏• משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏• כעת ניתן להסתיר את יישומי מסך הבית. נסה זאת על ידי מעבר אל 'הגדרות' > 'אבטחה ופרטיות' > 'הגנה על ההתקן ועל נתונים' > 'הסתר יישומים ממסך הבית'.
+‏•'תיקון אבטחה של Android' (מדצמ' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="ja-jp" code="1041">
+<features module="" type="header">
+<feature>ユーザーの皆様、今回の更新では、ホーム画面でアプリを非表示にできるようになります。また、一部の状況において撮影体験が最適化され、システムのパフォーマンスと安定性が改善されます。さらに、今回のリリースでは、セキュリティパッチが組み込まれます。更新して、新機能と改善を楽しみましょう。</feature>
+</features>
+<features module="カメラ">
+<feature>• 一部の状況における撮影体験が最適化されます。</feature>
+</features>
+<features module="パフォーマンス">
+<feature>• システムのパフォーマンスが向上し、操作がスムーズになります。</feature>
+</features>
+<features module="安定性">
+<feature>• システムの安定性が改善され、デバイスがより安定して動作するようになります。</feature>
+</features>
+<features module="セキュリティ">
+<feature>• ホーム画面のアプリを非表示にできるようになりました。この機能を試すには、[設定] > [セキュリティとプライバシー] > [デバイスとデータ保護] > [ホーム画面でアプリを非表示]に移動してください。
+• システムセキュリティのために、Androidセキュリティパッチ（2024年12月）が組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください： https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="注意：" type="end">
+<feature>1. この更新をインストールしてもユーザーの個人情報に影響はありませんが、更新前にバックアップを取ることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+</features>
+</language>
+
+<language name="ka-ge" code="1079">
+<features module="" type="header">
+<feature>ძვირფასო მომხმარებელო, ეს განახლება საშუალებას გაძლევთ, აპების დამალვა საწყისი ეკრანიდან. ასევე ახდენს გადაღების გამოცდილების ოპტიმიზებას ზოგიერთ სცენარში და აუმჯობესებს სისტემის მუშაობასა და სტაბილურობას. გარდა ამისა, ეს გამოცემა ჩართავს უსაფრთხოების შესწორებას. განაახლეთ და ისიამოვნეთ ახალი ფუნქციებითა და გაუმჯობესებებით.</feature>
+</features>
+<features module="კამერა">
+<feature>• ახდენს გადაღების გამოცდილების ოპტიმიზებას ზოგიერთ სცენარში.</feature>
+</features>
+<features module="მუშაობის ხარისხი">
+<feature>• აუმჯობესებს სისტემის ეფექტურობას შეუფერხებელი მუშაობისთვის.</feature>
+</features>
+<features module="სტაბილურობა">
+<feature>აუმჯობესებს სისტემის სტაბილურობას, რის შედეგადაც მოწყობილობა უფრო სტაბილურად მუშაობს.</feature>
+</features>
+<features module="უსაფრთხოება">
+<feature>ახლა შეგიძლიათ დამალოთ საწყისი ეკრანის აპები. ეს შეგიძლიათ სცადოთ მენიუდან: პარამეტრები > უსაფრთხოება და კონფიდენციალურობა > მოწყობილობისა და მონაცემთა დაცვა > აპების დამალვა საწყისი ეკრანიდან.
+• სისტემის უსაფრთხოებისთვის ჩართულია Android-ის უსაფრთხოების შესწორება (2024 წლის დეკემბერი). HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="შენიშვნები:" type="end">
+<feature>1. ამ განახლების ინსტალაცია გავლენას არ მოახდენს თქვენს პერსონალურ მონაცემებზე, მაგრამ მაინც რეკომენდებულია განახლებამდე თქვენი მონაცემების სარეზერვო ასლის შექმნა.
+2. თუ განახლების დროს რაიმე პრობლემა შეგექმნათ, მხარდაჭერისთვის დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან ეწვიეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+</features>
+</language>
+
+<language name="kk-kz" code="1087">
+<features module="" type="header">
+<feature>Құрметті пайдаланушы, бұл жаңарту негізгі экрандағы қолданбаларды жасыруға мүмкіндік береді. Сондай-ақ ол кейбір сценарийлерде түсіру тәжірибесін оңтайландырады және жүйе өнімділігі мен тұрақтылығын жақсартады. Сондай-ақ бұл шығарылым қауіпсіздік патчын біріктіреді. Жаңа мүмкіндіктер мен жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+</features>
+<features module="Камера">
+<feature>• Кейбір сценарийлерде түсіру тәжірибесін оңтайландырады.</feature>
+</features>
+<features module="Өнімділік">
+<feature>• Бірқалыптырақ жұмыс үшін жүйе өнімділігін жақсартады.</feature>
+</features>
+<features module="Тұрақтылық">
+<feature>• Құрылғының тұрақты жұмыс істеуі үшін жүйенің тұрақтылығын жақсартады.</feature>
+</features>
+<features module="Қауіпсіздік">
+<feature>• Енді негізгі экран қолданбаларын жасыра аласыз. Мынаған өту арқылы оны қолданып көріңіз: «Параметрлер» > «Қауіпсіздік және құпиялық» > «Құрылғыны және деректерді қорғау» > «Негізгі экрандағы қолданбаларды жасыру».
+• Android қауіпсіздік патчы (желтоқсан, 2024) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ескертпелер:" type="end">
+<feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+</features>
+</language>
+
+<language name="km-kh" code="1107">
+<features module="" type="header">
+<feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពនេះអនុញ្ញាតឱ្យអ្នកលាក់កម្មវិធីពីអេក្រង់ទំព័រដើម។ វាក៏ធ្វើឱ្យបទពិសោធថតប្រសើរឡើងក្នុងសេណារីយោមួយចំនួន និងកែលម្អប្រតិបត្តិការ និងស្ថិរភាពប្រព័ន្ធ។ លើសពីនេះ ការចេញផ្សាយនេះរួមបញ្ចូលបំណះសន្តិសុខ។ ធ្វើបច្ចុប្បន្នភាព និងរីករាយជាមួយនឹងមុខងារ និងការកែលម្អថ្មីៗ។</feature>
+</features>
+<features module="កាមេរ៉ា">
+<feature>• ធ្វើឱ្យ​បទពិសោធ​ថត​ប្រសើរឡើង​ក្នុង​សេណារីយោ​មួយចំនួន។</feature>
+</features>
+<features module="ប្រតិបត្តិការ">
+<feature>• ធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើងសម្រាប់ប្រតិបត្តិការកាន់តែរលូន។</feature>
+</features>
+<features module="ស្ថិរភាព">
+<feature>• កែលម្អស្ថិរភាពប្រព័ន្ធ ដើម្បីធ្វើឱ្យឧបករណ៍របស់អ្នកដំណើរការបានកាន់តែមានស្ថិរភាព។</feature>
+</features>
+<features module="សន្តិសុខ">
+<feature>• ឥឡូវ អ្នកអាចលាក់កម្មវិធីអេក្រង់ទំព័រដើម។ សាកល្បងប្រើវាដោយចូលទៅកាន់៖ ការកំណត់ > សន្តិសុខ និងឯកជនភាព > ការការពារឧបករណ៍ និងទិន្នន័យ > លាក់កម្មវិធីពីអេក្រង់ទំព័រដើម។
+• បំណះសន្តិសុខ Android (ធ្នូ 2024) ត្រូវបានរួមបញ្ចូលសម្រាប់សន្តិសុខប្រព័ន្ធ។ សម្រាប់ព័ត៌មានបន្ថែមអំពីបច្ចុប្បន្នភាពសន្តិសុខ HONOR សូមចូលទៅគេហទំព័ររបស់យើង https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="កំណត់សម្គាល់៖" type="end">
+<feature>1. ការដំឡើង​បច្ចុប្បន្នភាព​នេះ​នឹងមិន​ប៉ះពាល់ទិន្នន័យផ្ទាល់ខ្លួន​របស់អ្នក​ទេ ប៉ុន្តែ​នៅតែ​ណែនាំឱ្យ​ធ្វើ​ការបម្រុងទុក​ជាមុន​ដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេល​ធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅ​ខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌល​សេវាកម្មអតិថិជន HONOR ដើម្បី​ទទួលបាន​ជំនួយ។</feature>
+</features>
+</language>
+
+<language name="kn-IN" code="1107">
+<features module="" type="header">
+<feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಿಂದ ಆ್ಯಪ್‍‍ಗಳನ್ನು ಮರೆಮಾಡಲು ನಿಮಗೆ ಅನುಮತಿಸುತ್ತದೆ. ಇದು ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಅನುಭವವನ್ನು ಸಹ ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ ಮತ್ತು ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆ ಮತ್ತು ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ. ಹೆಚ್ಚುವರಿಯಾಗಿ, ಈ ಬಿಡುಗಡೆಯು ಭದ್ರತಾ ಪ್ಯಾಚ್ ಅನ್ನು ಅಳವಡಿಸುತ್ತದೆ. ನವೀಕರಿಸಿ ಹಾಗೂ ಹೊಸ ಸೌಲಭ್ಯಗಳನ್ನು ಮತ್ತು ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಿ.</feature>
+</features>
+<features module="ಕ್ಯಾಮರಾ">
+<feature>• ಕೆಲವು ಸನ್ನಿವೇಶಗಳಲ್ಲಿ ಶೂಟಿಂಗ್ ಅನುಭವವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡುತ್ತದೆ.</feature>
+</features>
+<features module="ಕಾರ್ಯಕ್ಷಮತೆ">
+<feature>• ಸುಗಮ ಕಾರ್ಯಾಚರಣೆಗಾಗಿ ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ.</feature>
+</features>
+<features module="ಸ್ಥಿರತೆ">
+<feature>• ನಿಮ್ಮ ಸಾಧನವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರವಾಗಿ ರನ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+</features>
+<features module="ಭದ್ರತೆ">
+<feature>• ನೀವು ಈಗ ಹೋಮ್ ಸ್ಕ್ರೀನ್ ಆ್ಯಪ್‍‍ಗಳನ್ನು ಮರೆಮಾಡಬಹುದು. ಇಲ್ಲಿಗೆ ಹೋಗುವ ಮೂಲಕ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ ನೋಡಿ: ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಭದ್ರತೆ ಮತ್ತು ಗೌಪ್ಯತೆ > ಸಾಧನ ಮತ್ತು ಡೇಟಾ ರಕ್ಷಣೆ > ಹೋಮ್ ಸ್ಕ್ರೀನ್‌ನಿಂದ ಆ್ಯಪ್‍‍ಗಳನ್ನು ಮರೆಮಾಡಿ.
+• ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಡಿಸೆಂಬರ್ 2024) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್ಸೈಟ್ಗೆ ಭೇಟಿ ನೀಡಿ: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+<feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೆ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಈಗಲೂ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+</features>
+</language>
+
+<language name="ko-kr" code="1042">
+<features module="" type="header">
+<feature>사용자 여러분, 이 업데이트를 통해 홈 화면에서 앱을 숨길 수 있습니다. 또한 일부 시나리오에서 촬영 경험을 최적화하고 시스템 성능과 안정성을 향상시킵니다. 뿐만 아니라, 이번 릴리스에는 보안 패치가 포함되어 있습니다. 업데이트하여 새로운 기능과 개선 사항을 즐겨보세요.</feature>
+</features>
+<features module="카메라">
+<feature>• 일부 시나리오의 촬영 경험이 최적화되었습니다.</feature>
+</features>
+<features module="성능">
+<feature>• 보다 원활한 작동을 위해 시스템 성능이 향상되었습니다.</feature>
+</features>
+<features module="안정성">
+<feature>• 시스템 안정성을 개선하여 장치를 더욱 안정적으로 실행할 수 있도록 합니다.</feature>
+</features>
+<features module="보안">
+<feature>• 이제 홈 화면 앱을 숨길 수 있습니다. 설정 > 보안 및 개인 정보 보호 > 장치 및 데이터 보안 > 홈 화면에서 앱 숨기기로 이동하여 사용해 보세요.
+• 시스템 보안을 위해 Android 보안 패치(2024년 12월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 다음에 있는 당사 웹사이트를 방문하세요. https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="참고:" type="end">
+<feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으세요.</feature>
+</features>
+</language>
+
+<language name="lo-la" code="1108">
+<features module="" type="header">
+<feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດ​ນີ້​ອະ​ນຸ​ຍາດ​ໃຫ້​ທ່ານເຊື່ອງ​ແອັບຈາກໜ້າຈໍຫຼັກ​. ນອກນັ້ນ ມັນ​ຍັງ​ປັບ​ປະ​ສົບ​​ການການ​ຖ່າຍ​ຮູບ​ໃນ​ບາງ​ສະ​ພາບການ​ໃຫ້​ເໝາະ​ສົມ ແລະ ປັບ​ປຸງ​ປະ​ສິດ​ທິ​ພາບ ແລະ ຄວາມ​ສະ​ຖຽນ​ຂອງ​ລະ​ບົບ. ນອກຈາກ​ນີ້,​ ການ​ເປີດ​ຕົວນີ້​ຍັງ​ລວມ​ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ເຂົ້າ​ກັນ. ອັບ​ເດດ​ ແລະ ມ່ວນ​​ຊື່ນ​ກັບ​ຄຸນ​ສົມ​ບັດ ແລະ ການ​ປັບ​ປຸງ​ໃໝ່.</feature>
+</features>
+<features module="ກ້ອງຖ່າຍຮູບ">
+<feature>• ປັບປະ​ສົບ​ການການ​ຖ່າຍ​ຮູບໃນບາງສະພາບການ​ໃຫ້ເໝາະສົມ.</feature>
+</features>
+<features module="ປະ​ສິດ​ທິ​ພາບ">
+<feature>• ຍົກ​ລະ​ດັບ​ປະ​ສິດ​ທິ​ພາບ​ລະ​ບົບ​ສຳ​ລັບ​ການ​ດຳ​​ເນີນ​ການ​ທີ່​ຄ່ອງ​ແຄ້​ວຂຶ້ນ.</feature>
+</features>
+<features module="ຄວາມສະຖຽນ">
+<feature>• ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້ສະຖຽນຍິ່ງຂຶ້ນ.</feature>
+</features>
+<features module="ຄວາມ​ປອດ​ໄພ">
+<feature>• ຕອນ​ນີ້ທ່ານ​ສາ​ມາດ​ເຊື່ອງແອັບໜ້າ​ຈໍຫຼັກ​ໄດ້​ແລ້ວ. ​ລອງ​ໃຊ້​ມັນ​ໄດ້​ໂດຍ​ການ​ໄປ​ທີ່: ການ​ຕັ້ງ​ຄ່າ > ຄວາມ​ປອດ​ໄພ ແລະ ຄວາມ​ເປັນ​ສ່ວນ​ຕົວ > ການ​ປົກ​ປ້ອງ​ອຸ​ປະ​ກອນ ແລະ ຂໍ້​ມູນ > ເຊື່ອງ​ແອັບຈາກໜ້າຈໍຫຼັກ​.
+• ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ທັນ​ວາ 2024) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ໝາຍ​ເຫດ:" type="end">
+<feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+</features>
+</language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Gerbiamasis naudotojau, šis naujinys leidžia paslėpti programėles iš pradžios ekrano. Taip pat kai kuriais atvejais optimizuojama fotografavimo patirtis ir pagerinamas sistemos našumas bei stabilumas. Be to, į šią versiją įtraukta saugumo pataisa. Atnaujinkite ir mėgaukitės naujomis funkcijomis bei patobulinimais.</feature>
+</features>
+<features module="Kamera">
+<feature>• Kai kuriais atvejais optimizuojama fotografavimo patirtis.</feature>
+</features>
+<features module="Našumas">
+<feature>• Pagerinamas sistemos našumas, kad ji veiktų sklandžiau.</feature>
+</features>
+<features module="Stabilumas">
+<feature>• Pagerinamas sistemos stabilumas, todėl įrenginys veikia stabiliau.</feature>
+</features>
+<features module="Saugumas">
+<feature>• Nuo šiol galėsite slėpti pradžios ekrano programėles. Išbandykite tai nuėję į „Nuostatos > Saugumas ir privatumas > Įrenginio ir duomenų apsauga > Slėpti programėles iš pradžios ekrano“.
+• Sistemos saugumui užtikrinti buvo įdiegta „Android“ saugumo pataisa (2024 m. gruodis). Daugiau informacijos apie HONOR saugumo atnaujinimus rasite mūsų svetainėje https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Pastabos" type="end">
+<feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę duomenų kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+</features>
+</language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Cien. lietotāj! Ar šo atjauninājumu var paslēpt lietotnes sākuma ekrānā. Tas arī optimizē fotografēšanas pieredzi dažos scenārijos un uzlabo sistēmas veiktspēju un stabilitāti. Turklāt šajā laidienā ir iekļauts arī drošības ielāps. Atjauniniet un baudiet jaunās funkcijas un uzlabojumus.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimizē uzņemšanu noteiktos apstākļos.</feature>
+</features>
+<features module="Veiktspēja">
+<feature>• Uzlabo sistēmas veiktspēju vienmērīgākai darbībai.</feature>
+</features>
+<features module="Stabilitāte">
+<feature>• Uzlabo sistēmas stabilitāti, padarot jūsu ierīci stabilāku.</feature>
+</features>
+<features module="Drošība">
+<feature>• Tagad varat paslēpt sākuma ekrāna lietotnes. Izmēģiniet to, atverot: Iestatījumi > Drošība un konfidencialitāte > Ierīču un datu aizsardzība > Slēpt lietotnes sākuma ekrānā.
+• Sistēmas drošībai iekļauts Android drošības ielāps (2024. gada decembris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Piezīmes." type="end">
+<feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+</features>
+</language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, ई अपडेट अहाँ केँ होम स्क्रीन सँ एप सभ नुकाउ केर लेल अनुमति दैत अछि। ई किछु परिदृश्य सभ मे शूटिंग अनुभव केँ सेहो अनुकूलित करैत अछि आओर सिस्टमक कार्य-क्षमता आ स्थिरता मे सुधार करैत अछिएकर अतिरिक्त, एहि रिलीज मे सुरक्षा पैच समाविष्ट अछि। नव विशेषता आ सुधार सभ अपडेट करू आ एकर आनंद लिअ।</feature>
+</features>
+<features module="कैमरा">
+<feature>• किछु परिदृश्य सभ मे शूटिंग अनुभव अनुकूलित करैत अछि।</feature>
+</features>
+<features module="कार्य-प्रदर्शन">
+<feature>• सहज प्रचालन केर लेल सिस्टमक कार्य-प्रदर्शन वर्धित करैत अछि।</feature>
+</features>
+<features module="स्थिरता">
+<feature>• सिस्टमक स्थिरता मे सुधार करैत अछि, जाहि सँ अहाँक डिवाइस बेसी स्थिर रूप सँ चलि सकए।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>आब अहाँ होम स्क्रीन एप सभ नुका सकैत छी। एहि मे जा कए एकरा आजमाउ: सेटिंग्स > सुरक्षा आ गोपनीयता > डिवाइस आ डेटा सुरक्षा > होम स्क्रीन सँ एप सभ नुकाउ।
+•सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (दिसं 2024) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="टिप्पणी:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अपन डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+</features>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>E te kaiwhakamahi, mā tēnei whakahōu ka tukua e koe te huna ngā taupānga mai i te Mata Kāinga. Ka arotautia hoki te wheako tākaro i ētahi tauari, ā, ka whakapai ake i te mahinga pūnaha me te taimautanga. Tērā anō, kei roto i tēnei putanga tētahi āpure haumarutanga. Whakahōu me te hākinakina ki ngā āhuahira me ngā whakapainga hōu.</feature>
+</features>
+<features module="Kāmera">
+<feature>• Ka arotautia te wheako tākaro i ētahi tauari.</feature>
+</features>
+<features module="Mahinga">
+<feature>• Ka whakarei ake i te mahinga pūnaha mō te mahi māeneene ake.</feature>
+</features>
+<features module="Te pūmautanga">
+<feature>• Ka whakapai ake i te taimautanga pūnaha kia ētahi anō ai te whakahaere o tō pūrere.</feature>
+</features>
+<features module="Haumarutanga">
+<feature>• Ināianei ka taea e koe te huna ngā taupānga mata kāinga. Whakamātauria mā te haere: Ngā Tautuhinga > Te haumarutanga me te tūmataitinga > Parenga pūrere &amp; raraunga hoki > Huna ngā taupānga mai i te mata Kāinga.
+• Kua whakaurua te Āpure Haumarutanga Android (Hakihea 2024) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ngā Tuhipoka:" type="end">
+<feature>1. Kāore te tāuta i tēnei whakahōu e pā ki tō ngā raraunga whaiaro, engari e manakohia tonutia ana kia tāruatia ō raraunga i mua i te whakahōu.
+2. Ki te tūtaki koe i ētahi take i te wā o te whakahōutanga, waea atu koa ki te raina ratonga HONOR, haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+</features>
+</language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Почитуван кориснику, ова ажурирање ви овозможува да ги Скриј апликации од почетниот екран. Исто така, го оптимизира искуството при снимање во некои сценарија и ги подобрува перформансите и стабилноста на системот. Дополнително, ова издание вклучува безбедносна крпеница. Ажурирајте и уживајте во новите карактеристики и подобрувања.</feature>
+</features>
+<features module="Камера">
+<feature>• Го оптимизира искуството при снимање во одредени сценарија.</feature>
+</features>
+<features module="Перформанси">
+<feature>• Ги подобрува перформансите на системот заради непречено функционирање.</feature>
+</features>
+<features module="Стабилност">
+<feature>• Ја подобрува стабилноста на системот, со што уредот работи постабилно.</feature>
+</features>
+<features module="Безбедност">
+<feature>• Сега може да ги скриете апликациите на почетниот екран. Испробајте така што ќе отидете до: Нагодување > Безбедност и приватност > Заштита на уредот и податоците > Скриј апликации од почетниот екран.
+• Вградена е безбедносна крпеница за Android (декември 2024 година) за безбедност на системот. За повеќе информации за безбедносните ажурирања од HONOR, посетете ја нашата веб-локација: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Белешки:" type="end">
+<feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но, се препорачува да направите резервна копија од податоците пред да ажурирате.
+2. Ако се појават проблеми во текот на ажурирањето, јавете се на телефонскиот број на службата за корисници на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+</features>
+</language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് ഹോം സ്‌ക്രീനിൽ നിന്ന് ആപ്പുകൾ മറയ്‌ക്കാൻ നിങ്ങളെ അനുവദിക്കുന്നു. കൂടാതെ, ഇത് ചില സാഹചര്യങ്ങളിലെ ക്യാമറ ഷൂട്ടിംഗ് അനുഭവം ഒപ്‌റ്റിമൈസ് ചെയ്യുകയും സിസ്റ്റം പ്രകടനവും സ്ഥിരതയും മെച്ചപ്പെടുത്തുകയും ചെയ്യുന്നു. അതിനുപുറമേ, ഈ റിലീസ് ഒരു സുരക്ഷാ പാച്ചും ഉൾപ്പെടുത്തുന്നു. അപ്‌ഡേറ്റ് ചെയ്‌ത് പുതിയ സവിശേഷതകളും മെച്ചപ്പെടുത്തലുകളും ആസ്വദിക്കുക.</feature>
+</features>
+<features module="ക്യാമറ">
+<feature>• ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് അനുഭവം ഒപ്‌റ്റിമൈസ് ചെയ്യുന്നു.</feature>
+</features>
+<features module="പ്രകടനം">
+<feature>• സുഗമമായ പ്രവർത്തനത്തിനായി സിസ്റ്റം പ്രകടനം മെച്ചപ്പെടുത്തുന്നു.</feature>
+</features>
+<features module="സ്ഥിരത">
+<feature>• നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സ്ഥിരതയോടെ പ്രവർത്തിക്കാൻ സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature>
+</features>
+<features module="സുരക്ഷ">
+<feature>• നിങ്ങൾക്ക് ഇപ്പോൾ ഹോം സ്‌ക്രീൻ ആപ്പുകൾ മറയ്‌ക്കാവുന്നതാണ്. ഇതിലേക്ക് പോയി അത് പരീക്ഷിച്ച് നോക്കുക: ക്രമീകരണം > സുരക്ഷയും സ്വകാര്യതയും > ഉപകരണ, ഡാറ്റാ പരിരക്ഷ > ഹോം സ്‌ക്രീനിൽ നിന്ന് ആപ്പുകൾ മറയ്‌ക്കുക.
+• സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ഡിസംബർ 2024) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ശ്രദ്ധിക്കുക:" type="end">
+<feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features>
+</language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Хүндэт хэрэглэгч танаа, энэхүү шинэчлэлтээр Үндсэн дэлгэцээс апликэйшн нуух боломжтой боллоо. Мөн зарим тохиолдолд зураг авах хэрэглээг оновчилж, системийн гүйцэтгэл, тогтвортой байдлыг сайжруулав. Үүнээс гадна хамгаалалтын нөхөөс багтаалаа. Шинэчлээд, шинэ онцлог, сайжруулалтыг хэрэглээрэй.</feature>
+</features>
+<features module="Камер">
+<feature>• Зарим тохиолдолд камераар зураг авах хэрэглээг оновчлов.</feature>
+</features>
+<features module="Гүйцэтгэл">
+<feature>• Саадгүй ажиллагааг хангахын тулд системийн гүйцэтгэлийг сайжруулав.</feature>
+</features>
+<features module="Тогтвортой байдал">
+<feature>• Таны төхөөрөмжийг илүү тогтвортой ажиллуулахын тулд системийн тогтвортой байдлыг нэмэгдүүлсэн.</feature>
+</features>
+<features module="Хамгаалалт">
+<feature>• Одоо та үндсэн дэлгэцээс апп нуух боломжтой боллоо. Тохиргоо > Хамгаалалт ба нууцлал > Төхөөрөмж ба өгөгдөл хамгаалалт > Үндсэн дэлгэцээс апликэйшн нуух руу очиж үүнийг туршиж үзнэ үү.
+• Андройд хамгаалалтын нөхөөсийг (2024 оны 12-р сар) системийн аюулгүй байдалд зориулж нэгтгэсэн. HONOR хамгаалалтын шинэчлэлтийн талаарх дэлгэрэнгүй мэдээллийг авах бол дараах вэбсайтад зочилно уу: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Тэмдэглэл:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгах нь таны хувийн мэдээллийг арилгахгүй ч, шинэчлэхийн өмнө өгөгдлөө нөөцөлсөн нь дээр.
+2. Шинэчлэх явцад ямар нэг асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төв рүү очиж дэмжлэг авна уу.</feature>
+</features>
+</language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>प्रिय वापरकर्ता, हे अद्यतन आपल्याला मुख्य स्क्रीनवरून ॲप्स लपवण्याची अनुमती देते. हे काही परिस्थितींमध्ये शूटिंगचा अनुभव देखील ऑप्टिमाइझ करते आणि सिस्टम कार्यप्रदर्शन आणि स्थिरता सुधारते. याव्यतिरिक्त, या प्रकाशनामध्ये सुरक्षितता पॅचचा समावेश आहे. नवीन वैशिष्ट्ये आणि सुधारणा अद्यतनित करा आणि त्यांचा आनंद घ्या.</feature>
+</features>
+<features module="कॅमेरा">
+<feature>• काही परिस्थितींमध्ये शूटिंग अनुभव ऑप्टिमाइझ करते.</feature>
+</features>
+<features module="कार्यप्रदर्शन">
+<feature>• सुरळीत ऑपरेशनसाठी सिस्टम कार्यक्षमता वाढवते.</feature>
+</features>
+<features module="स्थिरता">
+<feature>• आपले उपकरण अधिक स्थिरपणे चालवण्यासाठी सिस्टम स्थिरता सुधारते.</feature>
+</features>
+<features module="सुरक्षितता">
+<feature>• आता आपण मुख्य स्क्रीन ॲप्स लपवू शकता. येथे जाऊन हे वापरून पहा: सेटिंग्ज > सुरक्षितता आणि गोपनीयता > उपकरण आणि डेटा संरक्षण > मुख्य स्क्रीनवरून ॲप्स लपवा.
+• सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (डिसें 2024) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइटला भेट द्या https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="नोट्स:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा समर्थनासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+</features>
+</language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Pengguna yang dihormati, kemas kini ini membolehkan anda menyembunyikan aplikasi daripada Skrin utama. Ia juga mengoptimumkan pengalaman penangkapan dalam beberapa senario dan meningkatkan prestasi serta kestabilan sistem. Selain itu, keluaran ini memasukkan tampalan keselamatan. Kemas kini dan nikmati ciri serta penambahbaikan baharu.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimumkan pengalaman penangkapan dalam beberapa senario.</feature>
+</features>
+<features module="Prestasi">
+<feature>• Tingkatkan prestasi sistem untuk operasi yang lebih lancar.</feature>
+</features>
+<features module="Kestabilan">
+<feature>• Meningkatkan kestabilan sistem untuk membolehkan peranti anda berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keselamatan">
+<feature>• Anda kini boleh menyembunyikan aplikasi skrin utama. Cuba ciri ini dengan pergi ke: Tetapan > Keselamatan &amp; privasi > Perlindungan peranti dan data > Sembunyikan aplikasi daripada Skrin utama.
+• Tampalan Keselamatan Android (Dis 2024) telah dimasukkan untuk tujuan keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Nota:" type="end">
+<feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini.
+2. Jika anda menghadapi sebarang isu semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+</features>
+</language>
+
+<language name="my-mm" code="1109">
+<features module="" type="header">
+<feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်သည် ပင်မ မျက်နှာပြင်မှ အက်ပ်များကို ဝှက်ရန် ခွင့်ပြုပေးသည်။ ၎င်းသည် အချို့အခြေအနေများတွင် ရိုက်ကူးရာ၌ အကောင်းဆုံးဖြစ်အောင်လည်း ချိန်ညှိပေးပြီး စနစ် စွမ်းဆောင်ရည်နှင့် တည်ငြိမ်မှုကို တိုးမြှင့်ပေးသည်။ ထို့အပြင် ဤအသစ်ထွက်အပ်ဒိတ်၌ လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲတစ်ခု ပါဝင်သည်။ အပ်ဒိတ်လုပ်ပြီး လုပ်ဆောင်ချက်အသစ်များနှင့် မြှင့်တင်မှုများကို သုံးစွဲခံစားပါ။</feature>
+</features>
+<features module="ကင်မရာ">
+<feature>• အချို့အခြေအနေများတွင် ရိုက်ကူးရာ၌ အကောင်းဆုံးဖြစ်အောင် ချိန်ညှိပေးသည်။</feature>
+</features>
+<features module="စွမ်းဆောင်ရည်">
+<feature>• ပိုမိုချောမွေ့စွာ လည်ပတ်လုပ်ဆောင်နိုင်စေရန် စနစ် စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးသည်။</feature>
+</features>
+<features module="တည်ငြိမ်မှု">
+<feature>• သင့်စက်ကို ပိုမိုတည်ငြိမ်စွာ လုပ်ဆောင်နိုင်စေရန် စနစ် တည်ငြိမ်မှုကို တိုးမြှင့်ပေးသည်။</feature>
+</features>
+<features module="လုံခြုံရေး">
+<feature>• ယခုအခါ ပင်မ မျက်နှာပြင်မှ အက်ပ်များကို ဝှက်နိုင်ပါပြီ။ ဖော်ပြပါသို့သွား၍ စမ်းကြည့်ပါ- ဆက်တင် > လုံခြုံရေးနှင့် ကိုယ်ပိုင် အချက်အလက် > စက်နှင့် ဒေတာ ကာကွယ်ရေး > ပင်မ မျက်နှာပြင်မှ အက်ပ်များကို ဝှက်ရန်။
+• စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (ဒီဇင်ဘာ 2024) ကို ပေါင်းစပ်ထည့်သွင်းထားသည်။ HONOR လုံခြုံရေးအပ်ဒိတ်များအကြောင်း အချက်အလက်များ ပိုမိုသိရှိလိုပါက ကျွန်ုပ်တို့၏ ဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာအပေါ် ထိခိုက်မည် မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်အတောအတွင်း ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီအတွက် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+</features>
+</language>
+
+<language name="my-zg" code="1109">
+<features module="" type="header">
+<feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္သည္ ပင္မ မ်က္ႏွာျပင္မွ အက္ပ္မ်ားကို ဝွက္ရန္ ခြင့္ျပဳေပးသည္။ ၎သည္ အခ်ိဳ႕အေျခအေနမ်ားတြင္ ႐ိုက္ကူးရာ၌ အေကာင္းဆုံးျဖစ္ေအာင္လည္း ခ်ိန္ညႇိေပးၿပီး စနစ္ စြမ္းေဆာင္ရည္ႏွင့္ တည္ၿငိမ္မႈကို တိုးျမႇင့္ေပးသည္။ ထို႔အျပင္ ဤအသစ္ထြက္အပ္ဒိတ္၌ လုံျခံဳေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲတစ္ခု ပါဝင္သည္။ အပ္ဒိတ္လုပ္ၿပီး လုပ္ေဆာင္ခ်က္အသစ္မ်ားႏွင့္ ျမႇင့္တင္မႈမ်ားကို သုံးစြဲခံစားပါ။</feature>
+</features>
+<features module="ကင္မရာ">
+<feature>• အခ်ိဳ႕အေျခအေနမ်ားတြင္ ႐ိုက္ကူးရာ၌ အေကာင္းဆုံးျဖစ္ေအာင္ ခ်ိန္ညႇိေပးသည္။</feature>
+</features>
+<features module="စြမ္းေဆာင္ရည္">
+<feature>• ပိုမိုေခ်ာေမြ႕စြာ လည္ပတ္လုပ္ေဆာင္ႏိုင္ေစရန္ စနစ္ စြမ္းေဆာင္ရည္ကို ျမႇင့္တင္ေပးသည္။</feature>
+</features>
+<features module="တည္ၿငိမ္မႈ">
+<feature>• သင့္စက္ကို ပိုမိုတည္ၿငိမ္စြာ လုပ္ေဆာင္ႏိုင္ေစရန္ စနစ္ တည္ၿငိမ္မႈကို တိုးျမႇင့္ေပးသည္။</feature>
+</features>
+<features module="လုံျခံဳေရး">
+<feature>• ယခုအခါ ပင္မ မ်က္ႏွာျပင္မွ အက္ပ္မ်ားကို ဝွက္ႏိုင္ပါၿပီ။ ေဖာ္ျပပါသို႔သြား၍ စမ္းၾကည့္ပါ- ဆက္တင္ > လုံျခံဳေရးႏွင့္ ကိုယ္ပိုင္ အခ်က္အလက္ > စက္ႏွင့္ ေဒတာ ကာကြယ္ေရး > ပင္မ မ်က္ႏွာျပင္မွ အက္ပ္မ်ားကို ဝွက္ရန္။
+• စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ဒီဇင္ဘာ 2024) ကို ေပါင္းစပ္ထည့္သြင္းထားသည္။ HONOR လုံျခံဳေရးအပ္ဒိတ္မ်ားအေၾကာင္း အခ်က္အလက္မ်ား ပိုမိုသိရွိလိုပါက ကြၽႏ္ုပ္တို႔၏ ဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာအေပၚ ထိခိုက္မည္ မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္အေတာအတြင္း ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီအတြက္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+</features>
+</language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Kjære bruker, denne oppdateringen lar deg skjule apper fra startskjermen. Den optimerer også fotograferingsopplevelsen i enkelte scenarier, og forbedrer systemytelsen og -stabiliteten. I tillegg innlemmer denne utgivelsen en sikkerhetsoppdatering. Oppdater, og dra nytte av de nye funksjonene og forbedringene.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerer fotograferingsopplevelsen i enkelte scenarier.</feature>
+</features>
+<features module="Ytelse">
+<feature>• Forbedrer systemytelsen for smidigere operasjon.</feature>
+</features>
+<features module="Stabilitet">
+<feature>• Forbedrer systemstabiliteten, slik at enheten kjører mer stabilt.</feature>
+</features>
+<features module="Sikkerhet">
+<feature>• Du kan nå skjule startskjermapper. Prøv dette ved å gå til: Innstillinger > Sikkerhet og personvern > Enhets- og databeskyttelse > Skjul apper på startskjermen.
+• Android-sikkerhetsoppdatering (Des. 2024) har blitt integrert for systemsikkerhet. For mer informasjon om HONOR Sikkerhet-oppdateringer, besøk vårt nettsted https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Merknader:" type="end">
+<feature>1. Installering av denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+</features>
+</language>
+
+<language name="ne-np" code="1121">
+<features module="" type="header">
+<feature>आदरणीय प्रयोगकर्ता, तपाईंले यो अपडेट गर्नुभयो भने तपाईं गृह स्क्रिनबाट एपहरू लुकाउन सक्नुहुन्छ । यसले केही परिदृश्यमा सुटिङको अनुभव पनि अप्टिमाइज गर्छ र प्रणालीको कार्यसम्पादन र स्थिरता सुधार गर्छ ।  साथै, यो रिलिजमा सुरक्षा प्याच पनि समावेश गरिएको छ । नयाँ सुविधा र सुधारहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+</features>
+<features module="क्यामेरा">
+<feature>• यसले केही परिदृश्यहरूमा सुटिङको अनुभव अप्टिमाइज गर्छ ।</feature>
+</features>
+<features module="कार्यसम्पादन">
+<feature>• अझ सहज रूपमा काम गर्न सकियोस् भनेर प्रणालीको कार्यसम्पादन परिष्कार गर्छ ।</feature>
+</features>
+<features module="स्थिरता">
+<feature>• तपाईंको यन्त्रलाई थप स्थिर रूपमा चल्ने बनाउन प्रणालीको स्थिरतामा सुधार ल्याउँछ ।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>• तपाईं अब गृह स्क्रिनमा भएका एपहरू लुकाउन सक्नुहुन्छ । यहाँ गएर यसलाई प्रयोग गरी हेर्नुहोस्: सेटिङहरू > सुरक्षा र गोपनीयता > यन्त्र र डाटाको सुरक्षा > गृह स्क्रिनबाट एपहरू लुकाउनुहोस् ।
+• प्रणालीको सुरक्षाका लागि एन्ड्रोइड सुरक्षा प्याच (डिसेम्बर 2024) समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारीका लागि, कृपया हाम्रो वेबसाइट https://www.honor.com/global/support/bulletin/2024/12 मा जानुहोस्</feature>
+</features>
+<features module="नोटहरू:" type="end">
+<feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेट गर्ने क्रममा तपाईंले कुनै पनि समस्या सामना गर्नुभयो भने कृपया HONOR सेवाको हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+</features>
+</language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Beste gebruiker, met deze update kunt u apps verbergen op het startscherm. Deze update optimaliseert ook de opname-ervaring in bepaalde scenario's en verbetert de systeemprestaties en -stabiliteit. Bovendien bevat deze release een beveiligingspatch. Werk bij en geniet van de nieuwe functies en verbeteringen.</feature>
+</features>
+<features module="Camera">
+<feature>• Optimaliseert de opname-ervaring in bepaalde scenario's.</feature>
+</features>
+<features module="Prestaties">
+<feature>• Verbetert de systeemprestaties voor een soepelere werking.</feature>
+</features>
+<features module="Stabiliteit">
+<feature>• Verbetert de systeemstabiliteit om uw apparaat stabieler te laten werken.</feature>
+</features>
+<features module="Beveiliging">
+<feature>• U kunt nu startschermapps verbergen. Probeer het uit via: Instellingen > Beveiliging &amp; privacy > Apparaat en gegevensbescherming > Apps verbergen van Startscherm.
+• Android-beveiligingspatch (december 2024) is opgenomen voor de systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Opmerkingen:" type="end">
+<feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+</features>
+</language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍ ଆପଣଙ୍କୁ ହୋମ୍‌ ସ୍କ୍ରିନ୍‌‌ରୁ ଆପସ୍ ଲୁଚାଇବାକୁ ଦେଇଥାଏ। ଏହା ମଧ୍ୟ କିଛି ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ଅନୁଭୂତିକୁ ଅପ୍ଟିମାଇଜ୍‌ କରେ, ଏବଂ ସିଷ୍ଟମ୍‌ କାର୍ଯ୍ୟକାରିତା ଏବଂ ସ୍ଥିରତାକୁ ବଢାଏ। ଏଥିସହ, ଏହି ରିଲିଜ୍ ଏକ ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ ଅନ୍ତର୍ଭୁକ୍ତ କରେ। ଅପଡେଟ୍‌ କରନ୍ତୁ ଏବଂ ନୂତନ ବିଶେଷତାଗୁଡ଼ିକ ତଥା ବିକାଶଗୁଡ଼ିକ ଉପଭୋଗ କରନ୍ତୁ।</feature>
+</features>
+<features module="କ୍ୟାମେରା">
+<feature>• କେତେକ ପରିଦୃଶ୍ୟରେ ଶୁଟିଂ ଅନୁଭୂତି ଅପ୍ଟିମାଇଜ୍‌ କରେ।</feature>
+</features>
+<features module="କାର୍ଯ୍ୟଦକ୍ଷତା">
+<feature>• ସ୍ମୁଦର ସଞ୍ଚାଳନା ପାଇଁ ସିଷ୍ଟମ୍‌ କାର୍ଯ୍ୟକାରିତାକୁ ବଢାଏ।</feature>
+</features>
+<features module="ସ୍ଥିରତା">
+<feature>• ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅଧିକ ସ୍ଥିର ଭାବେ ଚଲାଇବାକୁ, ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାକୁ ବଢ଼ାଇଥାଏ।</feature>
+</features>
+<features module="ସୁରକ୍ଷା">
+<feature>• ବର୍ତ୍ତମାନ ଆପଣ ହୋମ୍‌ ସ୍କ୍ରିନ୍‌ ଆପ୍ ଲୁଚାଇ ପାରିବେ। ଏଥିକୁ ଯାଇ ଆପଣ ଏହାକୁ ପରଖି ନିଅନ୍ତୁ: ସେଟିଂସ୍ > ସୁରକ୍ଷା ଓ ଗୋପନୀୟତା > ଡିଭାଇସ୍ ଓ ଡାଟା ସୁରକ୍ଷା > ହୋମ୍‌ ସ୍କ୍ରିନ୍‌‌ରୁ ଆପସ୍ ଲୁଚାନ୍ତୁ।
+• ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ଡିସେମ୍ବର 2024) ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features>
+</language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਨਾਲ ਤੁਹਾਨੂੰ ਹੋਮ ਸਕ੍ਰੀਨ ਤੋਂ ਐਪਾਂ ਨੂੰ ਲੁਕਾ ਸਕਦੇ ਹੋ। ਇਸ ਵਿੱਚ ਕੁਝ ਸਥਿਤੀਆਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਦੇ ਅਨੁਭਵ ਨੂੰ ਵੀ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ, ਅਤੇ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਅਤੇ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਸ ਤੋਂ ਇਲਾਵਾ, ਇਸ ਰਿਲੀਜ਼ ਵਿੱਚ ਇੱਕ ਸੁਰੱਖਿਆ ਪੈਚ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। ਅੱਪਡੇਟ ਕਰੋ ਅਤੇ ਨਵੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਅਤੇ ਸੁਧਾਰਾਂ ਦਾ ਆਨੰਦ ਲਓ।</feature>
+</features>
+<features module="ਕੈਮਰਾ">
+<feature>• ਕੁਝ ਦ੍ਰਿਸ਼ਾਂ ਵਿੱਚ ਸ਼ੂਟਿੰਗ ਦੇ ਅਨੁਭਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਕਾਰਗੁਜ਼ਾਰੀ">
+<feature>• ਸੁਚਾਰੂ ਸੰਚਾਲਨ ਲਈ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਸਥਿਰਤਾ">
+<feature>• ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਹੋਰ ਸਥਿਰਤਾ ਨਾਲ ਕੰਮ ਕਰੇਗਾ।</feature>
+</features>
+<features module="ਸੁਰੱਖਿਆ">
+<feature>• ਹੁਣ ਤੁਸੀਂ ਹੋਮ ਸਕ੍ਰੀਨ ਆਈਕੋਨ ਲੁਕਾ ਸਕਦੇ ਹੋ। ਇੱਥੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ: ਸੈਟਿੰਗਾਂ > ਸੁਰੱਖਿਆ ਅਤੇ ਪਰਦੇਦਾਰੀ > ਡਿਵਾਈਸ ਅਤੇ ਡੇਟਾ ਸੁਰੱਖਿਆ > ਹੋਮ ਸਕ੍ਰੀਨ ਤੋਂ ਐਪਾਂ ਲੁਕਾਓ।
+• ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਦਸੰਬਰ 2024) ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਵਾਸਤੇ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ਨੋਟਸ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+</features>
+</language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>Ta aktualizacja umożliwia ukrywanie aplikacji na Ekranie głównym. Optymalizuje ona również korzystanie z aparatu w różnych sytuacjach i poprawia wydajność oraz stabilność systemu. Ponadto ta wersja zawiera poprawkę zabezpieczeń. Zainstaluj tę aktualizację i korzystaj z nowych funkcji oraz ulepszeń.</feature>
+</features>
+<features module="Aparat">
+<feature>• Zoptymalizowano działanie aparatu w niektórych sytuacjach.</feature>
+</features>
+<features module="Wydajność">
+<feature>• Zwiększono wydajność i płynność działania systemu.</feature>
+</features>
+<features module="Stabilność">
+<feature>• Poprawiono stabilność systemu, dzięki czemu urządzenie działa bardziej niezawodnie.</feature>
+</features>
+<features module="Bezpieczeństwo">
+<feature>• Można już ukrywać aplikacje na ekranie głównym. Aby wypróbować tę funkcję, wybierz Ustawienia > Bezpieczeństwo i prywatność > Ochrona danych i urządzenia > Ukryj aplikacje na Ekranie głównym.
+• Poprawka zabezpieczeń systemu Android (grudzień 2024) została dodana w celu zapewnienia bezpieczeństwa systemu. Więcej informacji o aktualizacjach zabezpieczeń HONOR można uzyskać na stronie internetowej https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Uwagi:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie wpływa na dane użytkownika, jednak zaleca się wykonanie kopii zapasowej przed aktualizacją.
+2. Jeśli podczas aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+</features>
+</language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Caro usuário, esta atualização permite ocultar aplicativos da Tela inicial. Ela também otimiza a experiência de filmagem em alguns cenários e melhora o desempenho e a estabilidade do sistema. Além disso, essa versão incorpora um patch de segurança. Atualize e aproveite os novos recursos e aprimoramentos.</feature>
+</features>
+<features module="Câmera">
+<feature>• Otimiza a experiência de captura em alguns cenários.</feature>
+</features>
+<features module="Desempenho">
+<feature>• Aprimora o desempenho do sistema para uma operação mais suave.</feature>
+</features>
+<features module="Estabilidade">
+<feature>• Melhora a estabilidade do sistema para que seu dispositivo funcione de forma mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>• Agora você pode ocultar os aplicativos da tela inicial. Experimente isso acessando: Configurações > Segurança e privacidade > Proteção de dispositivos e dados > Ocultar aplicativos da Tela inicial.
+• O patch de segurança do Android (dezembro de 2024) foi incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança do HONOR, visite nosso site https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não afetará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento de serviço da HONOR ou vá à Central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+</features>
+</language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Caro utilizador, esta atualização permite-lhe ocultar aplicações do ecrã inicial. Também otimiza a experiência de disparo em alguns cenários e melhora o desempenho e a estabilidade do sistema. Além disso, esta versão incorpora uma correção de segurança. Atualize e desfrute das novas funcionalidades e melhorias.</feature>
+</features>
+<features module="Câmara">
+<feature>• Otimiza a experiência de captura em alguns cenários.</feature>
+</features>
+<features module="Desempenho">
+<feature>• Melhora o desempenho do sistema para um funcionamento mais suave.</feature>
+</features>
+<features module="Estabilidade">
+<feature>• Melhora a estabilidade do sistema para que o seu dispositivo funcione de forma mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>• Pode agora ocultar ícones do ecrã inicial. Experimente, acedendo a: Definições > Segurança e privacidade > Dispositivo e proteção de dados > Ocultar aplicações ao Ecrã inicial.
+• Foi incorporada uma correção de segurança Android (dezembro de 2024) para segurança do sistema. Para mais informações sobre atualizações de Segurança HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização de uma cópia de segurança antes da atualização.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+</features>
+</language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Stimate utilizator, această actualizare vă permite să ascundeți aplicațiile de pe ecranul de pornire. De asemenea, optimizează experiența de fotografiere în anumite scenarii și îmbunătățește performanța și stabilitatea sistemului. În plus, această versiune încorporează o corecție de securitate. Actualizați și bucurați-vă de noile funcții și îmbunătățiri.</feature>
+</features>
+<features module="Cameră foto">
+<feature>• Optimizează experiența de fotografiere în anumite scenarii.</feature>
+</features>
+<features module="Performanță">
+<feature>• Îmbunătățește performanța sistemului, pentru o funcționare cu mai puține întreruperi.</feature>
+</features>
+<features module="Stabilitate">
+<feature>• Îmbunătățește stabilitatea sistemului pentru ca dispozitivul să funcționeze mai stabil.</feature>
+</features>
+<features module="Securitate">
+<feature>• Acum puteți ascunde aplicațiile de pe ecranului de pornire. Încercați mergând la: Setări > Siguranță și confidențialitate > Protecția dispozitivului și a datelor > Ascundere aplicații din Ecranul de pornire.
+• Corecția de securitate Android (decembrie 2024) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de Securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. Instalarea actualizării nu va cauza ștergerea datelor dvs. personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+</features>
+</language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Уважаемый пользователь! Это обновление позволяет скрыть значки приложений на рабочем экране. Оно также оптимизирует процесс съемки в некоторых сценариях и улучшает производительность и стабильность системы. Кроме того, это обновление содержит исправление безопасности. Установите это обновление и наслаждайтесь новыми функциями и улучшениями.</feature>
+</features>
+<features module="Камера">
+<feature>• Оптимизирован процесс съемки в некоторых сценариях.</feature>
+</features>
+<features module="Производительность">
+<feature>• Улучшена производительность системы для более плавной работы.</feature>
+</features>
+<features module="Стабильность">
+<feature>• Повышена стабильность системы и, соответственно, работа вашего устройства.</feature>
+</features>
+<features module="Безопасность">
+<feature>Теперь вы можете скрыть значки на рабочем экране. Перейдите в раздел «Настройки > Безопасность и конфиденциальность > Защита устройства и данных > Скрыть значки приложений на рабочем экране».
+• В обновление включено исправление безопасности для Android (декабрь 2024 г.). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2024/12</feature>
+</features>
+<features module="Примечания:" type="end">
+<feature>1. Установка этого обновления не затронет ваши персональные данные, но мы рекомендует сделать резервную копию данных перед обновлением.
+2. При возникновении каких-либо проблем при обновлении обратитесь на горячую линию обслуживания HONOR или в службу поддержки клиента HONOR за помощью.</feature>
+</features>
+</language>
+
+<language name="si-lk" code="1115">
+<features module="" type="header">
+<feature>හිතවත් පරිශීලක, මෙම යාවත්කාලය ඔබට මුල් තිරයෙන් යෙදුම් සඟවන්නට ඉඩ දෙයි. එය සමහර අවස්ථාවල දී රූගත කිරීමේ අත්දැකීම ප්‍රශස්ත කරන අතර පද්ධතියේ කාර්යසාධනය සහ ස්ථායීතාවය වැඩිදියුණු කරයි. අතිරේකව, මෙම නිකුතුවේ ආරක්ෂක පැච් එකක් ඇතුළත් වේ. යාවත්කාලීන කර නව විශේෂාංග සහ වැඩිදියුණු කිරීම් භුක්ති විඳින්න.</feature>
+</features>
+<features module="කැමරාව">
+<feature>• සමහර අවස්ථාවල රූගත කිරීමේ අත්දැකීම ප්‍රශස්ත කරයි.</feature>
+</features>
+<features module="කාර්යසාධනය">
+<feature>• වඩා සුමට ක්‍රියාකාරීත්වය සඳහා පද්ධතියේ කාර්යසාධනය උසස් කරයි.</feature>
+</features>
+<features module="ස්ථායීතාවය">
+<feature>• ඔබගේ උපාංගය වඩා ස්ථායීව ධාවනය කරවීමට පද්ධතියේ ස්ථායිතාවය වැඩිදියුණු කරයි.</feature>
+</features>
+<features module="ආරක්ෂාව">
+<feature>• ඔබට දැන් මුල් තිර යෙදුම් සැඟවිය හැකිවේ. මෙය වෙත යාමෙන් එය උත්සාහ කරන්න: සැකසුම් > ආරක්ෂාව සහ රහස්‍යතාව > උපාංගය සහ දත්ත ආරක්ෂාව > මුල් තිරයෙන් යෙදුම් සඟවන්න.
+• පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2024 දෙසැ) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය https://www.honor.com/global/support/bulletin/2024/12 වෙත යන්න</feature>
+</features>
+<features module="සටහන්:" type="end">
+<feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ.
+2. ඔබට යාවත්කාල කිරීමේ දී ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+</features>
+</language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Vážený používateľ, táto aktualizácia vám umožňuje skryť aplikácie na domovskej obrazovke. V niektorých situáciách optimalizuje aj fotografovanie a zlepšuje výkon a stabilitu systému. Toto vydanie obsahuje aj bezpečnostnú opravu. Aktualizujte a vychutnajte si nové funkcie a zlepšenia.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>• Optimalizuje fotografovanie v niektorých situáciách.</feature>
+</features>
+<features module="Výkon">
+<feature>• Zvyšuje výkon systému, čím sa dosahuje plynulejšia prevádzka.</feature>
+</features>
+<features module="Stabilita">
+<feature>• Zlepšuje stabilitu systému, vďaka čomu zariadenie funguje stabilnejšie.</feature>
+</features>
+<features module="Zabezpečenie">
+<feature>• Môžete skryť aplikácie na domovskej obrazovke. Vyskúšajte to v ponuke Nastavenia > Zabezpečenie a súkromie > Ochrana zariadenia a údajov > Skryť aplikácie na domovskej obrazovke.
+• Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z decembra 2024). Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2024/12</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+</features>
+</language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Spoštovani uporabnik, ta posodobitev omogoča skrivanje aplikacij na začetnem zaslonu. V nekaterih situacijah prav tako optimizira izkušnjo snemanja ter izboljšuje zmogljivost in stabilnost sistema. Poleg tega ta izdaja vključuje tudi varnostni popravek. Posodobite različico ter uživajte v novih funkcijah in izboljšavah.</feature>
+</features>
+<features module="Kamera">
+<feature>• Izkušnja snemanja je v nekaterih situacijah optimizirana.</feature>
+</features>
+<features module="Učinkovitost delovanja">
+<feature>• Zmogljivost sistema je izboljšana, s tem pa je omogočeno bolj gladko delovanje.</feature>
+</features>
+<features module="Stabilnost">
+<feature>• Stabilnost sistema je izboljšana, zato je delovanje naprave stabilnejše.</feature>
+</features>
+<features module="Varnost">
+<feature>• Zdaj lahko skrijete aplikacije na začetnem zaslonu. Funkcijo lahko preizkusite v razdelku Nastavitve > Varnost in zasebnost > Zaščita naprave in podatkov > Skrij aplikacije na začetnem zaslonu.
+• Varnostni popravek za Android (december 2024) je vključen za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite spletno mesto https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Opombe:" type="end">
+<feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe HONOR ali obiščete središče za storitve družbe HONOR.</feature>
+</features>
+</language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Bästa användare, den här uppdateringen låter dig dölja appar från startsidan. Den optimerar också fotograferingsupplevelsen i vissa scenarier och förbättrar systemets prestanda och stabilitet. Dessutom implementeras en säkerhetskorrigering. Uppdatera och ta del av de nya funktionerna och förbättringarna.</feature>
+</features>
+<features module="Kamera">
+<feature>• Optimerar fotograferingsupplevelsen i vissa scenarier.</feature>
+</features>
+<features module="Prestanda">
+<feature>• Förbättrar systemets prestanda och ger smidigare drift.</feature>
+</features>
+<features module="Stabilitet">
+<feature>• Förbättrar systemets stabilitet så att enheten körs stabilare.</feature>
+</features>
+<features module="Säkerhet">
+<feature>• Du kan nu dölja appar på startsidan. Prova genom att gå till: Inställningar > Säkerhet och sekretess > Enhets- och dataskydd > Dölj appar från startsidan.
+• Android-säkerhetskorrigeringen (december 2024) har implementerats för systemsäkerheten. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Noteringar:" type="end">
+<feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar.
+2. Om du stöter på några problem under uppdateringen, kan du ringa HONORs hotline för service eller besöka HONORs kundtjänstcenter och få support.</feature>
+</features>
+</language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Mtumiaji mpendwa, sasisho hili linakuwezesha Ficha programu kutoka kwenye Skrini ya mwanzo. Pia, linaboresha hali ya upigaji picha katika baadhi ya miktadha na linaboresha uthabiti na utendaji wa mfumo. Zaidi ya hayo, toleo hili linajumuisha rekebisho la usalama. Sasisha na ufurahie vipengele na maboresho mapya.</feature>
+</features>
+<features module="Kamera">
+<feature>• Linaboresha hali ya upigaji picha katika baadhi ya miktadha.</feature>
+</features>
+<features module="Utendaji">
+<feature>• Linaboresha utendaji wa mfumo ili kupata utendaji laini.</feature>
+</features>
+<features module="Uthabiti">
+<feature>• Linaboresha uthabiti wa mfumo ili kufanya kifaa chako kiendeshwe kwa uthabiti zaidi.</feature>
+</features>
+<features module="Usalama">
+<feature>• Sasa unaweza kuficha programu za skrini ya mwanzo. Ijaribu kwa kwenda kwenye: Mipangilio > Usalama na faragha > Ulinzi wa data na kifaa > Ficha programu kutoka kwenye Skrini ya mwanzo.
+• Rekebisho la Usalama wa Android (Des 2024) limejumuishwa kwa ajili ya usalama wa mfumo. Ili upate maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Madokezo:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuweka hifadhi rudufu ya data yako kabla ya kusasisha.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+</features>
+</language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு முகப்புத் திரையிலிருந்து செயலிகளை மறைக்க உங்களை அனுமதிக்கிறது. இது சில சூழ்நிலைகளில் ஷுட்டிங் அனுபவத்தையும் உகந்ததாக்குகிறது, சிஸ்டம் செயல்திறன் மற்றும் நிலைத்தன்மையை மேம்படுத்துகிறது. கூடுதலாக, இந்த வெளியீடு பாதுகாப்புத் தொகுப்பைக் கொண்டுள்ளது. புதுப்பித்து, புதிய அம்சங்கள் மற்றும் மேம்பாடுகளைப் பெறுங்கள்.</feature>
+</features>
+<features module="கேமரா">
+<feature>• சில சூழ்நிலைகளில் ஷூட்டிங் அனுபவத்தை உகந்ததாக்குகிறது.</feature>
+</features>
+<features module="செயல்திறன்">
+<feature>• மென்மையான செயல்பாட்டுக்காகச் சிஸ்டம் செயல்திறனை மேம்படுத்துகிறது.</feature>
+</features>
+<features module="நிலைத்தன்மை">
+<feature>• உங்கள் சாதனத்தை மேலும் நிலையாக இயங்கச் செய்ய, சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+</features>
+<features module="பாதுகாப்பு">
+<feature>நீங்கள் இப்போது முகப்புத் திரை செயலிகளை மறைக்கலாம். இதற்குச் செல்வதன் மூலம் அதை முயன்று பார்க்கவும்: அமைப்புகள் > பாதுகாப்பு மற்றும் தனியுரிமை > சாதனம் மற்றும் தரவுப் பாதுகாப்பு > முகப்புத் திரையிலிருந்து செயலிகளை மறைக்கவும்.
+• சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (டிச 2024) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="குறிப்புகள்:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features>
+</language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ హోమ్ స్క్రీన్ నుండి అప్లికేషన్‌లను దాచడానికి అనుమతిస్తుంది. ఇది కొన్ని సందర్భాల్లో షూటింగ్ అనుభవాన్ని కూడా ఆప్టిమైజ్ చేస్తుంది మరియు సిస్టమ్ పనితీరు మరియు స్థిరత్వాన్ని మెరుగుపరుస్తుంది. అదనంగా, ఈ విడుదల ఒక భద్రతా ప్యాచ్‌ను చేర్చుతుంది. అప్‌డేట్ చేసి, కొత్త ఫీచర్‌లు మరియు మెరుగుదలలను ఆనందించండి.</feature>
+</features>
+<features module="కెమెరా">
+<feature>• కొన్ని సందర్భాల్లో షూటింగ్ అనుభవాన్ని ఆప్టిమైజ్ చేస్తుంది.</feature>
+</features>
+<features module="పనితీరు">
+<feature>• సరళమైన ఆపరేషన్ కోసం సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది.</feature>
+</features>
+<features module="స్థిరత్వం">
+<feature>• మీ పరికరం మరింత స్థిరంగా అమలు అయ్యేలా చేయడానికి సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది.</feature>
+</features>
+<features module="భద్రత">
+<feature>• మీరు ఇప్పుడు హోమ్ స్క్రీన్ అప్లికేషన్‌లను దాచవచ్చు. దీనిని ఇక్కడికి వెళ్లి ప్రయత్నించండి: సెట్టింగ్‌లు > భద్రత మరియు గోప్యత > పరికరం మరియు డేటా సంరక్షణ > హోమ్ స్క్రీన్ నుండి అప్లికేషన్‌లను దాచండి.
+• Android భద్రతా ప్యాచ్ (డిసెం 2024) అనేది సిస్టమ్ భద్రత కోసం చేర్చబడింది. HONOR భద్రతా అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="గమనికలు:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వల్ల మీ వ్యక్తిగత డేటాపై ప్రభావం ఉండదు, అయితే అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇప్పటికీ సిఫార్సు చేయబడింది.
+2. అప్‌డేట్ సమయంలో మీకు ఏవైనా సమస్యలు ఎదురైతే, దయచేసి HONOR సర్వీస్ హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+</features>
+</language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>เรียนผู้ใช้ การอัปเดตนี้ช่วยให้คุณสามารถซ่อนแอปจากหน้าจอหลัก และยังเพิ่มประสิทธิภาพในการถ่ายภาพได้ในบางสถานการณ์ รวมถึงพัฒนาประสิทธิภาพและความเสถียรของระบบ นอกจากนี้การอัปเดตครั้งนี้ยังรวมแพตช์การรักษาความปลอดภัยด้วย โปรดอัปเดตและเพลิดเพลินไปกับฟีเจอร์และการปรับปรุงใหม่ๆ</feature>
+</features>
+<features module="กล้องถ่ายรูป">
+<feature>• ปรับปรุงประสบการณ์การถ่ายภาพสำหรับบางสถานการณ์</feature>
+</features>
+<features module="ประสิทธิภาพ">
+<feature>• เพิ่มประสิทธิภาพระบบเพื่อการดำเนินงานที่ราบรื่นยิ่งขึ้น</feature>
+</features>
+<features module="ความเสถียร">
+<feature>• ปรับปรุงความเสถียรของระบบเพื่อให้อุปกรณ์ของคุณใช้งานได้อย่างเสถียรมากขึ้น</feature>
+</features>
+<features module="ความปลอดภัย">
+<feature>• ในตอนนี้คุณสามารถซ่อนแอปหน้าจอหลักได้ ทดลองได้โดยไปที่: การตั้งค่า > ความปลอดภัยและความเป็นส่วนตัว > การป้องกันอุปกรณ์และข้อมูล > ซ่อนแอปจากหน้าจอหลัก
+• มีการรวมแพตช์การรักษาความปลอดภัยของ Android (ธ.ค. 2024) เพื่อการรักษาความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="โปรดทราบ:" type="end">
+<feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+</features>
+</language>
+
+<language name="tl-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, nagbibigay-daan sa iyo ang update na ito na magtago ng mga app mula sa Home screen. Ino-optimize din nito ang karanasan sa pag-shoot sa ilang sitwasyon, at pinapahusay ang performance at stability ng system. Bukod pa rito, isinasama ng release na ito ang isang panseguridad na patch. I-update at i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+</features>
+<features module="Camera">
+<feature>• Ino-optimize ang karanasan sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="Performance">
+<feature>• Pinapahusay ang perforamnce ng system para sa mas smooth na pagpapatakbo.</feature>
+</features>
+<features module="Stability">
+<feature>• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Puwede ka nang magtago ng mga app ng home screen. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Seguridad at privacy > Proteksyon ng device at data > Magtago ng mga app mula sa Home screen.
+• Isinama ang Panseguridad na Patch ng Android (Dis 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="fil-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, nagbibigay-daan sa iyo ang update na ito na magtago ng mga app mula sa Home screen. Ino-optimize din nito ang karanasan sa pag-shoot sa ilang sitwasyon, at pinapahusay ang performance at stability ng system. Bukod pa rito, isinasama ng release na ito ang isang panseguridad na patch. I-update at i-enjoy ang mga bagong feature at pagpapahusay.</feature>
+</features>
+<features module="Camera">
+<feature>• Ino-optimize ang karanasan sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="Performance">
+<feature>• Pinapahusay ang perforamnce ng system para sa mas smooth na pagpapatakbo.</feature>
+</features>
+<features module="Stability">
+<feature>• Pinapahusay ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>• Puwede ka nang magtago ng mga app ng home screen. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Seguridad at privacy > Proteksyon ng device at data > Magtago ng mga app mula sa Home screen.
+• Isinama ang Panseguridad na Patch ng Android (Dis 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Değerli kullanıcımız, bu güncelleme ile Uygulamaları Başlangıç Ekranından gizleyin. Ayrıca bazı senaryolarda çekim deneyiminiz optimize edilir ve sistem performansı ile kararlılığı geliştirilir. Ayrıca bu sürüm bir güvenlik yaması içermektedir. Güncelleyin ve yeni özelliklerin ve iyileştirmelerin keyfini çıkarın.</feature>
+</features>
+<features module="Kamera">
+<feature>• Bazı senaryolarda fotoğraf çekme deneyimi optimize edildi.</feature>
+</features>
+<features module="Performans">
+<feature>• Daha akıcı çalışma için sistem performansı güçlendirildi.</feature>
+</features>
+<features module="Kararlılık">
+<feature>• Sistem kararlılığı iyileştirilerek cihazınız daha kararlı hale getirildi.</feature>
+</features>
+<features module="Güvenlik">
+<feature>Artık başlangıç ekranı simgelerini gizleyebilirsiniz. Şuraya giderek deneyin: Ayarlar > Güvenlik ve gizlilik > Cihaz ve veri koruması > Uygulamaları Başlangıç Ekranından gizleyin.
+• Android Güvenlik Yaması (Aralık 2024) sistem güvenliği için dahil edilmiştir. HONOR Güvenlik güncellemeleri hakkında daha fazla bilgi için lütfen web sitemizi ziyaret edin https://www.honor.com/tr/support/bulletin/2024/12</feature>
+</features>
+<features module="Notlar:" type="end">
+<feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir, fakat yine de güncelleme yapmadan önce yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri servisi merkezlerinden birine gidin.</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئەپنىڭ ئۈستەليۈزىدىكى سىنبەلگىسىنى يوشۇرۇش ئىقتىدارى يېڭىدىن قوشۇلدى، بىر قىسىم كۆرۈنۈشلەردىكى كامېرانىڭ سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى، سىستېما ئىقتىدارى ۋە مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏كامېرا">
+<feature>‏• كامېرانىڭ بىر قىسىم كۆرۈنۈشلەردىكى سۈرەتكە ئېلىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+</features>
+<features module="‏ئىقتىدار">
+<feature>‏• سىستېما ئىقتىدارى ئەلالاشتۇرۇلدى، سىستېمىڭىزنىڭ يۈرۈشۈشىنى تېخىمۇ راۋان قىلىدۇ.</feature>
+</features>
+<features module="‏مۇقىملىقى">
+<feature>‏• سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، يانفونىڭىزنىڭ يۈرۈشۈشىنى تېخىمۇ مۇقىم قىلىدۇ.</feature>
+</features>
+<features module="‏بىخەتەرلىك">
+<feature>‏ئەپنىڭ ئۈستەليۈزى سىنبەلگىسىنى يوشۇرۇش ئىقتىدارى يېڭىدىن قوشۇلدى، ئىشلىتىش يولى: تەڭشەك > بىخەتەرلىك ۋە مەخپىيەتلىك > ئۈسكۈنە ۋە مەلۇمات قوغداش > ئەپنىڭ ئۈستەليۈزى سىنبەلگىسىنى يوشۇرۇش.
+• ئاندرويدنىڭ 2024-يىلى12-ئايلىق بىخەتەرلىك يامىقى قوشۇلدى، سىستېما بىخەتەرلىكى يۇقىرى كۆتۈرۈلدى. روڭياۋ يۇمشاق دېتال بىخەتەرلىك يېڭىلانمىسىنىڭ مەزمۇنىغا ئائىت ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتى https://www.honor.com/cn/support/bulletin/2024/12 نى زىيارەت قىلىڭ</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Шановні користувачі. Це оновлення дозволяє приховувати додатки на головному екрані, оптимізує процес зйомки в деяких сценаріях, підвищує продуктивність і стабільність системи та запроваджує виправлення системи безпеки. Установіть це оновлення, щоб користуватися новими функціями та покращеннями.</feature>
+</features>
+<features module="Камера">
+<feature>• Оптимізовано процес зйомки в деяких сценаріях.</feature>
+</features>
+<features module="Продуктивність">
+<feature>• Покращено продуктивність системи для більш узгодженого виконання операцій.</feature>
+</features>
+<features module="Стабільність">
+<feature>• Підвищено стабільність системи для надійнішої роботи пристрою.</feature>
+</features>
+<features module="Безпека">
+<feature>• Тепер ви можете приховувати додатки на головному екрані. Щоб спробувати, натисніть "Налаштування" > "Безпека та конфіденційність" > "Захист пристрою та даних" > "Приховати додатки на головному екрані".
+• Для посилення безпеки системи впроваджено виправлення системи безпеки Android (грудень 2024 року). Додаткову інформацію про оновлення системи безпеки HONOR наведено на нашому вебсайті: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Примітки:" type="end">
+<feature>1. Установлення цього оновлення не вплине на ваші особисті дані, однак ми радимо створити резервну копію даних перед оновленням.
+2. Якщо під час оновлення виникнуть якісь проблеми, зателефонуйте на гарячу лінію служби підтримки HONOR або зверніться по допомогу в сервісний центр для клієнтів HONOR.</feature>
+</features>
+</language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>محترم صارف، یہ اپ ڈیٹ آپ کو ہوم اسکرین سے ایپس پوشیدہ کرنے کی اجازت دیتی ہے۔ یہ کچھ منظرناموں میں شوٹنگ کے تجربے کو بھی بہتر بناتی ہے، اور سسٹم کی کارکردگی اور استحکام کو بہتر بناتی ہے۔ مزید برآں، یہ ریلیز سکیورٹی پیچ شامل کرتی ہے۔ اپ ڈیٹ کریں اور نئی خصوصیات اور بہتریوں سے لطف اندوز ہوں۔</feature>
+</features>
+<features module="کیمرہ">
+<feature>‏• کچھ منظرناموں میں شوٹنگ کے تجربے کو بہتر بناتی ہے۔</feature>
+</features>
+<features module="کارکردگی">
+<feature>‏• ہموار آپریشن کے لیے سسٹم کی کارکردگی کو بہتر بناتی ہے۔</feature>
+</features>
+<features module="استحکام">
+<feature>‏• آپ کی ڈیوائس کو زیادہ مستحکم طریقے سے چلانے کے لیے سسٹم کے استحکام کو بہتر بناتی ہے۔</feature>
+</features>
+<features module="سکیورٹی">
+<feature>اب آپ ہوم اسکرین کی ایپس کو پوشیدہ کر سکتے ہیں۔ اسے یہاں جا کر آزمائیں: ترتیبات > سکیورٹی اور رازداری > ڈیوائس اور ڈیٹا کا تحفظ > ہوم اسکرین سے ایپس پوشیدہ کریں۔
+• سسٹم سکیورٹی کے لیے Android سکیورٹی پیچ (دسمبر 2024) شامل کر دیا گیا ہے۔ HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری درج ذیل ویب سائٹ ملاحظہ کریں https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="نوٹس:" type="end">
+<feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں متاثر ہو گا، لیکن پھر بھی اپ ڈیٹ کرنے سے پہلے سے اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2۔ اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+</features>
+</language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Hurmatli foydalanuvchi, ushbu yangilanishda sizga Bosh ekrandan ilovalarni berkitish imkoniyati taqdim etildi. Unda ayrim holatlarda tasvirga olish ham qulaylashtirildi hamda tizim unumdorligi va barqarorligi oshirildi. Bundan tashqari, ushbu nashrga xavfsizlik tuzatmasi ham kiritildi. Yangilang hamda yangi funksiyalar va qulayliklardan foydalaning.</feature>
+</features>
+<features module="Kamera">
+<feature>• Ayrim holatlarda suratga olish qulaylashtirildi.</feature>
+</features>
+<features module="Unumdorlik">
+<feature>• Yanada qulay boshqarish uchun tizim unumdorligi oshirildi.</feature>
+</features>
+<features module="Barqarorlik">
+<feature>• Qurilmangiz yanada barqaror ishlashi uchun tizim barqarorligi oshirildi.</feature>
+</features>
+<features module="Xavfsizlik">
+<feature>• Endi bosh ekrandagi ilovalarni berkitishingiz mumkin. Uni bu yerda sinang: Sozlamalar > Xavfsizlik va maxfiylik > Qurilma va maʼlumotlar himoyasi > Bosh ekranda ilovalarni berkitish.
+• Tizim xavfsizligi uchun Android xavfsizlik tuzatmasi (2024-yil, dekabr) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Eslatmalar:" type="end">
+<feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi.
+2. Agar yangilash jarayonida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+</features>
+</language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Người dùng thân mến, bản cập nhật này cho phép bạn ẩn ứng dụng khỏi Màn hình chính. Bản cập nhật này cũng tối ưu hóa trải nghiệm quay/chụp trong một số trường hợp cũng như cải thiện hiệu suất và độ ổn định của hệ thống. Ngoài ra, bản phát hành này còn tích hợp bản vá bảo mật. Hãy cập nhật và tận hưởng các tính năng và cải tiến mới.</feature>
+</features>
+<features module="Máy ảnh">
+<feature>• Tối ưu hóa trải nghiệm quay/chụp trong một số tình huống.</feature>
+</features>
+<features module="Hiệu suất">
+<feature>• Nâng cao hiệu suất hệ thống để hoạt động mượt mà hơn.</feature>
+</features>
+<features module="Độ ổn định">
+<feature>• Cải thiện độ ổn định của hệ thống để giúp thiết bị của bạn chạy ổn định hơn.</feature>
+</features>
+<features module="Bảo mật">
+<feature>• Giờ đây, bạn có thể ẩn các ứng dụng khỏi màn hình chính. Hãy thử tính năng này bằng cách vào: Cài đặt > Bảo mật và quyền riêng tư > Bảo vệ thiết bị và dữ liệu > Ẩn ứng dụng khỏi Màn hình chính.
+• Bản vá bảo mật Android (tháng 12 năm 2024) đã được tích hợp để bảo mật hệ thống. Để biết thêm thông tin về các bản cập nhật bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ghi chú:" type="end">
+<feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị ảnh hưởng. Tuy nhiên, bạn vẫn nên sao lưu dữ liệu trước khi cập nhật.
+2. Nếu bạn gặp bất kỳ vấn đề nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ khách hàng của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新新增了隱藏應用程式主屏幕圖標功能，優化了部分場景相機拍攝效果，提升了系統性能和穩定性，整合了安全性修補程式，建議您更新。</feature>
+</features>
+<features module="相機">
+<feature>• 優化部分場景的相機拍攝效果。</feature>
+</features>
+<features module="性能">
+<feature>• 優化系統性能，讓您的系統更流暢。</feature>
+</features>
+<features module="穩定性">
+<feature>• 提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="安全">
+<feature>• 新增隱藏應用程式主屏幕圖標功能，體驗路徑：設定 > 安全和私隱 > 裝置和數據保護 > 隱藏應用程式主屏幕圖標。
+• 整合 Android 2024年12月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新新增隱藏應用程式桌面圖示功能，最佳化在部分場景下的相機拍攝效果，提升系統效能和穩定性，並整合安全性修補程式，建議您進行更新。</feature>
+</features>
+<features module="相機">
+<feature>• 最佳化在部分場景下的相機拍攝效果。</feature>
+</features>
+<features module="效能">
+<feature>• 最佳化系統效能，讓您的系統更流暢。</feature>
+</features>
+<features module="穩定性">
+<feature>• 提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="安全">
+<feature>• 新增隱藏應用程式桌面圖示功能，體驗路徑：設定 > 安全和隱私 > 裝置與資料保護 > 隱藏應用程式桌面圖示。
+• 整合 Android 2024 年 12 月安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+</root>

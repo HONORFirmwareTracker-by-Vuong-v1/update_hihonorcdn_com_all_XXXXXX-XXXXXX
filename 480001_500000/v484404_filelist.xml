@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>2</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>773</payloadOffset>
+<fileHash>eKm/ahviD1WLyp/EUaP1kDg56ZExVATXDyDRajqEw/c=</fileHash>
+<fileSize>150187</fileSize>
+<metadataHash>Xzfkc17FyWq+KAygR6ztoTj3+aBkydIdLhFM7ooG0rg=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_TNA-AN00Q_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_TNA-AN00Q_all_cn.zip</spath>
+<dpath>update_full_cust_TNA-AN00Q_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>8C9C1314C86E306708A0DA74FA8C912A5DDC8EFAA44CDC10608B031719F73952</sha256>
+<size>157357</size>
+</file>
+</files>
+</root>

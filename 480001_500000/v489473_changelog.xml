@@ -1,0 +1,788 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="请自行修改"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features >
+<feature>本次更新包含如下内容：</feature>
+</features>
+<characters module="[appLink]">
+<character>运营商的重要应用</character>
+</characters>
+</language>
+
+<language name="en-us" code="1033">
+<features >
+<feature>This update includes:</feature>
+</features>
+<characters module="[appLink]">
+<character>Key APPs for operator</character>
+</characters>
+</language>
+
+<language name="am-ET" code="1033">
+<features >
+<feature>ይህ ዝማኔ የሚከተለውን መረጃ ይዟል፦</feature>
+</features>
+<characters module="[appLink]">
+<character>የአገልግሎት ሰጪ ቁልፍ መተግበሪያዎች</character>
+</characters>
+</language>
+
+<language name="ar-eg" code="3073">
+<features >
+<feature>يحتوي هذا التحديث على المعلومات التالية:</feature>
+</features>
+<characters module="[appLink]">
+<character>التطبيقات الأساسية لشركة الاتصالات</character>
+</characters>
+</language>
+
+<language name="as-IN" code="3073">
+<features >
+<feature>এই আপডেটটোত নিম্নোক্ত তথ্যখিনি আছে:</feature>
+</features>
+<characters module="[appLink]">
+<character>বাহকৰ বাবে মুখ্য এপ্প্‌সমূহ</character>
+</characters>
+</language>
+
+<language name="az-az" code="1068">
+<features >
+<feature>Bu yeniləmə aşağıdakı məlumatları ehtiva edir:</feature>
+</features>
+<characters module="[appLink]">
+<character>Operator üçün Əsas Proqramlar</character>
+</characters>
+</language>
+
+<language name="jv-id" code="1033">
+<features >
+<feature>Panganyaran iki ngandhut informasi ing ngisor iki:</feature>
+</features>
+<characters module="[appLink]">
+<character>APL Kunci kanggo Operator</character>
+</characters>
+</language>
+
+<language name="sr-rs" code="2074">
+<features >
+<feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključne aplikacije za mrežnog operatera</character>
+</characters>
+</language>
+
+<language name="sr-ba" code="2074">
+<features >
+<feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključne aplikacije za mrežnog operatera</character>
+</characters>
+</language>
+
+<language name="sr-me" code="2074">
+<features >
+<feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključne aplikacije za mrežnog operatera</character>
+</characters>
+</language>
+
+<language name="be-by" code="1033">
+<features >
+<feature>У гэта абнаўленне ўваходзіць наступная інфармацыя:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ключавыя праграмы для аператара</character>
+</characters>
+</language>
+
+<language name="bg-bg" code="1026">
+<features >
+<feature>Тази актуализация съдържа следната информация:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ключови приложения за оператора</character>
+</characters>
+</language>
+
+<language name="bn-bd" code="1033">
+<features >
+<feature>এই আপডেটে নিম্নলিখিত তথ্য রয়েছে:</feature>
+</features>
+<characters module="[appLink]">
+<character>ক্যারিয়ারের জন্য কী অ্যাপস</character>
+</characters>
+</language>
+
+<language name="bo-cn" code="1033">
+<features >
+<feature>ཐེངས་འདིའི་གསར་སྒྱུར་ལ་གཤམ་གྱི་ནང་དོན་ཚུད་ཡོད།</feature>
+</features>
+<characters module="[appLink]">
+<character>འཁོར་སྐྱོད་ཚོང་གཉེར་གྱི་ཉེར་སྤྱོད་གལ་ཆེན།</character>
+</characters>
+</language>
+
+<language name="bs-ba" code="5146">
+<features >
+<feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključni APP-ovi za operatera</character>
+</characters>
+</language>
+
+<language name="ca-es" code="1033">
+<features >
+<feature>Aquesta actualització conté la següent informació:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicacions clau per a l'operador de telefonia mòbil</character>
+</characters>
+</language>
+
+<language name="cs-cz" code="1029">
+<features >
+<feature>Tato aktualizace obsahuje následující informace:</feature>
+</features>
+<characters module="[appLink]">
+<character>Klíčová APP pro operátora</character>
+</characters>
+</language>
+
+<language name="da-dk" code="1030">
+<features >
+<feature>Denne opdatering indeholder følgende oplysninger:</feature>
+</features>
+<characters module="[appLink]">
+<character>Vigtige apps for mobilselskab</character>
+</characters>
+</language>
+
+<language name="de-de" code="1031">
+<features >
+<feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+</features>
+<characters module="[appLink]">
+<character>Wichtige APPs für Anbieter</character>
+</characters>
+</language>
+
+<language name="de-at" code="1031">
+<features >
+<feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+</features>
+<characters module="[appLink]">
+<character>Wichtige APPs für Anbieter</character>
+</characters>
+</language>
+
+<language name="de-ch" code="1031">
+<features >
+<feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+</features>
+<characters module="[appLink]">
+<character>Wichtige APPs für Anbieter</character>
+</characters>
+</language>
+
+<language name="el-gr" code="1032">
+<features >
+<feature>Αυτή η έκδοση περιλαμβάνει τις ακόλουθες πληροφορίες:</feature>
+</features>
+<characters module="[appLink]">
+<character>Βασικά ΠΠΕ για τον πάροχο</character>
+</characters>
+</language>
+
+<language name="en-gb" code="2057">
+<features >
+<feature>This update contains the following information:</feature>
+</features>
+<characters module="[appLink]">
+<character>Key APPs for operator</character>
+</characters>
+</language>
+
+<language name="es-es" code="1034">
+<features >
+<feature>Esta actualización incluye la siguiente información:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicaciones clave para el operador</character>
+</characters>
+</language>
+
+<language name="es-us" code="21514">
+<features >
+<feature>Esta actualización contiene la siguiente información:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicaciones clave para el operador</character>
+</characters>
+</language>
+
+<language name="et-ee" code="1061">
+<features >
+<feature>See värskendus sisaldab järgmist teavet:</feature>
+</features>
+<characters module="[appLink]">
+<character>Operaatori põhilised rakendused</character>
+</characters>
+</language>
+
+<language name="eu-es" code="1033">
+<features >
+<feature>Eguneratze honek informazio hau jasotzen du:</feature>
+</features>
+<characters module="[appLink]">
+<character>Funtsezko aplikazioak operadorearentzat</character>
+</characters>
+</language>
+
+<language name="fa-ir" code="1065">
+<features >
+<feature>این به‌روزرسانی شامل اطلاعات زیر است:</feature>
+</features>
+<characters module="[appLink]">
+<character>برنامه‌های کلیدی شرکت مخابراتی</character>
+</characters>
+</language>
+
+<language name="fi-fi" code="1035">
+<features >
+<feature>Tämä päivitys sisältää seuraavat tiedot:</feature>
+</features>
+<characters module="[appLink]">
+<character>Operaattorin pääsovellukset</character>
+</characters>
+</language>
+
+<language name="fr-fr" code="1036">
+<features >
+<feature>Cette mise à jour contient les informations suivantes :</feature>
+</features>
+<characters module="[appLink]">
+<character>Applications clés pour l'opérateur</character>
+</characters>
+</language>
+
+<language name="fr-ch" code="1036">
+<features >
+<feature>Cette mise à jour contient les informations suivantes :</feature>
+</features>
+<characters module="[appLink]">
+<character>Applications clés pour l'opérateur</character>
+</characters>
+</language>
+
+<language name="gl-es" code="1033">
+<features >
+<feature>Esta actualización contén a seguinte información:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicacións clave para o operador</character>
+</characters>
+</language>
+
+<language name="gu-IN" code="1033">
+<features >
+<feature>આ અપડેટમાં નીચેની માહિતીનો સમાવેશ હોય છે:</feature>
+</features>
+<characters module="[appLink]">
+<character>કૅરિઅર માટે મુખ્ય એપ્લિકેશનો</character>
+</characters>
+</language>
+
+<language name="hi-in" code="1081">
+<features >
+<feature>इस अद्यतन में निम्नलिखित जानकारी शामिल है:</feature>
+</features>
+<characters module="[appLink]">
+<character>कैरियर के लिए मुख्य ऐप्स</character>
+</characters>
+</language>
+
+<language name="hr-hr" code="1050">
+<features >
+<feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključne aplikacije za mobilnog operatera</character>
+</characters>
+</language>
+
+<language name="hu-hu" code="1038">
+<features >
+<feature>Ez a frissítés az alábbi információkat tartalmazza:</feature>
+</features>
+<characters module="[appLink]">
+<character>Kulcsalkalmazások a szolgáltatóra vonatkozóan</character>
+</characters>
+</language>
+
+<language name="in-id" code="1057">
+<features >
+<feature>Pembaruan ini berisi informasi berikut:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplikasi Penting untuk Operator</character>
+</characters>
+</language>
+
+<language name="id-" code="1057">
+<features >
+<feature>Pembaruan ini berisi informasi berikut:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplikasi Penting untuk Operator</character>
+</characters>
+</language>
+
+<language name="it-it" code="1040">
+<features >
+<feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+</features>
+<characters module="[appLink]">
+<character>APP principali per l'operatore</character>
+</characters>
+</language>
+
+<language name="it-ch" code="1040">
+<features >
+<feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+</features>
+<characters module="[appLink]">
+<character>APP principali per l'operatore</character>
+</characters>
+</language>
+
+<language name="iw-il" code="1033">
+<features >
+<feature>עדכון זה מכיל את המידע הבא:</feature>
+</features>
+<characters module="[appLink]">
+<character>יישומים מובילים עבור ספק השירות</character>
+</characters>
+</language>
+
+<language name="he-" code="1033">
+<features >
+<feature>עדכון זה מכיל את המידע הבא:</feature>
+</features>
+<characters module="[appLink]">
+<character>יישומים מובילים עבור ספק השירות</character>
+</characters>
+</language>
+
+<language name="ja-jp" code="1033">
+<features >
+<feature>この更新には次の情報が含まれています。</feature>
+</features>
+<characters module="[appLink]">
+<character>通信事業者向けの主要なアプリ</character>
+</characters>
+</language>
+
+<language name="ka-ge" code="1033">
+<features >
+<feature>ეს განახლება შეიცავს შემდეგ ინფორმაციას:</feature>
+</features>
+<characters module="[appLink]">
+<character>ძირითადი აპები ოპერატორისთვის</character>
+</characters>
+</language>
+
+<language name="kk-kz" code="1033">
+<features >
+<feature>Бұл жаңартуда келесі ақпарат бар:</feature>
+</features>
+<characters module="[appLink]">
+<character>Операторға арналған негізгі қолданбалар</character>
+</characters>
+</language>
+
+<language name="km-kh" code="1033">
+<features >
+<feature>បច្ចុប្បន្នភាពនេះ​មានផ្ទុក​ព័ត៌មាន​ដូចខាងក្រោម៖</feature>
+</features>
+<characters module="[appLink]">
+<character>APP សំខាន់ៗ​សម្រាប់​ក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ</character>
+</characters>
+</language>
+
+<language name="kn-IN" code="1033">
+<features >
+<feature>ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿದೆ:</feature>
+</features>
+<characters module="[appLink]">
+<character>ಕ್ಯಾರಿಯರ್‌ಗಾಗಿ ಪ್ರಮುಖ ಆ್ಯಪ್‌ಗಳು</character>
+</characters>
+</language>
+
+<language name="ko-kr" code="1033">
+<features >
+<feature>이 업데이트에는 다음 정보가 포함됩니다.</feature>
+</features>
+<characters module="[appLink]">
+<character>이동통신사의 주요 앱</character>
+</characters>
+</language>
+
+<language name="lo-la" code="1033">
+<features >
+<feature>ການອັບເດດນີ້ມີຂໍ້ມູນດັ່ງຕໍ່ໄປນີ້:</feature>
+</features>
+<characters module="[appLink]">
+<character>ແອັບຫຼັກສຳລັບບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື</character>
+</characters>
+</language>
+
+<language name="lt-lt" code="1063">
+<features >
+<feature>Šiame naujinyje pateikiama toliau nurodyta informacija.</feature>
+</features>
+<characters module="[appLink]">
+<character>Pagrindinės tinklo operatoriaus programėlės</character>
+</characters>
+</language>
+
+<language name="lv-lv" code="1062">
+<features >
+<feature>Šajā atjauninājumā ietverta tālāk norādītā informācija.</feature>
+</features>
+<characters module="[appLink]">
+<character>Operatora galvenās lietotnes</character>
+</characters>
+</language>
+
+<language name="mai-IN" code="1062">
+<features >
+<feature>ई अपडेट निम्न जानकारी सम्मिलित करैत अछि:</feature>
+</features>
+<characters module="[appLink]">
+<character>वाहक के लेल प्रमुख एप सभ</character>
+</characters>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features >
+<feature>Kei roto i tēnei whakahōu ko ngā mōhiohio e whai ake:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ngā APP hira mō te Kaiwhakarato Waea Pūkoro</character>
+</characters>
+</language>
+
+<language name="mk-mk" code="1071">
+<features >
+<feature>Ова ажурирање ги содржи следниве информации:</feature>
+</features>
+<characters module="[appLink]">
+<character>Клучни апликации за операторот</character>
+</characters>
+</language>
+
+<language name="ml-IN" code="1071">
+<features >
+<feature>ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന വിവരങ്ങൾ അടങ്ങുന്നു:</feature>
+</features>
+<characters module="[appLink]">
+<character>കാരിയറിനുള്ള പ്രധാന ആപ്പുകൾ</character>
+</characters>
+</language>
+
+<language name="mn-MN" code="1071">
+<features >
+<feature>Энэ шинэчлэлт нь дараах мэдээллийг агуулна:</feature>
+</features>
+<characters module="[appLink]">
+<character>Үүрэн телефоны операторын гол апликэйшнүүд</character>
+</characters>
+</language>
+
+<language name="mr-IN" code="1071">
+<features >
+<feature>या अद्यतनामध्ये खालील माहिती आहे:</feature>
+</features>
+<characters module="[appLink]">
+<character>वाहक साठी की अ‍ॅप्स</character>
+</characters>
+</language>
+
+<language name="ms-my" code="1086">
+<features >
+<feature>Kemas kini ini mengandungi maklumat yang berikut:</feature>
+</features>
+<characters module="[appLink]">
+<character>APLIKASI utama untuk Pembawa</character>
+</characters>
+</language>
+
+<language name="my-mm" code="1033">
+<features >
+<feature>ဤအပ်ဒိတ်တွင် အောက်ပါ အချက်အလက်များ ပါဝင်သည်-</feature>
+</features>
+<characters module="[appLink]">
+<character>ဆက်သွယ်ရေး ကယ်ရီယာအတွက် အဓိက အက်ပ်များ</character>
+</characters>
+</language>
+
+<language name="my-zg" code="1033">
+<features >
+<feature>ဤအပ္ဒိတ္တြင္ ေအာက္ပါ အခ်က္အလက္မ်ား ပါဝင္သည္-</feature>
+</features>
+<characters module="[appLink]">
+<character>ဆက္သြယ္ေရး ကယ္ရီယာအတြက္ အဓိက အက္ပ္မ်ား</character>
+</characters>
+</language>
+
+<language name="nb-no" code="1044">
+<features >
+<feature>Denne oppdateringen inneholder følgende informasjon:</feature>
+</features>
+<characters module="[appLink]">
+<character>Nøkkel APP-er for operatør</character>
+</characters>
+</language>
+
+<language name="ne-np" code="1033">
+<features >
+<feature>यो अद्यावधिकमा निम्न जानकारी समावेश छ:</feature>
+</features>
+<characters module="[appLink]">
+<character>वाहकका लागि मुख्य एपहरू</character>
+</characters>
+</language>
+
+<language name="nl-nl" code="1043">
+<features >
+<feature>Deze update bevat de volgende informatie:</feature>
+</features>
+<characters module="[appLink]">
+<character>Belangrijke apps voor provider</character>
+</characters>
+</language>
+
+<language name="or-IN" code="1043">
+<features >
+<feature>ଏହି ଅପଡେଟ୍‌‌ରେ ନିମ୍ନଲିଖିତ ସୂଚନା ରହିଛି:</feature>
+</features>
+<characters module="[appLink]">
+<character>କ୍ୟାରିଅର ପାଇଁ କୀ ଆପସ୍</character>
+</characters>
+</language>
+
+<language name="pa-IN" code="1043">
+<features >
+<feature>ਇਸ ਅੱਪਡੇਟ ਦੇ ਵਿੱਚ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਹੈ:</feature>
+</features>
+<characters module="[appLink]">
+<character>ਕੈਰੀਅਰ ਲਈ ਪ੍ਰਮੁੱਖ ਐਪਾਂ</character>
+</characters>
+</language>
+
+<language name="pl-pl" code="1045">
+<features >
+<feature>Ta aktualizacja zawiera następujące informacje:</feature>
+</features>
+<characters module="[appLink]">
+<character>Kluczowe aplikacje dla operatora</character>
+</characters>
+</language>
+
+<language name="pt-br" code="1046">
+<features >
+<feature>Esta atualização contém as seguintes informações:</feature>
+</features>
+<characters module="[appLink]">
+<character>APPs principais para a operadora</character>
+</characters>
+</language>
+
+<language name="pt-pt" code="2070">
+<features >
+<feature>Esta atualização contém as seguintes informações:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicações importantes para a Operadora</character>
+</characters>
+</language>
+
+<language name="ro-ro" code="1048">
+<features >
+<feature>Această actualizare conține următoarele informații:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aplicații cheie operator:</character>
+</characters>
+</language>
+
+<language name="ru-ru" code="1049">
+<features >
+<feature>Данное обновление содержит следующие сведения:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ключевые приложения для оператора</character>
+</characters>
+</language>
+
+<language name="si-lk" code="1033">
+<features >
+<feature>මෙම යාවත්කාලීනයේ පහත තොරතුරු අඩංගු වේ:</feature>
+</features>
+<characters module="[appLink]">
+<character>වාහකයා සඳහා ප්‍රධාන යෙදුම්</character>
+</characters>
+</language>
+
+<language name="sk-sk" code="1051">
+<features >
+<feature>Táto aktualizácia obsahuje nasledujúce informácie:</feature>
+</features>
+<characters module="[appLink]">
+<character>Kľúčové aplikácie pre operátora</character>
+</characters>
+</language>
+
+<language name="sl-si" code="1060">
+<features >
+<feature>Ta posodobitev vključuje naslednje podatke:</feature>
+</features>
+<characters module="[appLink]">
+<character>Ključne aplikacije za operaterja</character>
+</characters>
+</language>
+
+<language name="sv-se" code="1053">
+<features >
+<feature>Den här uppdateringen innehåller följande information:</feature>
+</features>
+<characters module="[appLink]">
+<character>Viktiga appar för operatören</character>
+</characters>
+</language>
+
+<language name="sw-KE" code="1053">
+<features >
+<feature>Sasisho hili lina maelezo yafuatayo:</feature>
+</features>
+<characters module="[appLink]">
+<character>PROGRAMU Kuu za Mtoa Huduma</character>
+</characters>
+</language>
+
+<language name="ta-IN" code="1053">
+<features >
+<feature>இந்தப் புதுப்பிப்பில் பின்வரும் தகவல்கள் உள்ளன:</feature>
+</features>
+<characters module="[appLink]">
+<character>கேரியருக்கான முக்கிய APPகள்</character>
+</characters>
+</language>
+
+<language name="te-IN" code="1053">
+<features >
+<feature>ఈ అప్‌డేట్‌లో క్రింది సమాచారం ఉంటుంది:</feature>
+</features>
+<characters module="[appLink]">
+<character>క్యారియర్ కోసం కీ అప్లికేషన్‌లు</character>
+</characters>
+</language>
+
+<language name="th-th" code="1054">
+<features >
+<feature>การอัปเดตนี้มีข้อมูลดังต่อไปนี้:</feature>
+</features>
+<characters module="[appLink]">
+<character>แอปที่สำคัญสำหรับผู้ให้บริการ</character>
+</characters>
+</language>
+
+<language name="tl-ph" code="1033">
+<features >
+<feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+</features>
+<characters module="[appLink]">
+<character>Mga Pangunahing APP Para sa operator</character>
+</characters>
+</language>
+
+<language name="fil-ph" code="1033">
+<features >
+<feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+</features>
+<characters module="[appLink]">
+<character>Mga Pangunahing APP Para sa operator</character>
+</characters>
+</language>
+
+<language name="tr-tr" code="1055">
+<features >
+<feature>Bu güncelleme aşağıdaki bilgileri içermektedir:</feature>
+</features>
+<characters module="[appLink]">
+<character>Önemli Operatör Uygulamaları</character>
+</characters>
+</language>
+
+<language name="ug-cn" code="1055">
+<features >
+<feature>بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەزمۇننى ئۆز ئىچىگە ئالىدۇ:</feature>
+</features>
+<characters module="[appLink]">
+<character>يۈرۈتكۈچىنىڭ مۇھىم ئەپلىرى</character>
+</characters>
+</language>
+
+<language name="uk-ua" code="1058">
+<features >
+<feature>Це оновлення містить таку інформацію:</feature>
+</features>
+<characters module="[appLink]">
+<character>Основні додатки для оператора</character>
+</characters>
+</language>
+
+<language name="ur-pk" code="1056">
+<features >
+<feature>اس اپ ڈیٹ میں مندرجہ ذیل معلومات شامل ہیں:</feature>
+</features>
+<characters module="[appLink]">
+<character>کیریئر کے لیے کلیدی APPs</character>
+</characters>
+</language>
+
+<language name="uz-uz" code="2115">
+<features >
+<feature>Bu yangilanishda quyidagi axborotlar mavjud:</feature>
+</features>
+<characters module="[appLink]">
+<character>Aloqa operatori asosiy ilovalari</character>
+</characters>
+</language>
+
+<language name="vi-vn" code="1066">
+<features >
+<feature>Bản cập nhật này chứa các thông tin sau:</feature>
+</features>
+<characters module="[appLink]">
+<character>ỨNG DỤNG chính cho Nhà mạng</character>
+</characters>
+</language>
+
+<language name="zh-hk" code="3076">
+<features >
+<feature>本次更新包含以下內容：</feature>
+</features>
+<characters module="[appLink]">
+<character>供應商的重要應用程式</character>
+</characters>
+</language>
+
+</root>

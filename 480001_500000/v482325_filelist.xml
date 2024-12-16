@@ -1,0 +1,14 @@
+<root>
+	<packageName>com.hihonor.visionengine</packageName>
+	<pluginName>faceenhance</pluginName>
+	<versionCode>90133027</versionCode>
+	<packageType>full</packageType>
+	<files>
+		<file>
+			<spath>update_plugin.zip</spath>
+			<dpath>update_plugin.zip</dpath>
+			<sha256>dbbf7be150c12cbab25319158c07768a2ce8f185b965b53636721da9b062aad5</sha256>
+			<size>71016415</size>
+		</file>
+	</files>
+</root>
