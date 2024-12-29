@@ -1,0 +1,1238 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+             <features module="" type="header" backgroud="">
+            <feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新。</feature>
+        </features>
+        <features id="1" module="系统">
+             <feature title="">•  优化系统，提升使用体验。</feature>
+         </features>
+        <features module="更新注意事项：" type="end">
+            <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+        </features>
+    </language>
+
+    <language name="en-us" code="1033">
+             <features module="" type="header" backgroud="">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <features id="1" module="System">
+             <feature title="">• Enhances the system performance to optimize the user experience.</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+        </features>
+    </language>
+
+    <language code="1118" name="am-ET">
+             <features module="" backgroud="" type="header">
+            <feature>ውድ ተጠቃሚ፣ ይህ ዝማኔ በዋነኛነት የስርዓቱን አፈጻጸም ያሻሽላል። በማሻሻያዎቹ ለመደሰት ያዘምኑ።</feature>
+        </features>
+        <features module="ስርዓት" id="1">
+             <feature title="">• የተጠቃሚውን ተሞክሮ ለማትባት የስርዓት አፈጻጸምን ያሳድጋል።</feature>
+         </features>
+        <features module="ማስታወሻዎች፦" type="end">
+            <feature>1. ይህን ዝማኔ መጫን በግል ውሂብዎ ላይ ተጽዕኖ አያሳርፍም፣ ነገር ግን አሁንም ከማዘመንዎ በፊት የውሂብዎን መጠባበቂያ እንዲያስቀምጡ ይመከራል።
+2. በዝማኔው ጊዜ ማናቸውም ችግሮች ካጋጠመዎት እባክዎ ድጋፍ ለማግኘት ወደ የHONOR አገልግሎት ቀጥታ መስመር ይደውሉ ወይም ወደ የHONOR ደንበኛ አገልግሎት ማዕከል ይሂዱ።</feature>
+        </features>
+    </language>
+    
+    
+<language code="3073" name="ar-eg">
+             <features module="" backgroud="" type="header">
+            <feature>عزيزنا المستخدم، يحسّن هذا التحديث أداء النظام بشكل أساسي. للاستمتاع بالتحسينات، ما عليك سوى التحديث.</feature>
+        </features>
+        <features module="النظام" id="1">
+             <feature title="">• يحسّن أداء النظام لتحسين تجربة المستخدم.</feature>
+         </features>
+        <features module="الملاحظات:" type="end">
+            <feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1101" name="as-IN">
+             <features module="" backgroud="" type="header">
+            <feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটটোৱে মূলতঃ ছিষ্টেমৰ কাৰ্যদক্ষতা উন্নত কৰে। উন্নতিসমূহৰ আনন্দ ল'বলৈ আপডেট কৰক।</feature>
+        </features>
+        <features module="ছিষ্টেম" id="1">
+             <feature title="">• ব্যৱহাৰকাৰীৰ অভিজ্ঞতা অনুকূলন কৰিবলৈ ছিষ্টেমৰ কাৰ্যদক্ষতা উন্নত কৰে।</feature>
+         </features>
+        <features module="মনত ৰাখিব:" type="end">
+            <feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়।
+2. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ'লে, অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত কল কৰক বা সমৰ্থনৰ বাবে HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাওক।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1068" name="az-az">
+             <features module="" backgroud="" type="header">
+            <feature>Hörmətli istifadəçi, bu yeniləmə əsasən sistemin performansını artırır. Təkmilləşdirmələrdən zövq almaq üçün yeniləyin.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• İstifadəçi təcrübəsini optimallaşdırmaq üçün sistem performansını artırır.</feature>
+         </features>
+        <features module="Qeydlər:" type="end">
+            <feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yeniləmədən əvvəl yenə də verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur.
+2. Yeniləmə zamanı hər hansı problemlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1033" name="jv-id">
+             <features module="" backgroud="" type="header">
+            <feature>Katur pangguna, panganyaran iki utamane ningkatake kinerja sistem. Anyarake kanggo nikmati pangapikan.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Ningkatake kinerja sistem kanggo ngoptimalake pangalaman pangguna.</feature>
+         </features>
+        <features module="Cathetan:" type="end">
+            <feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake.
+2. Yen ana masalah sajrone panganyaran, ubungi hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2074" name="sr-rs">
+             <features module="" backgroud="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Unapređuju se performanse sistema radi optimizovanja korisničkog iskustva.</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1059" name="be-by">
+             <features module="" backgroud="" type="header">
+            <feature>Паважаны карыстальнік, гэта абнаўленне ў асноўным паляпшае прадукцыйнасць сістэмы. Каб палепшыць уражанні ад выкарыстання, устанавіце абнаўленне.</feature>
+        </features>
+        <features module="Сістэма" id="1">
+             <feature title="">• Прадукцыйнасць сістэмы палепшана, у выніку чаго выкарыстанне функцыі аптымізавана.</feature>
+         </features>
+        <features module="Заўвагі." type="end">
+            <feature>1. Устаноўка гэтага абнаўлення не паўплывае на вашы асабістыя даныя, але мы ўсё роўна рэкамендуем зрабіць іх рэзервовую копію перад абнаўленнем.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1026" name="bg-bg">
+             <features module="" backgroud="" type="header">
+            <feature>Уважаеми потребители, тази актуализация подобрява основно ефективността на системата. Актуализирайте, за да се насладите на подобренията.</feature>
+        </features>
+        <features module="Система" id="1">
+             <feature title="">• Подобрява ефективността на системата, за да оптимизира изживяването на потребителите.</feature>
+         </features>
+        <features module="Бележки:" type="end">
+            <feature>1. Инсталирането на тази актуализация няма да засегне личните ви данни, но е препоръчително архивирането им преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2117" name="bn-bd">
+             <features module="" backgroud="" type="header">
+            <feature>প্রিয় ব্যবহারকারী, এই আপডেটটি মূলত সিস্টেমের কর্মক্ষমতা বাড়ায়। উন্নতি উপভোগ করতে আপডেট করুন।</feature>
+        </features>
+        <features module="সিস্টেম" id="1">
+             <feature title="">• ব্যবহারকারীর অভিজ্ঞতা অপটিমাইজ করার জন্য সিস্টেমের কর্মক্ষমতা বাড়ায়।</feature>
+         </features>
+        <features module="নোট:" type="end">
+            <feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়।
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1105" name="bo-cn">
+             <features module="" backgroud="" type="header">
+            <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུའི་འོས་སྦྱོར་བྱེད།</feature>
+        </features>
+        <features module="རྒྱུད་ཁོངས།" id="1">
+             <feature title="">• རྒྱུད་ཁོངས་ལེགས་སྒྱུར་བྱས། བེད་སྤྱོད་ཀྱི་ཉམས་ལེན་མཐོར་གདེགས་བཏང་ཡོད།</feature>
+         </features>
+        <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+            <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+        </features>
+    </language>
+    
+    
+<language code="5146" name="bs-ba">
+             <features module="" backgroud="" type="header">
+            <feature>Poštovani korisniče, ovo ažuriranje uglavnom poboljšava performanse sistema. Ažurirajte ih da uživate u poboljšanjima.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Poboljšava performanse sistema radi optimiziranja korisničkog iskustva.</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali ipak se preporučuje da napravite rezervnu kopiju podataka.
+2. Ako naiđete na bilo kakve probleme tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1027" name="ca-es">
+             <features module="" backgroud="" type="header">
+            <feature>Benvolgut usuari, aquesta actualització millora principalment el rendiment del sistema. Actualitzeu-la per gaudir de les millores.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Millora el rendiment del sistema per optimitzar l'experiència d'usuari.</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però, així i tot, us recomanem que feu una còpia de seguretat de les dades abans de l'actualització.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o visiteu el centre de servei d'atenció al client d'HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1029" name="cs-cz">
+             <features module="" backgroud="" type="header">
+            <feature>Vážený uživateli, tato aktualizace především zvyšuje výkon systému. Aktualizujte, abyste si mohli užít vylepšení.</feature>
+        </features>
+        <features module="Systém" id="1">
+             <feature title="">• Zvyšuje výkon systému za účelem optimalizace uživatelského zážitku.</feature>
+         </features>
+        <features module="Poznámky:" type="end">
+            <feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1030" name="da-dk">
+             <features module="" backgroud="" type="header">
+            <feature>Kære bruger. Denne opdatering forbedrer hovedsageligt systemets ydelse. Opdater for at få glæde af forbedringerne.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Forbedrer systemets ydelse for at optimere brugeroplevelsen.</feature>
+         </features>
+        <features module="Noter:" type="end">
+            <feature>1. Installation af denne opdatering vil ikke påvirke dine personlige data, men det anbefales stadig at sikkerhedskopiere dine data, før du opdaterer.
+2. Hvis du støder på problemer under opdateringen, kan du ringe til HONORs service-hotline eller gå til HONORs kundeservicecenter for support.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1031" name="de-de">
+             <features module="" backgroud="" type="header">
+            <feature>Sehr geehrter Benutzer, dieses Update verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Verbessert die Systemleistung, um das Benutzererlebnis zu optimieren.</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1032" name="el-gr">
+             <features module="" backgroud="" type="header">
+            <feature>Αγαπητέ χρήστη, αυτή η ενημέρωση βελτιώνει κυρίως την απόδοση του συστήματος. Πραγματοποιήστε ενημέρωση για να απολαύσετε τις βελτιώσεις.</feature>
+        </features>
+        <features module="Σύστημα" id="1">
+             <feature title="">• Βελτιώνει την απόδοση του συστήματος για τη βελτιστοποίηση της εμπειρίας χρήστη.</feature>
+         </features>
+        <features module="Σημειώσεις:" type="end">
+            <feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση.
+2. Εάν αντιμετωπίσετε τυχόν προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2057" name="en-GB">
+             <features module="" backgroud="" type="header">
+            <feature>Dear user, this update mainly enhances the system performance. Update to enjoy the improvements.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Enhances the system performance to optimise the user experience.</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any issues during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1034" name="es-es">
+             <features module="" backgroud="" type="header">
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Mejora el rendimiento del sistema para optimizar la experiencia del usuario.</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+        </features>
+    </language>
+    
+    
+<language code="21514" name="es-us">
+             <features module="" backgroud="" type="header">
+            <feature>Estimado usuario, esta actualización mejora principalmente el rendimiento del sistema. Actualice para disfrutar de las mejoras.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Se mejora el rendimiento del sistema para optimizar la experiencia de usuario.</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1061" name="et-ee">
+             <features module="" backgroud="" type="header">
+            <feature>Hea kasutaja! See värskendus parandab peamiselt süsteemi jõudlust. Värskendage täiustuste nautimiseks.</feature>
+        </features>
+        <features module="Süsteem" id="1">
+             <feature title="">• Parandab süsteemi jõudlust kasutajakogemuse optimeerimiseks.</feature>
+         </features>
+        <features module="Märkused:" type="end">
+            <feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1069" name="eu-es">
+             <features module="" backgroud="" type="header">
+            <feature>Erabiltzaile hori: eguneratze honek sistemaren errendimendua hobetzen du nagusiki. Eguneratu hobekuntzez gozatzeko.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Sistemaren errendimendua hobetzen du, erabiltzailearen esperientzia optimizatzeko.</feature>
+         </features>
+        <features module="Oharrak:" type="end">
+            <feature>1. Eguneratze hau instalatzeak ez du eraginik izango datu pertsonaletan, baina gomendagarria da datuen babeskopia egitea eguneratzea egin baino lehen.
+2. Arazorik baduzu eguneratzean, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza lortzeko.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1065" name="fa-ir">
+             <features module="" backgroud="" type="header">
+            <feature>کاربر گرامی، این به‌روزرسانی به‌طور عمده عملکرد سیستم را بهبود می‌بخشد. با انجام این به‌روزرسانی، از این بهبودها بهره‌مند شوید.</feature>
+        </features>
+        <features module="سیستم" id="1">
+             <feature title="">‏• عملکرد سیستم را برای بهینه‌سازی تجربه کاربر ارتقا می‌دهد.</feature>
+         </features>
+        <features module="نکات مهم:" type="end">
+            <feature>‏۱. نصب این به‌روزرسانی، داده‌های شخصی شما را تحت تأثیر قرار نخواهد داد، اما همچنان توصیه می‌شود قبل از انجام به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1035" name="fi-fi">
+             <features module="" backgroud="" type="header">
+            <feature>Hyvä käyttäjä, tämä päivitys parantaa ensisijaisesti järjestelmän suorituskykyä. Päivitä, niin pääset nauttimaan parannuksista.</feature>
+        </features>
+        <features module="Järjestelmä" id="1">
+             <feature title="">• Optimoi käyttökokemuksen parantamalla järjestelmän suorituskykyä.</feature>
+         </features>
+        <features module="Huomautukset:" type="end">
+            <feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1036" name="fr-fr">
+             <features module="" backgroud="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations.</feature>
+        </features>
+        <features module="Système" id="1">
+             <feature title="">• Améliore les performances du système pour optimiser l'expérience utilisateur.</feature>
+         </features>
+        <features module="Remarques :" type="end">
+            <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1110" name="gl-es">
+             <features module="" backgroud="" type="header">
+            <feature>Estimado usuario, esta actualización mellora o rendemento do sistema. Actualice para gozar das melloras.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Mellora o rendemento do sistema para optimizar a experiencia do usuario.</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. Instalar esta actualización non afectará os seus datos persoais, aínda que se recomenda realizar antes unha copia de seguranza.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou vaia ao centro de servizos ao cliente de HONOR para obter axuda.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1095" name="gu-IN">
+             <features module="" backgroud="" type="header">
+            <feature>પ્રિય વપરાશકર્તા, આ અપડેટ મુખ્યત્વે સિસ્ટમની કામગીરીને વધારે છે. સુધારાઓનો આનંદ માણવા માટે અપડેટ કરો.</feature>
+        </features>
+        <features module="સિસ્ટમ" id="1">
+             <feature title="">• વપરાશકર્તા અનુભવને ઑપ્ટિમાઇઝ કરવા માટે સિસ્ટમ પ્રદર્શનને ઓપ્ટિમાઇઝ કરે છે.</feature>
+         </features>
+        <features module="નોંધો:" type="end">
+            <feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલાં તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1081" name="hi-in">
+             <features module="" backgroud="" type="header">
+            <feature>नमस्ते उपयोगकर्ता, इस अद्यतन से मुख्य रूप से सिस्टम प्रदर्शन को बढ़ाया जाता है। सुधारों का फ़ायदा उठाने के लिए अद्यतन करें।</feature>
+        </features>
+        <features module="सिस्टम" id="1">
+             <feature title="">• उपयोगकर्ता अनुभव अनुकूलित करने के लिए सिस्टम प्रदर्शन को बढ़ाया जाता है।</feature>
+         </features>
+        <features module="टिप्पणियाँ:" type="end">
+            <feature>1. इस अद्यतन को स्थापित करने से आपके व्यक्तिगत डेटा पर प्रभाव नहीं पड़ेगा, लेकिन फिर भी अद्यतन करने से अपने डेटा का बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता पाने के लिए HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1050" name="hr-hr">
+             <features module="" backgroud="" type="header">
+            <feature>Poštovani korisniče, ovim se ažuriranjem uglavnom poboljšavaju performanse sustava. Ažurirajte kako biste uživali u poboljšanjima.</feature>
+        </features>
+        <features module="Sustav" id="1">
+             <feature title="">• Poboljšavaju se performanse sustava za optimizaciju korisničkog iskustva.</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja.
+2. Ako tijekom ažuriranja naiđete na bilo kakve poteškoće, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1038" name="hu-hu">
+             <features module="" backgroud="" type="header">
+            <feature>Kedves felhasználó! Ez a frissítés elsősorban a rendszer teljesítményét javítja. Frissítsen a fejlesztések eléréséhez.</feature>
+        </features>
+        <features module="Rendszer" id="1">
+             <feature title="">• A felhasználói élmény optimalizálása érdekében fokoztuk a rendszer teljesítményét.</feature>
+         </features>
+        <features module="Megjegyzések:" type="end">
+            <feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1057" name="in-id">
+             <features module="" backgroud="" type="header">
+            <feature>Pengguna yang terhormat, pembaruan ini utamanya meningkatkan kinerja sistem. Perbarui untuk menikmati peningkatannya.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Meningkatkan kinerja sistem untuk mengoptimalkan pengalaman pengguna.</feature>
+         </features>
+        <features module="Catatan:" type="end">
+            <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1040" name="it-it">
+             <features module="" backgroud="" type="header">
+            <feature>Gentile utente, questo aggiornamento migliora principalmente le prestazioni del sistema. Esegui l'aggiornamento per usufruire dei miglioramenti.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Migliora le prestazioni del sistema per ottimizzare l'esperienza dell'utente.</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1037" name="iw-il">
+             <features module="" backgroud="" type="header">
+            <feature>משתמש יקר, עדכון זה משפר בעיקר את ביצועי המערכת. עדכן כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <features module="מערכת" id="1">
+             <feature title="">‏• משפר את ביצועי המערכת כדי למטב את חוויית המשתמש.</feature>
+         </features>
+        <features module="הערות:" type="end">
+            <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1041" name="ja-jp">
+             <features module="" backgroud="" type="header">
+            <feature>ユーザーの皆様、今回の更新では主にシステムのパフォーマンスが強化されます。更新して、改善をお楽しみください。</feature>
+        </features>
+        <features module="システム" id="1">
+             <feature title="">• システムのパフォーマンスが強化され、ユーザー体験が最適化されます。</feature>
+         </features>
+        <features module="注意：" type="end">
+            <feature>1. この更新をインストールしてもユーザーの個人情報に影響はありませんが、更新前にバックアップを取ることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+        </features>
+    </language>
+    
+    
+<language code="1079" name="ka-ge">
+             <features module="" backgroud="" type="header">
+            <feature>ძვირფასო მომხმარებელო, ეს განახლება ძირითადად აუმჯობესებს სისტემის ეფექტურობას. განაახლეთ და ისიამოვნეთ გაუმჯობესებებით.</feature>
+        </features>
+        <features module="სისტემა" id="1">
+             <feature title="">• გააუმჯობესეთ სისტემის ეფექტურობა მომხმარებლის გამოცდილების ოპტიმიზებისთვის.</feature>
+         </features>
+        <features module="შენიშვნები:" type="end">
+            <feature>1. ამ განახლების დაინსტალირება გავლენას არ მოახდენს თქვენს პერსონალურ მონაცემებზე, მაგრამ მაინც რეკომენდებულია განახლებამდე თქვენი მონაცემების სარეზერვო ასლის შექმნა.
+2. თუ განახლების დროს რაიმე პრობლემა შეგექმნათ, მხარდაჭერისთვის დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან ეწვიეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1087" name="kk-kz">
+             <features module="" backgroud="" type="header">
+            <feature>Құрметті пайдаланушы, бұл жаңарту негізінен жүйе өнімділігін жақсартады. Жақсартуларды пайдалану үшін жаңартыңыз.</feature>
+        </features>
+        <features module="Жүйе" id="1">
+             <feature title="">• Пайдаланушы тәжірибесін оңтайландыру үшін жүйе өнімділігін жақсартады.</feature>
+         </features>
+        <features module="Ескертпелер:" type="end">
+            <feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1107" name="km-kh">
+             <features module="" backgroud="" type="header">
+            <feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពនេះធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើងជាចម្បង។ ធ្វើបច្ចុប្បន្នភាព ដើម្បីរីករាយនឹងការកែលម្អទាំងនេះ។</feature>
+        </features>
+        <features module="ប្រព័ន្ធ" id="1">
+             <feature title="">• ធ្វើឱ្យប្រតិបត្តិការប្រព័ន្ធប្រសើរឡើង ដើម្បីធ្វើឱ្យបទពិសោធអ្នកប្រើប្រសើរឡើង។</feature>
+         </features>
+        <features module="កំណត់សម្គាល់៖" type="end">
+            <feature>1. ការដំឡើង​បច្ចុប្បន្នភាព​នេះ​នឹងមិន​ប៉ះពាល់ទិន្នន័យផ្ទាល់ខ្លួន​របស់អ្នក​ទេ ប៉ុន្តែ​នៅតែ​ណែនាំឱ្យ​ធ្វើ​ការបម្រុងទុក​ជាមុន​ដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេល​ធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅ​ខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌល​សេវាកម្មអតិថិជន HONOR ដើម្បី​ទទួលបាន​ជំនួយ។</feature>
+        </features>
+    </language>
+    
+    
+<language code="1099" name="kn-IN">
+             <features module="" backgroud="" type="header">
+            <feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣವು ಮುಖ್ಯವಾಗಿ ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ. ಸುಧಾರಣೆಗಳನ್ನು ಆನಂದಿಸಲು ನವೀಕರಿಸಿ.</feature>
+        </features>
+        <features module="ಸಿಸ್ಟಂ" id="1">
+             <feature title="">• ಬಳಕೆದಾರರ ಅನುಭವವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಕಾರ್ಯಕ್ಷಮತೆಯನ್ನು ವರ್ಧಿಸುತ್ತದೆ.</feature>
+         </features>
+        <features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+            <feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೆ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಈಗಲೂ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1042" name="ko-kr">
+             <features module="" backgroud="" type="header">
+            <feature>사용자 여러분, 이번 업데이트는 주로 시스템 성능을 향상시킵니다. 업데이트하고 개선된 기능을 즐겨보세요.</feature>
+        </features>
+        <features module="시스템" id="1">
+             <feature title="">• 시스템 성능을 향상시켜 사용자 경험을 최적화합니다.</feature>
+         </features>
+        <features module="참고:" type="end">
+            <feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으세요.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1108" name="lo-la">
+             <features module="" backgroud="" type="header">
+            <feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ການ​ອັບ​ເດດ​​ນີ້​ຍົກ​ລະ​ດັບ​ປະ​ສິດ​ທິ​ພາບ​ຂອງ​ລະ​ບົບ​ເປັນຫຼັກ. ອັບ​ເດດ​ເພື່ອ​ມ່ວ​ນ​ຊື່​ນກັບ​ການ​ປັບ​ປຸງ.</feature>
+        </features>
+        <features module="ລະບົບ" id="1">
+             <feature title="">• ຍົກ​ລະ​ດັບ​ປະ​ສິດ​ທິ​ພາບ​ຂອງ​ລະ​ບົບ ເພື່ອ​ປັບ​ປະ​ສົບ​ການ​ຜູ້​ໃຊ້​ໃຫ້​ເໝາະ​ສົມ.</feature>
+         </features>
+        <features module="ໝາຍ​ເຫດ:" type="end">
+            <feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1063" name="lt-lt">
+             <features module="" backgroud="" type="header">
+            <feature>Gerbiamas naudotojau, šis naujinys daugiausiai pagerina sistemos našumą. Atnaujinkite ir mėgaukitės patobulinimais.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Pagerina sistemos našumą, kad optimizuotų naudotojo patirtį.</feature>
+         </features>
+        <features module="Pastabos" type="end">
+            <feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę duomenų kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1062" name="lv-lv">
+             <features module="" backgroud="" type="header">
+            <feature>Cien. lietotāj! Ar šo atjauninājumu galvenokārt ir uzlabota sistēmas veiktspēja. Atjauniniet, lai izbaudītu uzlabojumus.</feature>
+        </features>
+        <features module="Sistēma" id="1">
+             <feature title="">• Uzlabo sistēmas veiktspēju, lai optimizētu lietotāja pieredzi.</feature>
+         </features>
+        <features module="Piezīmes." type="end">
+            <feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1033" name="mai-IN">
+             <features module="" backgroud="" type="header">
+            <feature>प्रिय उपयोगकर्ता, ई अपडेट मुख्य रूप सँ सिस्टमक कार्य-क्षमता केँ वर्धित करैत अछि। सुधार सभक आनंद लेबाक लेल अपडेट करू।</feature>
+        </features>
+        <features module="सिस्टम" id="1">
+             <feature title="">• उपयोगकर्ता अनुभव केँ अनुकूलित करबाक लेल सिस्टमक कार्य-क्षमता केँ वर्धित करैत अछि।</feature>
+         </features>
+        <features module="टिप्पणी:" type="end">
+            <feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अपन डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1153" name="mi-NZ">
+             <features module="" backgroud="" type="header">
+            <feature>E te kaiwhakamahi, ko tēnei whakahōutanga e whakarei ake ana i te mahinga pūnaha. Whakahōu kia ngahau ki ngā whakapainga.</feature>
+        </features>
+        <features module="Pūnaha" id="1">
+             <feature title="">• Ka whakarei ake i te mahinga pūnaha hei arotau i te wheako kaiwhakamahi.</feature>
+         </features>
+        <features module="Ngā Tuhipoka:" type="end">
+            <feature>1. Kāore te tāuta i tēnei whakahōu e pā ki tō ngā raraunga whaiaro, engari e manakohia tonutia ana kia tāruatia ō raraunga i mua i te whakahōu.
+2. Mēnā ka tūtaki koe i ētahi take i te wā o te whakahōutanga, waea atu koa ki te waeawera ratonga HONOR, ka haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1071" name="mk-mk">
+             <features module="" backgroud="" type="header">
+            <feature>Почитуван кориснику, ова ажурирање главно ги подобрува перформансите на системот. Ажурирајте за да уживате во подобрувањата.</feature>
+        </features>
+        <features module="Систем" id="1">
+             <feature title="">• Ги подобрува перформансите на системот за да се оптимизира корисничкото искуство.</feature>
+         </features>
+        <features module="Белешки:" type="end">
+            <feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но, се препорачува да направите резервна копија од податоците пред да ажурирате.
+2. Ако се појават проблеми во текот на ажурирањето, јавете се на телефонскиот број на службата за корисници на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1100" name="ml-IN">
+             <features module="" backgroud="" type="header">
+            <feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റ് പ്രധാനമായും സിസ്റ്റം പ്രകടനം മെച്ചപ്പെടുത്തുന്നു. മെച്ചപ്പെടുത്തലുകൾ ആസ്വദിക്കാൻ അപ്‌ഡേറ്റ് ചെയ്യുക.</feature>
+        </features>
+        <features module="സിസ്റ്റം" id="1">
+             <feature title="">• ഉപയോക്തൃ അനുഭവം ഒപ്‌റ്റിമൈസ് ചെയ്യാൻ സിസ്റ്റം പ്രകടനം മെച്ചപ്പെടുത്തുന്നു.</feature>
+         </features>
+        <features module="ശ്രദ്ധിക്കുക:" type="end">
+            <feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1104" name="mn-MN">
+             <features module="" backgroud="" type="header">
+            <feature>Эрхэм хэрэглэгч танд, энэхүү шинэчлэлт нь үндсэндээ системийн ажиллагааг сайжруулдаг. Сайжруулалтыг эдлэхийн тулд шинэчилнэ үү.</feature>
+        </features>
+        <features module="Систем" id="1">
+             <feature title="">• Хэрэглэгчийн туршлагыг оновчтой болгохын тулд системийн гүйцэтгэлийг сайжруулна.</feature>
+         </features>
+        <features module="Тэмдэглэл:" type="end">
+            <feature>1. Энэ шинэчлэлтийг суулгах нь таны хувийн мэдээллийг арилгахгүй ч, шинэчлэхийн өмнө өгөгдлөө нөөцөлсөн нь дээр.
+2. Шинэчлэх явцад ямар нэг асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төв рүү очиж дэмжлэг авна уу.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1102" name="mr-in">
+             <features module="" backgroud="" type="header">
+            <feature>प्रिय वापरकर्ता, हे अद्यतन प्रामुख्याने सिस्टम कार्यप्रदर्शन वाढवते. सुधारणांचा आनंद घेण्यासाठी अद्यतनित करा.</feature>
+        </features>
+        <features module="सिस्टम" id="1">
+             <feature title="">• वापरकर्ता अनुभव ऑप्टिमाइझ करण्यासाठी सिस्टम कार्यप्रदर्शन वर्धित करते.</feature>
+         </features>
+        <features module="नोट्स:" type="end">
+            <feature>1. हे अद्यतन स्थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतन करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा सहाय्यासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1086" name="ms-my">
+             <features module="" backgroud="" type="header">
+            <feature>Pengguna yang dihormati, kemas kini ini meningkatkan prestasi sistem terutamanya. Kemas kini untuk menikmati penambahbaikan ini.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Meningkatkan prestasi sistem untuk mengoptimumkan pengalaman pengguna.</feature>
+         </features>
+        <features module="Nota:" type="end">
+            <feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini.
+2. Jika anda menghadapi sebarang isu semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1109" name="my-mm">
+             <features module="" backgroud="" type="header">
+            <feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်သည် စနစ် စွမ်းဆောင်ရည်ကို အဓိက မြှင့်တင်ပေးသည်။ တိုးတက်ကောင်းမွန်အောင်လုပ်ထားသည်များကို သုံးစွဲခံစားရန် အပ်ဒိတ်လုပ်ပါ။</feature>
+        </features>
+        <features module="စနစ်" id="1">
+             <feature title="">• သုံးစွဲရသည့် အတွေ့အကြုံကို အကောင်းဆုံး ဖြစ်စေရန် စနစ် စွမ်းဆောင်ရည်ကို မြှင့်တင်ပေးသည်။</feature>
+         </features>
+        <features module="မှတ်ချက်-" type="end">
+            <feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာအပေါ် ထိခိုက်မည် မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်အတောအတွင်း ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီအတွက် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+        </features>
+    </language>
+    
+    
+<language code="1109" name="my-zg">
+             <features module="" backgroud="" type="header">
+            <feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္သည္ စနစ္ စြမ္းေဆာင္ရည္ကို အဓိက ျမႇင့္တင္ေပးသည္။ တိုးတက္ေကာင္းမြန္ေအာင္လုပ္ထားသည္မ်ားကို သုံးစြဲခံစားရန္ အပ္ဒိတ္လုပ္ပါ။</feature>
+        </features>
+        <features module="စနစ္" id="1">
+             <feature title="">• သုံးစြဲရသည့္ အေတြ႕အႀကဳံကို အေကာင္းဆုံး ျဖစ္ေစရန္ စနစ္ စြမ္းေဆာင္ရည္ကို ျမႇင့္တင္ေပးသည္။</feature>
+         </features>
+        <features module="မွတ္ခ်က္-" type="end">
+            <feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာအေပၚ ထိခိုက္မည္ မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္အေတာအတြင္း ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီအတြက္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+        </features>
+    </language>
+    
+    
+<language code="1044" name="nb-no">
+             <features module="" backgroud="" type="header">
+            <feature>Kjære bruker, denne oppdateringen forbedrer hovedsakelig systemytelsen. Oppdater for å dra nytte av forbedringene.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Forbedrer systemytelsen for å optimere brukeropplevelsen.</feature>
+         </features>
+        <features module="Merknader:" type="end">
+            <feature>1. Installering av denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1121" name="ne-np">
+             <features module="" backgroud="" type="header">
+            <feature>आदरणीय प्रयोगकर्ता, यो अपडेटले मुख्य गरी प्रणालीको कार्यसम्पादन परिष्कार गर्छ । सुधार गरिएका सुविधाहरूको आनन्द लिन अपडेट गर्नुहोस् ।</feature>
+        </features>
+        <features module="प्रणाली" id="1">
+             <feature title="">• प्रयोगकर्ता अनुभव अप्टिमाइज गर्न प्रणालीको कार्यसम्पादन परिष्कार गर्छ ।</feature>
+         </features>
+        <features module="नोटहरू:" type="end">
+            <feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेट गर्ने क्रममा तपाईंले कुनै पनि समस्या सामना गर्नुभयो भने कृपया HONOR सेवाको हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1043" name="nl-nl">
+             <features module="" backgroud="" type="header">
+            <feature>Beste gebruiker, deze update verbetert vooral de systeemprestaties. Werk bij om van de verbeteringen te genieten.</feature>
+        </features>
+        <features module="Systeem" id="1">
+             <feature title="">• Verbetert de systeemprestaties om de gebruikerservaring te optimaliseren.</feature>
+         </features>
+        <features module="Opmerkingen:" type="end">
+            <feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1096" name="or-IN">
+             <features module="" backgroud="" type="header">
+            <feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ ମୁଖ୍ୟତଃ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଢାଏ। ବିକାଶଗୁଡ଼ିକ ଉପଭୋଗ କରିବାକୁ ଅପଡେଟ୍ କରନ୍ତୁ।</feature>
+        </features>
+        <features module="ସିଷ୍ଟମ୍‌" id="1">
+             <feature title="">• ଉପଯୋଗକର୍ତ୍ତା ଅନୁଭୂତି ଅପ୍ଟିମାଇଜ୍‌ କରିବାକୁ ସିଷ୍ଟମ୍‌ର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବଢାଏ।</feature>
+         </features>
+        <features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+            <feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସମର୍ଥନ ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1094" name="pa-IN">
+             <features module="" backgroud="" type="header">
+            <feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਮੁੱਖ ਤੌਰ 'ਤੇ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਇਆ ਗਿਆ ਹੈ। ਸੁਧਾਰਾਂ ਦਾ ਅਨੰਦ ਲੈਣ ਲਈ ਅੱਪਡੇਟ ਕਰੋ।</feature>
+        </features>
+        <features module="ਸਿਸਟਮ" id="1">
+             <feature title="">• ਵਰਤੋਂਕਾਰ ਅਨੁਭਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਉਣ ਲਈ ਸਿਸਟਮ ਦੀ ਕਾਰਗੁਜ਼ਾਰੀ ਨੂੰ ਵਧਾਇਆ ਗਿਆ ਹੈ।</feature>
+         </features>
+        <features module="ਨੋਟਸ:" type="end">
+            <feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+        </features>
+    </language>
+    
+    
+<language code="1045" name="pl-pl">
+             <features module="" backgroud="" type="header">
+            <feature>Ta aktualizacja głównie poprawia wydajność systemu. Zainstaluj ją, aby korzystać z ulepszeń.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Poprawia wydajność systemu, aby zwiększyć komfort użytkowania urządzenia.</feature>
+         </features>
+        <features module="Uwagi:" type="end">
+            <feature>1. Zainstalowanie tej aktualizacji nie wpływa na dane użytkownika, jednak zaleca się wykonanie kopii zapasowej przed aktualizacją.
+2. Jeśli podczas aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1046" name="pt-br">
+             <features module="" backgroud="" type="header">
+            <feature>Prezado(a) usuário(a), essa atualização aprimora principalmente o desempenho do sistema. Atualize para aproveitar as melhorias.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Aprimora o desempenho do sistema para otimiza a experiência de usuário.</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. Instalar esta atualização não afetará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento de serviço da HONOR ou vá à Central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2070" name="pt-pt">
+             <features module="" backgroud="" type="header">
+            <feature>Caro utilizador, esta atualização melhora, principalmente, o desempenho do sistema. Atualize para aproveitar as melhorias.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Melhora o desempenho do sistema para otimizar a experiência do utilizador.</feature>
+         </features>
+        <features module="Notas:" type="end">
+            <feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização de uma cópia de segurança antes da atualização.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1048" name="ro-ro">
+             <features module="" backgroud="" type="header">
+            <feature>Stimate utilizator, această actualizare îmbunătățește în principal performanța sistemului. Actualizați pentru a vă bucura de îmbunătățiri.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Îmbunătățește performanța sistemului pentru a optimiza experiența de utilizare.</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. Instalarea acestei actualizări nu va cauza ștergerea datelor dvs. personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1049" name="ru-ru">
+             <features module="" backgroud="" type="header">
+            <feature>Уважаемый пользователь! Мы выпустили это обновление, чтобы улучшить производительность системы. Установите его, чтобы оценить изменения.</feature>
+        </features>
+        <features module="Система" id="1">
+             <feature title="">• Улучшена производительность системы для удобства работы пользователей.</feature>
+         </features>
+        <features module="Примечания:" type="end">
+            <feature>1. Установка этого обновления не затронет ваши персональные данные, но мы рекомендует сделать резервную копию данных перед обновлением.
+2. При возникновении каких-либо проблем при обновлении обратитесь на горячую линию обслуживания HONOR или в службу поддержки клиента HONOR за помощью.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1115" name="si-lk">
+             <features module="" backgroud="" type="header">
+            <feature>හිතවත් පරිශීලක, මෙම යාවත්කාලීන කිරීම ප්‍රධාන වශයෙන් පද්ධතියේ කාර්යසාධනය උසස් කරයි. වැඩිදියුණු කිරීම් අත්විඳීමට යාවත්කාලීන කරන්න.</feature>
+        </features>
+        <features module="පද්ධතිය" id="1">
+             <feature title="">• පරිශීලක අත්දැකීම ප්‍රශස්ත කරන්නට පද්ධතියේ කාර්යසාධනය උසස් කරයි.</feature>
+         </features>
+        <features module="සටහන්:" type="end">
+            <feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ.
+2. ඔබට යාවත්කාල කිරීමේ දී ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1051" name="sk-sk">
+             <features module="" backgroud="" type="header">
+            <feature>Vážený používateľ, táto aktualizácia hlavne zvyšuje výkon systému. Aktualizujte, aby ste si užili zlepšenia.</feature>
+        </features>
+        <features module="Systém" id="1">
+             <feature title="">• Zvyšuje výkon systému na optimalizáciu používateľskej skúsenosti.</feature>
+         </features>
+        <features module="Poznámky:" type="end">
+            <feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1060" name="sl-si">
+             <features module="" backgroud="" type="header">
+            <feature>Spoštovani uporabnik, ta posodobitev izboljšuje predvsem zmogljivost sistema. Posodobite in uživajte v izboljšavah.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Zmogljivost sistema je izboljšana, s tem pa je optimizirana uporabniška izkušnja.</feature>
+         </features>
+        <features module="Opombe:" type="end">
+            <feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe HONOR ali obiščete središče za storitve družbe HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1053" name="sv-se">
+             <features module="" backgroud="" type="header">
+            <feature>Bästa användare, den här uppdateringen förbättrar främst systemets prestanda. Uppdatera för att ta del av förbättringarna.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Förbättrar systemets prestanda så att användarupplevelsen optimeras.</feature>
+         </features>
+        <features module="Noteringar:" type="end">
+            <feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar.
+2. Om du stöter på några problem under uppdateringen, kan du ringa HONORs hotline för service eller besöka HONORs kundtjänstcenter och få support.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1089" name="sw-KE">
+             <features module="" backgroud="" type="header">
+            <feature>Mtumiaji mpendwa, sasisho hili kwa kiasi kikubwa linaboresha utendaji wa mfumo. Sasisha ili ufurahie maboresho.</feature>
+        </features>
+        <features module="Mfumo" id="1">
+             <feature title="">• Linaboresha utendaji wa mfumo ili kuboresha utendaji wa mtumiaji.</feature>
+         </features>
+        <features module="Madokezo:" type="end">
+            <feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuweka hifadhi rudufu ya data yako kabla ya kusasisha.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1097" name="ta-IN">
+             <features module="" backgroud="" type="header">
+            <feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பு முதன்மையாகச் சிஸ்டம் செயல்திறனை மேம்படுத்துகிறது. மேம்பாடுகளைப் பெற, புதுப்பிக்கவும்.</feature>
+        </features>
+        <features module="சிஸ்டம்" id="1">
+             <feature title="">• பயனர் அனுபவத்தை உகந்ததாக்க, சிஸ்டம் செயல்திறனை மேம்படுத்துகிறது.</feature>
+         </features>
+        <features module="குறிப்புகள்:" type="end">
+            <feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1098" name="te-IN">
+             <features module="" backgroud="" type="header">
+            <feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్ ప్రధానంగా సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది. మెరుగుదలలను ఆనందించడానికి అప్‌డేట్ చేయండి.</feature>
+        </features>
+        <features module="సిస్టమ్" id="1">
+             <feature title="">• వినియోగదారు అనుభవాన్ని ఆప్టిమైజ్ చేయడానికి సిస్టమ్ పనితీరును మెరుగుపరుస్తుంది.</feature>
+         </features>
+        <features module="గమనికలు:" type="end">
+            <feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వల్ల మీ వ్యక్తిగత డేటాపై ప్రభావం ఉండదు, అయితే అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇప్పటికీ సిఫార్సు చేయబడింది.
+2 అప్‌డేట్ సమయంలో మీకు ఏవైనా సమస్యలు ఎదురైతే, దయచేసి HONOR సర్వీస్ హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1054" name="th-th">
+             <features module="" backgroud="" type="header">
+            <feature>เรียนผู้ใช้ การอัปเดตนี้จะปรับปรุงประสิทธิภาพของระบบเป็นหลัก โปรดอัปเดตเพื่อใช้การปรับปรุง</feature>
+        </features>
+        <features module="ระบบ" id="1">
+             <feature title="">• เพิ่มประสิทธิภาพระบบเพื่อปรับปรุงประสบการณ์การใช้งานของผู้ใช้</feature>
+         </features>
+        <features module="โปรดทราบ:" type="end">
+            <feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+        </features>
+    </language>
+    
+    
+<language code="1124" name="tl-ph">
+             <features module="" backgroud="" type="header">
+            <feature>Minamahal na user, pangunahing pinapahusay ng update na ito ang performance ng system. I-update para ma-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Pinapahusay ang performance ng system para ma-optimize ang karanasan ng user.</feature>
+         </features>
+        <features module="Mga Tala:" type="end">
+            <feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1055" name="tr-tr">
+             <features module="" backgroud="" type="header">
+            <feature>Değerli kullanıcımız, bu güncelleme ile çoğunlukla sistem performansı artırılmıştır. İyileştirmelerin tadını çıkarmak için güncelleyin.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Kullanıcı deneyimini optimize etmek için sistem performansını artırır.</feature>
+         </features>
+        <features module="Notlar:" type="end">
+            <feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir, fakat yine de güncelleme yapmadan önce yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri servis merkezlerinden birine gidin.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1058" name="uk-ua">
+             <features module="" backgroud="" type="header">
+            <feature>Шановні користувачі, це оновлення насамперед підвищує продуктивність системи. Установіть його, щоб відчути покращення.</feature>
+        </features>
+        <features module="Система" id="1">
+             <feature title="">• Підвищено продуктивність системи для покращення взаємодії з користувачем.</feature>
+         </features>
+        <features module="Примітки" type="end">
+            <feature>1. Установлення цього оновлення не вплине на ваші особисті дані, однак ми радимо створити резервну копію даних перед оновленням.
+2. Якщо під час оновлення виникнуть якісь проблеми, зателефонуйте на гарячу лінію служби підтримки HONOR або зверніться по допомогу в сервісний центр для клієнтів HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1056" name="ur-pk">
+             <features module="" backgroud="" type="header">
+            <feature>محترم صارف، یہ اپ ڈیٹ بنیادی طور پر سسٹم کی کارکردگی کو بڑھاتی ہے۔ بہتریوں سے لطف اندوز ہونے کے لیے اپ ڈیٹ کریں۔</feature>
+        </features>
+        <features module="سسٹم" id="1">
+             <feature title="">‏• صارف کے تجربے کو بہتر بنانے کے لیے سسٹم کی کارکردگی کو بہتر بناتی ہے۔</feature>
+         </features>
+        <features module="نوٹس:" type="end">
+            <feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں متاثر ہو گا، لیکن پھر بھی اپ ڈیٹ کرنے سے پہلے سے اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2. اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+        </features>
+    </language>
+    
+    
+<language code="2115" name="uz-uz">
+             <features module="" backgroud="" type="header">
+            <feature>Hurmatli foydalanuvchi, ushbu yangilanish asosan tizim unumdorligini oshiradi. Takomillashtirishlardan foydalanish uchun yangilang.</feature>
+        </features>
+        <features module="Tizim" id="1">
+             <feature title="">• Foydalanuvchi taassurotini optimallash uchun tizim unumdorligi oshirildi.</feature>
+         </features>
+        <features module="Eslatmalar:" type="end">
+            <feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi.
+2. Agar yangilash jarayonida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1066" name="vi-vn">
+             <features module="" backgroud="" type="header">
+            <feature>Người dùng thân mến, bản cập nhật này chủ yếu nâng cao hiệu suất hệ thống. Hãy cập nhật để tận hưởng những cải tiến.</feature>
+        </features>
+        <features module="Hệ thống" id="1">
+             <feature title="">• Nâng cao hiệu suất hệ thống để tối ưu hóa trải nghiệm của người dùng.</feature>
+         </features>
+        <features module="Ghi chú:" type="end">
+            <feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị ảnh hưởng. Tuy nhiên, bạn vẫn nên sao lưu dữ liệu trước khi cập nhật.
+2. Nếu bạn gặp bất kỳ vấn đề nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+        </features>
+    </language>
+    
+    
+<language code="3076" name="zh-hk">
+             <features module="" backgroud="" type="header">
+            <feature>親愛的用戶，本次更新主要針對系統進行了優化，建議您更新。</feature>
+        </features>
+        <features module="系統" id="1">
+             <feature title="">• 優化系統，提升使用體驗。</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+        </features>
+    </language>
+    
+    
+<language code="1028" name="zh-tw">
+             <features module="" backgroud="" type="header">
+            <feature>親愛的使用者，本次更新主要針對系統進行了最佳化，建議您進行更新。</feature>
+        </features>
+        <features module="系統" id="1">
+             <feature title="">• 最佳化系統，提升使用體驗。</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+        </features>
+    </language>
+    
+    
+<language code="1152" name="ug-cn">
+             <features module="" backgroud="" type="header">
+            <feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېمىغا قارىتا ئەلالاشتۇرۇش ئېلىپ بېرىلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+        </features>
+        <features module="سىستېما" id="1">
+             <feature title="">‏• سىستېما ئەلالاشتۇرۇلۇپ، ئىشلىتىش تەسىراتى ئۆستۈرۈلدى.</feature>
+         </features>
+        <features module="يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+            <feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2.يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1031" name="de-at">
+             <features module="" backgroud="" type="header">
+            <feature>Sehr geehrter Benutzer, dieses Update verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Verbessert die Systemleistung, um das Benutzererlebnis zu optimieren.</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1031" name="de-ch">
+             <features module="" backgroud="" type="header">
+            <feature>Sehr geehrter Benutzer, dieses Update verbessert hauptsächlich die Systemleistung. Nehmen Sie die Aktualisierung vor, um in den Genuss der Verbesserungen zu kommen.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Verbessert die Systemleistung, um das Benutzererlebnis zu optimieren.</feature>
+         </features>
+        <features module="Hinweise:" type="end">
+            <feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Wenn bei der Aktualisierung Probleme auftreten, rufen Sie die HONOR-Kundenhotline an oder suchen Sie das HONOR-Kunden-Service-Center auf, um Unterstützung zu erhalten.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1036" name="fr-ch">
+             <features module="" backgroud="" type="header">
+            <feature>Cher utilisateur, cette mise à jour améliore principalement les performances du système. Effectuez la mise à jour pour profiter des améliorations.</feature>
+        </features>
+        <features module="Système" id="1">
+             <feature title="">• Améliore les performances du système pour optimiser l'expérience utilisateur.</feature>
+         </features>
+        <features module="Remarques :" type="end">
+            <feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1040" name="it-ch">
+             <features module="" backgroud="" type="header">
+            <feature>Gentile utente, questo aggiornamento migliora principalmente le prestazioni del sistema. Esegui l'aggiornamento per usufruire dei miglioramenti.</feature>
+        </features>
+        <features module="Sistema" id="1">
+             <feature title="">• Migliora le prestazioni del sistema per ottimizzare l'esperienza dell'utente.</feature>
+         </features>
+        <features module="Note:" type="end">
+            <feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup dei dati prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2074" name="sr-ba">
+             <features module="" backgroud="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Unapređuju se performanse sistema radi optimizovanja korisničkog iskustva.</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="2074" name="sr-me">
+             <features module="" backgroud="" type="header">
+            <feature>Poštovani korisniče, ovim ažuriranjem se unapređuju performanse sistema. Ažurirajte da biste uživali u unapređenjima.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Unapređuju se performanse sistema radi optimizovanja korisničkog iskustva.</feature>
+         </features>
+        <features module="Napomene:" type="end">
+            <feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1057" name="id-">
+             <features module="" backgroud="" type="header">
+            <feature>Pengguna yang terhormat, pembaruan ini utamanya meningkatkan kinerja sistem. Perbarui untuk menikmati peningkatannya.</feature>
+        </features>
+        <features module="Sistem" id="1">
+             <feature title="">• Meningkatkan kinerja sistem untuk mengoptimalkan pengalaman pengguna.</feature>
+         </features>
+        <features module="Catatan:" type="end">
+            <feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1037" name="he-">
+             <features module="" backgroud="" type="header">
+            <feature>משתמש יקר, עדכון זה משפר בעיקר את ביצועי המערכת. עדכן כדי ליהנות מהשיפורים.</feature>
+        </features>
+        <features module="מערכת" id="1">
+             <feature title="">‏• משפר את ביצועי המערכת כדי למטב את חוויית המשתמש.</feature>
+         </features>
+        <features module="הערות:" type="end">
+            <feature>‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+        </features>
+    </language>
+    
+    
+<language code="1124" name="fil-ph">
+             <features module="" backgroud="" type="header">
+            <feature>Minamahal na user, pangunahing pinapahusay ng update na ito ang performance ng system. I-update para ma-enjoy ang mga pagpapahusay.</feature>
+        </features>
+        <features module="System" id="1">
+             <feature title="">• Pinapahusay ang performance ng system para ma-optimize ang karanasan ng user.</feature>
+         </features>
+        <features module="Mga Tala:" type="end">
+            <feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang isyu habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+        </features>
+    </language>
+    
+    
+    <icons>
+            <icon id="1"   res="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABvUExURUdwTBSH/xSI/x2P/zKz/xSH/xSI/xWH/xSH/xeI/xaK/xWH/xmL/xWI/xSH/xaI/xSI/xaJ/xiJ/xaH/xSH/////4vD/2Gv/4jD/7LY/y6V/0qj/xyL//D3/+Hw/3m7//n8/8Th/9Lo/6PQ/5bK/4R3RPwAAAAUdFJOUwDEzA0Fq9uI7j82uhp4+h9eSkiVPrdEdQAAB2JJREFUeNq9W9eCqjAQFZSiKG5BURi7//+NV1SQJNOC7s2LK4spU87UjEZDxnj2lURZEMZpnqdxGGRR8jUbj/7LGP8kQVrcRl7YIw2Sn7/dxWSaBDm6djfyIJlO/mj52W9aqEb6O/v86stF7CwE1mdvxIvlZw8fUYvTI/ocGaYZuQpw+8mmn1k+KPyP/xzB+1uYR9LpWSIU0fw9vVukxZsjXbyhldM4l5ivYEk4lA+TJEfXAG9xSAYRYRlI84L1N72ZYIAkfKfMGUEvA49X02/f9RP1qsrNJH7sj2SgAc89RB6CMM44ggK5CX4jmdpUz0MNxHjJwEMflaK4jN/QfODkI1aZyHmsPD5oaf/yVmIFDcZhPmwt1T9CUQ4mmZfmga9GZpIuRO8aH3J3rTbq8McgNuDz9R9DoeYMi0jfpLzDO5ppvs2g8lJh/aGqS3pUIAtESirjJBDpV2+PK2YcV8dtDRKhggkrAPSPAS4rxbggqgEaMZgyqPeY5bxSjTNIIoL6SJNQEq7tSjm2gqDmMcaEhSS95WP23WlLjtPu8U4pYfKC0wAK3e4MOB74qQ8PJrgMNGdN5wIEIpuoVGd70qmSkDxCJBAQP9Oe+Swj0Fm1T0cORRf4QdyLjFR3VT2QeNieICBV0DYn0N/A2lVvm3BrewOIEQeHBJns2ay7DQAL+OZ7NMsyI/5XOBxrkwLFoPf6s888vQBnYsJVpzYAjGewRP18i8HGxExUhm0AUN9+yYEgQwEhTjXeY7X2BYexxq0bLANA0Sq2RFBwNu2JwW+j2OutGP5Sixs73qATu0igoFT7g9+nHdalYSQcaJ/f37sq/OObSZq4KEjTzDyZICurmpoHXIOQODiNWmSXtDgQrPtWE/jXE8wOUe7AhgEYsKGYMIdg/ehukca5zp/HcIBmQQmakDlvQsUfZWTXZwEwEdGLAoqA/scQAQeEcYQTCGaxAMTMUaBQQWBkAMUB2iUyD9YIQZrrgjqEAqCUAVrJ0psMOscAFRABtWFSDdG9jxtDACxVgYVYwDe6rzRZC2jMwZc27bhhhBBIl0wKEL6wlKhODanNyg6JqQYRrXjmUu3EIHBB4ze8lotGmS4n6okDa1X65u4bB9p86wZ1SNxsAkkpdz93axBqEzyuDBS0NVRoyzNx2PmDInAzWsCxSkg1xqNUUZQAlT8ACsR0hCId5XIUJ+s3r66c/5KPcm1+j3fJvJzS3i/yhgWgyjyjMoC8V57Ou77jAuwv0lYImQKM7A84S1UVu6oRnISKcoyj3zAwXwuIGgYaEABtxANaGwCdR5Jpj7Lh9fs+Y3VqMrnHU6XeVDaKaFKBt5HZPzOV+0JbY4qMCgHt5gha8Pyou1xpLYcF9888sR0Sn/yAI/zXbgNX2SWGp0My4w8OHrFh9Url76pCtpuPCH1ccDEBawteK18vh7oq97189b6s6sPlWkl0vYVGqS8L3PX3ZN58TyASvNzy0b03CuQA3TFGnZd5YjL3p4IV7iZZmAAjp0BoQR8xa7aIU9LHv/2VdJWyQqyIkfm/PVu82LN8/ebDc1VsWJoL7vY780GJHg9e4XljDRQi4OAAGBmRluUNAtWGUHDgGbjdGkAm7CgW1O5i0NvUsWa4m/SSVGJHBpmqPVgi34wXDTYcxE2tNB3rwdJecYfAL6WvLEzGZ3+m6R6JStGBoFOwrR70SlXFmdKBPi7/dqlaTUdMjwL2O9t+uRB9hM86Q5LVtLfBRL3P455eJr1FxzM3bWyk60ECZDLi6aDw2Ht2dIHQ4cLCLFgUNArzecJ656p8p4e7mmbC0q9kQ2lBtTN1/r6nzjM4Np4BLmKRW7RiC2IuDoAFA01h9063Q7/JgCwhzuyyneBFUhQ4mLbncr2Y1ulATJqZhUugM8rOBoByxFB7XBGGfjqsdEsFjeTYsHbIrt1yelgeDb3uhQ/7Ie7AlC3fY6BAl+9L2SFysuFuP9M8BSGncH7JlF3Z3+9O14PZ4bE9XE+7fUlMhrXyLKQYonwqttXCUaKUKHmlXlBNLOwgmlhqcF/Y8iodTog2HqwpoAfweBtPh7Y9EpR8oDUd2ElLNDK98L6FhB3fSZSoW7mcA9TbHSbrT7SD8rhyWm3AIQLZynXTBLnMgjeztXBX9b8Rzmg659r5gMzsd5O+1WRbsO18mBgAn5QpxOya/Sz565ZO8gjgeAEeTa2gJwyfQhSbWkfjsMBbSvnllIIRjtWNzYVCGrBP4Aof8dyjtfqT7H9+i5d+ze04F6CQK2e4soTqexZNez+7uC4LaNenPG7iTSKfnDCo1Cbyu+mSeLIYpOjW74rH/ZILmjSGwvueT/OG/yWXmygGvrpO0z8YdOFrkug1jH+cDL3tNQ0FfaOzuz1ACt+4cjdZpKCou3DjrctuTeQeDWBAPwR+/+rnNCC4AKiBMB4EH7pzmflhfgd9n1neuvQKWisUffbub//ar9VHhdrdD1/7bS8+g2z04I8uPhtXv5nxl1e/e5ffczTgSrPk+39dwcev/w85+j+QpwrM4ylYTwAAAABJRU5ErkJggg=="
+                  darkRes="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABjUExURUdwTCKH8TKz/yqP/ySK9iKJ8iKH8SKH8SKH8SKH8SKH8SSI8yOI8SKH8SKH8SKH8SKH8f///5HD+Gqv9bbY++bx/WGp9fX5/yiK8YO896TO+dPn/VCg8z2W8sbg+3Oz9TaS8QrkvCQAAAAQdFJOUwCrBQ0cRduKxe66OzV40F6jEhemAAAEfklEQVR42tVb6ZqqMAxlh7IZ2UFE3v8p7yguqEBTSC33zDc/xmHombY5SdNE09bADA+u7nuxw4AxJ/Z83T2EpvYTmLbrM5gE81xbLgvDdj3gwHMDQ9LwgcsABeaG9KNbkQMCcCKLdPhQB2HodNMQ+LAKfkAyvO3Banj29rXXYRP0bXvBiBhsBIs2WGUQAwHitVvBcIEI7qpJsDwgg7diJ9gMCMGEzcEFYrhiy68DOXSBjWD6IAE+1lUbZgxSgN2KlgOS4Fhqx8cxMD2QCI+7DwwfpMLn2YIOkqH/WH8EFcmGH2BBlS2M/p/bokhnvtoe4xdmTcHgG0CblcdFlFnLNwVj7QaomiMCzdptEHDHPx1ROFW8N03GSAbXA2RHJDJulDa1CBHvr4rh7XmXzaLLh2dS3ruiNRYwLMClWprg6nJ7qFthCVwJ7IfxeY8NDHphQeRL0G0FTnwzv01UISxHfAm44EwMbqZa88VA0AQBkuuLE+RzfAIfpugTE0A857+d/+H3BCAUjALICYwMwQIVBMDCi6AcAi85dNQQcES2oAwCj22IzANIIHCPCwzcQbymJ8AMkUhUaAaOLeqdtkgoLkYgFVgDTx2Bm0cyQR0BMAQOI1II2AKnMSyBWoSAi98CaD8vNAPXTcBULgHD70E5BMBEOgJRJcx75FtD7SBlBhLsWw/4lIQcAi4+JyOHgK75agn4aBmQRMDTYrUEYs1RS8BBC6GYL0ATYBoIEajpnrsDPwO1lCVg9EuQdqdchAD5JrxlU3r8JoxlEMAjphciMXi0Unzubpnc7owm4NM6o0cqNUcT0EndcfvMlbbYt7qkAckrly0QkIRCBBYVrn+l8kt8SIYOSheUsGqaS9sX+ShfnRd9e2kabt7cpAjL+3w2b84LThkuRcghkK3P3PsUR7Ni8e6g4B7NNh9O80UCOfdwuvV4nn7cWuUf11opZw9uTlDU49G6qwK13fijmpeg2JqiaUeD3X9dJaPPWm6KJti4B15T8Lqp6VATcE/ZI9N080r4VOCX0feoS8R7mg65BgtKeLeD07dfXLaBR4FTsFGIHkqULX80twIEyeru+HVZN/HRRDxIlK5/SGH5cj1ViRDCiOjCoi2/o4CnHZYLVmjRXNmMfWH7rQ15NR+N0VxajZWwHMy0LjFKGBJd29XvvqdJmnfvVC94YqGLyzkd6JdrKmaDs4Ds6jZZJJAs+iGay+t8TThgr7y+TwVDogJhAoIFDFMM8rJL6vfQMKuTrsznopGpUh6uHKbPEo4my57f2X2Mqnqbib//vEKJ4Ahri1iKiQc4wfBkEcvqMp7y/GYomEqPgLaQKS8+XVBZcYPxSfDFoJgu5Xr8w5fht+WFk5TYUsxWnYsi/cJD7s5vP+EtYC/lfOoLGtWXdKovalVe1qu+sFl9afffKigublde3r+DBgf1LR47aHJR3+ZD2uj0n7Z67aDZTX273w4aHnfQ8rmDptcdtP0O04BvfA40KTAMO+K3fke2Iav3+8rh2vzuzTW/+9fmd4mjS2n//wcOXTJVTgpiZQAAAABJRU5ErkJggg=="/>
+    </icons>
+</root>

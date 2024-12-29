@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616525824</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>Hj68VOmBBLJZ/rzlP5yfEocwZLI80DZx3a4tX7JykPs=</fileHash>
+<fileSize>7605</fileSize>
+<metadataHash>ppjspKSVaKRFdnK7VMDR47JUgv9S2EMlVhKX7WtiWkM=</metadataHash>
+<metadataSize>4286</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VER-N49P_porsche_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VER-N49P_porsche_normal.zip</spath>
+<dpath>update_cust_VER-N49P_porsche_normal.zip</dpath>
+<operation>c</operation>
+<sha256>AA2F7EBB7C943E989C88D15FDE7244F05C7545D52DA66C0B90AACF297F921509</sha256>
+<size>14897</size>
+</file>
+</files>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>1947146800</compressCowSize>
+<cowsize>8630034432</cowsize>
+<payloadOffset>948</payloadOffset>
+<fileHash>eQbTjgQQlxBLV4Gq1sBN9WBAyyUtk4EjMANnrdapR24=</fileHash>
+<fileSize>1874619639</fileSize>
+<metadataHash>cRtu442Zl0eX74UInUuwrzVUaD88yYN+u+N0gKGT+7E=</metadataHash>
+<metadataSize>53771</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_PTP-N49_demo_normal.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_PTP-N49_demo_normal.zip</spath>
+<dpath>update_cust_PTP-N49_demo_normal.zip</dpath>
+<operation>c</operation>
+<sha256>A1A7E9FB8693225F6F35D1FB8A3440A007E1F27E1915DF3EC87F507F2DB39874</sha256>
+<size>1874626989</size>
+</file>
+</files>
+</root>

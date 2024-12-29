@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>616833024</cowsize>
+<payloadOffset>798</payloadOffset>
+<fileHash>q52EzCMwvsgo81eyY+u5UzRyLt0wGJxqo6FXi/E9TjM=</fileHash>
+<fileSize>367055065</fileSize>
+<metadataHash>ZTYUKMxkZbEQ1scnr06sxySqNxdn14UgMtYHPb0wTyU=</metadataHash>
+<metadataSize>16334</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_FNE-N09_telcel_mx.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_FNE-N09_telcel_mx.zip</spath>
+<dpath>update_full_cust_FNE-N09_telcel_mx.zip</dpath>
+<operation>c</operation>
+<sha256>F6DFFB085E72442FB894229EB7DF87CBF956C7580F6B044F3AC67FDB7A84F2FF</sha256>
+<size>367062259</size>
+</file>
+</files>
+</root>

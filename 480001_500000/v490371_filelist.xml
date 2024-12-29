@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>642097152</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>uhNZACcl9lk+B5yCcWnFKoCA4S5egURWQzf0z5Zl+EI=</fileHash>
+<fileSize>36084</fileSize>
+<metadataHash>S5C97toprRo+xmaJNwx+xDxNnZcAp5vfbVTc1C855XM=</metadataHash>
+<metadataSize>15882</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRP-N03_telcel_mx_R1.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRP-N03_telcel_mx_R1.zip</spath>
+<dpath>update_full_preload_BRP-N03_telcel_mx_R1.zip</dpath>
+<operation>c</operation>
+<sha256>3764F0CA1DE65EE31F5B88E75E791ABA19BA2FFEA0AAD5303D6C2176EA04148F</sha256>
+<size>43254</size>
+</file>
+</files>
+</root>

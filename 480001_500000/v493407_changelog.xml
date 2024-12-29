@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <component name="TCPU" version="请自行修改"/>
+  <default-language name="en-us">1033</default-language>
+  <language name="zh-cn" code="2052">
+    <characters module="">
+      <character>本次更新将增加 Orange 运营商版本相关的重要设置和应用。非 Wi-Fi 环境可能会产生流量费用，推荐您在 Wi-Fi 环境下更新版本。</character>
+    </characters>
+  </language>
+  <language name="en-us" code="1033">
+    <characters module="">
+      <character>Important Settings and Apps will be downloaded to help you to get the most from being a Orange customer. Data charges may apply if WiFi is not connected.</character>
+    </characters>
+  </language>
+  <language name="ar-eg" code="3073">
+    <characters module="">
+      <character>سيتم تنزيل الإعدادات والتطبيقات المهمة لمساعدتك في الحصول على أقصى استفادة من كونك عميل لدى شركة فودافون. وقد يتم احتساب رسوم استخدام بيانات في حال عدم الاتصال بشبكة لاسلكية.</character>
+    </characters>
+  </language>
+  <language name="az-az" code="1068">
+    <characters module="">
+      <character>Sizə Orange müştərisi kimi daha çox şeydən faydalanmağa kömək etmək üçün Vacib Parametrlər və Proqramlar endiriləcəkdir. Wi-Fi qoşulmadıqda verilənlərlə bağlı xərclər yazıla bilər.</character>
+    </characters>
+  </language>
+  <language name="be-by" code="1033">
+    <characters module="">
+      <character>Будуць спампаваны важныя налады і праграмы, каб вы маглі атрымаць усе перавагі кліента Orange. Калі Wi-Fi не падлучаны, можа спаганяцца плата за перадачу даных.</character>
+    </characters>
+  </language>
+  <language name="bg-bg" code="1026">
+    <characters module="">
+      <character>Ще се изтеглят важни настройки и приложения, за да ви помогнат да получите най-доброто като клиент на Orange. Ако не е свързан WiFi са възможни такси за данни.</character>
+    </characters>
+  </language>
+  <language name="bn-bd" code="1033">
+    <characters module="">
+      <character>একজন Orange গ্রাহক হবার সম্পূর্ণ সুবিধা ভোগের জন্য আপনাকে সাহায্য করতে গুরুত্বপূর্ণ সেটিং এবং অ্যাপ ডাউনলোড করা হবে। যদি WiFi সংযুক্ত না থাকে, তাহলে ডেটা চার্জ প্রযোজ্য হতে পারে।</character>
+    </characters>
+  </language>
+  <language name="bo-cn" code="1033">
+    <characters module="">
+      <character>ཐེངས་འདིའི་གསར་སྒྱུར་ལOrange འཁོར་སྐྱོད་ཚོང་བའི་པར་གཞི་དང་འབྲེལ་ཡོད་ཀྱི་གལ་ཆེའི་སྒྲིག་ཆས་དང་ཉེར་སྤྱོད་བསྣན་ངེས། Wi-Fi མེད་སར་བཞུར་ཚད་ཀྱི་རིན་གོང་ཤོར་སྲིད་པས།ཁྱེད་ཀྱིསWi-Fi ཡོད་སར་པར་གཞི་གསར་སྒྱུར་བྱེད་པར་རེ།</character>
+    </characters>
+  </language>
+  <language name="bs-ba" code="5146">
+    <characters module="">
+      <character>Kako biste u potpunosti iskoristili usluge koje vam pruža kompanija Orange, bit će preuzete najvažnije postavke i aplikacije. Mogu biti naplaćene tarife za prijenos podataka ukoliko niste povezani na Wi-Fi mrežu.</character>
+    </characters>
+  </language>
+  <language name="ca-es" code="1033">
+    <characters module="">
+      <character>Es baixaran configuracions i aplicacions importants per ajudar-vos a obtenir tots els beneficis de ser un client de Orange. Potser s'aplicaran càrrecs de dades si la Wi-Fi no està connectada.</character>
+    </characters>
+  </language>
+  <language name="cs-cz" code="1029">
+    <characters module="">
+      <character>Dojde ke stažení důležitých nastavení a aplikací, které umožní maximální využití všech výhod pro zákazníky Orange. Pokud nejste připojeni na Wi-Fi, mohou vám být účtovány poplatky podle Vašeho datového tarifu.</character>
+    </characters>
+  </language>
+  <language name="da-dk" code="1030">
+    <characters module="">
+      <character>Vigtige indstillinger og apps vil blive downloadet for at hjælpe dig med at få det bedste ud af at være kunde hos Orange. Datagebyrer kan forekomme, hvis Wi-Fi ikke er tilsluttet.</character>
+    </characters>
+  </language>
+  <language name="de-de" code="1031">
+    <characters module="">
+      <character>Wichtige Einstellungen und Apps werden heruntergeladen, um für Sie als Orange - Kunde das Beste herauszuholen. Wenn keine Verbindung zu einem Wi-Fi besteht, können Kosten für mobile Daten entstehen.</character>
+    </characters>
+  </language>
+  <language name="de-at" code="1031">
+    <characters module="">
+      <character>Wichtige Einstellungen und Apps werden heruntergeladen, um für Sie als Orange - Kunde das Beste herauszuholen. Wenn keine Verbindung zu einem Wi-Fi besteht, können Kosten für mobile Daten entstehen.</character>
+    </characters>
+  </language>
+  <language name="de-ch" code="1031">
+    <characters module="">
+      <character>Wichtige Einstellungen und Apps werden heruntergeladen, um für Sie als Orange - Kunde das Beste herauszuholen. Wenn keine Verbindung zu einem Wi-Fi besteht, können Kosten für mobile Daten entstehen.</character>
+    </characters>
+  </language>
+  <language name="el-gr" code="1032">
+    <characters module="">
+      <character>Θα πραγματοποιηθεί λήψη σημαντικών ρυθμίσεων και εφαρμογών που θα σας βοηθήσουν να απολαύσετε στο έπακρο τα οφέλη που έχετε ως πελάτης της Orange. Αν δεν συνδεθείτε σε Wi-Fi, ενδέχεται να ισχύουν χρεώσεις για τη χρήση δεδομένων.</character>
+    </characters>
+  </language>
+  <language name="en-gb" code="2057">
+    <characters module="">
+      <character>Important Settings and Apps will be downloaded to help you to get the most from being a Orange customer. Data charges may apply if Wi-Fi is not connected.</character>
+    </characters>
+  </language>
+  <language name="es-es" code="1034">
+    <characters module="">
+      <character>Se descargarán ajustes y aplicaciones importantes para que aproveche al máximo los beneficios de ser cliente de Orange. Es posible que se apliquen cargos por datos si no está conectado a una red Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="es-us" code="21514">
+    <characters module="">
+      <character>Se descargarán ajustes y aplicaciones importantes para que aproveche al máximo los beneficios de ser cliente de Orange. Es posible que se apliquen cargos por datos si no está conectado a una red Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="et-ee" code="1061">
+    <characters module="">
+      <character>Olulised sätted ja rakendused laaditakse alla, et saaksite Orange'i kliendiks olemist maksimaalselt ära kasutada. Wi-Fi-ühenduse puudumisel võidakse nõuda andmetasusid.</character>
+    </characters>
+  </language>
+  <language name="eu-es" code="1033">
+    <characters module="">
+      <character>Ezarpen eta aplikazio garrantzitsuak deskargatuko dira, Orange bezeroa izatearen onura gehienak lortzeko. Baliteke datu-kostuak aplikatzea, Wi-Fi konektatu gabe badago.</character>
+    </characters>
+  </language>
+  <language name="fa-ir" code="1065">
+    <characters module="">
+      <character>تنظیمات و برنامه‌های مهم برای کمک به شما به منظور حداکثر بهره‌مندی از مزایای مشتریان Orange دانلود خواهند شد. اگر WiFi متصل نباشد، ممکن است هزینه‌های داده اعمال شوند.</character>
+    </characters>
+  </language>
+  <language name="fi-fi" code="1035">
+    <characters module="">
+      <character>Ladattavien tärkeiden asetuksien ja sovelluksien ansiosta voit käyttää Orange-liittymääsi entistäkin tehokkaammin. Datayhteydestä saatetaan veloittaa erikseen, jos käytössä ei ole Wi-Fi-yhteyttä.</character>
+    </characters>
+  </language>
+  <language name="fr-fr" code="1036">
+    <characters module="">
+      <character>Des paramètres et applications importants vont être téléchargés et installés pour que vous puissiez bénéficier du meilleur des services Orange.</character>
+    </characters>
+  </language>
+  <language name="fr-ch" code="1036">
+    <characters module="">
+      <character>Des paramètres et applications importants vont être téléchargés pour que vous puissiez bénéficier de ce qui se fait de mieux pour les clients Orange. Des frais de consommation de données mobiles pourraient s'appliquer si vous n'êtes pas connecté au Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="gl-es" code="1033">
+    <characters module="">
+      <character>Descargaranse configuracións e apps importantes para axudarlle a obter o máximo partido por ser cliente de Orange. Se non está conectada a WiFi, pódense aplicar taxas por uso de datos.</character>
+    </characters>
+  </language>
+  <language name="hi-in" code="1081">
+    <characters module="">
+      <character>Orange ग्राहक होने के नाते आपको अधिकांश लाभ प्रदान करने में सहायता करने के लिए महत्वपूर्ण सेटिंग और ऐप्स डाउनलोड किए जाएँगे। Wi-Fi कनेक्ट न होने पर डेटा शुल्क लागू हो सकते हैं।</character>
+    </characters>
+  </language>
+  <language name="hr-hr" code="1050">
+    <characters module="">
+      <character>Važne postavke i aplikacije preuzet će se kako biste mogli iskoristiti to što se kupac tvrtke Orange. Ako Wi-Fi nije spojen, moguća je naplata troškovi prometa podataka.</character>
+    </characters>
+  </language>
+  <language name="hu-hu" code="1038">
+    <characters module="">
+      <character>A fontos Beállítások és Alkalmazások letöltésre kerülnek, hogy a lehető legtöbbet kapja Orange ügyfélként. Adatforgalmi díjak léphetnek fel, ha nem Wi-Fi-re csatlakozik.</character>
+    </characters>
+  </language>
+  <language name="in-id" code="1057">
+    <characters module="">
+      <character>Pengaturan dan Aplikasi penting akan diunduh untuk membantu Anda mendapatkan hasil maksimal dari menjadi pelanggan Orange. Anda dapat dikenakan biaya data jika WiFi tidak dihubungkan.</character>
+    </characters>
+  </language>
+  <language name="it-it" code="1040">
+    <characters module="">
+      <character>Verranno scaricate impostazioni ed applicazioni importanti per avere i migliori servizi disponibili per i Clienti Orange.</character>
+      <character>Potrebbero essere applicati dei costi di connessione se il download non viene effettuato via Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="it-ch" code="1040">
+    <characters module="">
+      <character>Verranno scaricate impostazioni ed applicazioni importanti per avere i migliori servizi disponibili per i Clienti Orange.</character>
+      <character>Potrebbero essere applicati dei costi di connessione se il download non viene effettuato via Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="iw-il" code="1033">
+    <characters module="">
+      <character>תתבצע הורדה של הגדרות ויישומים חשובים כדי לעזור לך להפיק את המרב מהיותך לקוח של Orange. ייתכן שיחולו חיובים על נתונים אם אינך מחובר ל-Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="ja-jp" code="1033">
+    <characters module="">
+      <character>ボーダフォンユーザーの利点を最大限に活用できるように、重要設定およびアプリがダウンロードされます。WiFiに接続されていない場合、データ通信料が発生する場合があります。</character>
+    </characters>
+  </language>
+  <language name="jv-id" code="1033">
+    <characters module="">
+      <character>Setelan lan Apl penting bakal diundhuh kanggo mbantu entuk sing maksimal amarga dadi pelanggan Orange. Bisa kena biaya data yen ora kasambung Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="ka-ge" code="1033">
+    <characters module="">
+      <character>ჩამოიტვირთება მნიშვნელოვანი პარამეტრები და აპები, რათა, როგორც ვოდაფონის კლიენტს, მეტი სარგებელი მოგცეთ. მონაცემთა გადასახადი შეიძლება დაგერიცხოთ თუ Wi-Fi არ არის დაკავშირებული.</character>
+    </characters>
+  </language>
+  <language name="kk-kz" code="1033">
+    <characters module="">
+      <character>Orange тұтынушысының барлық артықшылықтарын пайдалану үшін Маңызды параметрлер және қолданбалар жүктеп алынады. WiFi қосылмаған жағдайда деректерді жүктеп алу үшін ақы алынуы мүмкін.</character>
+    </characters>
+  </language>
+  <language name="km-kh" code="1033">
+    <characters module="">
+      <character>ការកំណត់ និងកម្មវិធីសំខាន់ៗនឹងត្រូវទាញយកដើម្បី​ជួយអ្នក​ឲ្យ​ទទួលបាន​អត្ថប្រយោជន៍ច្រើនបំផុតក្នុងនាមជាអតិថិជនរបស់ Orange។ ការគិតថ្លៃទិន្នន័យ​អាចនឹងអនុវត្ត ប្រសិនបើ​ Wi-Fi មិន​ត្រូវបាន​ភ្ជាប់។</character>
+    </characters>
+  </language>
+  <language name="ko-kr" code="1033">
+    <characters module="">
+      <character>Orange 고객으로 최대한 이용하실 수 있도록 중요한 설정 및 앱을 다운로드합니다. Wi-Fi가 연결되지 않으면 데이터 요금이 적용될 수 있습니다.</character>
+    </characters>
+  </language>
+  <language name="lo-la" code="1033">
+    <characters module="">
+      <character>ການຕັ້ງຄ່າ ແລະ ແອັບສຳຄັນຈະຖືກດາວໂຫຼດເພື່ອຊ່ວຍທ່ານ​ໄດ້​ປະ​ໂຫຍ​ດສູງ​ສຸດ​ຈາກ​ການ​ເປັນ​ລູກ​ຄ້າ Orange. ອາດ​ມີ​ການ​ເກັບ​ຄ່າ​ຂໍ້​ມູນ ຖ້າ​ບໍ່​ໄດ້​ເຊື່ອມ​ຕໍ່​ກັບ Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="lt-lt" code="1063">
+    <characters module="">
+      <character>Bus atsisiųsti svarbūs nustatymai ir programos, kad kaip „Orange“ klientai galėtumėte pasinaudoti visais privalumais. Gali būti taikomi duomenų atsisiuntimo mokesčiai, jei nebus įjungtas „Wi-Fi“ ryšys.</character>
+    </characters>
+  </language>
+  <language name="lv-lv" code="1062">
+    <characters module="">
+      <character>Lai jūs optimāli varētu izmantot Orange klienta iespējas, tiks lejupielādēti svarīgi iestatījumi un lietotnes. Ja nav izveidots savienojums ar WiFi, var piemērot maksu par datiem.</character>
+    </characters>
+  </language>
+  <language name="mk-mk" code="1071">
+    <characters module="">
+      <character>Ќе се преземат важни Нагодувања и Апликации за да ви помогнат да добиете најмногу како корисник на Orange. Може да се наплаќаат трошоци за податоци ако не е поврзано Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="ms-my" code="1086">
+    <characters module="">
+      <character>Tetapan dan Apl Penting akan dimuat turun untuk membantu anda mendapatkan faedah terbaik pelanggan Orange. Caj data mungkin dikenakan jika Wi-Fi tidak disambungkan.</character>
+    </characters>
+  </language>
+  <language name="my-mm" code="1033">
+    <characters module="">
+      <character>Orange သုံးစွဲသူ အဖြစ်မှ အများဆုံး ရယူနိုင်ရန် သင့်အား အထောက်အကူ ဖြစ်စေမည့် အရေးကြီး ဆက်တင်များနှင့် အက်ပ်များကို ဒေါင်းလုဒ်လုပ်သွားပါလိမ့်မည်။ WiFi နှင့် မချိတ်ဆက်ထားပါက ဒေတာ သုံးစွဲခများ ကျသင့်နိုင်ပါသည်။</character>
+    </characters>
+  </language>
+  <language name="my-zg" code="1033">
+    <characters module="">
+      <character>Orange သုံးစြဲသူ အျဖစ္မွ အမ်ားဆုံး ရယူႏိုင္ရန္ သင့္အား အေထာက္အကူ ျဖစ္ေစမည့္ အေရးၾကီး ဆက္တင္မ်ားႏွင့္ အက္ပ္မ်ားကို ေဒါင္းလုဒ္လုပ္သြားပါလိမ့္မည္။ WiFi ႏွင့္ မခ်ိတ္ဆက္ထားပါက ေဒတာ သုံးစြဲခမ်ား က်သင့္ႏိုင္ပါသည္။</character>
+    </characters>
+  </language>
+  <language name="nb-no" code="1044">
+    <characters module="">
+      <character>Viktige Innstillinger og Apper lastes ned for å la deg få det meste utav å være en Orange kunde. Datakostnader kan påløpe hvis Wi-Fi ikke er tilkoblet.</character>
+    </characters>
+  </language>
+  <language name="ne-np" code="1033">
+    <characters module="">
+      <character>Orange ग्राहकको रूपमा तपाईंलाई अधिकतम सुविधाहरू प्राप्त गर्नमा मद्दत गर्नको लागि महत्त्वपूर्ण सेटिङ तथा एपहरू डाउनलोड हुनेछन् । Wi-Fi जडान गरिएको छैन भने डाटा शुल्कहरू लाग्न सक्छन् ।</character>
+    </characters>
+  </language>
+  <language name="nl-nl" code="1043">
+    <characters module="">
+      <character>Belangrijke instellingen en applicaties zullen gedownload worden om je ervaring als Orange-gebruiker compleet te maken. Indien je niet verbonden bent met Wi-Fi kunnen datakosten van toepassing zijn.</character>
+    </characters>
+  </language>
+  <language name="pl-pl" code="1045">
+    <characters module="">
+      <character>Pobrane zostaną istotne ustawienia i aplikacje, które pozwolą Ci czerpać jak najwięcej z bycia klientem Orange. Mogą zostać naliczanie opłat za transmisję danych, jeśli urządzenie nie jest połączone z siecią Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="pt-br" code="1046">
+    <characters module="">
+      <character>Configurações importantes e aplicativos serão baixados para te ajudar a aproveitar o máximo de ser um cliente Orange. Cobranças de dados podem ser aplicadas caso o Wi-Fi não esteja conectado.</character>
+    </characters>
+  </language>
+  <language name="pt-pt" code="2070">
+    <characters module="">
+      <character>Serão transferidas aplicações e definições importantes para ajudá-lo a tirar partido de ser um cliente Orange. Poderão ser aplicadas taxas de utilização de dados se não estiver a utilizar uma rede Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="ro-ro" code="1048">
+    <characters module="">
+      <character>Vor fi descărcate setări și aplicații importante pentru a vă ajuta să obțineți tot ce e mai bun pentru calitatea dvs. de client Orange. Este posibil să fie generate costuri suplimentare de utilizare a datelor dacă Wi-Fi nu este conectat.</character>
+    </characters>
+  </language>
+  <language name="ru-ru" code="1049">
+    <characters module="">
+      <character>Чтобы воспользоваться всеми возможностями, которые дает своим клиентам Orange, на Ваше устройство будут загружены важные настройки и приложения. Если Вы не подключены к сети Wi-Fi, будет взиматься плата за передачу данных.</character>
+    </characters>
+  </language>
+  <language name="si-lk" code="1033">
+    <characters module="">
+      <character>Orange පාරිභෝගිකයෙකු වීමෙන් වැඩි ප්‍රයෝජන ලබා ගැනීමට ඔබට උපකාර වීමට වැදගත් සැකසුම් සහ යෙදුම් බාගත කෙරෙනු ඇත. Wi-Fi වෙත සම්බන්ධ වී නොමැති නම්, දත්ත ගාස්තු අදාළ විය හැක.</character>
+    </characters>
+  </language>
+  <language name="sk-sk" code="1051">
+    <characters module="">
+      <character>Prevezmú sa dôležité nastavenia a aplikácie, aby ste využili naplno výhody zákazníkov Orange. Môžu byť účtované poplatky za prenos dát, ak nie ste pripojení k sieti Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="sl-si" code="1060">
+    <characters module="">
+      <character>Prenesene bodo pomembne nastavitve in aplikacije, ki vam bodo kot stranki Orange pomagale pridobiti kar največ. Če nimate vzpostavljene povezave Wi-Fi, bo morda treba plačati prenos podatkov.</character>
+    </characters>
+  </language>
+  <language name="sr-ba" code="2074">
+    <characters module="">
+      <character>Važna podešavanja i aplikacije preuzimaju se kako bi vam se pomoglo da na najbolji način iskoristite to što ste korisnik kompanije Orange. Ako Wi-Fi nije povezan, mogu da se primene naknade za korišćenje podataka.</character>
+    </characters>
+  </language>
+  <language name="sv-se" code="1053">
+    <characters module="">
+      <character>Viktiga inställningar och appar laddas ned så att du får ut så mycket som möjligt som Orange-kund. Avgifter för mobildata tillämpas om WiFi inte är anslutet.</character>
+    </characters>
+  </language>
+  <language name="th-th" code="1054">
+    <characters module="">
+      <character>จะมีการดาวน์โหลดการตั้งค่าและแอปที่สำคัญเพื่อช่วยให้คุณได้รับประโยชน์สูงสุดจากการเป็นลูกค้าของ Orange อาจมีค่าใช้จ่ายสำหรับข้อมูลหากไม่ได้เชื่อมต่อ Wi-Fi</character>
+    </characters>
+  </language>
+  <language name="tl-ph" code="1033">
+    <characters module="">
+      <character>Mada-download ang Mahahalagang Setting at App para matulungan kang masulit ang pagiging isang customer ng Orange. May mga nailalapat na singilin sa data kung hindi nakakonekta ang Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="tr-tr" code="1055">
+    <characters module="">
+      <character>Bir Orange müşteri olmaktan en iyi şekilde yararlanmanıza yardımcı olmak için önemli Ayarlar ve Uygulamalar indirilecektir. Wi-Fi bağlı değilse veri ücretleri uygulanabilir.</character>
+    </characters>
+  </language>
+  <language name="uk-ua" code="1058">
+    <characters module="">
+      <character>Буде завантажено важливі налаштування та програми, які допоможуть вам скористатися всіма перевагами Orange. Якщо немає підключення по Wi-Fi, може стягуватися плата за передачу даних.</character>
+    </characters>
+  </language>
+  <language name="ur-pk" code="1056">
+    <characters module="">
+      <character>Orange کا گاہک ہونے کا زیادہ سے زیادہ فائدہ اٹھانے میں آپ کی مدد کیلئے اہم ترتیبات اور ایپس ڈاؤن لوڈ ہوں گی۔ اگر Wi-Fi مربوط نہیں ہے تو ڈیٹا چارجز لگ سکتے ہیں۔</character>
+    </characters>
+  </language>
+  <language name="uz-uz" code="2115">
+    <characters module="">
+      <character>Orange abonentlariga yanada yaxshiroq xizmatlarni taqdim etish maqsadida muhim Sozlamalar va Ilovalar yuklab olinadi. Agar Wi-Fi tarmoqqa ulanmagan bo‘lsangiz, sarflangan trafik uchun haq olinishi mumkin.</character>
+    </characters>
+  </language>
+  <language name="vi-vn" code="1066">
+    <characters module="">
+      <character>Các Cài đặt và Ứng dụng quan trọng sẽ được tải xuống để giúp bạn nhận được nhiều nhất từ việc trở thành khách hàng của Orange. Phí dữ liệu có thể phát sinh nếu không có kết nối Wi-Fi.</character>
+    </characters>
+  </language>
+  <language name="zh-hk" code="3076">
+    <characters module="">
+      <character>本次更新將新增 Orange 電訊供應商版本相關重要設定和應用程式。非 Wi-Fi 環境可能會產生流量費用，建議您在 Wi-Fi 環境中更新版本。</character>
+    </characters>
+  </language>
+  <language name="zh-tw" code="1033">
+    <characters module="">
+      <character>本次更新將增加 Orange 電信公司版本相關的重要設定和應用程式。非 Wi-Fi 環境可能會產生流量費用，推薦您在 Wi-Fi 環境下更新版本。</character>
+    </characters>
+  </language>
+</root>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43954176</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>lSKtiUFcXr9Ejvz60xcl5sniu7m75J7FNjy8HNIOVcw=</fileHash>
+<fileSize>4059</fileSize>
+<metadataHash>JgE1WZi+Nv1Xx2xLZHggGr6tGlJ0qn8KXUW/HhuHpUM=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_VER-AN20_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_VER-AN20_all_cn.zip</spath>
+<dpath>update_cust_VER-AN20_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>5743EF2786A8128853DDF756E3E3D382D03BAC1B0C97EB9EBA77FA727343E535</sha256>
+<size>11358</size>
+</file>
+</files>
+</root>

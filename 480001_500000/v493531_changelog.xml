@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="NTH-LGRP1-CHN 5.0.0.13(SP10)"/>
+<default-language name="en-us">1033</default-language>
+<cleardata-flag>False</cleardata-flag>
+<romsurvey-flag>False</romsurvey-flag>
+<notify-level>40</notify-level>
+<point-version>False</point-version>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>本次更新优化相机拍照效果，优化系统功耗和稳定性，推荐您进行更新。
+</feature>
+</features>
+<features module="【相机】">
+<feature>优化AIGC长焦风景效果。
+优化特定场景下相机花图、偏色等效果问题。</feature>
+</features>
+<features module="【图库】">
+<feature>新增图库路人移除功能。体验路径：图库-&gt;打开含有多路人的图片-&gt;AI编辑-&gt;AI消除-&gt;路人移除。</feature>
+</features>
+<features module="【换脸检测】">
+<feature>修复AI换脸检测QQ无法触发的问题。</feature>
+</features>
+<features module="【系统】">
+<feature>优化系统功耗和稳定性。</feature>
+</features>
+
+<features id="1" module="智慧">
+             <feature title="智能填表">•  新增通过YOYO助理自动弹出“智能填写”弹框，一键帮您完成表单填写。</feature>
+             <feature title="个人记忆查询">•  新增YOYO助理一句话查找您的卡证和预约信息。</feature>
+         </features><features id="2" module="媒体">
+             <feature title="相机">•  提升特定场景色彩成像准确度。
+•  优化长焦高倍率预览和拍照一致性。
+•  优化长焦高倍率拍照动态范围与清晰度。
+•  优化多场景对焦效果、变焦切换流畅性。</feature>
+         </features><features id="3" module="连接">
+             <feature title="基础连接">•  增加优速通覆盖场景，优化优速通上网体验。加速次数查询：我的荣耀-全部工具-新机礼包-精选权益-荣耀优速通。</feature>
+         </features><features id="4" module="系统">
+             <feature title="辅助功能">•  新增微信、QQ三方应用通话录音功能。体验路径：设置-辅助功能-第三方应用通话录音。</feature>
+             <feature title="功耗和稳定性">•  优化系统功耗和稳定性。</feature>
+         </features><features module="更新注意事项：" type="end">
+<feature>本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+</feature>
+</features></language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This update improves the screen display in certain situations.</feature>
+</features>
+<features module="[Screen]">
+<feature>Improves the screen display in certain situations.</feature>
+</features>
+
+<features module="Update notes:" type="end">
+<feature>1. This update will not erase your personal data, but we recommend that you back up any important data before updating.
+2. For more features, visit Tips.
+</feature>
+</features></language>
+
+</root>

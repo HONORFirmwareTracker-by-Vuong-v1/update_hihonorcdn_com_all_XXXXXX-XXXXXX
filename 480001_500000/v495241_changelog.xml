@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新新增学习空间应用，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="学习空间">
+<feature>•  新增学习空间应用，孩子成长好帮手，专属学习桌面，优质儿童启蒙内容，海量教育资源。</feature>
+</features>
+<features module="安全">
+<feature>•  合入安卓2024年12月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update introduces Learning Space and incorporates a security patch. Update to enjoy the new feature and the enhanced security.</feature>
+</features>
+<features module="Learning Space">
+<feature>• Learning Space, as a great assistant in children’s growth, features a dedicated home screen for children. It also offers high-quality enlightenment content and massive educational resources.</feature>
+</features>
+<features module="Security">
+<feature>• Android Security Patch (Dec 2024) has been incorporated for the system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Discover more information on product features in the Tips app.
+3. If you encounter any issues during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+</features>
+</language>
+
+</root>

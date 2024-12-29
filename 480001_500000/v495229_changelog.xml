@@ -1,0 +1,92 @@
+<root>
+    <component name="TCPU" version="请自行修改"></component>
+    <default-language name="en-us">1033</default-language>
+    <language name="zh-cn" code="2052">
+              <features module="" type="header" backgroud="">
+             <feature>亲爱的用户，本次更新优化相机拍照效果，推荐您进行更新。</feature>
+         </features>
+        <features id="1" module="媒体">
+             <feature title="相机">•  优化相机拍照效果。</feature>
+         </features>
+        <features module="更新注意事项：" type="end">
+            <feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更多精彩功能介绍，请访问“玩机技巧”应用。 
+3. 如果您在使用过程中遇到任何问题，请访问“我的荣耀”应用或访问荣耀官方服务网站 https://www.honor.com/cn/contact-us 寻求支持。</feature>
+        </features>
+    </language>
+
+    <language name="en-us" code="1033">
+              <features module="" type="header" backgroud="">
+             <feature>Dear user, this recommended update optimizes the shooting effect.</feature>
+         </features>
+        <features id="1" module="Media">
+             <feature title="Camera">• Optimizes the shooting effect.</feature>
+         </features>
+        <features module="Notes:" type="end">
+            <feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. Check out more information on product features in the Tips app.
+3. If you encounter any problem during use, please get support by going to My HONOR or visiting our website: https://www.honor.com/cn/contact-us.</feature>
+        </features>
+    </language>
+
+    <language code="1105" name="bo-cn">
+              <features module="" backgroud="" type="header">
+             <feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་པར་ཆས་ཀྱི་པར་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་པར་འོས་སྦྱོར་བྱེད།</feature>
+         </features>
+        <features module="སྨྱན་གཟུགས།" id="1">
+             <feature title="པར་ཆས།">• པར་ཆས་ཀྱི་པར་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད།</feature>
+         </features>
+        <features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+            <feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་ཁྱེད་ཀྱིས་སྔར་བཞིན་གསར་སྒྱུར་བྱེད་སྔོན་གཞི་གྲངས་གྲབས་ཉར་ལེགས་པོ་བྱས་ན་ལེགས།
+2. ངོ་མཚར་བའི་རྩོལ་ནུས་དེ་ལས་མང་བའི་ངོ་སྤྲོད་ཁ་པར་རྩེ་བའི་ལག་རྩལ་གྱི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་རོགས།
+3. གལ་ཏེ་ཁྱེད་ཀྱིས་བཀོལ་བའི་བརྒྱུད་རིམ་ཁྲོད་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། ངའི་རུང་ཡོའོ་ཡི་ཉེར་སྤྱོད་ལ་ལྟ་སྤྱོད་བྱེད་པའམ། ཡང་ན་རུང་ཡོའོ་གཞུང་ཕྱོགས་ཞབས་ཞུའི་དྲ་ཚིགས་ https://www.honor.com/cn/contact-us ལ་ལྟ་སྤྱོད་བྱས་ཏེ་རྒྱབ་སྐྱོར་ཐོབ་ཐབས་བྱེད་རོགས།</feature>
+        </features>
+    </language>
+    
+<language code="3076" name="zh-hk">
+              <features module="" backgroud="" type="header">
+             <feature>親愛的用戶，本次更新優化了相機的拍攝效果，建議您更新。</feature>
+         </features>
+        <features module="媒體" id="1">
+             <feature title="相機">• 優化相機拍攝效果。</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 如需了解更多精彩功能介紹，請存取「玩機技巧」應用程式。
+3. 如果您在使用過程中遇到任何問題，請瀏覽「我的榮耀」應用程式或瀏覽榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+        </features>
+    </language>
+    
+<language code="1028" name="zh-tw">
+              <features module="" backgroud="" type="header">
+             <feature>親愛的使用者，本次更新最佳化相機拍照效果，建議您進行更新。</feature>
+         </features>
+        <features module="媒體" id="1">
+             <feature title="相機">• 最佳化相機拍照效果。</feature>
+         </features>
+        <features module="更新注意事項：" type="end">
+            <feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 如需更多精彩功能介紹，請查看「玩機技巧」應用程式。
+3. 若您在使用過程中遇到任何問題，請查看「我的榮耀」應用程式，或造訪榮耀官方服務網站 https://www.honor.com/cn/contact-us 尋求支援。</feature>
+        </features>
+    </language>
+    
+<language code="1152" name="ug-cn">
+              <features module="" backgroud="" type="header">
+             <feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلانمىدا كامېرانىڭ تارتىش ئۈنۈمى ئەلالاشتۇرۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+         </features>
+        <features module="‏كۆپ ۋاسىتە" id="1">
+             <feature title="‏‏كامېرا">‏• كامېرانىڭ تارتىش ئۈنۈمى ئەلالاشتۇرۇلدى.</feature>
+         </features>
+        <features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+            <feature>‏‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. كۆپرەك قالتىس ئىقتىدارلار بىلەن تونۇشۇش ئۈچۈن «ئىشلىتىش كۆرسەتمىسى» ئەپىنى زىيارەت قىلىڭ.
+3. ئىشلىتىش جەريانىدا مەسىلىگە يولۇقسىڭىز، «روڭياۋىم» ئەپىنى زىيارەت قىلىڭ ياكى روڭياۋ ئورگان تەرەپ مۇلازىمەت تور بېكىتى https://www.honor.com/cn/contact-us نى زىيارەت قىلىپ ياردەم سوراڭ.</feature>
+        </features>
+    </language>
+    
+    <icons>
+            <icon id="1" mirror="true" res="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABmUExURUdwTP+iAP+YAP+aAP+XAP+YAP+eAP+XAP+6AP+aAP+XAP+XAP+ZAP+ZAP+XAP+ZAP+ZAP+ZAP+XAP+YAP+XAP////+XAP+pKv/dqv/LgP+3Tv+aCP+hGP/68v/w2v/Ebv/UlP/oxYTSvwUAAAAVdFJOUwANijbsqxrGBD+61t14+kmGlfNeICw0t+QAAAO1SURBVHja1VvZcuowDCXBwdkIYYkCWUj4/58sLaVc2tixvCn3vHSmw4xPZEnWulrpIFgfyyjlWc6KguUZT6PyuA5WXhDsQs7gHcXjD+Phzi2LOCl58TpwCgUvk9jR8es9AyWw/dr+6adtDghk25Pdj48AjcieGJIUtJAmdo7noA1uTmETgRGijZndbQ9giMPWwCqTrABzZLr3EIdgB0WoJYQNB2vgGpqwY2ARbEcl/h/griGOwDoiBIMgBQdIAwr101HFUw6OkCsx2GQAlAwCDg7BZ/UgTsEp0ti//f2yRjmBEpwjlPpf8ACJV94wHwSY0BRiDl7ARYoYgicI1CABb5iMkeLMH4Fs6hK24BHbCQs4+CRw+GsJEXhFRKiB03rIfRPgxAL4LYLUP4H0Lf8HAqzpTOCPIZykP2xrZbQoBicVJ1iP1wqBfkSQeLlDYRzeXvoKi7Myg3xWBdtbpYFrh1XDvegHY6WFm6oM9t/vsCgQaypNDKrBWSz3gjddAv2bCLpuxhuKQvGu0kbzUqPhbkXXRnBEKXuH2kafwOX5Dd9W1DeSFykQVcIGfQLj4/jxx4ivgvJVIElG2os+gfOXC/vXh7TiJEUYjBsSeP9PLQ7QOSWBTyVgSAK3yzD2tgiwuw4CjsD4UC9LBCCQxCKTBG7PV/Jqh8B6dcQR+LbwtoWht0HgKClJTBJoXvbUnS0QKCXR2EXuZD9fq6sxgUgSD89J4Mtb9oYEUklGMi+Buy5M34M6Ab7KjCQgeLPUCWTieFBJAgIG6gRysSNUlMAdVwMCbFWYSmAqclInUKAJWJZAgb6CicSpMrqC3FQCdW+mhJmZBKbjJowZciMJCJwxxhGlBhKoz8ZvQYp+jFqVzBXzGCGf42H+KUQ+x8iA5Jl8S4IBZECCDMkeImiHvrIVkmGD0urc1MNc1QQTlKLDcqt5AVtCYkKemu0cEXhPXjpxckqenguVwKRA0f5ylrIChdAX1r5KNA6KVIAqUpGX6ewXKlUrpfvZboGnUi02LJv3AYrty9fMnLhX0CHL9edap3tJ3rAgb9nQN63I23b0jUvy1i1985q8fU8/wEA+wuF3iGWRYzxeJtlewfgiR7nIh9nox/m8zLOF8pFK9yOd8bKHWunHeu+mkLs7X3G02hmD7PR/DLfTj/fTLzi48EgldtOGeMllAWs+NjdtQt1tr8RKlJYZrNxRL7vRr/stYOFxASufC1h61Vj7zS2v/S5g8flt9VsCl6vf4uX355c7X353sf7/AUsJRmxA3bE0AAAAAElFTkSuQmCC"
+                darkRes="iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAMAAAD04JH5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABaUExURUdwTPGPBP+VEPGPBPaTB/GPBf+zMvGPBPOPBvGPBPGPBPGQCPGPBPGPBfGPBPGPBvGPBvGPBP////OhLfvZq/jIg/GXF/W0Wf/58vWsR/fBdP3v2/nQl/zozNT+p4kAAAARdFJOUwDsDfgcqwWKQcXcNrrSVHx0LPPD9wAAA7dJREFUeNrVW+2WqjAMpBQKhQIGEQHh/V/zsuvuurq00M9456fHY8Z2mqRpEkUmiMs6SwWvCkIpKSou0qwu4ygI4jzjBDZBeJb7ZcFW43S1REEKupJgnsznGYFDIFnp3nrSFKCBokmcmi9T0EbqbhlyAUYQuRvznIIhKLenkKRghdROC+xEwBL0ZHEq8wqsQaEy3ocM3IBmRouQcHAGbqCEmrizD5TU2stPwSlopqf+FJwj1RBCLMADRIwhPxMpJgV4QpHg2geoDjCIOXgE39UBE+AVYu8spOAZaRj3r4DSI9XUPwFQZM0JCWAfiPQoMA5BwBmeAJQyyGkoAnQzR2IVBEO1tQknCIgT1gn42YQkvAt8JvDHIeYQGK865KEJ8Jfrb2j7r0dRBCcAAncBVpRoR+BvZpCov3k+jF6LwcMXNArj863VwDCfjxNofgjI8+DL0OqiO7wMxb4El9YAS68pQybNA+bWCItmXsBkYWhsDTEdTc6YOgwspgSGp5/p+52AINuBvjXG+PiVaT1Ft1G5B7I4dDUncPn+D9+naFREpFiWCk7mBOa7+XnY0SWNVRK4mBPoPl3Ybx/Sy0WQeSLw/MlZLgKOSeBDBITqEVgu13lwRYCsGgS9FZjv8nJEAGJFILio3Oy4uCFQRrUegYeXnQYXBGrFjXSTwPWXp+wcEMgU2dgegXUfbtYEUkU+vE9Aug/HCQjFjeQIATh3dgR4VNkRWGPWYEOgUuWDxwhsRc3jBIqIWBOAmwUBElF7AosFAYpPwH4LxtZqC6xFeB7sRGh7DC92fqCydEQSZ6zjiGxc8bmzjgXCJhhNDqJhqria7+QD481FPtDoJiTdfjKgmZBopmRfSzANrauUTDcpbbtxnPaqJjpJqdwVhrgXEFWJMAQB8Q5XM1+X0+fLSy9/QfN4PX/U2G5yDeIXKFiDV6Jp3qNIhV6mi/AKlXcCTBoO1BHHWalWVayefRarH8+XDsv1nVG5Xv1g0ft/sEB/ssF/tEJ/tsNYgjJo+9Du0y3+43Xog5AiNzBstfJgt3DgN7GwElGB79HIFKyPg79tM1vEckQBvEdDI35LJ35TK3pbr9/G5iI+0uGeePPJRfJ/NLfjt/fjDzj48Eh6Ix4fSaLTuED0Z42Y2zEfk0kj5mzSJosMkTvxCJXF4KGDYTdyshtBRR73uw88WvgeNzOXpenIZ+lsABh56PUNxn7vy4A6+Px5KFne7I3gUt7kzNfs90pBPfwusjz2Z/wXiY/x/2Zz/F/f/D9hHmQqCvoS3QAAAABJRU5ErkJggg=="/>
+    </icons>
+</root>

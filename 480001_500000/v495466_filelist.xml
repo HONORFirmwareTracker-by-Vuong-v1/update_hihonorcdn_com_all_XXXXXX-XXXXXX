@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>dcota</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>0</cowsize>
+<payloadOffset>830</payloadOffset>
+<fileHash>XmHT5c8KsctoEksUQ2Y1tc5nJdREZ83fL6ZftaVi3P8=</fileHash>
+<fileSize>7859236040</fileSize>
+<metadataHash>CU9MFurquNocGSECpojTzJyisq3H+fwBW8rTSfj3/L8=</metadataHash>
+<metadataSize>377653</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="dcota" package="update_full_base.zip" precut_size="2133321218" subpath=""/>
+<userlicense language="default" version="202003"/>
+<files>
+<file>
+<spath>update_full_base.zip</spath>
+<dpath>update_full_base.zip</dpath>
+<operation>c</operation>
+<sha256>D809FB4B660B35B676829A7DC14439F5B674AF4F4EF853692E49826D8C43BB2B</sha256>
+<size>887195494</size>
+</file>
+</files>
+</root>

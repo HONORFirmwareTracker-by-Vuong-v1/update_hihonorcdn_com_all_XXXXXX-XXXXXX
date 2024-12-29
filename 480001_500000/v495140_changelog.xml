@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <component name="TCPU" version="请自行修改" />
+    <default-language name="en-us">1033</default-language>
+    <language code="2052" name="zh-cn">
+        <features>
+            <feature>本次更新包含如下内容：</feature>
+        </features>
+        <characters module="[main]"><character>运营商推荐：My Apps、My Games</character></characters></language>
+
+    <language code="1033" name="en-us">
+        <features>
+            <feature>This update includes:</feature>
+        </features>
+        <characters module="[main]"><character>My Apps and My Games, at the recommendation of network carriers.</character></characters></language>
+
+    <language code="1033" name="am-ET">
+        <features>
+            <feature>ይህ ዝማኔ የሚከተለውን መረጃ ይዟል፦</feature>
+        </features>
+        <characters module="[main]"><character>የአገልግሎት ሰጪ፦ My Apps፣ My Games</character></characters></language>
+
+    <language code="3073" name="ar-eg">
+        <features>
+            <feature>يحتوي هذا التحديث على المعلومات التالية:</feature>
+        </features>
+        <characters module="[main]"><character>توصيات شركة الاتصالات: My Apps، وMy Games</character></characters></language>
+
+    <language code="3073" name="as-IN">
+        <features>
+            <feature>এই আপডেটটোত নিম্নোক্ত তথ্যখিনি আছে:</feature>
+        </features>
+        <characters module="[main]"><character>বাহকৰ অনুমোদন: My Apps, My Games</character></characters></language>
+
+    <language code="1068" name="az-az">
+        <features>
+            <feature>Bu yeniləmə aşağıdakı məlumatları ehtiva edir:</feature>
+        </features>
+        <characters module="[main]"><character>Operator tövsiyəsi: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="jv-id">
+        <features>
+            <feature>Panganyaran iki ngandhut informasi ing ngisor iki:</feature>
+        </features>
+        <characters module="[main]"><character>Saran operator: My Apps, My Games</character></characters></language>
+
+    <language code="2074" name="sr-rs">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: My Apps, My Games</character></characters></language>
+
+    <language code="2074" name="sr-ba">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: My Apps, My Games</character></characters></language>
+
+    <language code="2074" name="sr-me">
+        <features>
+            <feature>Ovo ažuriranje sadrži sledeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuke mrežnog operatera: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="be-by">
+        <features>
+            <feature>У гэта абнаўленне ўваходзіць наступная інфармацыя:</feature>
+        </features>
+        <characters module="[main]"><character>Рэкамендаваны аператар: My Apps, My Games</character></characters></language>
+
+    <language code="1026" name="bg-bg">
+        <features>
+            <feature>Тази актуализация съдържа следната информация:</feature>
+        </features>
+        <characters module="[main]"><character>Препоръка за оператор: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="bn-bd">
+        <features>
+            <feature>এই আপডেটে নিম্নলিখিত তথ্য রয়েছে:</feature>
+        </features>
+        <characters module="[main]"><character>ক্যারিয়ারের সুপারিশ: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="bo-cn">
+        <features>
+            <feature>ཐེངས་འདིའི་གསར་སྒྱུར་ལ་གཤམ་གྱི་ནང་དོན་ཚུད་ཡོད།</feature>
+        </features>
+        <characters module="[main]"><character>འཁོར་སྐྱོད་ཚོང་གཉེར་ཁང་གི་འོས་སྦྱོར། My Apps ཡི་མིང་། My Games ཡི་མིང་།</character></characters></language>
+
+    <language code="5146" name="bs-ba">
+        <features>
+            <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuka operatera: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="ca-es">
+        <features>
+            <feature>Aquesta actualització conté la següent informació:</feature>
+        </features>
+        <characters module="[main]"><character>Recomanació de l'operador de telefonia mòbil: My Apps, My Games</character></characters></language>
+
+    <language code="1029" name="cs-cz">
+        <features>
+            <feature>Tato aktualizace obsahuje následující informace:</feature>
+        </features>
+        <characters module="[main]"><character>Doporučení operátora: My Apps, My Games</character></characters></language>
+
+    <language code="1030" name="da-dk">
+        <features>
+            <feature>Denne opdatering indeholder følgende oplysninger:</feature>
+        </features>
+        <characters module="[main]"><character>Anbefaling fra mobilselskab: My Apps, My Games</character></characters></language>
+
+    <language code="1031" name="de-de">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: My Apps, My Games</character></characters></language>
+
+    <language code="1031" name="de-at">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: My Apps, My Games</character></characters></language>
+
+    <language code="1031" name="de-ch">
+        <features>
+            <feature>Diese Aktualisierung enthält die folgenden Informationen:</feature>
+        </features>
+        <characters module="[main]"><character>Anbieterempfehlung: My Apps, My Games</character></characters></language>
+
+    <language code="1032" name="el-gr">
+        <features>
+            <feature>Αυτή η έκδοση περιλαμβάνει τις ακόλουθες πληροφορίες:</feature>
+        </features>
+        <characters module="[main]"><character>Πρόταση παρόχου: My Apps, My Games</character></characters></language>
+
+    <language code="2057" name="en-gb">
+        <features>
+            <feature>This update contains the following information:</feature>
+        </features>
+        <characters module="[main]"><character>Carrier recommendation: My Apps, My Games</character></characters></language>
+
+    <language code="1034" name="es-es">
+        <features>
+            <feature>Esta actualización incluye la siguiente información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación del operador: My Apps, My Games</character></characters></language>
+
+    <language code="21514" name="es-us">
+        <features>
+            <feature>Esta actualización contiene la siguiente información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación de operador: My Apps, My Games</character></characters></language>
+
+    <language code="1061" name="et-ee">
+        <features>
+            <feature>See värskendus sisaldab järgmist teavet:</feature>
+        </features>
+        <characters module="[main]"><character>Operaatori soovitus My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="eu-es">
+        <features>
+            <feature>Eguneratze honek informazio hau jasotzen du:</feature>
+        </features>
+        <characters module="[main]"><character>Operadorearen gomendioa: My Apps, My Games</character></characters></language>
+
+    <language code="1065" name="fa-ir">
+        <features>
+            <feature>این به‌روزرسانی شامل اطلاعات زیر است:</feature>
+        </features>
+        <characters module="[main]"><character>توصیۀ شرکت مخابراتی: My Apps, My Games</character></characters></language>
+
+    <language code="1035" name="fi-fi">
+        <features>
+            <feature>Tämä päivitys sisältää seuraavat tiedot:</feature>
+        </features>
+        <characters module="[main]"><character>Operaattorin suositus: My Apps, My Games</character></characters></language>
+
+    <language code="1036" name="fr-fr">
+        <features>
+            <feature>Cette mise à jour contient les informations suivantes :</feature>
+        </features>
+        <characters module="[main]"><character>Recommandation de l'opérateur : SFR My Apps, SFR Jeux</character></characters></language>
+
+    <language code="1036" name="fr-ch">
+        <features>
+            <feature>Cette mise à jour contient les informations suivantes :</feature>
+        </features>
+        <characters module="[main]"><character>Recommandation de l'opérateur : SFR My Apps, SFR Jeux</character></characters></language>
+
+    <language code="1033" name="gl-es">
+        <features>
+            <feature>Esta actualización contén a seguinte información:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendación do operador: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="gu-IN">
+        <features>
+            <feature>આ અપડેટમાં નીચેની માહિતીનો સમાવેશ હોય છે:</feature>
+        </features>
+        <characters module="[main]"><character>કૅરિઅરની ભલામણ: My Apps, My Games</character></characters></language>
+
+    <language code="1081" name="hi-in">
+        <features>
+            <feature>इस अद्यतन में निम्नलिखित जानकारी शामिल है:</feature>
+        </features>
+        <characters module="[main]"><character>कैरियर अनुशंसा: My Apps, My Games</character></characters></language>
+
+    <language code="1050" name="hr-hr">
+        <features>
+            <feature>Ovo ažuriranje sadrži sljedeće informacije:</feature>
+        </features>
+        <characters module="[main]"><character>Preporuka mobilnog operatera: My Apps, My Games</character></characters></language>
+
+    <language code="1038" name="hu-hu">
+        <features>
+            <feature>Ez a frissítés az alábbi információkat tartalmazza:</feature>
+        </features>
+        <characters module="[main]"><character>Szolgáltatói javaslat: My Apps, My Games</character></characters></language>
+
+    <language code="1057" name="in-id">
+        <features>
+            <feature>Pembaruan ini berisi informasi berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasi operator: My Apps, My Games</character></characters></language>
+
+    <language code="1057" name="id-">
+        <features>
+            <feature>Pembaruan ini berisi informasi berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasi operator: My Apps, My Games</character></characters></language>
+
+    <language code="1040" name="it-it">
+        <features>
+            <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+        </features>
+        <characters module="[main]"><character>Consigli dell'operatore: My Apps, My Games</character></characters></language>
+
+    <language code="1040" name="it-ch">
+        <features>
+            <feature>Questo aggiornamento contiene le seguenti informazioni:</feature>
+        </features>
+        <characters module="[main]"><character>Consigli dell'operatore: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="iw-il">
+        <features>
+            <feature>עדכון זה מכיל את המידע הבא:</feature>
+        </features>
+        <characters module="[main]"><character>המלצת ספק השירות: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="he-">
+        <features>
+            <feature>עדכון זה מכיל את המידע הבא:</feature>
+        </features>
+        <characters module="[main]"><character>המלצת ספק השירות: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="ja-jp">
+        <features>
+            <feature>この更新には次の情報が含まれています。</feature>
+        </features>
+        <characters module="[main]"><character>通信事業者のおすすめ：My Apps、My Games</character></characters></language>
+
+    <language code="1033" name="ka-ge">
+        <features>
+            <feature>ეს განახლება შეიცავს შემდეგ ინფორმაციას:</feature>
+        </features>
+        <characters module="[main]"><character>ოპერატორის რეკომენდაცია: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="kk-kz">
+        <features>
+            <feature>Бұл жаңартуда келесі ақпарат бар:</feature>
+        </features>
+        <characters module="[main]"><character>Оператор ұсынысы: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="km-kh">
+        <features>
+            <feature>បច្ចុប្បន្នភាពនេះ​មានផ្ទុក​ព័ត៌មាន​ដូចខាងក្រោម៖</feature>
+        </features>
+        <characters module="[main]"><character>ការណែនាំក្រុមហ៊ុនផ្ដល់សេវាទូរស័ព្ទ៖ My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="kn-IN">
+        <features>
+            <feature>ಈ ನವೀಕರಣವು ಈ ಕೆಳಗಿನ ಮಾಹಿತಿಯನ್ನು ಒಳಗೊಂಡಿದೆ:</feature>
+        </features>
+        <characters module="[main]"><character>ಕ್ಯಾರಿಯರ್ ಶಿಫಾರಸು: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="ko-kr">
+        <features>
+            <feature>이 업데이트에는 다음 정보가 포함됩니다.</feature>
+        </features>
+        <characters module="[main]"><character>이동통신사 추천: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="lo-la">
+        <features>
+            <feature>ການອັບເດດນີ້ມີຂໍ້ມູນດັ່ງຕໍ່ໄປນີ້:</feature>
+        </features>
+        <characters module="[main]"><character>ຄຳແນະນຳຂອງບໍ​ລິ​ສັດ​ເຄືອ​ຂ່າຍ​ມື​ຖື: My Apps, My Games</character></characters></language>
+
+    <language code="1063" name="lt-lt">
+        <features>
+            <feature>Šiame naujinyje pateikiama toliau nurodyta informacija.</feature>
+        </features>
+        <characters module="[main]"><character>Tinklo operatoriaus rekomendacija: My Apps, My Games</character></characters></language>
+
+    <language code="1062" name="lv-lv">
+        <features>
+            <feature>Šajā atjauninājumā ietverta tālāk norādītā informācija.</feature>
+        </features>
+        <characters module="[main]"><character>Operatora ieteikums: My Apps, My Games</character></characters></language>
+
+    <language code="1062" name="mai-IN">
+        <features>
+            <feature>ई अपडेट निम्न जानकारी सम्मिलित करैत अछि:</feature>
+        </features>
+        <characters module="[main]"><character>वाहक अनुशंसा: My Apps, My Games</character></characters></language>
+
+    <language code="1062" name="mi-NZ">
+        <features>
+            <feature>Kei roto i tēnei whakahōu ko ngā mōhiohio e whai ake:</feature>
+        </features>
+        <characters module="[main]"><character>Tūtohu a te kaiwhakarato waea pūkoro: My Apps, My Games</character></characters></language>
+
+    <language code="1071" name="mk-mk">
+        <features>
+            <feature>Ова ажурирање ги содржи следниве информации:</feature>
+        </features>
+        <characters module="[main]"><character>Препорака од операторот: My Apps, My Games</character></characters></language>
+
+    <language code="1071" name="ml-IN">
+        <features>
+            <feature>ഈ അപ്‌ഡേറ്റിൽ ഇനിപ്പറയുന്ന വിവരങ്ങൾ അടങ്ങുന്നു:</feature>
+        </features>
+        <characters module="[main]"><character>കാരിയർ ശുപാർശ: My Apps, My Games</character></characters></language>
+
+    <language code="1071" name="mn-MN">
+        <features>
+            <feature>Энэ шинэчлэлт нь дараах мэдээллийг агуулна:</feature>
+        </features>
+        <characters module="[main]"><character>Үүрэн телефоны операторын зөвлөж буй: My Apps, My Games</character></characters></language>
+
+    <language code="1071" name="mr-IN">
+        <features>
+            <feature>या अद्यतनामध्ये खालील माहिती आहे:</feature>
+        </features>
+        <characters module="[main]"><character>वाहकाची शिफारस: My Apps, My Games</character></characters></language>
+
+    <language code="1086" name="ms-my">
+        <features>
+            <feature>Kemas kini ini mengandungi maklumat yang berikut:</feature>
+        </features>
+        <characters module="[main]"><character>Cadangan pembawa: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="my-mm">
+        <features>
+            <feature>ဤအပ်ဒိတ်တွင် အောက်ပါ အချက်အလက်များ ပါဝင်သည်-</feature>
+        </features>
+        <characters module="[main]"><character>ဆက်သွယ်ရေး ကယ်ရီယာ အကြံပြုချက်- My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="my-zg">
+        <features>
+            <feature>ဤအပ္ဒိတ္တြင္ ေအာက္ပါ အခ်က္အလက္မ်ား ပါဝင္သည္-</feature>
+        </features>
+        <characters module="[main]"><character>ဆက္သြယ္ေရး ကယ္ရီယာ အၾကံျပဳခ်က္- My Apps, My Games</character></characters></language>
+
+    <language code="1044" name="nb-no">
+        <features>
+            <feature>Denne oppdateringen inneholder følgende informasjon:</feature>
+        </features>
+        <characters module="[main]"><character>Operatøranbefaling: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="ne-np">
+        <features>
+            <feature>यो अद्यावधिकमा निम्न जानकारी समावेश छ:</feature>
+        </features>
+        <characters module="[main]"><character>वाहक सिफारिस: My Apps, My Games</character></characters></language>
+
+    <language code="1043" name="nl-nl">
+        <features>
+            <feature>Deze update bevat de volgende informatie:</feature>
+        </features>
+        <characters module="[main]"><character>Provideraanbeveling: My Apps, My Games</character></characters></language>
+
+    <language code="1043" name="or-IN">
+        <features>
+            <feature>ଏହି ଅପଡେଟ୍‌‌ରେ ନିମ୍ନଲିଖିତ ସୂଚନା ରହିଛି:</feature>
+        </features>
+        <characters module="[main]"><character>କ୍ୟାରିଅର ସୁପାରିଶକରଣ: My Apps, My Games</character></characters></language>
+
+    <language code="1043" name="pa-IN">
+        <features>
+            <feature>ਇਸ ਅੱਪਡੇਟ ਦੇ ਵਿੱਚ ਹੇਠ ਦਿੱਤੀ ਜਾਣਕਾਰੀ ਹੈ:</feature>
+        </features>
+        <characters module="[main]"><character>ਕੈਰੀਅਰ ਸਿਫ਼ਾਰਸ਼: My Apps, My Games</character></characters></language>
+
+    <language code="1045" name="pl-pl">
+        <features>
+            <feature>Ta aktualizacja zawiera następujące informacje:</feature>
+        </features>
+        <characters module="[main]"><character>Zalecenie operatora: My Apps, My Games</character></characters></language>
+
+    <language code="1046" name="pt-br">
+        <features>
+            <feature>Esta atualização contém as seguintes informações:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendação da operadora: My Apps, My Games</character></characters></language>
+
+    <language code="2070" name="pt-pt">
+        <features>
+            <feature>Esta atualização contém as seguintes informações:</feature>
+        </features>
+        <characters module="[main]"><character>Recomendação da operadora: My Apps, My Games</character></characters></language>
+
+    <language code="1048" name="ro-ro">
+        <features>
+            <feature>Această actualizare conține următoarele informații:</feature>
+        </features>
+        <characters module="[main]"><character>Recomandare operator: My Apps, My Games</character></characters></language>
+
+    <language code="1049" name="ru-ru">
+        <features>
+            <feature>Данное обновление содержит следующие сведения:</feature>
+        </features>
+        <characters module="[main]"><character>Рекомендация оператора: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="si-lk">
+        <features>
+            <feature>මෙම යාවත්කාලීනයේ පහත තොරතුරු අඩංගු වේ:</feature>
+        </features>
+        <characters module="[main]"><character>වාහක නිර්දේශය: My Apps, My Games</character></characters></language>
+
+    <language code="1051" name="sk-sk">
+        <features>
+            <feature>Táto aktualizácia obsahuje nasledujúce informácie:</feature>
+        </features>
+        <characters module="[main]"><character>Odporúčané operátorom: My Apps, My Games</character></characters></language>
+
+    <language code="1060" name="sl-si">
+        <features>
+            <feature>Ta posodobitev vključuje naslednje podatke:</feature>
+        </features>
+        <characters module="[main]"><character>Priporočila operaterja: My Apps, My Games</character></characters></language>
+
+    <language code="1053" name="sv-se">
+        <features>
+            <feature>Den här uppdateringen innehåller följande information:</feature>
+        </features>
+        <characters module="[main]"><character>Operatörsrekommendation: My Apps, My Games</character></characters></language>
+
+    <language code="1053" name="sw-KE">
+        <features>
+            <feature>Sasisho hili lina maelezo yafuatayo:</feature>
+        </features>
+        <characters module="[main]"><character>Mapendekezo ya mtoa huduma: My Apps, My Games</character></characters></language>
+
+    <language code="1053" name="ta-IN">
+        <features>
+            <feature>இந்தப் புதுப்பிப்பில் பின்வரும் தகவல்கள் உள்ளன:</feature>
+        </features>
+        <characters module="[main]"><character>கேரியர் பரிந்துரை: My Apps, My Games</character></characters></language>
+
+    <language code="1053" name="te-IN">
+        <features>
+            <feature>ఈ అప్‌డేట్‌లో క్రింది సమాచారం ఉంటుంది:</feature>
+        </features>
+        <characters module="[main]"><character>క్యారియర్ సిఫార్సు: My Apps, My Games</character></characters></language>
+
+    <language code="1054" name="th-th">
+        <features>
+            <feature>การอัปเดตนี้มีข้อมูลดังต่อไปนี้:</feature>
+        </features>
+        <characters module="[main]"><character>การแนะนำผู้ให้บริการ: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="tl-ph">
+        <features>
+            <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasyon ng carrier: My Apps, My Games</character></characters></language>
+
+    <language code="1033" name="fil-ph">
+        <features>
+            <feature>Naglalaman ang update na ito ng sumusunod na impormasyon:</feature>
+        </features>
+        <characters module="[main]"><character>Rekomendasyon ng carrier: My Apps, My Games</character></characters></language>
+
+    <language code="1055" name="tr-tr">
+        <features>
+            <feature>Bu güncelleme aşağıdaki bilgileri içermektedir:</feature>
+        </features>
+        <characters module="[main]"><character>Operatör önerisi: My Apps, My Games</character></characters></language>
+
+    <language code="1055" name="ug-cn">
+        <features>
+            <feature>بۇ قېتىملىق يېڭىلاش تۆۋەندىكى مەزمۇننى ئۆز ئىچىگە ئالىدۇ:</feature>
+        </features>
+        <characters module="[main]"><character>يۈرۈتكۈچى تەۋسىيەسى: My Apps نامى، My Games نامى</character></characters></language>
+
+    <language code="1058" name="uk-ua">
+        <features>
+            <feature>Це оновлення містить таку інформацію:</feature>
+        </features>
+        <characters module="[main]"><character>Рекомендація оператора: My Apps, My Games</character></characters></language>
+
+    <language code="1056" name="ur-pk">
+        <features>
+            <feature>اس اپ ڈیٹ میں مندرجہ ذیل معلومات شامل ہیں:</feature>
+        </features>
+        <characters module="[main]"><character>کیرئیر کی تجویز: My Apps، My Games</character></characters></language>
+
+    <language code="2115" name="uz-uz">
+        <features>
+            <feature>Bu yangilanishda quyidagi axborotlar mavjud:</feature>
+        </features>
+        <characters module="[main]"><character>Aloqa operatori tavsiyasi: My Apps, My Games</character></characters></language>
+
+    <language code="1066" name="vi-vn">
+        <features>
+            <feature>Bản cập nhật này chứa các thông tin sau:</feature>
+        </features>
+        <characters module="[main]"><character>Đề xuất nhà mạng: My Apps, My Games</character></characters></language>
+
+    <language code="3076" name="zh-hk">
+        <features>
+            <feature>本次更新包含以下內容：</feature>
+        </features>
+        <characters module="[main]"><character>供應商推介：My Apps、My Games</character></characters></language>
+
+</root>

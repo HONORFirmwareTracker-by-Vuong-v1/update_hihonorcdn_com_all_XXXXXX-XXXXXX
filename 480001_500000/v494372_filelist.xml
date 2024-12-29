@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>43954176</cowsize>
+<payloadOffset>899</payloadOffset>
+<fileHash>b0+4Exu+yyRzfeLISfVge83DQXd4aNbKPJZj7lRilVM=</fileHash>
+<fileSize>4098</fileSize>
+<metadataHash>uK1L/l6GhaNOu+/Ni7l6gGPYtvus7XFs4vhCNfr0LpE=</metadataHash>
+<metadataSize>761</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_cust_FRI-AN00_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_cust_FRI-AN00_all_cn.zip</spath>
+<dpath>update_cust_FRI-AN00_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>800DBADE3B81791C05A562E60C9D438CC0BBE1073E0C3EA5E3AB4FEE86F2EE46</sha256>
+<size>11392</size>
+</file>
+</files>
+</root>

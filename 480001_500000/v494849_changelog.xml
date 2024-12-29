@@ -1,0 +1,1501 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新屏幕录制支持三档分辨率调节，提升系统安全，推荐您进行更新。</feature>
+</features>
+<features module="【系统应用】">
+<feature>新增录屏分辨率自定义功能，支持三挡可调节（480P/720P/1080P），随心选择对应的分辨率进行屏幕录制，录屏更清晰，设置路径：设置>辅助功能>屏幕录制>清晰度选择。</feature>
+</features>
+<features module="【安全】">
+<feature>更改USB连接方式时增加用户身份验证，从“仅充电”切换至“传输照片”或“传输文件 / Android Auto”模式时，弹出验证界面或安全提示，让您的数据传输更安全。
+合入安卓2024年12月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, in this update, three resolution levels are available for video quality in screen recordings. This release also improves the system stability. It is recommended to update.</feature>
+</features>
+<features module="System apps">
+<feature>Three resolution levels (480P/720P/1080P) are available for video quality in screen recordings. Try it out by going to: Settings > Accessibility features > Screen recording > Video quality.</feature>
+</features>
+<features module="Security">
+<feature>User authentication is required when switching USB connection purposes. A verification or security prompt appears when you select Transfer photos or Transfer files / Android Auto, instead of Charge only, ensuring safer data transfer.
+Android security patch (Dec 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+</features>
+</language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ውድ ተጠቃሚ፣ በዚህ ዝማኔ ውስጥ በገጽ-ማያ ላይ መቅዳቶች ውስጥ ለቪዲዮ ጥራት ሶስት የጥራት ደረጃዎች አሉ። ይህ ልቀት የስርዓቱን መረጋጋት ያሻሽላል። እንዲያዘምኑ ይመከራል።</feature>
+</features>
+<features module="የስርዓት መተግበሪያዎች">
+<feature>ለመስኮት ቅጂዎች የቪዲዮ ጥራት ሶስት የጥራት ደረጃዎች (480P/720P/1080P) ይገኛሉ። ወደዚህ በመሄድ ይሞክሩት፦ ቅንብሮች > የተደራሽነት ባህሪያት > የመስኮት ቅጂ > የቪዲዮ ጥራት።</feature>
+</features>
+<features module="ደህንነት">
+<feature>የUSB ግንኙነት ዓላማዎችን ሲቀይሩ የተጠቃሚ ማረጋገጫ ያስፈልጋል። ከቻርጅ ብቻ አድርግ ይልቅ ፎቶዎችን አስተላልፍ ወይም ፋይሎችን አስተላልፍ / አንድሮይድ አውቶን ሲመርጡ የማረጋገጫ ወይም የደህንነት ጥያቄ ይመጣል፣ ይህም ደህንነቱ የተጠበቀ የውሂብ ማስተላለፍን ያረጋግጣል።
+አንድሮይድ ደህንነት መጠገኛ (ዴሴ 2024) ለስርዓት ደህንነት ተካትቷል። ስለ HONOR ደህንነት ማሻሻያዎች የበለጠ መረጃ ለማግኘት https://www.honor.com/global/support/bulletin/2024/12 የሚለውን ይጎብኙ።</feature>
+</features>
+<features module="ማስታወሻዎች፦" type="end">
+<feature>1. ይህን ዝማኔ መጫን በግል ውሂብዎ ላይ ተጸእኖ አያሳርፍም፣ ነገር ግን አሁንም ከማዘመን በፊት አስቀድመው መጠባበቂያ ማስቀመጥ ይመከራል።
+2. በዝማኔው ወቅት ማናቸውም አይነት ችግሮች ካጋጠሙዎት እባክዎን ወደ HONOR አገልግሎት የቀጥታ መስመር ይደውሉ ወይም ድጋፍ ለማግኘት ወደ HONOR የደንበኞች የአገልግሎት ማዕከል ይሂዱ።</feature>
+</features>
+</language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>عزيزنا المستخدم، في هذا التحديث، تتوفر ثلاثة مستويات من الدقة لجودة الفيديو في تسجيلات الشاشة. يحسّن هذا الإصدار أيضًا استقرار النظام. من المستحسن التحديث.</feature>
+</features>
+<features module="تطبيقات النظام">
+<feature>تتوفر ثلاثة مستويات من الدقة (480P/720P/1080P) لجودة الفيديو في تسجيلات الشاشة. جرّب هذه الميزة بالانتقال إلى: الإعدادات > ميزات إمكانية الوصول > تسجيل الشاشة > جودة الفيديو.</feature>
+</features>
+<features module="الأمان">
+<feature>يجب إجراء مصادقة المستخدم عند تغيير أغراض اتصال USB. تظهر مطالبة التحقق أو الأمان عندما تحدد "نقل الصور" أو "نقل الملفات/أندرويد أوتو"، بدلاً من "الشحن فقط"، مما يضمن نقل البيانات بشكل أكثر أمانًا.
+تم تضمين تصحيح أمان أندرويد (ديسمبر 2024) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2024/12</feature>
+</features>
+<features module="الملاحظات:" type="end">
+<feature>1. لن يؤثر تثبيت هذا التحديث على بياناتك الشخصية، ولكن لا يزال من المستحسن إنشاء نسخة احتياطية لبياناتك قبل التحديث.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو الانتقال إلى مركز خدمة عملاء HONOR للحصول على الدعم.</feature>
+</features>
+</language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>মৰমৰ ব্যৱহাৰকাৰী, এই আপডেটত স্ক্ৰীণ ৰেকৰ্ডিংত ভিডিঅ'ৰ মানদণ্ডৰ বাবে তিনিটা ৰিজলিউশ্বনৰ স্তৰ উপলব্ধ আছে। এই মুক্তিয়ে ছিষ্টেমৰ স্থিৰতাও উন্নত কৰে। আপডেট কৰিবলৈ অনুমোদন জনোৱা হয়।</feature>
+</features>
+<features module="ছিষ্টেম এপ্প্‌সমূহ">
+<feature>স্ক্ৰীণ ৰেকৰ্ডিংসমূহত ভিডিঅ'ৰ মানদণ্ডৰ বাবে তিনিটা ৰিজলিউশ্বনৰ স্তৰ (480 পিক্সেল/720 পিক্সেল/1080 পিক্সেল) উপলব্ধ। ইয়ালৈ গৈ ইয়াক ব্যৱহাৰ কৰি চাওক: ছেটিংছ > প্ৰৱেশযোগ্যতা ফিচাৰসমূহ > স্ক্ৰীণ ৰেকৰ্ড কৰি আছে > ভিডিঅ'ৰ মানদণ্ড।</feature>
+</features>
+<features module="নিৰাপত্তা">
+<feature>USB সংযোগৰ উদ্দেশ্যসমূহ সাল-সলনি কৰাৰ সময়ত ব্যৱহাৰকাৰীৰ প্ৰামাণিকীকৰণৰ আৱশ্যক। আপুনি কেৱল চাৰ্জ কৰকৰ পৰিৱৰ্তে ফটোসমূহ স্থানান্তৰ কৰক বা ফাইলসমূহ স্থানান্তৰ কৰক/Android Auto বাছনি কৰাৰ সময়ত এটা প্ৰমাণীকৰণ বা নিৰাপত্তাৰ সংকেত দেখা পায়, যিয়ে নিৰাপদ ডাটা স্থানান্তৰ নিশ্চিত কৰে।
+ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (ডিচেম্বৰ 2024) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="মনত ৰাখিব:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটাত প্ৰভাৱ নপৰিব, কিন্তু আপডেট কৰাৰ পূৰ্বে আপোনাৰ ডাটাৰ বেক আপ ল'বলৈ এতিয়াও অনুমোদন জনোৱা হয়।
+2. আপুনি আপডেটৰ সময়ত কোনো সমস্যাৰ সন্মুখীন হ’লে, অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত কল কৰক বা সমৰ্থনৰ বাবে HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাওক।</feature>
+</features>
+</language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Hörmətli istifadəçi, bu yeniləmədə ekran qeydlərindəki video keyfiyyəti üçün üç əksetmə qabiliyyəti səviyyəsi əlçatandır. Bu buraxılış sistemin sabitliyini də yaxşılaşdırır. Yeniləmək tövsiyə olunur.</feature>
+</features>
+<features module="Sistem proqramları">
+<feature>Ekran qeydlərində video keyfiyyəti üçün üç ayırdetmə səviyyəsi (480P/720P/1080P) əlçatandır. Buraya keçərək sınayın: Parametrlər > Xüsusi imkanlar xüsusiyyətləri > Ekranın yazılması > Video keyfiyyəti.</feature>
+</features>
+<features module="Təhlükəsizlik">
+<feature>USB bağlantı məqsədlərini dəyişdirərkən istifadəçi əsilliyinin yoxlanılması tələb olunur. Verilənlərin təhlükəsiz ötürülməsini təmin etmək üçün Yalnız doldurun əvəzinə Fotoları ötürün və ya Faylları ötürün/Android Auto seçdiyiniz zaman yoxlama və ya təhlükəsizlik sorğusu görünür.
+Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (Dekabr 2024-cü il) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün https://www.honor.com/global/support/bulletin/2024/12 veb-saytımıza daxil olun</feature>
+</features>
+<features module="Qeydlər:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması şəxsi məlumatlarınıza təsir etməyəcək, lakin yeniləmədən əvvəl verilənlərinizin ehtiyat nüsxəsini çıxarmaq tövsiyə olunur.
+2. Yeniləmə zamanı hər hansı problemlərlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+</features>
+</language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Katur pangguna, ing panganyaran iki, telung tingkat resolusi sumadhiya kanggo kwalitet video ing rekaman layar. Rilis iki uga ngapikake stabilitas sistem. Sampeyan disaranake kanggo nganyarake.</feature>
+</features>
+<features module="Apl sistem">
+<feature>Telung tingkat resolusi (480P/720P/1080P) sumadhiya kanggo kwalitete video ing rekaman layar. Cobanen kanthi mbukak: Setelan > Fitur aksesibilitas > Rekaman layar > Kwalitete video.</feature>
+</features>
+<features module="Keamanan">
+<feature>Otentikasi pangguna dibutuhake nalika ngalihake tujuan sambungan USB. Prentah verifikasi utawa keamanan bakal muncul nalika sampeyan milih opsi Transfer foto utawa Transfer file/Android Auto, tinimbang Mung isi daya, saengga njamin transfer data sing luwih aman.
+Patch keamanan Android (Des 2024) wis digabungake kanggo keamanan sistem. Informasi sing luwih jangkep babagan panganyaran Keamanan HONOR bisa dideleng ing situs web kita https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Cathetan:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mengaruhi data pribadi sampeyan, nanging sampeyan tetep disaranake nggawe serep data sadurunge nganyarake.
+2. Yen ana masalah sajrone panganyaran, ubungi hotline layanan HONOR utawa tekani pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+</features>
+</language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u ovom ažuriranju su dostupna tri nivoa rezolucije za kvalitet video zapisa u snimanju ekrana. Ovo izdanje takođe poboljšava stabilnost sistema. Preporučujemo da ažurirate.</feature>
+</features>
+<features module="Sistemske aplikacije">
+<feature>Dostupna su tri nivoa rezolucije (480P/720P/1080P) za kvalitet video snimaka u video snimcima ekrana. Isprobajte ih tako što ćete otići u: Podešavanja > Funkcije pristupačnosti > Video snimak ekrana > Kvalitet video zapisa.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Potrebna je potvrda identiteta korisnika prilikom prebacivanja režima za povezivanje USB vezom. Verifikacija ili bezbednosni odziv se pojavljuje kada izaberete Prenesi fotografije ili Prenesi datoteke/Android auto umesto Samo punjenje, čime se obezbeđuje bezbedniji prenos podataka.
+Bezbednosna zakrpa Android (dec 2024.) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima HONOR, posetite našu veb stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u ovom ažuriranju su dostupna tri nivoa rezolucije za kvalitet video zapisa u snimanju ekrana. Ovo izdanje takođe poboljšava stabilnost sistema. Preporučujemo da ažurirate.</feature>
+</features>
+<features module="Sistemske aplikacije">
+<feature>Dostupna su tri nivoa rezolucije (480P/720P/1080P) za kvalitet video snimaka u video snimcima ekrana. Isprobajte ih tako što ćete otići u: Podešavanja > Funkcije pristupačnosti > Video snimak ekrana > Kvalitet video zapisa.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Potrebna je potvrda identiteta korisnika prilikom prebacivanja režima za povezivanje USB vezom. Verifikacija ili bezbednosni odziv se pojavljuje kada izaberete Prenesi fotografije ili Prenesi datoteke/Android auto umesto Samo punjenje, čime se obezbeđuje bezbedniji prenos podataka.
+Bezbednosna zakrpa Android (dec 2024.) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima HONOR, posetite našu veb stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u ovom ažuriranju su dostupna tri nivoa rezolucije za kvalitet video zapisa u snimanju ekrana. Ovo izdanje takođe poboljšava stabilnost sistema. Preporučujemo da ažurirate.</feature>
+</features>
+<features module="Sistemske aplikacije">
+<feature>Dostupna su tri nivoa rezolucije (480P/720P/1080P) za kvalitet video snimaka u video snimcima ekrana. Isprobajte ih tako što ćete otići u: Podešavanja > Funkcije pristupačnosti > Video snimak ekrana > Kvalitet video zapisa.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Potrebna je potvrda identiteta korisnika prilikom prebacivanja režima za povezivanje USB vezom. Verifikacija ili bezbednosni odziv se pojavljuje kada izaberete Prenesi fotografije ili Prenesi datoteke/Android auto umesto Samo punjenje, čime se obezbeđuje bezbedniji prenos podataka.
+Bezbednosna zakrpa Android (dec 2024.) uključena je radi bezbednosti sistema. Da biste dobili više informacija o bezbednosnim ažuriranjima HONOR, posetite našu veb stranicu https://www.honor.com/rs/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće uticati na vaše lične podatke, ali se i dalje preporučuje da napravite rezervnu kopiju pre ažuriranja.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju za podršku kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="be-by" code="1059">
+<features module="" type="header">
+<feature>Паважаны карыстальнік, гэта абнаўленне забяспечвае тры ўзроўні раздзяляльнасці відэа пры запісе экрана. Таксама ў гэтай версіі палепшана ўстойлівасць сістэмы. Рэкамендуецца ўстанавіць абнаўленне.</feature>
+</features>
+<features module="Сістэмныя праграмы">
+<feature>Пры запісе экрана даступны тры ўзроўні раздзяляльнасці відэа (480P/720P/1080P). Каб паспрабаваць, прайдзіце ў меню «Налады > Функцыі спецыяльных магчымасцей > Запіс экрана > Якасць відэа».</feature>
+</features>
+<features module="Бяспека">
+<feature>Пры змяненні мэты падключэння USB патрабуецца праверка сапраўднасці карыстальніка. Калі замест опцыі «Толькі зарадка» вы выбіраеце «Перадача фота» ці «Перадача файлаў / Android Auto», з’яўляецца запыт праверкі сапраўднасці або праверкі бяспекі, каб гарантаваць бяспечную перадачу даных.
+Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (снежань 2024 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым афіцыйным вэб-сайце: https://www.honor.com/by/support/bulletin/2024/12</feature>
+</features>
+<features module="Заўвагі:" type="end">
+<feature>1. Устаноўка гэтага абнаўлення не паўплывае на вашы асабістыя даныя, але мы ўсё роўна рэкамендуем зрабіць іх рэзервовую копію перад абнаўленнем.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+</features>
+</language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Уважаеми потребители, в тази актуализация са налични три нива на реззолюция за качеството на видеото в записите на екрана. Тази версия също така подобрява стабилността на системата. Препоръчва се да актуализирате.</feature>
+</features>
+<features module="Системни приложения">
+<feature>За качеството на видеото при запис на екрана са налични три нива на разделителна способност (480 P/720 P/1080 P). Изпробвайте това, като отидете на: „Настройки > Функции за достъпност > Запис на екрана > Качество на видеото“.</feature>
+</features>
+<features module="Сигурност">
+<feature>При превключване на целите на USB връзката се изисква удостоверяване на потребителите. Когато изберете „Прехвърляне на снимки“ или „Прехвърляне на файлове/Android Auto“, се появява проверка на сигурността или подкана за сигурност вместо „Само зареждане“, което осигурява по-безопасен трансфер на данните.
+Включена е корекция на сигурността на Android (декември 2024 г.) за системна сигурност. За повече информация относно актуализациите за сигурност на HONOR, моля, посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2024/12</feature>
+</features>
+<features module="Бележки:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да засегне личните ви данни, но е препоръчително да ги архивирате преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+</features>
+</language>
+
+<language name="bn-bd" code="2117">
+<features module="" type="header">
+<feature>প্রিয় ব্যবহারকারী, এই আপডেটে স্ক্রিন রেকর্ডিং-এ ভিডিওর গুণমানের জন্য তিনটি রেজোলিউশনের স্তর পাওয়া যায়। এই রিলিজটি সিস্টেমের স্থিতিশীলতাকেও উন্নত করে। আপডেট করার পরামর্শ দেওয়া হয়।</feature>
+</features>
+<features module="সিস্টেম অ্যাপ">
+<feature>স্ক্রিন রেকর্ডিং-এ ভিডিওর গুণমানের জন্য তিনটি রেজোলিউশনের স্তর (480P/720P/1080P) পাওয়া যায়। এখানে গিয়ে এটি ব্যবহার করে দেখুন: সেটিংস > প্রবেশযোগ্যতার বৈশিষ্ট্যগুলি > স্ক্রিন রেকর্ডিং > ভিডিওর গুণমান।</feature>
+</features>
+<features module="নিরাপত্তা">
+<feature>USB সংযোগের উদ্দেশ্যে সুইচ করার সময় ব্যবহারকারীর প্রমাণীকরণ প্রয়োজন। আপনি যখন শুধুমাত্র চার্জ-এর পরিবর্তে ফটো স্থানান্তর করুন বা ফাইল স্থানান্তর / Android Auto নির্বাচন করেন তখন একটি যাচাইকরণ বা নিরাপত্তা প্রম্পট দেখতে পাওয়া যায়, যা নিরাপদ ডেটা স্থানান্তর নিশ্চিত করে।
+সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (ডিসেম্বর 2024) অন্তর্ভুক্ত করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="নোট:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে তা আপনার ব্যক্তিগত ডেটাকে প্রভাবিত করবে না, তবুও আপডেট করার আগে আপনার ডেটা ব্যাক আপ করার পরামর্শ দেওয়া হয়।
+2. আপনি আপডেটের সময় কোনো সমস্যার সম্মুখীন হলে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>སྙིང་ཉེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཡོལ་ཐོག་བརྙན་འབེབས་ཀྱིས་རིམ་གསུམ་དབྱེ་འབྱེད་ཕྱོད་སྙོམ་སྒྲིག་བྱེད་པར་རྒྱབ་སྐྱོར་བྱས་ནས། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ཡོད། ཁྱེད་ཀྱིས་གསར་སྒྱུར་བྱེད་པར་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས་ཉེར་སྤྱོད།】">
+<feature>ཡོལ་ཕབ་དབྱེ་འབྱེད་ཚད་རང་སྒྲིག་གི་རྩོལ་ནུས་གསར་སྣོན་བྱས་ཡོད། རིམ་གསུམ་སྙོམ་སྒྲིག་བྱ་ཆོག (480P/720P/1080P) གང་འདོད་ཀྱིས་ལྟོས་ཟླའི་དབྱེ་འབྱེད་ཚད་བདམས་ནས་བརྙན་ཡོལ་ཕབ་བཟོ་བྱེད། ཡོལ་ཕབ་དེ་བས་གསལ། སྒྲིག་འགོད་བརྒྱུད་ལམ་ནི། སྒྲིག་འགོད་ནས་རམ་འདེགས་ཀྱི་རྩོལ་ནུས། དེ་ནས་བརྙན་ཡོལ་ཕབ་བཟོ། དེ་ནས་གསལ་ཚད་འདེམས་པ།</feature>
+</features>
+<features module="【བདེ་འཇགས།】">
+<feature>USB འབྲེལ་མཐུད་བྱ་ཐབས་བཟོ་བཅོས་བྱེད་སྐབས་སྤྱོད་མཁན་གྱི་ཐོབ་ཐང་ར་སྤྲོད་གསར་སྣོན་བྱས་ཡོད། གློག་གསོག་པ་ཁོ་ན་ནས་འདྲ་པར་བརྒྱུད་གཏོང་ཡང་ན་ཡིག་ཆ་བརྒྱུད་གཏོང་ / Android Auto རྣམ་པར་བརྗེ་སྐབས། ར་སྤྲོད་མཚམས་ངོས་ཡང་ན་བདེ་འཇགས་དྲན་སྐུལ་འཕར། ཁྱེད་ཀྱི་གཞི་གྲངས་བརྒྱུད་སྐུར་དེ་བས་བདེ་འཇགས་ཡིན་པར་བྱེད།
+ཨན་སྒྲོའི་ 2024 ལོའི་ཟླ་བ་ 12 པའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཏེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་དུ་གཏོང་བ། རུང་ཡོའོ་མཉེན་ཆས་ཀྱི་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་སྐོར་གྱི་ཆ་འཕྲིན་ལ། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2024/12 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Poštovani korisniče, u ovom ažuriranju su dostupna tri nivoa rezolucije za kvalitet videozapisa snimaka sadržaja ekrana. Ovo izdanje poboljšava i stabilnost sistema. Preporučuje se da izvršite ažuriranje.</feature>
+</features>
+<features module="Sistemske aplikacije">
+<feature>Za kvalitet videozapisa sadržaja ekrana su dostupna tri nivoa rezolucije (480P/720P/1080P). Da isprobate ovu funkciju, idite u: Postavke > Funkcije za pristupačnost > Videoklip sadržaja ekrana > Kvalitet videozapisa.</feature>
+</features>
+<features module="Sigurnost">
+<feature>Prilikom promjene svrhe USB veze je obavezna provjera autentičnosti korisnika. Kada odaberete Prijenos fotografija ili Prijenos datoteka/Android Auto umjesto Samo punjenje, prikazuje se potvrda ili sigurnosni upit kako bi se osigurao sigurniji prijenos podataka.
+Ugrađena je sigurnosna zakrpa za Android (dec 2024) radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja ne utiče na lične podatke, ali ipak se preporučuje da napravite rezervnu kopiju podataka.
+2. Ako naiđete na bilo kakav problem tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+</features>
+</language>
+
+<language name="ca-es" code="1027">
+<features module="" type="header">
+<feature>Benvolgut usuari, aquesta actualització té disponibles tres nivells de resolució per a la qualitat del vídeo en els enregistraments de pantalla. Aquesta versió també millora l'estabilitat del sistema. Recomanem que s'actualitzi.</feature>
+</features>
+<features module="Aplicacions del sistema">
+<feature>Hi ha tres nivells de resolució (480P/720P/1080P) disponibles per a la qualitat de vídeo en els enregistraments de pantalla. Proveu-ho des de: Configuració > Funcions d'accessibilitat > Enregistrament de pantalla > Qualitat del vídeo.</feature>
+</features>
+<features module="Seguretat">
+<feature>Cal l'autenticació de l'usuari quan es canvia la connexió USB. Apareix un missatge de verificació o de seguretat quan seleccioneu Transferir fotos o Transferir fitxers/Android Auto, en comptes de Només carregar, per garantir una transferència de dades més segura.
+S'ha incorporat el pedaç de seguretat d'Android (desembre del 2024) per garantir la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, visiteu el nostre lloc web https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. El fet d'instal·lar aquesta actualització no afectarà les vostres dades personals, però, així i tot, us recomanem que feu una còpia de seguretat de les dades abans de l'actualització.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o visiteu el centre de servei d'atenció al client d'HONOR.</feature>
+</features>
+</language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Vážený uživateli, v této aktualizaci jsou novinkou tři úrovně rozlišení pro kvalitu videa v záznamech obrazovky. Tato verze také zlepšuje stabilitu systému. Doporučujeme aktualizovat.</feature>
+</features>
+<features module="Systémové aplikace">
+<feature>Pro kvalitu videa v záznamech obrazovky jsou k dispozici tři úrovně rozlišení (480P / 720P / 1080P). Vyzkoušejte to v nabídce: Nastavení > Funkce usnadnění > Záznam obrazovky > Kvalita videa.</feature>
+</features>
+<features module="Bezpečnost">
+<feature>Pro účely přepínání připojení USB je vyžadováno ověření uživatele. Když vyberete možnost Přenos fotografií nebo Přenos souborů / Android Auto namísto možnosti Pouze nabít, zobrazí se výzva k ověření nebo výzva zabezpečení, což zajistí bezpečnější přenos dat.
+Do systému byla začleněna bezpečnostní oprava (prosinec 2024) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2024/12</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Instalace této aktualizace neovlivní vaše osobní data, ale přesto doporučujeme před aktualizací zálohovat data.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+</features>
+</language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Kære bruger, i denne opdatering er der tre opløsningsniveauer tilgængelige for videokvalitet i skærmoptagelser. Denne udgave forbedrer også systemstabiliteten. Opdatering anbefales.</feature>
+</features>
+<features module="Systemapps">
+<feature>Tre opløsningsniveauer (480p/720p/1080p) er tilgængelige for videokvalitet i skærmoptagelser. Prøv det nu ved at gå til: Indstillinger > Tilgængelighedsfunktioner > Skærmoptagelse > Videokvalitet.</feature>
+</features>
+<features module="Sikkerhed">
+<feature>Brugergodkendelse er påkrævet under skift af USB-forbindelsesformål. En bekræftelses- eller sikkerhedsprompt bliver vist, når du vælger Overfør fotos eller Overfør filer/Android Auto i stedet for Oplad kun, hvilket garanterer sikrere dataoverførsel.
+Android sikkerhedsrettelse (dec 2024) er blevet integreret for systemsikkerhed. For yderligere oplysninger om HONOR-sikkerhedsopdateringer kan du besøge vores websted https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Noter:" type="end">
+<feature>1. Installation af denne opdatering vil ikke påvirke dine personlige data, men det anbefales stadig at sikkerhedskopiere dine data, før du opdaterer.
+2. Hvis du støder på problemer under opdateringen, kan du ringe til HONORs service-hotline eller gå til HONORs kundeservicecenter for support.</feature>
+</features>
+</language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, in diesem Update stehen drei Auflösungsstufen für die Videoqualität bei Bildschirmaufnahmen zur Verfügung. Diese Version verbessert außerdem die Systemstabilität. Es wird empfohlen, die Aktualisierung durchzuführen.</feature>
+</features>
+<features module="System-Apps">
+<feature>Für die Videoqualität bei Bildschirmaufnahmen stehen drei Auflösungsstufen (480p/720p/1080p) zur Verfügung. Sie können es hier ausprobieren: Einstellungen > Bedienungshilfen > Bildschirmaufnahme > Videoqualität.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Beim Wechseln des USB-Verbindungszwecks ist eine Nutzerauthentifizierung erforderlich. Wenn Sie „Fotos übertragen“ oder „Dateien übertragen/Android Auto“ anstelle von „Nur laden“ auswählen, wird eine Bestätigungs- oder Sicherheitsabfrage angezeigt, um eine sicherere Datenübertragung zu gewährleisten.
+Der Android Sicherheitspatch (Dez. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, in diesem Update stehen drei Auflösungsstufen für die Videoqualität bei Bildschirmaufnahmen zur Verfügung. Diese Version verbessert außerdem die Systemstabilität. Es wird empfohlen, die Aktualisierung durchzuführen.</feature>
+</features>
+<features module="System-Apps">
+<feature>Für die Videoqualität bei Bildschirmaufnahmen stehen drei Auflösungsstufen (480p/720p/1080p) zur Verfügung. Sie können es hier ausprobieren: Einstellungen > Bedienungshilfen > Bildschirmaufnahme > Videoqualität.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Beim Wechseln des USB-Verbindungszwecks ist eine Nutzerauthentifizierung erforderlich. Wenn Sie „Fotos übertragen“ oder „Dateien übertragen/Android Auto“ anstelle von „Nur laden“ auswählen, wird eine Bestätigungs- oder Sicherheitsabfrage angezeigt, um eine sicherere Datenübertragung zu gewährleisten.
+Der Android Sicherheitspatch (Dez. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Liebe Nutzer, in diesem Update stehen drei Auflösungsstufen für die Videoqualität bei Bildschirmaufnahmen zur Verfügung. Diese Version verbessert außerdem die Systemstabilität. Es wird empfohlen, die Aktualisierung durchzuführen.</feature>
+</features>
+<features module="System-Apps">
+<feature>Für die Videoqualität bei Bildschirmaufnahmen stehen drei Auflösungsstufen (480p/720p/1080p) zur Verfügung. Sie können es hier ausprobieren: Einstellungen > Bedienungshilfen > Bildschirmaufnahme > Videoqualität.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Beim Wechseln des USB-Verbindungszwecks ist eine Nutzerauthentifizierung erforderlich. Wenn Sie „Fotos übertragen“ oder „Dateien übertragen/Android Auto“ anstelle von „Nur laden“ auswählen, wird eine Bestätigungs- oder Sicherheitsabfrage angezeigt, um eine sicherere Datenübertragung zu gewährleisten.
+Der Android Sicherheitspatch (Dez. 2024) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2024/12</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Die Installation dieser Aktualisierung hat keine Auswirkungen auf Ihre persönlichen Daten, aber es wird dennoch empfohlen, vor der Aktualisierung eine Sicherungskopie Ihrer Daten zu erstellen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Αγαπητέ χρήστη, σε αυτή την ενημέρωση, διατίθενται τρία επίπεδα ανάλυσης για την ποιότητα των βίντεο σε καταγραφές οθόνης. Αυτή η έκδοση βελτιώνει επίσης τη σταθερότητα του συστήματος. Συνιστάται η ενημέρωση.</feature>
+</features>
+<features module="Εφαρμογές συστήματος">
+<feature>Τρία επίπεδα ανάλυσης (480P/720P/1080P) είναι διαθέσιμα για την ποιότητα βίντεο στις καταγραφές οθόνης. Δοκιμάστε το μεταβαίνοντας στις: Ρυθμίσεις > Δυνατότητες προσβασιμότητας > Καταγραφή οθόνης > Ποιότητα βίντεο.</feature>
+</features>
+<features module="Ασφάλεια">
+<feature>Απαιτείται επαλήθευση ταυτότητας χρήστη κατά την αλλαγή των σκοπών σύνδεσης USB. Ένα μήνυμα επαλήθευσης ή ασφάλειας εμφανίζεται όταν επιλέγετε «Μεταφορά φωτογραφιών» ή «Μεταφορά αρχείων/Android Auto», αντί για «Μόνο φόρτιση», εξασφαλίζοντας πιο ασφαλή μεταφορά δεδομένων.
+Η ενημέρωση κώδικα ασφαλείας Android (Δεκέμβριος 2024) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2024/12</feature>
+</features>
+<features module="Σημειώσεις:" type="end">
+<feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα επηρεάσει τα προσωπικά δεδομένα σας, αλλά ακόμη και έτσι συνιστάται η δημιουργία αντιγράφων ασφαλείας των δεδομένων σας πριν από την ενημέρωση.
+2. Εάν αντιμετωπίσετε προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+</features>
+</language>
+
+<language name="en-GB" code="1032">
+<features module="" type="header">
+<feature>Dear user, in this update, three resolution levels are available for video quality in screen recordings. This release also improves the system stability. It is recommended to update.</feature>
+</features>
+<features module="System apps">
+<feature>Three resolution levels (480P/720P/1080P) are available for video quality in screen recordings. Try it out by going to: Settings > Accessibility features > Screen recording > Video quality.</feature>
+</features>
+<features module="Security">
+<feature>User authentication is required when switching USB connection purposes. A verification or security prompt appears when you select Transfer photos or Transfer files / Android Auto, instead of Charge only, ensuring safer data transfer.
+Android security patch (Dec 2024) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2024/12</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not affect your personal data, but it is still recommended to back up your data before updating.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+</features>
+</language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Estimado/a usuario/a, en esta actualización están disponibles tres niveles de resolución para la calidad de vídeo en las grabaciones de pantalla. Esta versión también mejora la estabilidad del sistema. Le recomendamos que actualice.</feature>
+</features>
+<features module="Aplicaciones del sistema">
+<feature>Hay tres niveles de resolución (480p/720p/1080p) disponibles para la calidad de vídeo en grabaciones de pantalla. Puede probarlos en: Ajustes > Funciones de accesibilidad > Grabación de pantalla > Calidad de vídeo.</feature>
+</features>
+<features module="Seguridad">
+<feature>Se requiere autenticación de usuario al cambiar los propósitos de conexión USB. Aparece un mensaje de verificación o seguridad cuando selecciona Transferir fotos o Transferir archivos/Android Auto, en lugar de Solo carga, lo que garantiza una transferencia de datos más segura.
+SSe ha incorporado el parche de seguridad de Android (diciembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará a sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+</features>
+</language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Estimado usuario, en esta actualización están disponibles tres niveles de resolución para la calidad de video en las grabaciones de pantalla. Esta versión también mejora la estabilidad del sistema. Se recomienda actualizar.</feature>
+</features>
+<features module="Aplicaciones del sistema">
+<feature>Existen tres niveles de resolución (480P/720P/1080P) disponibles para la calidad de video en las grabaciones de pantalla. Pruébelo desde: Ajustes > Funciones de accesibilidad > Grabación de pantalla > Calidad de video.</feature>
+</features>
+<features module="Seguridad">
+<feature>Se requiere autenticación de usuario al cambiar los propósitos de conexión USB. Aparece un mensaje de verificación o seguridad cuando selecciona Transferir fotos o Transferir archivos/Android Auto, en lugar de Solo carga, lo que garantiza una transferencia de datos más segura.
+Se incorporó un parche de seguridad de Android (diciembre de 2024) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/latam/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. La instalación de esta actualización no afectará sus datos personales, pero se recomienda hacer una copia de seguridad de sus datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+</features>
+</language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>Hea kasutaja! Selle värskendusega on kuvasalvestuste videokvaliteedi jaoks saadaval kolm eraldusvõimet. See värskendus parandab ka süsteemi stabiilsust. Soovitatav on värskendada.</feature>
+</features>
+<features module="Süsteemirakendused">
+<feature>Kuvasalvestiste videokvaliteedi jaoks on saadaval kolm eraldusvõimet (480P/720P/1080P). Proovige seda, minnes menüüsse Sätted > Hõlbustusfunktsioonid > Kuvasalvestis > Video kvaliteet.</feature>
+</features>
+<features module="Turve">
+<feature>Ühelt USB-ühenduselt teisele vahetamisel on vajalik kasutaja autentimine. Kui valite funktsiooni Ainult laadimine asemel Edasta fotosid või Edasta faile / Android Auto, kuvatakse kinnitus- või turvaviip, mis tagab turvalisema andmeedastuse.
+Lisati süsteemi turvalisemaks muutev Androidi turvapaik (detsember 2024). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Märkused:" type="end">
+<feature>1. Selle värskenduse installimine ei mõjuta teie isikuandmeid, aga soovitame ikkagi enne värskendamist andmed varundada.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+</features>
+</language>
+
+<language name="eu-es" code="1069">
+<features module="" type="header">
+<feature>Erabiltzaile hori: eguneratze honetan, bideoen kalitatearekin erlazionatutako hiru bereizmen-maila dituzu erabilgarri pantaila-grabaketetan. Halaber, bertsio honek sistemaren egonkortasuna hobetzen du. Gomendagarria da eguneratzea instalatzea.</feature>
+</features>
+<features module="Sistemaren aplikazioak">
+<feature>Hiru bereizmen-maila ditu (480P/720P/1080P) pantaila-grabazioetako bideo-kalitaterako. Probatzeko, zoaz hona: Ezarpenak > Erabilerraztasun-funtzioak > Pantailako grabaketa > Bideoaren kalitatea.</feature>
+</features>
+<features module="Segurtasuna">
+<feature>Erabiltzaile-autentifikazioa behar da USB konexiora aldatzeko. Transferitu argazkiak edo Transferitu fitxategiak / Android Auto hautatzen duzunean, Kargatu bakarrik beharrean, egiaztapen- edo segurtasun-abisu bat agertzen da, datuak seguruago transferitzen direla ziurtatzeko.
+Sistemaren segurtasunerako, Android-en segurtasun-adabakia gehitu da (2024ko abe.). HONOR Segurtasun-eguneratzeei buruzko informazio gehiago nahi izanez gero, joan gure webgunera: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Oharrak:" type="end">
+<feature>1. Eguneratzea instalatzen baduzu ere, ez diezu eragingo datu pertsonalei, baina gomendagarria da datuen babeskopia bat egitea eguneratzea egin baino lehen.
+2. Arazorik baduzu eguneratzea egitean, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza lortzeko.</feature>
+</features>
+</language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>کاربر گرامی، در این به‌روزرسانی، سه سطح وضوح برای کیفیت ویدیو در ضبط صفحه‌نمایش موجود است. این نسخه همچنین پایداری سیستم را بهبود می‌بخشد. توصیه می‌شود به‌روزرسانی را انجام دهید.</feature>
+</features>
+<features module="برنامه‌های سیستم">
+<feature>سه سطح وضوح (480P/720P/1080P) برای کیفیت ویدیو در ضبط صفحه‌نمایش موجود است. آن را با رفتن به این قسمت امتحان کنید: «تنظیمات > امکانات مربوط به قابلیت دسترسی > ضبط صفحه‌نمایش > کیفیت ویدیو».</feature>
+</features>
+<features module="امنیت">
+<feature>هنگام تغییر هدف اتصال USB، تأیید هویت کاربر لازم است. هنگامی‌که گزینه «انتقال تصاویر» یا «انتقال فایل‌ها / Android Auto» را به‌جای «فقط شارژ» انتخاب می‌کنید، یک پیام‌واره تأیید یا امنیتی ظاهر می‌شود تا انتقال ایمن‌تر داده‌ها تأمین شود.
+وصله امنیتی Android (دسامبر ۲۰۲۴) برای امنیت سیستم گنجانده شده است. برای کسب اطلاعات بیشتر درباره به‌روزرسانی‌های امنیتی HONOR، لطفاً به وب‌سایت ما به نشانی https://www.honor.com/global/support/bulletin/2024/12 مراجعه کنید</feature>
+</features>
+<features module="نکات:" type="end">
+<feature>‏‏۱. نصب این به‌روزرسانی، داده‌های شخصی شما را تحت تأثیر قرار نخواهد داد، اما همچنان توصیه می‌شود قبل از انجام به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+‏‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+</features>
+</language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Hyvä käyttäjä, tämän päivityksen jälkeen näytön tallennuksen videon laatua varten on käytettävissä kolme tarkkuustasoa. Lisäksi tämä päivitys parantaa järjestelmän vakautta. Päivittämistä suositellaan.</feature>
+</features>
+<features module="Järjestelmäsovellukset">
+<feature>Näytön tallennuksen videon laatua varten on käytettävissä kolme resoluutiotasoa (480P/720P/1080P). Kokeile sitä kohdassa Asetukset > Helppokäyttöominaisuudet > Näytön tallenne > Videon laatu.</feature>
+</features>
+<features module="Turvallisuus">
+<feature>Käyttäjän todentaminen vaaditaan, kun USB-liitännän tarkoitusta vaihdetaan. Kun valitset Siirrä valokuvia tai Siirrä tiedostoja / Android Auto sen sijaan, että valitsisit Vain lataus -vaihtoehdon, tarkastus- tai turvallisuuskehote avautuu, mikä varmistaa turvallisemman tiedonsiirron.
+Android-turvallisuuskorjaus (joulukuu 2024) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.honor.com/fi/support/bulletin/2024/12</feature>
+</features>
+<features module="Huomautukset:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei vaikuta henkilökohtaisiin tietoihisi, mutta tietojen varmuuskopiointi ennen päivittämistä on kuitenkin suositeltavaa.
+2. Soita HONORin palvelunumeroon tai käy HONORin asiakaspalvelukeskuksessa, jos päivityksen aikana ilmenee ongelmia ja tarvitset apua.</feature>
+</features>
+</language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, avec cette mise à jour, trois niveaux de résolution sont disponibles pour la qualité vidéo dans les captures vidéo d'écran. Cette version améliore également la stabilité du système. Nous vous recommandons d'effectuer la mise à jour.</feature>
+</features>
+<features module="Applications système">
+<feature>Trois niveaux de résolution (480P/720P/1080P) sont disponibles pour la qualité vidéo dans les Captures vidéo d'écran. Faites-en l'essai en allant dans : Paramètres > Fonctionnalités d'accessibilité > Capture vidéo d'écran > Qualité vidéo.</feature>
+</features>
+<features module="Sécurité">
+<feature>L'authentification de l'utilisateur est requise lors du changement de connexion USB. Une invite de vérification ou de sécurité s'affiche lorsque vous sélectionnez Transférer des photos ou Transférer des fichiers / Android Auto, au lieu de Charger uniquement, garantissant ainsi un transfert de données plus sûr.
+Un correctif de sécurité Android (décembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/12</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, avec cette mise à jour, trois niveaux de résolution sont disponibles pour la qualité vidéo dans les captures vidéo d'écran. Cette version améliore également la stabilité du système. Nous vous recommandons d'effectuer la mise à jour.</feature>
+</features>
+<features module="Applications système">
+<feature>Trois niveaux de résolution (480P/720P/1080P) sont disponibles pour la qualité vidéo dans les Captures vidéo d'écran. Faites-en l'essai en allant dans : Paramètres > Fonctionnalités d'accessibilité > Capture vidéo d'écran > Qualité vidéo.</feature>
+</features>
+<features module="Sécurité">
+<feature>L'authentification de l'utilisateur est requise lors du changement de connexion USB. Une invite de vérification ou de sécurité s'affiche lorsque vous sélectionnez Transférer des photos ou Transférer des fichiers / Android Auto, au lieu de Charger uniquement, garantissant ainsi un transfert de données plus sûr.
+Un correctif de sécurité Android (décembre 2024) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2024/12</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'affectera pas vos données personnelles, mais il est tout de même recommandé de sauvegarder vos données avant la mise à jour.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="gl-es" code="1110">
+<features module="" type="header">
+<feature>Estimado usuario, nesta actualización hai tres niveis de resolución para a calidade do vídeo nas gravacións de pantalla. Esta versión tamén mellora a estabilidade do sistema. Recoméndase instalar a actualización.</feature>
+</features>
+<features module="Aplicacións do sistema">
+<feature>Os niveis de resolución (480P/720P/1080P) están dispoñibles para a calidade do vídeo en gravacións de pantalla. Para probar esta característica, vaia a Configuración > Características de accesibilidade > Gravación de pantalla > Calidade do vídeo.</feature>
+</features>
+<features module="Seguranza">
+<feature>Requírese a autenticación do usuario para cambiar de conexión USB. Aparecerá unha verificación ou unha mensaxe de seguranza cando seleccione Transferir fotos ou Transferir ficheiros/Android Auto en lugar de Só carga, para garantir unha transferencia de datos máis segura.
+Incorporouse o parche de seguranza de Android (decembro de 2024) para a seguranza do sistema. Para obter máis información sobre as actualizacións de seguranza de HONOR, visite o noso sitio web https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta actualización non afectará os seus datos persoais, aínda que se recomenda realizar antes unha copia de seguranza.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou vaia ao centro de servizos ao cliente de HONOR para obter axuda.</feature>
+</features>
+</language>
+
+<language name="gu-IN" code="1110">
+<features module="" type="header">
+<feature>પ્રિય વપરાશકર્તા, આ અપડેટમાં, સ્ક્રીન રેકોર્ડિંગમાં વિડિઓઝ ગુણવત્તા માટે ત્રણ રિઝોલ્યુશન સ્તરો ઉપલબ્ધ છે. આ રિલીઝ સિસ્ટમની સ્થિરતાને પણ સુધારે છે. અપડેટ કરવાની ભલામણ કરવામાં આવે છે.</feature>
+</features>
+<features module="સિસ્ટમ એપ્લિકેશન્સ">
+<feature>સ્ક્રીન રેકોર્ડિંગમાં વિડિઓઝ ગુણવત્તા માટે ત્રણ રિઝોલ્યુશન લેવલ (480P/720P/1080P) ઉપલબ્ધ છે. અહીં જઈને અજમાવી જુઓ: સેટિંગ્સ > ઍક્સેસિબિલિટી સુવિધાઓ > સ્ક્રીન રેકોર્ડિંગ > વિડિઓઝ ગુણવત્તા.</feature>
+</features>
+<features module="સુરક્ષા">
+<feature>USB કનેક્શન હેતુઓ પર સ્વિચ કરતી વખતે વપરાશકર્તા પ્રમાણીકરણ જરૂરી છે. જ્યારે તમે સુરક્ષિત ડેટા ટ્રાન્સફરને સુનિશ્ચિત કરીને માત્ર ચાર્જ કરોને બદલે ફોટા ટ્રાન્સફર કરો અથવા ફાઇલો ટ્રાન્સફર કરો / Android Auto પસંદ કરો ત્યારે ચકાસણી અથવા સુરક્ષા પ્રોમ્પ્ટ દેખાય છે.
+સિસ્ટમ સુરક્ષા માટે એન્ડ્રોઇડ Android પેચ (ડિસેમ્બર 2024) સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી વેબસાઇટની મુલાકાત લો https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="નોંધો:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારા વ્યક્તિગત ડેટાને અસર થશે નહીં, પરંતુ અપડેટ કરતા પહેલા તમારા ડેટાનો બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+</features>
+</language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>नमस्ते उपयोगकर्ता, इस अद्यतन में स्क्रीन रिकॉर्डिंग में वीडियो गुणवत्ता के लिए तीन रिज़ॉल्यूशन स्तर उपलब्ध हैं। इस रिलीज़ से सिस्टम की स्थिरता में भी सुधार किया जाता है। अद्यतन करने की अनुशंसा की जाती है।</feature>
+</features>
+<features module="सिस्टम ऐप्स">
+<feature>स्क्रीन रिकॉर्डिंग में वीडियो गुणवत्ता के लिए तीन रिज़ॉल्यूशन लेवल (480P/720P/1080P) उपलब्ध हैं। यहाँ जाकर इसे आज़माएँ: सेटिंग्स > पहुँच क्षमता सुविधाएँ > स्क्रीन रिकॉर्डिंग > वीडियो गुणवत्ता।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>USB कनेक्शन के उद्देश्यों को बदलते समय उपयोगकर्ता प्रमाणीकरण की आवश्यकता होती है। जब आप केवल चार्ज के बजाय "फ़ोटो ट्रांसफ़र करें" या "फ़ाइलें ट्रांसफ़र करें" / "Android Auto" का चयन करते हैं, तो सत्यापन या सुरक्षा का प्रॉम्ट दिखाई देता है जिससे सुरक्षित डेटा ट्रांसफ़र सुनिश्चित होता है।
+सिस्टम सुरक्षा के लिए Android सुरक्षा पैच (दिसंबर, 2024) शामिल किया गया है। HONOR सुरक्षा के अद्यतन के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="टिप्पणियाँ:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपका व्यक्तिगत डेटा नहीं मिटेगा, लेकिन फिर भी पहले से बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता पाने के लिए, HONOR सेवा हॉटलाइन पर कॉल करें या HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+</features>
+</language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Poštovani korisniče, u ovom ažuriranju dostupne su tri razine razlučivosti za kvalitetu videozapisa u snimkama zaslona. Ovim izdanjem poboljšava se i stabilnost sustava. Preporučuje se ažuriranje.</feature>
+</features>
+<features module="Aplikacije sustava">
+<feature>Tri su razine razlučivosti (480P/720P/1080P) dostupne za kvalitetu videozapisa tijekom snimanja zaslona. Isprobajte odlaskom na: Postavke > Značajke dostupnosti > Snimka zaslona > Kvaliteta videozapisa.</feature>
+</features>
+<features module="Sigurnost">
+<feature>Potrebna je provjera autentičnosti korisnika prilikom promjene svrhe povezivanja putem USB-a. Kada odaberete Prenesi fotografije ili Prenesi datoteke / Android Auto, umjesto opcije Samo punjenje, pojavljuje se upit za provjeru ili sigurnost, čime se osigurava sigurniji prijenos podataka.
+Implementirana je sigurnosna zakrpa za Android (prosinac 2024.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranje ovog ažuriranja neće utjecati na osobne podatke, ali se svejedno preporučuje izraditi sigurnosnu kopiju podataka prije ažuriranja.
+2. Ako tijekom ažuriranja naiđete na bilo kakve probleme, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+</features>
+</language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Kedves felhasználó! Ettől a frissítéstől kezdve a képernyőfelvételek videominőségéhez három felbontás érhető el. Ez a verzió egyben javítja a rendszer stabilitását is. Javasoljuk, hogy telepítse a frissítést.</feature>
+</features>
+<features module="Rendszeralkalmazások">
+<feature>A képernyőfelvételek videominőségéhez három felbontás (480P/720P/1080P) érhető el. Próbálja ki: Beállítások > Kisegítő lehetőségek > Képernyőfelvétel > Videóminőség.</feature>
+</features>
+<features module="Biztonság">
+<feature>Az USB-kapcsolat váltásakor felhasználói hitelesítés szükséges. Ha a Csak töltés opció helyett a Fotók átvitele vagy a Fájlok átvitele/Android Auto opciót választja, megjelenik egy hitelesítési vagy biztonsági üzenet, amelynek célja, hogy az adatátvitel garantáltan biztonságos legyen.
+A rendszerbiztonság érdekében a frissítés tartalmazza az Android biztonsági frissítését (2024. december) is. A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2024/12</feature>
+</features>
+<features module="Megjegyzések:" type="end">
+<feature>1. A frissítés telepítése nem érinti az Ön személyes adatait, de a frissítés megkezdése előtt ajánlott biztonsági másolatot készíteni az adatokról.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+</features>
+</language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, dalam pembaruan ini, tiga tingkat resolusi tersedia untuk kualitas video di perekaman layar. Rilis ini juga meningkatkan stabilitas sistem. Anda direkomendasikan untuk memperbarui.</feature>
+</features>
+<features module="Aplikasi sistem">
+<feature>Tiga level resolusi (480P/720P/1080P) tersedia untuk kualitas video di perekaman layar. Cobalah dengan membuka: Pengaturan > Fitur aksesibilitas > Perekaman layar > Kualitas video.</feature>
+</features>
+<features module="Keamanan">
+<feature>Autentikasi pengguna diperlukan saat mengganti tujuan koneksi USB. Verifikasi atau perintah keamanan muncul saat Anda memilih Transfer foto atau Transfer file/Android Auto, bukan Isi daya saja, memastikan transfer data yang lebih aman.
+Penambal keamanan Android (Des 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, dalam pembaruan ini, tiga tingkat resolusi tersedia untuk kualitas video di perekaman layar. Rilis ini juga meningkatkan stabilitas sistem. Anda direkomendasikan untuk memperbarui.</feature>
+</features>
+<features module="Aplikasi sistem">
+<feature>Tiga level resolusi (480P/720P/1080P) tersedia untuk kualitas video di perekaman layar. Cobalah dengan membuka: Pengaturan > Fitur aksesibilitas > Perekaman layar > Kualitas video.</feature>
+</features>
+<features module="Keamanan">
+<feature>Autentikasi pengguna diperlukan saat mengganti tujuan koneksi USB. Verifikasi atau perintah keamanan muncul saat Anda memilih Transfer foto atau Transfer file/Android Auto, bukan Isi daya saja, memastikan transfer data yang lebih aman.
+Penambal keamanan Android (Des 2024) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan memengaruhi data pribadi Anda, tetapi tetap direkomendasikan mencadangkan data Anda sebelum memperbarui.
+2. Jika Anda mengalami masalah apa pun selama pembaruan, hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan bantuan.</feature>
+</features>
+</language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, in questo aggiornamento sono disponibili tre livelli di risoluzione per la qualità video delle registrazioni dello schermo. Questa versione migliora anche la stabilità del sistema. Si consiglia di effettuare l'aggiornamento.</feature>
+</features>
+<features module="App di sistema">
+<feature>Sono disponibili tre livelli di risoluzione per la qualità video delle registrazioni dello schermo: 480p, 720p e 1080p. Per provare la funzione, vai in: Impostazioni > Funzioni accessibilità > Registrazione schermo > Qualità video.</feature>
+</features>
+<features module="Sicurezza">
+<feature>Viene introdotto l'obbligo dell'autenticazione utente quando si cambia la connessione USB. Quando si seleziona Trasferisci foto o Trasferisci file/Android Auto anziché Solo carica, viene visualizzato un messaggio di verifica o di sicurezza, per garantire un trasferimento dati più sicuro.
+È stata incorporata la patch di sicurezza di Android (dicembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, in questo aggiornamento sono disponibili tre livelli di risoluzione per la qualità video delle registrazioni dello schermo. Questa versione migliora anche la stabilità del sistema. Si consiglia di effettuare l'aggiornamento.</feature>
+</features>
+<features module="App di sistema">
+<feature>Sono disponibili tre livelli di risoluzione per la qualità video delle registrazioni dello schermo: 480p, 720p e 1080p. Per provare la funzione, vai in: Impostazioni > Funzioni accessibilità > Registrazione schermo > Qualità video.</feature>
+</features>
+<features module="Sicurezza">
+<feature>Viene introdotto l'obbligo dell'autenticazione utente quando si cambia la connessione USB. Quando si seleziona Trasferisci foto o Trasferisci file/Android Auto anziché Solo carica, viene visualizzato un messaggio di verifica o di sicurezza, per garantire un trasferimento dati più sicuro.
+È stata incorporata la patch di sicurezza di Android (dicembre 2024) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non avrà effetto sulle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="iw-il" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, בעדכון זה, שלוש רמות רזולוציה זמינות לאיכות וידאו בהקלטות מסך. כמו כן, שחרור זה משפר את יציבות המערכת. מומלץ לעדכן.</feature>
+</features>
+<features module="יישומי מערכת">
+<feature>שלוש רמות רזולוציה (480P/720P/1080P) זמינות לאיכות וידאו בהקלטות מסך. נסה זאת על ידי מעבר אל: 'הגדרות' > 'תכונות נגישות' > 'הקלטת מסך' > 'איכות וידאו'.</feature>
+</features>
+<features module="אבטחה">
+<feature>אימות משתמש נדרש בעת החלפת מטרת חיבור USB. הודעת אימות או אבטחה תופיע כאשר תבחר העברת תמונות או העברת קבצים/Android Auto, במקום טעינה בלבד, כדי להבטיח העברת נתונים בטוחה יותר.
+‏תיקון אבטחה של Android' (מדצמ' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏‏‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="he-" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, בעדכון זה, שלוש רמות רזולוציה זמינות לאיכות וידאו בהקלטות מסך. כמו כן, שחרור זה משפר את יציבות המערכת. מומלץ לעדכן.</feature>
+</features>
+<features module="יישומי מערכת">
+<feature>שלוש רמות רזולוציה (480P/720P/1080P) זמינות לאיכות וידאו בהקלטות מסך. נסה זאת על ידי מעבר אל: 'הגדרות' > 'תכונות נגישות' > 'הקלטת מסך' > 'איכות וידאו'.</feature>
+</features>
+<features module="אבטחה">
+<feature>אימות משתמש נדרש בעת החלפת מטרת חיבור USB. הודעת אימות או אבטחה תופיע כאשר תבחר העברת תמונות או העברת קבצים/Android Auto, במקום טעינה בלבד, כדי להבטיח העברת נתונים בטוחה יותר.
+‏תיקון אבטחה של Android' (מדצמ' 2024) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏‏‏1. התקנת עדכון זה לא תשפיע על הנתונים האישיים שלך, אך עדיין מומלץ לגבות את הנתונים לפני העדכון.
+‏‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="ja-jp" code="1041">
+<features module="" type="header">
+<feature>ユーザーの皆様、このアップデートでは、スクリーン録画のビデオ画質に3つの解像度レベルが利用できるようになりました。このリリースでは、システムの安定性も向上しています。アップデートを推奨します。</feature>
+</features>
+<features module="システムアプリ">
+<feature>スクリーン録画の画質で3段階の解像度（480P/720P/1080P）が利用可能になります。[設定] > [ユーザー補助機能] > [スクリーン録画] > [ビデオ画質]に移動して試してみてください。</feature>
+</features>
+<features module="セキュリティ">
+<feature>USB接続の目的を切り替える際にユーザー認証が必要になります。[充電のみ]ではなく、[写真を転送]または[ファイルを転送/Android Auto]を選択すると、認証またはセキュリティのプロンプトが表示され、安全にデータを転送できるようにします。
+システムセキュリティのために、Androidセキュリティパッチ（2024年12月）が組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="注意：" type="end">
+<feature>1. この更新をインストールしてもユーザーの個人情報に影響はありませんが、更新前にバックアップを取ることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+</features>
+</language>
+
+<language name="ka-ge" code="1079">
+<features module="" type="header">
+<feature>ძვირფასო მომხმარებელო, ამ განახლებაში ეკრანის ჩანაწერების ვიდეოს ხარისხისთვის ხელმისაწვდომია გარჩევადობის სამი დონე. ეს გამოშვება ასევე აუმჯობესებს სისტემის სტაბილურობას. განახლება რეკომენდებულია.</feature>
+</features>
+<features module="სისტემის აპები">
+<feature>ეკრანის ჩაწერის ვიდეოს ხარისხისთვის გარჩევადობის სამი დონე (480P/720P/1080P) უკვე ხელმისაწვდომია. ცადეთ აქ: პარამეტრები > ხელმისაწვდომობის ფუნქციები > ეკრანის ჩანაწერი > ვიდეოს ხარისხი.</feature>
+</features>
+<features module="უსაფრთხოება">
+<feature>USB კავშირის მიზნის შეცვლისას საჭიროა მომხმარებლის ავტორიზაცია. როცა მხოლოდ დამუხტვის ნაცვლად ირჩევთ ოფციას ფოტოების გადაცემას ან ფაილების გადაცემას/Android Auto-ს, მონაცემთა გადაცემის უსაფრთხოების უზრუნველსაყოფად ჩნდება უსაფრთხოების შემოწმების მოთხოვნა.
+სისტემის უსაფრთხოებისთვის ჩართულია Android-ის უსაფრთხოების შესწორება (2024 წლის დეკემბერი). HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="შენიშვნები:" type="end">
+<feature>1. ამ განახლების ინსტალირება არ იქონიებს გავლენას თქვენს პერსონალურ მონაცემებზე, თუმცა მაინც გირჩევთ წინასწარ სარეზერვო კოპირებას.
+2. განახლების დროს პრობლემების წარმოქმნის შემთხვევაში, მხარდაჭერის მისაღებად დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან მიმართეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+</features>
+</language>
+
+<language name="kk-kz" code="1087">
+<features module="" type="header">
+<feature>Құрметті пайдаланушы, бұл жаңартуда экран жазбаларындағы бейне сапасы үшін үш ажыратымдылық деңгейі қолжетімді. Сондай-ақ бұл шығарылым жүйе тұрақтылығын жақсартады. Жаңарту ұсынылады.</feature>
+</features>
+<features module="Жүйе қолданбалары">
+<feature>Экран жазбаларында бейне сапасы үшін үш ажыратымдылық деңгейі (480P/720P/1080P) қолжетімді. Мынаған өту арқылы оны қолданып көріңіз: «Параметрлер» > «Арнайы мүмкіндіктер» > «Экранды жазу» > «Бейне сапасы».</feature>
+</features>
+<features module="Қауіпсіздік">
+<feature>USB байланысының мақсаттарын ауыстырған кезде пайдаланушының аутентификациясы қажет. Деректерді қауіпсіз тасымалдауды қамтамасыз ететін «Тек зарядтау» орнына «Фотосуреттерді тасымалдау» немесе «Файлдарды тасымалдау/Android Auto» параметрін таңдаған кезде растау немесе қауіпсіздік сұрауы пайда болады.
+Android қауіпсіздік патчы (желтоқсан, 2024) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ескертпелер:" type="end">
+<feature>1. Бұл жаңартуды орнату жеке деректеріңізге әсер етпейді, бірақ жаңартпас бұрын деректердің сақтық көшірмесін жасау ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+</features>
+</language>
+
+<language name="km-kh" code="1107">
+<features module="" type="header">
+<feature>អ្នកប្រើជាទីរាប់អាន ក្នុងបច្ចុប្បន្នភាពនេះ មានផ្ដល់ជូនកម្រិតគុណភាពបង្ហាញបីសម្រាប់គុណភាពវីដេអូនៅក្នុងការថតអេក្រង់។ ការចេញផ្សាយនេះក៏ធ្វើឱ្យស្ថិរភាពប្រព័ន្ធប្រសើរឡើងផងដែរ។ សូមណែនាំឱ្យធ្វើបច្ចុប្បន្នភាព។</feature>
+</features>
+<features module="កម្មវិធីប្រព័ន្ធ">
+<feature>កម្រិតគុណភាពបង្ហាញបី (480P/720P/1080P) មានសម្រាប់គុណភាពវីដេអូនៅក្នុងការថតអេក្រង់។ សាកល្បងវាដោយចូលទៅកាន់៖ ការកំណត់ > មុខងារភាពងាយស្រួលប្រើប្រាស់ > ការថតអេក្រង់ > គុណភាពវីដេអូ។</feature>
+</features>
+<features module="សន្តិសុខ">
+<feature>តម្រូវឱ្យធ្វើការផ្ទៀងផ្ទាត់ភាពត្រឹមត្រូវរបស់អ្នកប្រើ នៅពេលប្ដូរគោលបំណងនៃការតភ្ជាប់តាម USB។ សារតម្រុយផ្ទៀងផ្ទាត់ ឬសារតម្រុយសន្តិសុខមួយបង្ហាញ នៅពេលអ្នកជ្រើសរើស "ផ្ទេររូបថត" ឬ "ផ្ទេរ​ឯកសារ / Android Auto" ជំនួសឱ្យការសាកថ្មតែប៉ុណ្ណោះ ដែលធានាបាននូវការផ្ទេរទិន្នន័យដែលកាន់តែមានសុវត្ថិភាព។
+បំណះសន្តិសុខ Android (ធ្នូ 2024) ត្រូវបានរួមបញ្ចូលសម្រាប់សន្តិសុខប្រព័ន្ធ។ សម្រាប់ព័ត៌មានបន្ថែមអំពីបច្ចុប្បន្នភាពសន្តិសុខ HONOR សូមចូលទៅកាន់គេហទំព័ររបស់យើង https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="កំណត់សម្គាល់៖" type="end">
+<feature>1. ការដំឡើង​បច្ចុប្បន្នភាព​នេះ​នឹងមិន​ប៉ះពាល់ទិន្នន័យផ្ទាល់ខ្លួន​របស់អ្នក​ទេ ប៉ុន្តែ​នៅតែ​ណែនាំឱ្យ​ធ្វើ​ការបម្រុងទុក​ជាមុន​ដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេល​ធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅ​ខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌល​សេវាកម្មអតិថិជន HONOR ដើម្បី​ទទួលបាន​ជំនួយ។</feature>
+</features>
+</language>
+
+<language name="kn-IN" code="1107">
+<features module="" type="header">
+<feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ನವೀಕರಣದಲ್ಲಿ, ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳಲ್ಲಿ ವೀಡಿಯೊ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮೂರು ರೆಸಲ್ಯೂಶನ್ ಮಟ್ಟಗಳು ಲಭ್ಯವಿವೆ. ಈ ಬಿಡುಗಡೆಯು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸಹ ಸುಧಾರಿಸುತ್ತದೆ. ನವೀಕರಿಸಲು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.</feature>
+</features>
+<features module="ಸಿಸ್ಟಂ ಆ್ಯಪ್‍‍ಗಳು">
+<feature>ಸ್ಕ್ರೀನ್ ರೆಕಾರ್ಡಿಂಗ್‌ಗಳಲ್ಲಿ ವೀಡಿಯೊ ಗುಣಮಟ್ಟಕ್ಕಾಗಿ ಮೂರು ರೆಸಲ್ಯೂಶನ್ ಹಂತಗಳು (480P/720P/1080P) ಲಭ್ಯವಿವೆ. ಇಲ್ಲಿಗೆ ಹೋಗುವ ಮೂಲಕ ಇದನ್ನು ಪ್ರಯತ್ನಿಸಿ: ಸೆಟ್ಟಿಂಗ್‌ಗಳು > ಪ್ರವೇಶಾರ್ಹತೆ ಸೌಲಭ್ಯಗಳು > ಪರದೆ ರೆಕಾರ್ಡಿಂಗ್ > ವೀಡಿಯೊ ಗುಣಮಟ್ಟ.</feature>
+</features>
+<features module="ಭದ್ರತೆ">
+<feature>USB ಕನೆಕ್ಷನ್‌ನ ಉದ್ದೇಶಗಳನ್ನು ಬದಲಾಯಿಸುವಾಗ ಬಳಕೆದಾರರ ದೃಢೀಕರಣದ ಅಗತ್ಯವಿರುತ್ತದೆ. ನೀವು ಚಾರ್ಜ್ ಮಾತ್ರ ಬದಲಿಗೆ ಫೋಟೋಗಳನ್ನು ವರ್ಗಾಯಿಸಿ ಅಥವಾ ಫೈಲ್‌ಗಳನ್ನು ವರ್ಗಾಯಿಸಿ / Android Auto ಎಂಬುದನ್ನು ಆಯ್ಕೆ ಮಾಡಿದಾಗ ಪರಿಶೀಲನೆ ಅಥವಾ ಭದ್ರತಾ ಪ್ರಾಂಪ್ಟ್ ಕಾಣಿಸಿಕೊಳ್ಳುತ್ತದೆ, ಇದು ಸುರಕ್ಷಿತ ಡೇಟಾ ವರ್ಗಾವಣೆಯನ್ನು ಖಚಿತಪಡಿಸುತ್ತದೆ.
+Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಡಿಸೆಂಬರ್ 2024) ಅನ್ನು ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್ಸೈಟ್ https://www.honor.com/global/support/bulletin/2024/12 ಗೆ ಭೇಟಿ ನೀಡಿ</feature>
+</features>
+<features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+<feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸುವುದರಿಂದ ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾದ ಮೇಲೆ ಪರಿಣಾಮ ಬೀರುವುದಿಲ್ಲ, ಆದರೆ ನವೀಕರಿಸುವ ಮೊದಲು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ಬ್ಯಾಕಪ್ ಮಾಡಲು ಈಗಲೂ ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+</features>
+</language>
+
+<language name="ko-kr" code="1042">
+<features module="" type="header">
+<feature>사용자 여러분, 이번 업데이트에서는 화면 녹화에서 동영상 화질에 세 가지 해상도 레벨을 사용할 수 있습니다. 이번 릴리스에서는 시스템 안정성도 개선되었습니다. 업데이트하는 것이 좋습니다.</feature>
+</features>
+<features module="시스템 앱">
+<feature>화면 녹화에서 비디오 화질은 세 가지 해상도 수준(480P/720P/1080P)을 사용할 수 있습니다. 설정 > 접근성 기능 > 화면 녹화 > 비디오 화질로 이동하여 사용해 보십시오.</feature>
+</features>
+<features module="보안">
+<feature>USB 연결 용도를 전환할 때는 사용자 인증이 필요합니다. 충전 전용 대신 사진 전송 또는 파일 전송/Android Auto를 선택하면 인증 또는 보안 메시지가 표시되어 더욱 안전하게 데이터를 전송할 수 있습니다.
+시스템 보안을 위해 Android 보안 패치(2024년 12월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 다음에 있는 당사 웹사이트를 방문하세요. https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="참고:" type="end">
+<feature>1. 이 업데이트를 설치해도 개인 데이터에는 영향을 미치지 않지만 업데이트하기 전에 데이터를 백업하는 것이 좋습니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으십시오.</feature>
+</features>
+</language>
+
+<language name="lo-la" code="1108">
+<features module="" type="header">
+<feature>ສະ​ບາຍ​ດີ​ຜູ້​ໃຊ້, ໃນ​ການ​ອັບ​ເດດ​ນີ້, ສາມ​ລະ​ດັບ​ຄວາມ​ລະ​ອຽດ​ສາ​ມາດ​ໃຊ້​ໄດ້​ສຳ​ລັບ​ຄຸນ​ນະ​ພາບ​ວິ​ດີ​ໂອ​ໃນ​ການ​ບັນ​ທຶກ​ໜ້າ​ຈໍ. ນອກນັ້ນ ການ​ເປີດ​ຕົວ​ນີ້​​ຍັງ​ປັບ​​ປຸງຄວາມ​ສະ​ຖຽນ​ຂອງ​ລະ​ບົບ​ນຳ. ຂໍ​ແນະ​ນຳ​ໃຫ້​ອັບ​ເດດ.</feature>
+</features>
+<features module="ແອັບ​ລະ​ບົບ">
+<feature>ສາມ​ລະ​ດັບ​ຄວາມ​ລະ​ອຽດ (480P/720P/1080P) ສາ​ມາດ​ໃຊ້​ໄດ້​ສຳ​ລັບ​ຄຸນ​ນະ​ພາບ​ວິ​ດີ​ໂອ​ໃນ​ການ​ບັນ​ທຶກ​ໜ້າ​ຈໍ. ​ລອງ​ໃຊ້​ມັນ​ໄດ້​ໂດຍ​ການ​ໄປ​ທີ່: ການ​ຕັ້ງ​ຄ່າ > ຄຸນ​ສົມ​ບັດ​ການ​ຊ່ວຍ​ເຂົ້າ​ເຖິງ > ການບັນທຶກ​ໜ້າ​ຈໍ > ຄຸນ​ນະ​ພາບ​ວິ​ດີ​ໂອ.</feature>
+</features>
+<features module="ຄວາມ​ປອດ​ໄພ">
+<feature>ຮຽກ​ຮ້ອງ​ການກວດ​ຮັບ​ຮອງ​ຜູ້​ໃຊ້​ເມື່ອ​ສັບ​ປ່ຽນ​ຈຸດ​ປະ​ສົງ​ການ​ເຊື່ອມ​ຕໍ່ USB. ຂໍ້​ຄວາມ​​ແຈ້ງ​ເຕືອນ​ການກວດ​ສອບ ຫຼື ຄວາມ​ປອດ​ໄພ ປະ​ກົດຂຶ້ນ​ເມື່ອ​ທ່ານ​ເລືອກ​ ໂອນຍ້າຍຮູບ​ ຫຼື ໂອນ​ຍ້າຍໄຟ​ລ໌ / Android Auto, ແທນ​ການ​ສາກ​ເທົ່າ​ນັ້ນ, ເຊິ່ງ​ຮັບ​ປະ​ກັນ​ການ​ໂອນ​ຂໍ້​ມູນ​ທີ່​ປອດ​ໄພ​ກວ່າ.
+ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ທັນ​ວາ 2024) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ໝາຍ​ເຫດ:" type="end">
+<feature>1. ການ​ຕິດ​ຕັ້ງ​ການ​ອັບ​ເດດ​ນີ້​ຈະ​ບໍ່​ສົ່ງ​ຜົນ​ຕໍ່​ຂໍ້​ມູນ​ສ່ວນ​ຕົວ​ຂອງ​ທ່ານ, ແຕ່​ຍັງ​ຄົງ​ຂໍ​ແນະ​ນຳ​ໃຫ້​ສຳ​ຮອງ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​ໄວ້ກ່ອນ​ການ​ອັບ​ເດດ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+</features>
+</language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Gerbiamasis naudotojau, šiuo naujiniu leidžiama pasirinkti tris skiriamosios gebos lygius ekrano vaizdo įrašų kokybei užtikrinti. Šioje versijoje taip pat pagerintas sistemos stabilumas. Rekomenduojama atnaujinti.</feature>
+</features>
+<features module="Sisteminės programėlės">
+<feature>Galima pasirinkti trijų lygių ekrano įrašų vaizdo skyrą (480p / 720p / 1080p) pageidaujamai kokybei užtikrinti. Išbandykite tai nuėję į „Nustatymai > Pritaikymo neįgaliesiems funkcijos > Ekrano įrašas > Vaizdo įrašo kokybė“.</feature>
+</features>
+<features module="Saugumas">
+<feature>Keičiant USB jungties paskirtį, reikia nustatyti naudotojo tapatumą. Pasirinkus „Persiųsti nuotraukas“ arba „Persiųsti failus („Android Auto“)“, o ne „Tik įkrauti“, pateikiamas patvirtinimo arba saugumo raginimas, užtikrinantis saugesnį duomenų persiuntimą.
+Sistemos saugumui užtikrinti įtraukta „Android“ saugumo pataisa (2024 m. gruodžio mėn.). Daugiau informacijos apie HONOR saugumo naujinius rasite mūsų svetainėje https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Pastabos:" type="end">
+<feature>1. Įdiegiant šį naujinį, jūsų asmeniniai duomenys paveikti nebus, tačiau vis tiek rekomenduojama prieš naujinant padaryti atsarginę duomenų kopiją.
+2. Jei naujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR klientų aptarnavimo centrą.</feature>
+</features>
+</language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Cien. lietotāj! Šajā atjauninājumā ekrāna ierakstu video kvalitātei ir pieejami trīs izšķirtspējas līmeņi. Šis laidiens arī uzlabo sistēmas stabilitāti. Ieteicams atjaunināt.</feature>
+</features>
+<features module="Sistēmas lietotnes">
+<feature>Ekrāna ierakstu video kvalitātei ir pieejami trīs izšķirtspējas līmeņi (480P/720P/1080P). Izmēģiniet to, atverot: Iestatījumi > Pieejamības funkcijas > Ekrāna ieraksts > Video kvalitāte.</feature>
+</features>
+<features module="Drošība">
+<feature>Pārslēdzot uz USB savienojumu, ir nepieciešama lietotāja autentifikācija. Izvēloties Pārsūtīt fotoattēlus vai Pārsūtīt failus/Android Auto, nevis Tikai uzlāde, tiek parādīta verifikācijas vai drošības uzvedne, garantējot drošāku datu pārsūtīšanu.
+Sistēmas drošībai iekļauts Android drošības ielāps (2024. gada decembris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Piezīmes." type="end">
+<feature>1. Šī atjauninājuma instalēšana neietekmēs jūsu personas datus, taču joprojām ir ieteicams pirms atjaunināšanas dublēt datus.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+</features>
+</language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, एहि अपडेट मे स्क्रीन रिकॉर्डिंग मे वीडियो गुणवत्ताक लेल तीनटा रिजॉल्यूशन स्तर उपलब्ध अछि। ई रिलीज सिस्टम स्थिरता मे सेहो सुधार करैत अछि। एकरा अपडेट करबाक अनुशंसा कयल जाइत अछि।</feature>
+</features>
+<features module="सिस्टम एप सभ">
+<feature>स्क्रीन रिकॉर्डिंग मे वीडियो गुणवत्ताक लेल तीनटा रिजॉल्यूशन स्तर सभ (480P/720P/1080P) उपलब्ध अछि। एकरा एहि मे जा कए आजमाउ: सेटिंग्स > एक्सेसिबिलिटी फीचर > स्क्रीन रिकॉर्ड भ रहल अछि > वीडियो गुणवत्ता।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>USB कनेक्शन उद्देश्य सभ स्विच करैत काल उपयोगकर्ता प्रमाणीकरण आवश्यक अछि। जखन अहाँ मात्र चार्ज भए रहल अछि केर बजाय फोटो सभ ट्रांसफर करू वा फाइल सभ / Android ऑटो ट्रांसफर करू चुनैत छी, तखन एकटा सत्यापन वा सुरक्षा संकेत देखाय पड़ैत अछि, जाहि सँ सुरक्षित डेटा ट्रांसफर सुनिश्चित होइत अछिॆ।
+सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (दिसंबर 2024) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="टिप्पणी:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा प्रभावित नहि होयत, मुदा तैयो अपडेट करए सँ पहिने अपन डेटाक बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन पर कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+</features>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>E te kaiwhakamahi, i tēnei whakahōutanga, e toru ngā taumata taumira e wātea ana mō te kounga ataata i roto i ngā hopukanga mata. Ka whakapai ake hoki tēnei putanga i te taimautanga pūnaha. E tūtohutia ana kia whakahōu.</feature>
+</features>
+<features module="Ngā taupānga pūnaha">
+<feature>E toru ngā taumata taumira (480P/720P/1080P) e wātea ana mō te kounga ataata i ngā hopukanga mata. Whakamātauria mā te haere: Ngā tautuhinga > Ngā āhuahira urutanga > Tuhi mata > Kounga ataata.</feature>
+</features>
+<features module="Haumarutanga">
+<feature>E hiahiatia ana te motuhēhēnga kaiwhakamahi ina whakawhiti i ngā take tūhononga USB. Ka puta mai tētahi manatokonga, tohuāki haumarutanga rānei ina tīpako koe i Whakawhiti whakaahua, i Whakawhitia ngā kōnae / Android Auto, kaua ko te Whakahiko anake, me whakarite kia whakawhiti raraunga haumaru ake.
+Kua whakaurua te Āpure Haumarutanga Android (Tīhema 2024) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ngā Tuhipoka:" type="end">
+<feature>1. Kāore e pā te tāuta i tēnei whakahōu ki ō ngā raraunga whaiaro, engari me tārua tonu ō raraunga i mua i te whakahōu.
+2. Ki te tūtaki koe i ētahi raruraru i te wā o te whakahōu, waea atu koa ki te raina waewera ratonga HONOR, haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+</features>
+</language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Почитуван кориснику, во ова ажурирање достапни се три нивоа на резолуција за квалитетот на видеото при снимања на екранот. Ова издание исто така ја подобрува стабилноста на системот. Се препорачува да ажурирате.</feature>
+</features>
+<features module="Системски апликации">
+<feature>Во снимања на екранот достапни се три нивоа на резолуција (480P/720P/1080P) за квалитет на видео. Пробајте преку одење во Нагодување > Карактеристики за пристапност > Снимка од екранот > Квалитет на видео.</feature>
+</features>
+<features module="Безбедност">
+<feature>Потребна е автентикација од корисникот кога се менуваат целите на поврзувањето преку USB. Се појавува укажување за потврдување или безбедносно укажување кога ќе изберете Пренос на фотографии или Пренос на датотеки / Android Auto, наместо Само полнење, со што се осигурува побезбеден пренос на податоци.
+Вградена е безбедносна крпеница за Android (декември 2024) за безбедност на системот. За повеќе информации за Ажурирања на безбедноста од HONOR, посетете ја наша веб-локација: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Белешки:" type="end">
+<feature>1. Инсталирањето на ова ажурирање нема да влијае врз вашите лични податоци, но сепак се препорачува да направите резервна копија од податоците пред да ажурирате.
+2. Ако наидете на какви било проблеми при ажурирањето, јавете се на телефонскиот број на службата на HONOR или посетете сервисен центар за корисници на HONOR за да добиете поддршка.</feature>
+</features>
+</language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>പ്രിയ ഉപയോക്താവേ, ഈ അപ്‌ഡേറ്റിൽ, സ്‌ക്രീൻ റെക്കോർഡിംഗുകളിലെ വീഡിയോ നിലവാരത്തിനായി മൂന്ന് റെസലൂഷൻ ലെവലുകൾ ലഭ്യമാണ്. കൂടാതെ, ഈ റിലീസ് സിസ്റ്റം സ്ഥിരതയും മെച്ചപ്പെടുത്തുന്നു. അപ്‌ഡേറ്റ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.</feature>
+</features>
+<features module="സിസ്റ്റം ആപ്പുകൾ">
+<feature>സ്‌ക്രീൻ റെക്കോർഡിംഗുകളിൽ വീഡിയോ നിലവാരത്തിനായി മൂന്ന് റെസലൂഷൻ ലെവലുകൾ (480P/720P/1080P) ലഭ്യമാണ്. ഇതിലേക്ക് പോയി അത് പരീക്ഷിച്ച് നോക്കുക: ക്രമീകരണം > ആക്സസബിലിറ്റി സവിശേഷതകൾ > സ്ക്രീൻ റെക്കോർഡിംഗ് > വീഡിയോ നിലവാരം.</feature>
+</features>
+<features module="സുരക്ഷ">
+<feature>USB കണക്ഷൻ ആവശ്യകതകൾ മാറുമ്പോൾ ഉപയോക്താവിനെ പരിശോധിച്ചുറപ്പിക്കൽ ആവശ്യമാണ്. 'ചാർജ് ചെയ്യൽ മാത്രം' എന്നതിന് പകരം, നിങ്ങൾ 'ഫോട്ടോകൾ കൈമാറുക' അല്ലെങ്കിൽ 'ഫയലുകൾ കൈമാറുക / Android Auto' എന്നത് തിരഞ്ഞെടുക്കുമ്പോൾ ഒരു പരിശോധിച്ചുറപ്പിക്കൽ അല്ലെങ്കിൽ സുരക്ഷാ നിർദ്ദേശം ദൃശ്യമാകുന്നു, ഇത് സുരക്ഷിതമായ ഡാറ്റാ കൈമാറ്റം ഉറപ്പാക്കുന്നു.
+സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ഡിസംബർ 2024) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="ശ്രദ്ധിക്കുക:" type="end">
+<feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ ബാധിക്കില്ല, എങ്കിൽപ്പോലും അപ്‌ഡേറ്റ് ചെയ്യുന്നതിന് മുമ്പായി നിങ്ങളുടെ ഡാറ്റ ബാക്കപ്പ് ചെയ്യാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features>
+</language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Хүндэт хэрэглэгч танаа, энэхүү шинэчлэлтээр дэлгэцийн бичлэгийн видеоны чанарыг гурван янзын нягтаршлаар гаргах боломжтой боллоо. Мөн энэ шинэчлэлтээр системийн тогтворжилтыг сайжруулав. Танд шинэчлэхийг зөвлөж байна.</feature>
+</features>
+<features module="Системийн апликэйшн">
+<feature>Дэлгэцийн бичлэгийн видеоны чанарыг гурван янзын нягтралтай (480P/720P/1080P) гаргах боломжтой боллоо. Тохиргоо > Хялбар ашиглалт > Дэлгэцнээс бичлэг хийх > Видео чанар луу очиж туршиж үзнэ үү.</feature>
+</features>
+<features module="Хамгаалалт">
+<feature>USB холболтын зорилгыг солих үед хэрэглэгчийн баталгаажуулалт шаардана. Өгөгдлийн аюулгүй дамжуулалтыг нягтлах үүднээс таныг Зөвхөн цэнэглэх гэдгийн оронд Зургуудыг дамжуулах эсвэл Файл шилжүүлэх/Андройд автоматыг сонгох үед баталгаажуулах эсвэл аюулгүй байдлын сануулга гарч ирнэ.
+Андройд хамгаалалтын нөхөөсийг (2024 оны арван хоёрдугаар сар) системийн аюулгүй байдалд зориулж нэгтгэсэн. HONOR хамгаалалтын шинэчлэлтийн талаарх дэлгэрэнгүй мэдээллийг авах бол манай https://www.honor.com/global/support/bulletin/2024/12 вэбсайтад зочилно уу</feature>
+</features>
+<features module="Тэмдэглэл:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгах нь таны хувийн мэдээллийг арилгахгүй ч, шинэчлэхийн өмнө өгөгдлөө нөөцөлсөн нь дээр.
+2. Шинэчлэх явцад ямар нэг асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төв рүү очиж дэмжлэг авна уу.</feature>
+</features>
+</language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>प्रिय वापरकर्ता, या अद्यतनामध्ये, स्क्रीन रेकॉर्डिंग्जमध्ये व्हिडिओ गुणवत्तेसाठी तीन रिझोल्यूशन स्तर उपलब्ध आहेत. हे रिलीझ सिस्टम स्थिरता देखील सुधारते. अद्यतनित करण्याची शिफारस केली जाते.</feature>
+</features>
+<features module="सिस्टम अ‍ॅप्स">
+<feature>स्क्रीन रेकॉर्डिंगमध्ये व्हिडिओ गुणवत्तेसाठी तीन रिझोल्यूशन स्तर (480P/720P/1080P) उपलब्ध आहेत. येथे जाऊन हे वापरून पहा: सेटिंग्ज > सुलभता वैशिष्ट्ये > स्क्रीन रेकॉर्डिंग > व्हिडिओची गुणवत्ता.</feature>
+</features>
+<features module="सुरक्षितता">
+<feature>USB कनेक्शनच्या उद्देशाने स्विच करताना वापरकर्ता प्रमाणीकरण आवश्यक आहे. आपण सुरक्षित डेटा स्थानांतरणाची खात्री करून केवळ चार्ज करण्याऐवजी फोटो स्‍थानांतरित करा किंवा फाइल्स/Android स्वयं स्‍थानांतरित करा निवडता तेव्हा पडताळणी किंवा सुरक्षितता सूचना दिसून येते.
+सिस्टम सुरक्षिततेसाठी Android सुरक्षिता पॅच (डिसेंबर 2024) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2024/12 वर जा</feature>
+</features>
+<features module="नोट्स:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपल्या वैयक्तिक डेटावर परिणाम होणार नाही, परंतु तरीही अद्यतनित करण्यापूर्वी आपल्या डेटाचा बॅकअप घेण्याची शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा समर्थनासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+</features>
+</language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Pengguna yang dihormati, dalam kemas kini ini, tiga tahap resolusi tersedia untuk kualiti video dalam rakaman skrin. Keluaran ini juga meningkatkan kestabilan sistem. Anda disyorkan agar mengemas kini.</feature>
+</features>
+<features module="Aplikasi sistem">
+<feature>Tiga tahap resolusi (480P/720P/1080P) tersedia untuk kualiti video dalam rakaman skrin. Cuba ciri ini dengan pergi ke: Tetapan > Kebolehaksesan > Rakaman skrin > Kualiti video.</feature>
+</features>
+<features module="Keselamatan">
+<feature>Pengesahan pengguna diperlukan apabila menukar tujuan sambungan USB. Pengesahan atau gesaan keselamatan muncul apabila anda memilih Pindahkan foto atau Pindahkan fail / Auto Android, bukannya Cas sahaja, demi memastikan pemindahan data yang lebih selamat.
+Tampalan keselamatan Android (Dis 2024) telah dimasukkan untuk tujuan keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Nota:" type="end">
+<feature>1. Tindakan memasang kemas kini ini tidak akan menjejaskan data peribadi anda, tetapi anda masih disyorkan untuk membuat sandaran data sebelum mengemas kini.
+2. Jika anda menghadapi sebarang masalah semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+</features>
+</language>
+
+<language name="my-mm" code="1109">
+<features module="" type="header">
+<feature>လေးစားရပါသော သုံးစွဲသူ၊ ဤအပ်ဒိတ်တွင် မျက်နှာပြင် မှတ်တမ်းတင်သည့်အခါ ဗီဒီယိုအရည်အသွေးအတွက် ပုံရိပ်ကြည်လင်ပြတ်သားမှု အဆင့်သုံးခု ရရှိနိုင်သည်။ ဤအသစ်ထွက်အပ်ဒိတ်သည် စနစ် တည်ငြိမ်မှုကိုလည်း မြှင့်တင်ပေးသည်။ အပ်ဒိတ်လုပ်ရန် အကြံပြုပါသည်။</feature>
+</features>
+<features module="စနစ် အက်ပ်များ">
+<feature>မျက်နှာပြင် မှတ်တမ်းများတွင် ဗီဒီယို အရည်အသွေးအတွက် ပုံရိပ်ကြည်လင်ပြတ်သားမှု အဆင့်သုံးခု (480P/720P/1080P) ကို ရရှိနိုင်သည်။ ဆက်တင် > အထောက်အကူပြု လုပ်ဆောင်ချက်များ > မျက်နှာပြင် မှတ်တမ်း > ဗီဒီယို အရည်အသွေးသို့ သွားပြီး ၎င်းကို စမ်းသုံးကြည့်ပါ။</feature>
+</features>
+<features module="လုံခြုံရေး">
+<feature>USB ချိတ်ဆက်သည့် ရည်ရွယ်ချက်များကို ပြောင်းသည့်အခါ သုံးစွဲသူကို စစ်မှန်ကြောင်း အတည်ပြုရန် လိုအပ်သည်။ "အားသွင်းရန် အတွက်သာ" အစား ဓာတ်ပုံများ လွှဲပြောင်းရန် သို့မဟုတ် ဖိုင်များ လွှဲပြောင်းရန် / Android Auto ကို ရွေးချယ်ပါက အတည်ပြုမှု သို့မဟုတ် လုံခြုံရေး ညွှန်ကြားချက် ပေါ်လာပြီး ဒေတာ လွှဲပြောင်းမှုကို ပို၍လုံခြုံစေသည်။
+စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (ဒီဇင်ဘာ 2024) ကို ပေါင်းစပ်ထည့်သွင်းထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း အချက်အလက်များ ပိုမိုသိရှိလိုပါက ကျွန်ုပ်တို့၏ ဝက်ဘ်ဆိုဒ် https://www.honor.com/global/support/bulletin/2024/12 သို့ သွားရောက်ကြည့်ရှုပါ</feature>
+</features>
+<features module="မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာအပေါ် ထိခိုက်မည် မဟုတ်သော်လည်း အပ်ဒိတ်မလုပ်မီ သင့်ဒေတာကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်အတောအတွင်း ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီအတွက် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+</features>
+</language>
+
+<language name="my-zg" code="1109">
+<features module="" type="header">
+<feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ ဤအပ္ဒိတ္တြင္ မ်က္ႏွာျပင္ မွတ္တမ္းတင္သည့္အခါ ဗီဒီယိုအရည္အေသြးအတြက္ ပုံရိပ္ၾကည္လင္ျပတ္သားမႈ အဆင့္သုံးခု ရရွိႏိုင္သည္။ ဤအသစ္ထြက္အပ္ဒိတ္သည္ စနစ္ တည္ၿငိမ္မႈကိုလည္း ျမႇင့္တင္ေပးသည္။ အပ္ဒိတ္လုပ္ရန္ အႀကံျပဳပါသည္။</feature>
+</features>
+<features module="စနစ္ အက္ပ္မ်ား">
+<feature>မ်က္ႏွာျပင္ မွတ္တမ္းမ်ားတြင္ ဗီဒီယို အရည္အေသြးအတြက္ ပုံရိပ္ၾကည္လင္ျပတ္သားမႈ အဆင့္သုံးခု (480P/720P/1080P) ကို ရရွိႏိုင္သည္။ ဆက္တင္ > အေထာက္အကူျပဳ လုပ္ေဆာင္ခ်က္မ်ား > မ်က္ႏွာျပင္ မွတ္တမ္း > ဗီဒီယို အရည္အေသြးသို႔ သြားၿပီး ၎ကို စမ္းသုံးၾကည့္ပါ။</feature>
+</features>
+<features module="လုံျခံဳေရး">
+<feature>USB ခ်ိတ္ဆက္သည့္ ရည္႐ြယ္ခ်က္မ်ားကို ေျပာင္းသည့္အခါ သုံးစြဲသူကို စစ္မွန္ေၾကာင္း အတည္ျပဳရန္ လိုအပ္သည္။ "အားသြင္းရန္ အတြက္သာ" အစား ဓာတ္ပုံမ်ား လႊဲေျပာင္းရန္ သို႔မဟုတ္ ဖိုင္မ်ား လႊဲေျပာင္းရန္ / Android Auto ကို ေ႐ြးခ်ယ္ပါက အတည္ျပဳမႈ သို႔မဟုတ္ လုံၿခဳံေရး ၫႊန္ၾကားခ်က္ ေပၚလာၿပီး ေဒတာ လႊဲေျပာင္းမႈကို ပို၍လုံၿခဳံေစသည္။
+စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ဒီဇင္ဘာ 2024) ကို ေပါင္းစပ္ထည့္သြင္းထားသည္။ HONOR လုံၿခဳံေရး အပ္ဒိတ္မ်ားအေၾကာင္း အခ်က္အလက္မ်ား ပိုမိုသိရွိလိုပါက ကြၽႏ္ုပ္တို႔၏ ဝက္ဘ္ဆိုဒ္ https://www.honor.com/global/support/bulletin/2024/12 သို႔ သြားေရာက္ၾကည့္ရႈပါ</feature>
+</features>
+<features module="မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာအေပၚ ထိခိုက္မည္ မဟုတ္ေသာ္လည္း အပ္ဒိတ္မလုပ္မီ သင့္ေဒတာကို ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္အေတာအတြင္း ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီအတြက္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+</features>
+</language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Kjære bruker, i denne oppdateringen er tre oppløsningsnivåer tilgjengelige for videokvalitet i skjermopptak. Denne utgivelsen forbedrer også systemstabiliteten. Det anbefales å oppdatere.</feature>
+</features>
+<features module="Systemapper">
+<feature>Tre bildeoppløsingsnivåer (480 p / 720 p / 1080 p) er tilgjengelige for videokvalitet i skjerminnspilling. Prøv ut ved å gå til: Innstillinger > Tilgjengelighetsfunksjoner > Skjerminnspilling > Videokvalitet.</feature>
+</features>
+<features module="Sikkerhet">
+<feature>Brukerbekreftelse kreves ved bytting av USB-tilkoblingsformål. En bekreftelse eller sikkerhetsmelding dukker opp når du velger Overfør bilder eller Overfør filer / Android Auto istedenfor Bare opplading, og sikrer dermed tryggere dataoverføring.
+Android sikkerhetsoppdatering (desember 2024) er innlemmet for systemsikkerhet. For mer informasjon om HONOR-sikkerhetsoppdateringer, vennligst besøk nettstedet vårt https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Merknader:" type="end">
+<feature>1. Installering av denne oppdateringen vil ikke påvirke personopplysningene dine, men vi anbefaler likevel at du sikkerhetskopierer dataene dine før du oppdaterer.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+</features>
+</language>
+
+<language name="ne-np" code="1121">
+<features module="" type="header">
+<feature>आदरणीय प्रयोगकर्ता, यो अपडेटमा स्क्रिन रेकर्डिङको भिडियोको गुणस्तरमा रिजोलुसनका तीन वटा स्तरहरू उपलब्ध गराएका छन् । यो रिलिजले प्रणालीको स्थिरता पनि सुधार गर्छ । अपडेट गर्न सिफारिस गरिन्छ ।</feature>
+</features>
+<features module="प्रणालीका एपहरू">
+<feature>स्क्रिन रेकर्डिङ गर्दा भिडियोको गुणस्तरका रूपमा रिजोलुसनका तीन स्तर (480P/720P/1080P) उपलब्ध हुन्छन् । यहाँ गएर यसलाई प्रयोग गरी हेर्नुहोस्: सेटिङहरू > उपलब्धता सुविधाहरू > स्क्रिन रेकर्डिङ > भिडियोको गुणस्तर ।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>USB जडानका प्रयोजनहरू परिवर्तन गर्दा प्रयोगकर्ताले अधिकार-प्रदान गर्नु पर्ने हुन्छ । तपाईंले चार्ज मात्र गर्नुहोस् विकल्पको साटो फोटोहरू स्थानान्तर गर्नुहोस् वा फाइलहरू स्थानान्तर गर्नुहोस् / एन्ड्रोइड अटो चयन गर्नुभयो भने प्रमाणीकरण वा सुरक्षा प्रम्प्ट देखिने छ ।
+एन्ड्रोइड सुरक्षा प्याच (डिसेम्बर 2024) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारीका लागि, कृपया हाम्रो वेबसाइटमा जानुहोस् https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="नोटहरू:" type="end">
+<feature>1. तपाईंले यो एप स्थापना गर्नुभयो भने तपाईंको व्यक्तिगत डाटामा कुनै प्रभाव नपर्ने भए पनि तपाईंलाई अपडेट गर्नुअघि आफ्नो डाटा ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेटको समयमा तपाईंले कुनै पनि समस्याको सामना गर्नुभयो भने, कृपया HONOR सेवा हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+</features>
+</language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Beste gebruiker, in deze update zijn drie resolutieniveaus beschikbaar voor videokwaliteit in schermopnames. Deze release verbetert ook de stabiliteit van het systeem. Het wordt aanbevolen om bij te werken.</feature>
+</features>
+<features module="Systeemapps">
+<feature>Er zijn drie resolutieniveaus (480p/720p/1080p) beschikbaar voor videokwaliteit in schermopnamen. Probeer het uit via: Instellingen > Toegankelijkheidsfuncties > Schermopname > Videokwaliteit.</feature>
+</features>
+<features module="Beveiliging">
+<feature>Gebruikersauthenticatie is vereist bij het wisselen van USB-verbindingsdoeleinden. Er verschijnt een verificatie- of beveiligingsprompt wanneer u Foto's overdragen of Bestanden overdragen / Android Auto selecteert, in plaats van Alleen opladen, wat zorgt voor een veiligere gegevensoverdracht.
+Android-beveiligingspatch (december 2024) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Opmerkingen:" type="end">
+<feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet beïnvloed, maar een back-up van uw gegevens maken voordat u bijwerkt wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+</features>
+</language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ଏହି ଅପଡେଟ୍‌ରେ, ସ୍କ୍ରିନ୍‌ ରେକର୍ଡିଂରେ ଭିଡ଼ିଓ ଗୁଣବତ୍ତା ପାଇଁ ତିନି ରିଜୋଲ୍ୟୁସନ୍ ସ୍ତର ଉପଲବ୍ଧ ଅଛି। ଏହି ରିଲିଜ୍ ସିଷ୍ଟମ୍‌ର ସ୍ଥିରତାକୁ ମଧ୍ୟ ଉନ୍ନତ କରିଥାଏ। ଅପଡେଟ୍‌ କରିବାକୁ ସୁପାରିଶ କରାଯାଇଛି।</feature>
+</features>
+<features module="ସିଷ୍ଟମ୍‌ ଆପସ୍‌">
+<feature>ସ୍କ୍ରିନ୍ ରେକର୍ଡିଂରେ ଭିଡ଼ିଓ ଗୁଣବତ୍ତା ପାଇଁ ତିନି ରିଜୋଲ୍ୟୁସନ୍ ସ୍ତର (480P/720P/1080P) ଉପଲବ୍ଧ। ଏଥିକୁ ଯାଇ ଆପଣ ଏହାକୁ ପରଖି ନିଅନ୍ତୁ: ସେଟିଂସ୍ > ପ୍ରବେଶଯୋଗ୍ୟ ବିଶେଷତାଗୁଡ଼ିକ > ସ୍କ୍ରିନ୍‌ ରେକର୍ଡିଂ > ଭିଡ଼ିଓ ଗୁଣବତ୍ତା।</feature>
+</features>
+<features module="ସୁରକ୍ଷା">
+<feature>USB ସଂଯୋଜନା ଉଦ୍ଦେଶ୍ୟ ସ୍ୱିଚ୍ କରିବା ବେଳେ ଉପଯୋଗକର୍ତ୍ତା ପ୍ରାମାଣିକରଣ ଆବଶ୍ୟକ। ଆପଣ ଫଟୋଗୁଡ଼ିକ ଟ୍ରନ୍ସଫର୍ କରନ୍ତୁ କିମ୍ବା ଫାଇଲ୍‌ଗୁଡ଼ିକ ଟ୍ରାନ୍ସଫର୍‌ କରନ୍ତୁ / Android Auto ଚୟନ କରିବା ବେଳେ, କେବଳ ଚାର୍ଜ୍‌ କରନ୍ତୁ ବଦଳରେ ନିରାପଦ ଡାଟା ଟ୍ରାନ୍ସଫର୍‌ ନିଶ୍ଚିତ କରି ଏକ ଯାଞ୍ଚ କିମ୍ବା ସୁରକ୍ଷା ପ୍ରମ୍ପଟ୍‌ ଦେଖାଯଏ।
+ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ Android ସୁରକ୍ଷା ପ୍ୟାଚ୍ (ଡିସେମ୍ବର 2024) ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି।HONOR ସୁରକ୍ଷା ଅପଡେଟ୍ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍ https://www.honor.com/global/support/bulletin/2024/12 ଦେଖନ୍ତୁ</feature>
+</features>
+<features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ପ୍ରଭାବିତ ହେବ ନାହିଁ, ତଥାପି ଅପଡେଟ୍ କରିବା ପୂର୍ବରୁ ଆପଣଙ୍କ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features>
+</language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ, ਸਕ੍ਰੀਨ ਰਿਕਾਰਡਿੰਗਾਂ ਵਿੱਚ ਵੀਡੀਓ ਕੁਆਲਿਟੀ ਲਈ ਤਿੰਨ ਰੈਜ਼ੋਲੂਸ਼ਨ ਪੱਧਰ ਹਨ। ਇਸ ਰਿਲੀਜ਼ ਵਿੱਚ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਵੀ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ। ਇਹ ਅੱਪਡੇਟ ਕਰਨ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।</feature>
+</features>
+<features module="ਸਿਸਟਮ ਐਪਾਂ">
+<feature>ਸਕ੍ਰੀਨ ਰਿਕਾਰਡਿੰਗਾਂ ਵਿੱਚ ਵੀਡੀਓ ਕੁਆਲਿਟੀ ਲਈ ਤਿੰਨ ਰੈਜ਼ੋਲੂਸ਼ਨ ਪੱਧਰ (480P/720P/1080P) ਉਪਲਬਧ ਹਨ। ਇੱਥੇ ਜਾ ਕੇ ਇਸ ਨੂੰ ਅਜ਼ਮਾਓ: ਸੈਟਿੰਗਾਂ > ਪਹੁੰਚਣਯੋਗਤਾ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ > ਸਕਰੀਨ ਰਿਕਾਰਡਿੰਗ > ਵੀਡੀਓ ਕੁਆਲਿਟੀ।</feature>
+</features>
+<features module="ਸੁਰੱਖਿਆ">
+<feature>USB ਕਨੈਕਸ਼ਨ ਦੇ ਉਦੇਸ਼ਾਂ ਨੂੰ ਬਦਲਣ ਵੇਲੇ ਵਰਤੋਂਕਾਰ ਪ੍ਰਮਾਣੀਕਰਨ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ। ਜਦੋਂ ਤੁਸੀਂ ਸੁਰੱਖਿਅਤ ਡੇਟਾ ਟ੍ਰਾਂਸਫਰ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ, ਸਿਰਫ਼ ਚਾਰਜ ਕਰੋ ਦੀ ਬਜਾਏ, ਫ਼ੋਟੋਆਂ ਟ੍ਰਾਂਸਫਰ ਕਰੋ ਜਾਂ ਫ਼ਾਈਲਾਂ ਟ੍ਰਾਂਸਫਰ ਕਰੋ / Android Auto ਨੂੰ ਚੁਣਦੇ ਹੋ ਤਾਂ ਇੱਕ ਤਸਦੀਕ ਜਾਂ ਸੁਰੱਖਿਆ ਪ੍ਰੌਂਪਟ ਦਿਖਾਈ ਦਿੰਦਾ ਹੈ।
+ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਦਸੰਬਰ 2024) ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਵਾਸਤੇ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ https://www.honor.com/global/support/bulletin/2024/12 'ਤੇ ਜਾਓ</feature>
+</features>
+<features module="ਨੋਟਸ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਪ੍ਰਭਾਵਿਤ ਨਹੀਂ ਹੋਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਅੱਪਡੇਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਤੁਹਾਡੇ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਸਹਾਇਤਾ ਲਈ ਕਿਰਪਾ ਕਰਕੇ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+</features>
+</language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>W tej aktualizacji są dostępne trzy poziomy rozdzielczości wideo w nagraniach ekranowych. W tej wersji poprawiono też stabilność systemu. Zaleca się instalację tej aktualizacji.</feature>
+</features>
+<features module="Aplikacje systemowe">
+<feature>Dostępne są trzy poziomy rozdzielczości (480p/720p/1080p) do wyboru jakości wideo w nagraniach ekranowych. Aby wypróbować tę funkcję, wybierz Ustawienia > Funkcje ułatwień dostępu > Nagrywanie ekranu > Jakość wideo.</feature>
+</features>
+<features module="Zabezpieczenia">
+<feature>Wymagane jest uwierzytelnienie użytkownika podczas przełączania celów połączenia USB. Monit o weryfikację lub monit dotyczący bezpieczeństwa pojawia się po wybraniu opcji Przenosić zdjęcia lub Przenosić pliki / Android Auto zamiast opcji Tylko ładowanie, zapewniając bezpieczniejszy transfer danych.
+Poprawka zabezpieczeń systemu Android (grudzień 2024 r.) została dodana w celu zapewnienia bezpieczeństwa systemu. Więcej informacji o aktualizacjach zabezpieczeń HONOR można uzyskać na stronie internetowej https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Uwagi:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie wpływa na dane użytkownika, jednak zaleca się wykonanie kopii zapasowej przed aktualizacją.
+2. Jeśli podczas aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+</features>
+</language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Prezado(a) usuário(a), nessa atualização, três níveis de resolução estão disponíveis para qualidade de vídeo em gravações de tela. Essa versão também aprimora a estabilidade do sistema. É recomendável atualizar.</feature>
+</features>
+<features module="Aplicativos do sistema">
+<feature>Três níveis de resolução (480P/720P/1080P) estão disponíveis para a qualidade de vídeo nas gravações de tela. Experimente acessando: Configurações > Recursos de acessibilidade > Gravação de tela > Qualidade de vídeo.</feature>
+</features>
+<features module="Segurança">
+<feature>A autenticação de usuário é necessária ao alternar os propósitos da conexão USB. Um aviso de verificação ou segurança aparece quando você seleciona Transferir fotos ou Transferir arquivos/Android Auto, em vez de Somente carregar, garantindo uma transferência de dados mais segura.
+O patch de segurança do Android (dezembro de 2024) foi incorporado para a segurança do sistema. Para mais informações sobre as atualizações de segurança da HONOR, visite nosso site https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não afetará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se você encontrar algum problema durante a atualização, ligue para a linha de atendimento de serviço da HONOR ou vá à Central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+</features>
+</language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Caro utilizador, na presente atualização, encontram-se disponíveis três níveis de resolução para a qualidade de vídeo nas gravações de ecrã. Esta versão também melhora a estabilidade do sistema. Recomenda-se a atualização.</feature>
+</features>
+<features module="Aplicações do sistema">
+<feature>Estão disponíveis três níveis de resolução (480P/720P/1080P) para a qualidade de vídeo nas gravações de ecrã. Experimente, acedendo a: Definições > Funcionalidades de acessibilidade > Gravar ecrã > Qualidade de vídeo.</feature>
+</features>
+<features module="Segurança">
+<feature>É necessária a autenticação do utilizador ao mudar para a ligação USB. É apresentado um comando de verificação ou segurança ao selecionar Transferir fotografias ou Transferir ficheiros/Android Auto em vez de Carregar apenas, garantindo a transferência de dados mais segura.
+Foi incorporada uma correção de segurança Android (dezembro de 2024) para segurança do sistema. Para mais informações sobre as atualizações de Segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não irá afetar os seus dados pessoais, mas continua a recomendar-se a realização de uma cópia de segurança antes da atualização.
+2. Se encontrar quaisquer problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para suporte.</feature>
+</features>
+</language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Stimate utilizator, în această actualizare, sunt disponibile trei niveluri de rezoluție pentru calitatea videoclipurilor în înregistrările ecranului. Această versiune îmbunătățește, de asemenea, stabilitatea sistemului. Se recomandă actualizarea.</feature>
+</features>
+<features module="Aplicații de sistem">
+<feature>Sunt disponibile trei niveluri de rezoluție (480P/720P/1080P) pentru calitatea videoclipului în înregistrările ecranului. Încercați funcția accesând: Setări > Funcții de accesibilitate > Înregistrare ecran > Calitatea videoclipului.</feature>
+</features>
+<features module="Securitate">
+<feature>Autentificarea utilizatorului este necesară atunci când se schimbă scopul conexiunii USB. Atunci când selectați Transfer de fotografii sau Transferare fișiere / Android Auto, în loc de Doar încărcare, apare o solicitare de verificare sau de securitate, asigurând un transfer de date mai sigur.
+Patchul de securitate pentru Android (Dec 2024) a fost inclus pentru securitatea sistemului. Pentru mai multe informații despre actualizările de securitate HONOR, vizitați site-ul nostru https://www.honor.com/ro/support/bulletin/2024/12</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. Instalarea acestei actualizări nu vă va afecta datele personale, dar vă recomandăm totuși să realizați în prealabil o copie de rezervă.
+2. Dacă întâmpinați probleme în timpul actualizării, apelați linia de asistență HONOR sau vizitați un centru de servicii pentru clienți HONOR.</feature>
+</features>
+</language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Уважаемый пользователь! Мы разработали это рекомендованное обновление, чтобы добавить три уровня разрешений для качества видео при записи с экрана, а также улучшить стабильность системы.</feature>
+</features>
+<features module="Системные приложения">
+<feature>Для качества записи с экрана доступны три уровня разрешения (480P/720P/1080P). Попробуйте в меню: «Настройки > Специальные возможности > Запись с экрана > Качество видео».</feature>
+</features>
+<features module="Безопасность">
+<feature>При переключении цели USB-соединения требуется аутентификация пользователя. При выборе режима «Передача фото», «Передача файлов/Android Auto» вместо режима «Только зарядка» появляется запрос проверки или безопасности, что обеспечивает более безопасную передачу данных.
+В обновление включено исправление безопасности для Android (декабрь 2024 г.). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2024/12</feature>
+</features>
+<features module="Примечания:" type="end">
+<feature>1. Установка этого обновления не затронет ваши персональные данные, но мы рекомендует сделать резервную копию данных перед обновлением.
+2. При возникновении каких-либо проблем при обновлении обратитесь на горячую линию обслуживания HONOR или в службу поддержки клиента HONOR за помощью.</feature>
+</features>
+</language>
+
+<language name="si-lk" code="1115">
+<features module="" type="header">
+<feature>හිතවත් පරිශීලක, මෙම යාවත්කාලයේ, තිර පටිගත කිරීම්වල වීඩියෝ ගුණාත්වය සඳහා විභේදන මට්ටම් තුනක් ලද හැකිවේ. මෙම නිකුතුව පද්ධතියේ ස්ථායීතාවය ද වැඩි දියුණු කරයි. යාවත්කාල කරන්නට නිර්දේශ කෙරේ.</feature>
+</features>
+<features module="පද්ධති යෙදුම්">
+<feature>තිර පටිගත කිරීම්වල වීඩියෝ ගුණත්වය සඳහා විභේදන මට්ටම් තුනක් (480P/720P/1080P) තිබේ. මෙය වෙත යාමෙන් එය උත්සාහ කරන්න: සැකසුම් > ප්‍රවේශ්‍යතා විශේෂාංග > තිර පටිගත කිරීම > වීඩියෝ ගුණාත්වය.</feature>
+</features>
+<features module="ආරක්ෂාව">
+<feature>USB සම්බන්ධතා අරමුණු මාරු කිරීමේ දී පරිශීලක සත්‍යාපනය අවශ්‍ය වේ. ඔබ ආරෝපණය පමණි වෙනුවට ඡායාරූප මාරු කරන්න හෝ ගොනු මාරු කරන්න / Android Auto තෝරාගත් විට, වඩා ආරක්ෂිත දත්ත මාරුව තහවුරු කරමින් සත්‍යාපන හෝ ආරක්ෂක ප්‍රේරණයක් දිස්වේ.
+පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2024 දෙසැ) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය https://www.honor.com/global/support/bulletin/2024/12 වෙත යන්න</feature>
+</features>
+<features module="සටහන්:" type="end">
+<feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්තවලට බල නොපානු ඇති නමුත් තවමත් යාවත්කාල කිරීමට පෙර ඔබගේ දත්ත උපස්ථ කිරීමට නිර්දේශ කෙරේ.
+2. යාවත්කාල කිරීමේ දී ඔබට ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා හොට්ලයින් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+</features>
+</language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Vážený používateľ, v tejto aktualizácii sú k dispozícii tri úrovne rozlíšenia kvality videa pri záznamoch obrazovky. Toto vydanie tiež zlepšuje stabilitu systému. Aktualizácia sa odporúča.</feature>
+</features>
+<features module="Systémové aplikácie">
+<feature>Pre kvalitu videa v záznamoch obrazovky sú k dispozícii tri úrovne rozlíšenia (480P/720P/1080P). Vyskúšajte si to v časti: Nastavenia > Funkcie uľahčenia prístupu > Záznam obrazovky > Kvalita videa.</feature>
+</features>
+<features module="Zabezpečenie">
+<feature>Pri prepínaní na účely pripojenia USB sa vyžaduje overenie používateľa. Pri výbere možnosti Prenos fotografií alebo Prenos súborov/Android Auto sa namiesto možnosti Iba nabíjanie zobrazí výzva na overenie alebo zabezpečenie, čím sa zaistí bezpečnejší prenos dát.
+Obsahuje bezpečnostnú opravu systému Android (z decembra 2024) na zabezpečenie systému. Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2024/12</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Inštalácia tejto aktualizácie neovplyvní vaše osobné údaje, ale aj tak sa odporúča pred aktualizáciou si ich zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+</features>
+</language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Spoštovani uporabnik, s to posodobitvijo so za kakovost videoposnetka pri snemanju zaslona na voljo tri ravni ločljivosti. V tej izdaji je tudi izboljšana stabilnost sistema. Priporočamo, da namestite posodobitev.</feature>
+</features>
+<features module="Sistemske aplikacije">
+<feature>Za kakovost videa pri posnetek zaslona so na voljo tri ravni ločljivosti (480p/720p/1080p). Preizkusite tukaj: Nastavitve > Funkcije za dostopnost > Posnetek zaslona > Kakovost videoposnetka.</feature>
+</features>
+<features module="Varnost">
+<feature>Pri preklopu povezave USB je potrebno preverjanje pristnosti uporabnika. Ko izberete možnost Prenos fotografij ali Prenos datotek/Android Auto, se namesto možnosti Samo polnjenje prikaže poziv za preverjanje ali varnostni poziv, s tem pa je zagotovljen varnejši prenos podatkov.
+Varnostni popravek za Android (december 2024) je vključen za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite spletno mesto https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Opombe:" type="end">
+<feature>1. Namestitev te posodobitve ne bo vplivala na vaše osebne podatke, vendar vseeno priporočamo, da podatke pred posodobitvijo varnostno kopirate.
+2. Če med posodabljanjem pride do težav, lahko pokličete odprto linijo za pomoč uporabnikom družbe HONOR ali obiščete središče za storitve družbe HONOR.</feature>
+</features>
+</language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Bästa användare, i den här uppdateringen finns tre upplösningsnivåer för videokvalitet i skärminspelningar. Den här utgåvan förbättrar också systemets stabilitet. Du rekommenderas att uppdatera.</feature>
+</features>
+<features module="Systemappar">
+<feature>Tre upplösningsnivåer (480p/720p/1080p) är tillgängliga för videokvalitet i skärminspelningar. Prova genom att gå till: Inställningar > Tillgänglighetsfunktioner > Skärminspelning > Videokvalitet.</feature>
+</features>
+<features module="Säkerhet">
+<feature>Användarautentisering krävs när du byter USB-anslutning. En verifierings- eller säkerhetsuppmaning visas när du väljer Överföra foton eller Överföra filer/Android Auto i stället för Bara ladda, vilket ger en säkrare dataöverföring.
+Android-säkerhetskorrigering (december 2024) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Noteringar:" type="end">
+<feature>1. Installation av den här uppdateringen påverkar inte dina personuppgifter, men det rekommenderas ändå att du säkerhetskopierar alla data innan du uppdaterar.
+2. Om du stöter på några problem under uppdateringen kan du ringa HONORs hotline för service eller besöka HONORs servicecenter och få support.</feature>
+</features>
+</language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Mtumiaji mpendwa, kwenye sasisho hili, viwango vitatu vya mwonekano vinapatikana kwa ajili ya ubora wa video kwenye rekodi za skrini. Toleo hili pia linaboresha uthabiti wa mfumo. Inapendekezwa usasishe.</feature>
+</features>
+<features module="Programu za mfumo">
+<feature>Viwango vitatu vya mwonekano (480P/720P/1080P) vinapatikana kwa ajili ya ubora wa video katika rekodi za skrini. Ijaribu kwa kwenda kwenye: Mipangilio > Vipengele vya zana za walemavu > Kurekodi skrini > Ubora wa video.</feature>
+</features>
+<features module="Usalama">
+<feature>Uthibitishaji wa mtumiaji unahitaji unapobadilisha madhumuni ya muunganisho wa USB. Kidokezo cha uthibitishaji au usalama hutokea ukichagua Hamisha picha au Hamisha faili / Android Otomatiki, badala ya Chaji pekee, hivyo basi kuhakikisha uhamishaji data salama zaidi.
+Rekebisho la usalama wa Android (Des 2024) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Madokezo:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutaathiri data yako ya kibinafsi, lakini bado unapendekezwa kuweka hifadhi rudufu ya data yako kabla ya kusasisha.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+</features>
+</language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>அன்புள்ள பயனரே, இந்தப் புதுப்பிப்பில், திரைப் பதிவுகளில் வீடியோ தரத்திற்கு மூன்று தெளிவுத்திறன் நிலைகள் உள்ளன. இந்த வெளியீடு சிஸ்டம் நிலைத்தன்மையையும் மேம்படுத்துகிறது. இதைப் புதுப்பிக்குமாறு பரிந்துரைக்கப்படுகிறது.</feature>
+</features>
+<features module="சிஸ்டம் செயலிகள்">
+<feature>திரைப் பதிவுகளில் வீடியோ தரத்திற்கு மூன்று தெளிவுத்திறன் நிலைகள் (480P/720P/1080P) உள்ளன. இதற்குச் செல்வதன் மூலம் அதை முயன்று பார்க்கவும்: அமைப்புகள் > அணுகல்திறன் அம்சங்கள் > திரையைப் பதிவுசெய்தல் > வீடியோ தரம்.</feature>
+</features>
+<features module="பாதுகாப்பு">
+<feature>USB இணைப்பு நோக்கங்களை மாற்றும்போது பயனர் அங்கீகாரம் தேவை. பாதுகாப்பான தரவுப் பரிமாற்றத்தை உறுதிசெய்யும் வகையில், சார்ஜ் மட்டும் என்பதற்குப் பதிலாக, புகைப்படங்களைப் பரிமாற்று அல்லது கோப்புகளைப் பரிமாற்று / Android Auto என்பதைத் தேர்ந்தெடுக்கும்போது சரிபார்ப்பு அல்லது பாதுகாப்புத் தூண்டுதல் தோன்றும்.
+சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (டிச 2024) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="குறிப்புகள்:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவைப் பாதிக்காது, எனினும் புதுப்பிப்பதற்கு முன்பு உங்கள் தரவைக் காப்புப்பிரதி எடுப்பது இன்னும் பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features>
+</language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ప్రియమైన వినియోగదారుకు, ఈ అప్‌డేట్‌లో, స్క్రీన్ రికార్డింగ్‌లో వీడియో నాణ్యత కోసం మూడు దృశ్య నాణ్యత స్థాయిలు అందుబాటులో ఉన్నాయి. ఈ విడుదల సిస్టమ్ స్థిరత్వాన్ని కూడా మెరుగుపరుస్తుంది. దీనిని అప్‌డేట్ చేయాలని సిఫార్సు చేయబడింది.</feature>
+</features>
+<features module="సిస్టమ్ అప్లికేషన్‌లు">
+<feature>స్క్రీన్ రికార్డింగ్‌ల్లో వీడియో నాణ్యత కోసం మూడు దృశ్య నాణ్యత స్థాయిలు (480P/720P/1080P) అందుబాటులో ఉన్నాయి. దీనిని ప్రయత్నించడానికి ఇక్కడికి వెళ్లండి: సెట్టింగ్‌లు > యాక్సెసబిలిటీ ఫీచర్‌లు > స్క్రీన్ రికార్డింగ్ > వీడియో నాణ్యత.</feature>
+</features>
+<features module="భద్రత">
+<feature>USB కనెక్షన్ ప్రయోజనాలను మార్చుతున్నప్పుడు వినియోగదారు ప్రామాణీకరణ అవసరం. మీరు ఛార్జ్ మాత్రమే ఎంపికకు బదులుగా ఫోటోలను బదిలీ చేయండి లేదా ఫైల్స్ బదిలీ చేయి / Android Autoను ఎంచుకున్నప్పుడు, సురక్షితమైన డేటా బదిలీని నిర్ధారించడానికి ఒక ధృవీకరణ లేదా భద్రతా ప్రాంప్ట్ కనిపిస్తుంది.
+Android భద్రతా ప్యాచ్ (డిసెంబర్ 2024) అనేది సిస్టమ్ భద్రత కోసం చేర్చబడింది. HONOR భద్రతా అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="గమనికలు:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వల్ల మీ వ్యక్తిగత డేటాపై ప్రభావం ఉండదు, అయితే అప్‌డేట్ చేయడానికి ముందు మీ డేటాను బ్యాకప్ చేయాలని ఇప్పటికీ సిఫార్సు చేయబడింది.
+2. అప్‌డేట్ సమయంలో మీకు ఏవైనా సమస్యలు ఎదురైతే, దయచేసి HONOR సర్వీస్ హాట్‌లైన్‌కు కాల్ చేయండి లేదా మద్దతు కోసం HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+</features>
+</language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>เรียนผู้ใช้ ในการอัปเดตครั้งนี้ การบันทึกหน้าจอจะมีความละเอียดให้เลือกใช้สามระดับ และรีลีสนี้ยังปรับปรุงเสถียรภาพของระบบอีกด้วย เราจึงขอแนะนำให้คุณทำการอัปเดต</feature>
+</features>
+<features module="แอประบบ">
+<feature>มีความละเอียดให้ใช้ได้สามระดับ (480 พิกเซล/720 พิกเซล/1080 พิกเซล) สำหรับคุณภาพของวิดีโอในการบันทึกหน้าจอ ทดลองได้โดยไปที่: การตั้งค่า > ฟีเจอร์การเข้าถึง > การบันทึกหน้าจอ > คุณภาพของวิดีโอ</feature>
+</features>
+<features module="ความปลอดภัย">
+<feature>จำเป็นต้องมีการรับรองความถูกต้องของผู้ใช้เพื่อวัตถุประสงค์ในการสลับการเชื่อมต่อ USB การยืนยันหรือข้อความแจ้งเตือนความปลอดภัยจะปรากฏเมื่อคุณเลือกถ่ายโอนภาพถ่ายหรือถ่ายโอนไฟล์ / Android Auto แทนที่จะชาร์จเท่านั้น เพื่อให้แน่ใจถึงการถ่ายโอนข้อมูลที่ปลอดภัยขึ้น
+มีการรวมแพตช์การรักษาความปลอดภัย Android (ธ.ค. 2024) เพื่อรักษาความปลอดภัยระบบ หากต้องการข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตด้านความปลอดภัยของ HONOR โปรดไปที่เว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="โปรดทราบ:" type="end">
+<feature>1. การติดตั้งอัปเดตนี้จะไม่กระทบต่อข้อมูลส่วนตัวของคุณ แต่เรายังคงแนะนำให้สำรองข้อมูลของคุณก่อนที่จะอัปเดต
+2. หากคุณพบปัญหาใด ๆ ในระหว่างการอัปเดต โปรดโทรติดต่อสายด่วนการบริการของ HONOR หรือไปที่ศูนย์บริการลูกค้าของ HONOR เพื่อขอการสนับสนุน</feature>
+</features>
+</language>
+
+<language name="tl-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, sa update na ito, available ang tatlong antas ng resolution para sa kalidad ng video sa mga recording ng screen. Pinapahusay din ng release na ito ang stability ng system. Inirerekomendang mag-update.</feature>
+</features>
+<features module="Mga app ng system">
+<feature>Available ang tatlong antas ng resolution (480P/720P/1080P) para sa kalidad ng video sa mga recording ng screen. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Mga feature ng accessibility > Recording ng screen > Kalidad ng video.</feature>
+</features>
+<features module="Seguridad">
+<feature>Kinakailangan ang pag-authenticate ng user kapag lumilipat ng mga layunin ng koneksyon sa USB. Lalabas ang isang prompt ng pag-verify o panseguridad na prompt kapag pinili mo ang Maglipat ng mga larawan o Maglipat ng mga file / Android Auto, sa halip na Mag-charge lang, na tumitiyak sa mas ligtas na paglilipat ng data.
+Isinama ang panseguridad na patch ng Android (Dis 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="fil-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, sa update na ito, available ang tatlong antas ng resolution para sa kalidad ng video sa mga recording ng screen. Pinapahusay din ng release na ito ang stability ng system. Inirerekomendang mag-update.</feature>
+</features>
+<features module="Mga app ng system">
+<feature>Available ang tatlong antas ng resolution (480P/720P/1080P) para sa kalidad ng video sa mga recording ng screen. Subukan ito sa pamamagitan ng pagpunta sa: Mga Setting > Mga feature ng accessibility > Recording ng screen > Kalidad ng video.</feature>
+</features>
+<features module="Seguridad">
+<feature>Kinakailangan ang pag-authenticate ng user kapag lumilipat ng mga layunin ng koneksyon sa USB. Lalabas ang isang prompt ng pag-verify o panseguridad na prompt kapag pinili mo ang Maglipat ng mga larawan o Maglipat ng mga file / Android Auto, sa halip na Mag-charge lang, na tumitiyak sa mas ligtas na paglilipat ng data.
+Isinama ang panseguridad na patch ng Android (Dis 2024) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi makakaapekto sa iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa ring i-back up ang iyong data bago mag-update.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Değerli kullanıcımız, bu güncelleme ile ekran kayıtlarındaki video kalitesi seçeneklerine üç çözünürlük seviyesi eklenmiştir. Bu sürüm ayrıca sistem kararlılığını da iyileştirmektedir. Güncellemeniz tavsiye edilir.</feature>
+</features>
+<features module="Sistem uygulamaları">
+<feature>Ekran kayıtlarında video kalitesi için üç çözünürlük seviyesi (480P/720P/1080P) seçeneği eklendi. Şuraya giderek deneyebilirsiniz: Ayarlar > Erişilebilirlik özellikleri > Ekran kaydı > Video kalitesi.</feature>
+</features>
+<features module="Güvenlik">
+<feature>USB bağlantı amacı değiştirilirken kullanıcı kimlik doğrulaması gerekli hale getirilmiştir. Sadece şarj yerine Fotoğraf aktarımı veya Dosya aktarma/Android Auto'yu seçtiğinizde bir doğrulama ya da güvenlik istemi görünür ve bu da daha güvenli veri aktarımı sağlar.
+Sistem güvenliği için Android güvenlik yaması (Aralık 2024) dahil edilmiştir. HONOR Güvenlik güncellemeleri hakkında daha fazla bilgi için lütfen https://www.honor.com/tr/support/bulletin/2024/12 adresinden web sitemizi ziyaret edin</feature>
+</features>
+<features module="Notlar:" type="end">
+<feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi etkilemeyecektir, fakat yine de güncelleme yapmadan önce yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri servisi merkezlerinden birine gidin.</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>‏ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىم يېڭىلاشتا ئېكران خاتىرىلەش ئۈچ دەرىجىلىك ئېنىقلىق تەڭشەشنى قوللايدىغان بولدى، سىستېمىنىڭ بىخەتەرلىكى ئۆستۈرۈلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏«سىستېما ئەپى»">
+<feature>‏ئېكران ئېنىقلىقىنى ئىختىيارىيلاشتۇرۇش ئىقتىدارى يېڭىدىن قوشۇلدى، ئۈچ دەرىجە بويىچە تەڭشەش (480P/720P/1080P) نى قوللايدۇ، مۇناسىپ ئېنىقلىقنى خالىغانچە تاللاپ ئېكران خاتىرىلىيەلەيسىز، ئېكران خاتىرىلەش تېخىمۇ سۈزۈك بولىدۇ، تەڭشەش يولى: تەڭشەك > ياردەمچى ئىقتىدار > ئېكران خاتىرىلەش > ئېنىقلىق تاللاش.</feature>
+</features>
+<features module="‏«بىخەتەرلىك»">
+<feature>‏‏USB ئۇلاش ئۇسۇلىنى ئۆزگەرتكەندە ئىشلەتكۈچى سالاھىيىتىنى دەلىللەش باسقۇچى قوشۇلغان بولۇپ، «پەقەت توكلاش» تىن «رەسىم يوللاش» ياكى «ھۆججەت يوللاش/Android Auto» ھالىتىگە ئالماشتۇرغاندا دەلىللەش كۆرۈنمە يۈزى ياكى بىخەتەرلىك ئەسكەرتمىسى پەيدا بولۇپ، مەلۇمات يوللىشىڭىزنى تېخىمۇ بىخەتەر قىلىدۇ.
+ئاندرويدنىڭ 2024-يىل 12-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Шановний користувачу! У цьому оновленні для якості відео в записах вмісту екрана доступні три рівні роздільної здатності. Цей випуск також покращує стабільність роботи системи. Рекомендовано встановити це оновлення.</feature>
+</features>
+<features module="Системні додатки">
+<feature>Для якості відео у записах вмісту екрана доступні три рівні роздільної здатності (480P, 720P, 1080P). Випробуйте нововведення, вибравши "Налаштування" > "Функції спеціальних можливостей" > "Запис вмісту екрана" > "Якість відео".</feature>
+</features>
+<features module="Безпека">
+<feature>У разі змінення цілей підключення через USB вимагається автентифікація користувача. Коли ви вибираєте "Передавання фото" або "Передавання файлів / Android Auto" замість "Лише заряджання", з’являється запит на підтвердження або запит щодо безпеки, що гарантує безпечніше передавання даних.
+Для посилення безпеки системи впроваджено виправлення для системи безпеки Android від грудня 2024 року. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Примітки" type="end">
+<feature>1. Установлення цього оновлення не вплине на ваші особисті дані, але перед оновленням радимо створити їхню резервну копію.
+2. Якщо під час оновлення виникнуть якісь проблеми, зателефонуйте на гарячу лінію служби підтримки HONOR або зверніться по допомогу в сервісний центр для клієнтів HONOR.</feature>
+</features>
+</language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>محترم صارف، اس اپ ڈیٹ میں، اسکرین ریکارڈنگ میں ویڈیو کے معیار کے لیے ریزولوشن کی تین سطحیں دستیاب ہیں۔ یہ ریلیز سسٹم کے استحکام کو بھی بہتر بناتی ہے۔ اپ ڈیٹ کرنے کی تجویز دی جاتی ہے۔</feature>
+</features>
+<features module="سسٹم ایپس">
+<feature>اسکرین ریکارڈنگ میں ویڈیو کے معیار کے لیے ریزولیوشن کی تین سطحیں (480P/720P/1080P) دستیاب ہیں۔ یہاں جا کر اسے آزمائیں: ترتیبات > رسائی پذیری کی خصوصیات > اسکرین ریکارڈنگ > ویڈیو کا معیار۔</feature>
+</features>
+<features module="سکیورٹی">
+<feature>‏‏USB کنکشن کے مقاصد کو تبدیل کرتے وقت صارف کی تصدیق کی ضرورت ہوتی ہے۔ جب آپ صرف چارج کریں کی بجائے، تصاویر منتقل کریں یا فائلز منتقل کریں / Android خود کار کو منتخب کرتے ہیں ایک تصدیقی یا سکیورٹی پرامپٹ ظاہر ہوتا ہے، جو ڈیٹا کی محفوظ منتقلی کو یقینی بناتا ہے۔
+سسٹم سکیورٹی کے لیے Android سکیورٹی پیچ (دسمبر 2024) شامل کر دیا گیا ہے۔ HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ https://www.honor.com/global/support/bulletin/2024/12 ملاحظہ کریں</feature>
+</features>
+<features module="نوٹس:" type="end">
+<feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں متاثر ہو گا، لیکن پھر بھی اپ ڈیٹ کرنے سے پہلے سے اپنے ڈیٹا کا بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2۔ اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+</features>
+</language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Hurmatli foydalanuvchi, ushbu yangilanishda ekran yozuvlari video sifati uchun uchta aniqlik darajasi taqdim etildi. Bu nashrda tizim barqarorligi ham yaxshilandi. Yangilash tavsiya etiladi.</feature>
+</features>
+<features module="Tizim ilovalari">
+<feature>Ekran yozuvlarida video sifati uchun uchta aniqlik darajasidan (480P/720P/1080P) tanlash mumkin. Bu yerda sinang: Sozlamalar > Maxsus imkoniyatlar funksiyalari > Ekrandan yozib olish > Video sifati.</feature>
+</features>
+<features module="Xavfsizlik">
+<feature>USB ulanish maqsadlarini almashtirishda foydalanuvchi autentifikatsiyasi talab qilinadi. “Faqat quvvatlash” oʻrniga “Suratlarni uzatish” yoki “Fayllarni o'tkazish / Android Auto” tanlaganida, maʼlumotlarni xavfsiz uzatishni taʼminlash uchun tasdiqlash yoki xavfsizlik haqida ogohlantirish oynasi ochiladi.
+Tizim xavfsizligi uchun Android xavfsizlik tuzatmasi (2024-yil, dekabr) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Eslatmalar:" type="end">
+<feature>1. Bu yangilanishni oʻrnatish shaxsiy maʼlumotlaringizga taʼsir qilmaydi, lekin yangilashdan oldin maʼlumotlaringizni zaxiralash tavsiya etiladi.
+2. Agar yangilash paytida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+</features>
+</language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Người dùng thân mến, trong bản cập nhật này, có 3 mức độ phân giải cho chất lượng video trong bản ghi màn hình. Bản phát hành này cũng cải thiện độ ổn định của hệ thống. Bạn nên cập nhật.</feature>
+</features>
+<features module="Ứng dụng hệ thống">
+<feature>Có 3 mức độ phân giải (480P/720P/1080P) cho chất lượng video trong bản ghi màn hình. Hãy dùng thử bằng cách vào: Cài đặt > Tính năng Trợ năng > Ghi màn hình > Chất lượng video.</feature>
+</features>
+<features module="Bảo mật">
+<feature>Cần xác thực người dùng khi chuyển đổi mục đích kết nối USB. Một thông báo nhắc xác minh hoặc bảo mật sẽ xuất hiện khi bạn chọn Truyền tải ảnh hoặc Truyền tệp tin/Android Auto, thay vì Chỉ sạc pin, giúp truyền dữ liệu an toàn hơn.
+Bản cập nhật này tích hợp một bản vá bảo mật Android (tháng 12 năm 2024) để bảo mật hệ thống. Để biết thêm thông tin về các Bản cập nhật bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2024/12</feature>
+</features>
+<features module="Ghi chú:" type="end">
+<feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị ảnh hưởng. Tuy nhiên, bạn vẫn nên sao lưu dữ liệu trước khi cập nhật.
+2. Nếu bạn gặp bất kỳ sự cố nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ khách hàng của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新屏幕錄影支援三檔解析度調節，提升系統安全，建議您更新。</feature>
+</features>
+<features module="【系統應用程式】">
+<feature>新增錄屏解析度自訂功能，支援三擋可調節（480P/720P/1080P），隨心選擇對應的解析度進行屏幕錄影，使錄屏更清晰，設定路徑：設定 > 輔助功能 > 屏幕錄影 > 清晰度選擇。</feature>
+</features>
+<features module="【安全】">
+<feature>更改 USB 連接方式時增加用戶身份驗證，從「僅充電」切換至「傳輸相片」或「傳輸檔案 / Android Auto」模式時，彈出驗證介面或安全性提示，讓您的數據傳輸更安全。
+整合 Android 2024年12月的安全性修補程式，增強系統安全性。如需有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線，或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新螢幕錄影支援三檔解析度調整，提升系統安全，建議您進行更新。</feature>
+</features>
+<features module="【系統應用程式】">
+<feature>新增螢幕錄影解析度自訂功能，支援三檔可調整 (480P/720P/1080P)，隨心選取對應的解析度進行螢幕錄影，使螢幕錄影更清晰，設定路徑：設定 > 無障礙功能 > 螢幕錄影 > 解析度選取。</feature>
+</features>
+<features module="【安全】">
+<feature>變更 USB 連接方式時新增使用者身分驗證，從「僅充電」切換至「傳輸相片」或「傳輸檔案 / Android Auto」模式時，彈出驗證畫面或安全提示，讓您的資料傳輸更安全。
+整合 Android 2024 年 12 月安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2024/12</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+</root>

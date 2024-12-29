@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>747273086</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>939</payloadOffset>
+<fileHash>uaHHEd/PqnHiMP+XOm7QMlJQkTsk+IoeK2b/cOcq3bw=</fileHash>
+<fileSize>655367598</fileSize>
+<metadataHash>W/I0JcxEE6y3kA77BtnMx9QYbgJ35JIBLBm+kSz9idA=</metadataHash>
+<metadataSize>7043</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_FCP-N49_def_eea_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_FCP-N49_def_eea_R3.zip</spath>
+<dpath>update_preload_FCP-N49_def_eea_R3.zip</dpath>
+<operation>c</operation>
+<sha256>82EC25AEA12006C7F27EDAEDFF0AF9852F8509EFA1D5FA1669B7DD1D104B474D</sha256>
+<size>655374944</size>
+</file>
+</files>
+</root>

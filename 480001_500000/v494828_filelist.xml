@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1214750720</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>K2LP+PpD6xLFXx0YtCoVnwFFrLXmYGNWngjfjUzPtfM=</fileHash>
+<fileSize>63586</fileSize>
+<metadataHash>7j8QG1bH4wEs048rGG/yX3YR2sGCiaV1GyQjwIjWxA0=</metadataHash>
+<metadataSize>30300</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_BRP-N03_def_la_R100.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_BRP-N03_def_la_R100.zip</spath>
+<dpath>update_full_preload_BRP-N03_def_la_R100.zip</dpath>
+<operation>c</operation>
+<sha256>52AD9963AA0079180B75EE81C79C8CEBE47C40EB3EFD85011998707A27FBF0E8</sha256>
+<size>70760</size>
+</file>
+</files>
+</root>

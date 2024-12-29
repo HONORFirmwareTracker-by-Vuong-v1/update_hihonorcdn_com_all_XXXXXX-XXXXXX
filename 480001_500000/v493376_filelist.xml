@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>13047015</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>774</payloadOffset>
+<fileHash>QbDS+3wR2FjDNHxQ9/wFxfBKb137SlBCfECRXgWyEV4=</fileHash>
+<fileSize>151001</fileSize>
+<metadataHash>FcLXkgEbdoUSP3tEtYyGF8B0ZT91XUKdKTtlTAFpBVU=</metadataHash>
+<metadataSize>1101</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PTP-AN10_all_cn.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PTP-AN10_all_cn.zip</spath>
+<dpath>update_full_cust_PTP-AN10_all_cn.zip</dpath>
+<operation>c</operation>
+<sha256>8CFBFECD1AE887BDF64619EED45B2ED1EB50D0586A1D3A98D086FF4BC66F877D</sha256>
+<size>158168</size>
+</file>
+</files>
+</root>
