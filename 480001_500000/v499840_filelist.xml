@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>23555037</compressCowSize>
+<cowsize>1298964480</cowsize>
+<payloadOffset>767</payloadOffset>
+<fileHash>26VOnyTt+w3mAHa/oWljvXfUuSY8LGiA0tR4hwNM78s=</fileHash>
+<fileSize>68914</fileSize>
+<metadataHash>4lDJWmB1XVU+xUlRB1qCMhqk9kavBdrpUsQ7aSvzu5c=</metadataHash>
+<metadataSize>32471</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_PTP-N59_porsche_eea.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_PTP-N59_porsche_eea.zip</spath>
+<dpath>update_full_cust_PTP-N59_porsche_eea.zip</dpath>
+<operation>c</operation>
+<sha256>776A8351D7D3FFBAAFA78B7BB8DE5B34571C99666B4587E9C0600218F620305F</sha256>
+<size>76071</size>
+</file>
+</files>
+</root>

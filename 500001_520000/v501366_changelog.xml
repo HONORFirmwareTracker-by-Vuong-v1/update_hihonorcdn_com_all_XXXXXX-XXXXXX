@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="请自行修改"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新主要针对系统进行优化，推荐您进行更新。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This recommended update includes system optimizations for your device.</feature>
+</features>
+<features module="Update note:" type="end">
+<feature>Installing this update will not erase your personal data, but we recommend that you back up any important data before proceeding.</feature>
+</features>
+</language>
+</root>

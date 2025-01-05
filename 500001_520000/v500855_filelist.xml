@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>1</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>593435618</compressCowSize>
+<cowsize>2166366208</cowsize>
+<payloadOffset>799</payloadOffset>
+<fileHash>VWGyQoyNQJkwPi1oJD5jBfkb0IMgYtQHsHcwFANhiPQ=</fileHash>
+<fileSize>532749327</fileSize>
+<metadataHash>GkuMfp0UI0wGx3NTIzC2cHOamUI3/+ga3QP7ekPMIRk=</metadataHash>
+<metadataSize>57016</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_full_preload_PTP-N49_def_tr_R3.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_preload_PTP-N49_def_tr_R3.zip</spath>
+<dpath>update_full_preload_PTP-N49_def_tr_R3.zip</dpath>
+<operation>c</operation>
+<sha256>BAAA89DCD0992ECB06EE5CBBC6E230DC9BE080176B8B98EB5D12D90C76CB8E76</sha256>
+<size>532756766</size>
+</file>
+</files>
+</root>

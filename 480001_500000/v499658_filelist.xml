@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>full</packageType>
+<packageSolution>cust</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>44179456</cowsize>
+<payloadOffset>782</payloadOffset>
+<fileHash>eqpidN7wa+hAgFkuYnY99OLxsT8VZ8JCsQJRnF8yYBk=</fileHash>
+<fileSize>1299054</fileSize>
+<metadataHash>X4VH/B9sXUCl42gfPsGEQh4KpkerwoiI2PQEud0U1WI=</metadataHash>
+<metadataSize>1077</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="cust" package="update_full_cust_VER-N49_def_la.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_full_cust_VER-N49_def_la.zip</spath>
+<dpath>update_full_cust_VER-N49_def_la.zip</dpath>
+<operation>c</operation>
+<sha256>53B19035A6F57FCD4F46AAA98B195050688167E77A4075ED13A6299B7F31757E</sha256>
+<size>1306223</size>
+</file>
+</files>
+</root>

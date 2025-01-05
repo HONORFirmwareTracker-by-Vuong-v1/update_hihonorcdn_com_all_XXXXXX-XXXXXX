@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新将回退至MagicOS 8.0版本，回退操作将清理您的个人数据，请务必做好数据备份。</feature>
+</features>
+<features module="注意事项： " type="end">
+<feature>‌电量要求‌：确保手机电量在50%以上，以避免回退过程中因电量不足而中断。
+‌关闭查找手机功能‌：为确保回退过程顺利进行，请关闭手机的“查找我的手机”功能。
+‌存储空间‌：确保手机内部存储空间充足，至少保留30GB以上的空间，以便进行回退操作。
+‌系统要求‌：请确保当前系统为官方版本，且未进行任何非官方版本升级或解锁、Root等操作。
+如果在回退过程中遇到任何问题，或者以上方法无法成功回退系统，建议联系荣耀官方客服或前往荣耀官方售后服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this update will downgrade your phone to MagicOS 8.0 version. This will clear your personal data, so please make sure to back up your data before updating.</feature>
+</features>
+<features module="Notes: " type="end">
+<feature>‌Battery‌: Ensure the phone battery is above 50% to avoid interruption due to insufficient power during the rollback. 
+‌Turn off Find My Phone‌: Turn off Find My Phone on your device to ensure the rollback goes smoothly. 
+‌Storage space‌: Ensure there is at least 30GB or more storage space to proceed with the rollback. 
+‌System‌: Ensure your device is running the official version of the system and it has not been subjected to unofficial version upgrades, unlocking, rooting, or any other operations. 
+If you encounter any issues during the rollback or do not successfully downgrade your phone with the above methods, it is recommended to contact HONOR official customer service or visit an HONOR official service center for support.</feature>
+</features>
+</language>
+
+</root>
