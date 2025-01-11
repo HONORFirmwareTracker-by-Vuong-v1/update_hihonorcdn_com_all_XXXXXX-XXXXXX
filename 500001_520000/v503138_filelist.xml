@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>946</payloadOffset>
+<fileHash>d4GLKn/mNagIfaCE9nrOIb6K8Rw6nVKe3izn5+bbhis=</fileHash>
+<fileSize>1022372839</fileSize>
+<metadataHash>vQiTd+NW4+5CtVxd9eBQ/sGGf3PO5FpeZ3zEevEHVHE=</metadataHash>
+<metadataSize>30722</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_ANN-TN00_cmcc_cn_R9.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_ANN-TN00_cmcc_cn_R9.zip</spath>
+<dpath>update_preload_ANN-TN00_cmcc_cn_R9.zip</dpath>
+<operation>c</operation>
+<sha256>1A6041C6CAE5419109D9DE7F8E25996FBFECCED84E3ECD9E358FD59972479C47</sha256>
+<size>1022380196</size>
+</file>
+</files>
+</root>

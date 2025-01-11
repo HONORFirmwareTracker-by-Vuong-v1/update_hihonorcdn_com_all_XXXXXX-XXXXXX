@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<cowsize>1593696256</cowsize>
+<payloadOffset>884</payloadOffset>
+<fileHash>oVP8AzKdM6yrOiroU+LA1XY0IkLqV0yQqPp1tAHVnvg=</fileHash>
+<fileSize>314842009</fileSize>
+<metadataHash>Wcsj3CAU0b+qID0MsmntzDDWC962JL2Ahe2j6Wqj9JI=</metadataHash>
+<metadataSize>32473</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<preAdjustFeature>false</preAdjustFeature>
+<vendorInfo name="preload" package="update_preload_ROD-W09_all_cn_R5.zip" precut_size="0" subpath=""/>
+<GROUP version="NA"/>
+<GBP version="NA"/>
+<files>
+<file>
+<spath>update_preload_ROD-W09_all_cn_R5.zip</spath>
+<dpath>update_preload_ROD-W09_all_cn_R5.zip</dpath>
+<operation>c</operation>
+<sha256>C3BD1D5A09B0D05089FF7607B8F864A038212AFCD21DACBDF0BCFDBEA963947E</sha256>
+<size>314849298</size>
+</file>
+</files>
+</root>

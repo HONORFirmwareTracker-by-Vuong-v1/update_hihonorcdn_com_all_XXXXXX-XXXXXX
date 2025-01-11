@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component>
+<name>TCPU</name>
+<compress>0</compress>
+</component>
+<maxStashInfo>52428800</maxStashInfo>
+<supportPKI>1</supportPKI>
+<packageType>increment</packageType>
+<packageSolution>preload</packageSolution>
+<VirtualAB>
+<support>1</support>
+<supportCowCompress>0</supportCowCompress>
+<ForceCowCompress>0</ForceCowCompress>
+<compressCowSize>0</compressCowSize>
+<cowsize>1593712640</cowsize>
+<payloadOffset>940</payloadOffset>
+<fileHash>XgTRYJc+Bj/rLLgoA241pBWw4o+8WEFUwd5n96bQxFM=</fileHash>
+<fileSize>918271135</fileSize>
+<metadataHash>544LpjwMVQgxIL2FYVYN/sABz/jOUSe1rUFRQsGMA+4=</metadataHash>
+<metadataSize>30917</metadataSize>
+<powerWash>0</powerWash>
+<switchSlotOnReboot>1</switchSlotOnReboot>
+<runPostInstall>1</runPostInstall>
+</VirtualAB>
+<vendorInfo name="preload" package="update_preload_AGT-AN00_all_cn_R6.zip" precut_size="0" subpath=""/>
+<files>
+<file>
+<spath>update_preload_AGT-AN00_all_cn_R6.zip</spath>
+<dpath>update_preload_AGT-AN00_all_cn_R6.zip</dpath>
+<operation>c</operation>
+<sha256>77C1094E528C8D41EA76E36C2CCEF2B81D2256DB6FA93D71A8C257F3C79731CA</sha256>
+<size>918278486</size>
+</file>
+</files>
+</root>

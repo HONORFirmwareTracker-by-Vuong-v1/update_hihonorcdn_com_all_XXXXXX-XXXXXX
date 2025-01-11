@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新主要针对系统进行了优化，推荐您进行更新。</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>This recommended update includes system optimizations for your device.</feature>
+</features>
+<features module="Update note:" type="end">
+<feature>1. Installing this update will not erase your personal data, but we recommend that you back up any important data before proceeding.
+2. For update issues, please reach out to the Honor customer service hotline or visit a service center.</feature>
+</features>
+</language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ይህ የሚመከር ዝማኔ ለመሳሪያዎ የስርዓት ማትቢያዎችን ያካትታል።</feature>
+</features>
+<features module="የዝማኔ ማስታወሻ፦" type="end">
+<feature>1. ይህን ዝማኔ መጫን የግል ውሂብዎን አይደመስሰውም፣ ነገር ግን ከመቀጠልዎ በፊት ማንኛውም አስፈላጊ የውሂብ መጠባበቂያ እንዲያስቀምጡ እንመክራለን።
+2. ለዝማኔ ችግሮች እባክዎ ወደ የHonor ደንበኛ አገልግሎት መስመር ይደውሉ ወይም አንድ የአገልግሎት ማዕከል ይጎብኙ።</feature>
+</features>
+</language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>يتضمن هذا التحديث الموصى به تحسينات نظام لجهازك.</feature>
+</features>
+<features module="ملاحظة حول التحديث:" type="end">
+<feature>1. لن يمسح تثبيت هذا التحديث بياناتك الشخصية، ولكننا نوصي بنسخ أي بيانات مهمة احتياطيًا قبل المتابعة.
+2. بالنسبة لمشكلات التحديث، يُرجى التواصل مع الخط الساخن لخدمة عملاء Honor أو زيارة أحد مراكز الخدمة.</feature>
+</features>
+</language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>এই অনুমোদিত আপডেটত আপোনাৰ ডিভাইচৰ বাবে ছিষ্টেম অনুকূলিতকৰণ অন্তৰ্ভুক্ত আছে।</feature>
+</features>
+<features module="আপডেটৰ টোকা:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটা মোহাৰি নেপেলাব, কিন্তু আপুনি আগবঢ়াৰ পূৰ্বে যিকোনো গুৰুত্বপূৰ্ণ ডাটাৰ বেক আপ লোৱাটো আমি অনুমোদন জনাও।
+2. আপডেটৰ সমস্যাসমূহৰ বাবে, অনুগ্ৰহ কৰি Honor গ্ৰাহক সেৱাৰ হটলাইনত যোগাযোগ কৰক বা এটা সেৱা কেন্দ্ৰ দৰ্শন কৰক।</feature>
+</features>
+</language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Bu tövsiyə edilən yeniləməyə cihazınız üçün sistem optimallaşdırmaları daxildir.</feature>
+</features>
+<features module="Yeniləmə qeydi:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması ilə şəxsi məlumatlarınız silinməyəcək, lakin davam etməmişdən əvvəl bütün vacib verilənlərin ehtiyat nüsxəsini çıxarmağınızı tövsiyə edirik.
+2. Yeniləmə problemləri ilə bağlı Honor müştəri xidmətləri üçün qaynar xətt ilə əlaqə saxlayın, yaxud xidmət mərkəzini ziyarət edin.</feature>
+</features>
+</language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Panganyaran sing disaranake iki kalebu pangoptimalan sistem kanggo piranti sampeyan.</feature>
+</features>
+<features module="Cathetan panganyaran:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mbusak data pribadi, nanging disaranake sampeyan nggawe serep data penting sadurunge terus.
+2. Kanggo masalah panganyaran, ubungi hotline layanan pelanggan Honor utawa parani pusat layanan.</feature>
+</features>
+</language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Ovo preporučeno ažuriranje obuhvata optimizacije sistema za vaš uređaj.</feature>
+</features>
+<features module="Napomena o ažuriranju:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće se obrisati vaši lični podaci, ali preporučujemo da napravite rezervnu kopiju svih važnih podataka pre nego što nastavite dalje.
+2. U slučaju problema sa ažuriranjem, obratite se dežurnoj liniji korisničke službe kompanije Honor ili posetite servisni centar.</feature>
+</features>
+</language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Ovo preporučeno ažuriranje obuhvata optimizacije sistema za vaš uređaj.</feature>
+</features>
+<features module="Napomena o ažuriranju:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće se obrisati vaši lični podaci, ali preporučujemo da napravite rezervnu kopiju svih važnih podataka pre nego što nastavite dalje.
+2. U slučaju problema sa ažuriranjem, obratite se dežurnoj liniji korisničke službe kompanije Honor ili posetite servisni centar.</feature>
+</features>
+</language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Ovo preporučeno ažuriranje obuhvata optimizacije sistema za vaš uređaj.</feature>
+</features>
+<features module="Napomena o ažuriranju:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće se obrisati vaši lični podaci, ali preporučujemo da napravite rezervnu kopiju svih važnih podataka pre nego što nastavite dalje.
+2. U slučaju problema sa ažuriranjem, obratite se dežurnoj liniji korisničke službe kompanije Honor ili posetite servisni centar.</feature>
+</features>
+</language>
+
+<language name="be-by" code="1033">
+<features module="" type="header">
+<feature>Гэта рэкамендаванае абнаўленне ўключае ў сябе аптымізацыю сістэмы вашай прылады.</feature>
+</features>
+<features module="Заўвага аб абнаўленні:" type="end">
+<feature>1. Устаноўка гэтага абнаўлення не сатрэ вашы асабістыя даныя, але мы рэкамендуем зрабіць рэзервовую копію важных даных, перш чым пачынаць.
+2. Пры ўзнікненні праблем з абнаўленнем звяртайцеся на гарачую лінію абслугоўвання кліентаў Honor або наведайце сэрвісны цэнтр.</feature>
+</features>
+</language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Тази препоръчана актуализация съдържа оптимизация на системата за вашето устройство.</feature>
+</features>
+<features module="Бележка към актуализацията:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да изтрие личните ви данни, но препоръчваме да архивирате всички важни данни, преди да продължите.
+2.При проблеми с актуализацията се свържете с горещата линия за обслужване на клиенти на Honor или посетете сервизен център.</feature>
+</features>
+</language>
+
+<language name="bn-bd" code="1033">
+<features module="" type="header">
+<feature>এই সুপারিশকৃত আপডেটটি আপনার ডিভাইসের জন্য সিস্টেম অপটিমাইজেশন অন্তর্ভুক্ত করেছে।</feature>
+</features>
+<features module="আপডেট নোট:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে আপনার ব্যক্তিগত ডেটা মুছবে না, কিন্তু এগিয়ে যাওয়ার পূর্বে আমরা আপনাকে গুরুত্বপূর্ণ ডেটা ব্যাক আপ করার সুপারিশ করছি।
+2. আপডেট সংক্রান্ত সমস্যাগুলির জন্য অনুগ্রহ করে Honor গ্রাহক সেবা হটলাইনে যোগাযোগ করুন অথবা একটি সেবা কেন্দ্র ভিজিট করুন।</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1033">
+<features module="" type="header">
+<feature>བརྩེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་ནི་གཙོ་བོ་རྒྱུད་ཁོངས་ལ་དམིགས་ནས་ལེགས་སྒྱུར་བྱས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུར་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="གསར་སྒྱུར་བྱེད་པར་དོ་སྣང་བྱེད་དགོས་དོན་གཤམ་གསལ་ལྟར།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་སུབ་མི་སྲིད། འོན་ཀྱང་སྔར་བཞིན་ཁྱེད་ཀྱིས་གསར་སྒྱུར་མ་བྱེད་གོང་དུ་གཞི་གྲངས་གྲབས་ཉར་བྱེད་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ནང་དུ། གལ་ཏེ་དོགས་གནད་གང་རུང་ཞིག་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་མཁོ་མཁན་ཞབས་ཞུའི་ལྟེ་གནས་ནས་རྒྱབ་སྐྱོར་འཚོལ་རོགས།</feature>
+</features>
+</language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Ovo preporučeno ažuriranje uključuje optimizacije sistema za vaš uređaj.</feature>
+</features>
+<features module="Napomena o ažuriranju:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće se izbrisati lični podaci, ali preporučujemo da napravite rezervnu kopiju svih važnih podataka prije nego što nastavite.
+2. Za probleme u vezi s ažuriranjem obratite se Honor dežurnoj liniji korisničke podrške ili posjetite servisni centar.</feature>
+</features>
+</language>
+
+<language name="ca-es" code="1033">
+<features module="" type="header">
+<feature>Aquesta actualització recomanada inclou optimitzacions del sistema per al dispositiu.</feature>
+</features>
+<features module="Nota sobre l'actualització:" type="end">
+<feature>1. Si instal·leu aquesta actualització, no s'esborraran les dades personals, però us recomanem que feu una còpia de les dades importants abans de continuar.
+2. Si teniu problemes d'actualització, poseu-vos en contacte amb la línia d'atenció al client d'Honor o aneu un centre de servei.</feature>
+</features>
+</language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Součástí této doporučené aktualizace jsou vylepšení systému vašeho zařízení.</feature>
+</features>
+<features module="Poznámka k aktualizaci:" type="end">
+<feature>1. Instalování této aktualizace nevymaže žádné vaše osobní údaje, ale přesto doporučujeme před aktualizací provést zálohu důležitých dat.
+2. Pokud během aktualizace dojde k problémům, kontaktujte zákaznickou linku společnosti Honor nebo navštivte servisní centrum.</feature>
+</features>
+</language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Denne anbefalede opdatering indeholder systemoptimeringer til din enhed.</feature>
+</features>
+<features module="Bemærkning til opdatering:" type="end">
+<feature>1. Installation af denne opdatering sletter ikke dine personlige data, men vi anbefaler, at du sikkerhedskopierer alle vigtige data, før du fortsætter.
+2. Hvis du har problemer med opdateringer, skal du kontakte Honor kundeservice hotline eller besøge et servicecenter.</feature>
+</features>
+</language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Diese empfohlene Aktualisierung enthält Systemoptimierungen für Ihr Gerät.</feature>
+</features>
+<features module="Hinweis zur Aktualisierung:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht, aber wir empfehlen Ihnen, alle wichtigen Daten zu sichern, bevor Sie fortfahren.
+2. Bei Problemen mit der Aktualisierung wenden Sie sich bitte an die Honor-Kundenhotline oder besuchen Sie ein Service-Center.</feature>
+</features>
+</language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Diese empfohlene Aktualisierung enthält Systemoptimierungen für Ihr Gerät.</feature>
+</features>
+<features module="Hinweis zur Aktualisierung:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht, aber wir empfehlen Ihnen, alle wichtigen Daten zu sichern, bevor Sie fortfahren.
+2. Bei Problemen mit der Aktualisierung wenden Sie sich bitte an die Honor-Kundenhotline oder besuchen Sie ein Service-Center.</feature>
+</features>
+</language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Diese empfohlene Aktualisierung enthält Systemoptimierungen für Ihr Gerät.</feature>
+</features>
+<features module="Hinweis zur Aktualisierung:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht, aber wir empfehlen Ihnen, alle wichtigen Daten zu sichern, bevor Sie fortfahren.
+2. Bei Problemen mit der Aktualisierung wenden Sie sich bitte an die Honor-Kundenhotline oder besuchen Sie ein Service-Center.</feature>
+</features>
+</language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Η προτεινόμενη ενημέρωση περιλαμβάνει βελτιστοποιήσεις συστήματος για τη συσκευή σας.</feature>
+</features>
+<features module="Σημείωση ενημέρωσης:" type="end">
+<feature>1. Αυτή η ενημέρωση δεν θα διαγράψει τα προσωπικά δεδομένα σας, ωστόσο συνιστούμε να δημιουργήσετε αντίγραφα ασφαλείας οποιωνδήποτε σημαντικών δεδομένων πριν να συνεχίσετε.
+2. Για προβλήματα ενημέρωσης, καλέστε την ανοιχτή τηλεφωνική γραμμή εξυπηρέτησης πελατών της Honor ή επισκεφθείτε ένα κέντρο εξυπηρέτησης.</feature>
+</features>
+</language>
+
+<language name="en-gb" code="2057">
+<features module="" type="header">
+<feature>This recommended update includes system optimisations for your device.</feature>
+</features>
+<features module="Update note:" type="end">
+<feature>1. Installing this update will not erase your personal data, but we recommend that you back up any important data before proceeding.
+2. For update issues, please reach out to the Honor customer service hotline or visit a service centre.</feature>
+</features>
+</language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Esta actualización recomendada incluye optimizaciones del sistema para su dispositivo.</feature>
+</features>
+<features module="Nota sobre la actualización:" type="end">
+<feature>1. La instalación de esta actualización no eliminará sus datos personales; sin embargo, le recomendamos hacer una copia de seguridad de los datos importantes antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de Honor o visite un centro de servicios.</feature>
+</features>
+</language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Esta actualización recomendada incluye optimizaciones de sistema para su dispositivo.</feature>
+</features>
+<features module="Nota de actualización:" type="end">
+<feature>1. Instalar esta actualización no eliminará sus datos personales; sin embargo, le recomendamos hacer una copia de seguridad de los datos importantes antes de continuar.
+2. Si tiene problemas con la actualización, llame a la línea de atención al cliente de Honor o visite un centro de servicio.</feature>
+</features>
+</language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>See soovitatav värskendus sisaldab süsteemioptimeerimisi teie seadmele.</feature>
+</features>
+<features module="Värskenduse teatis:" type="end">
+<feature>1. Selle värskenduse installimine ei kustuta teie isikuandmeid, kuid soovitame enne värskendamist olulised andmed varundada.
+2. Kui värskendamise ajal esineb probleeme, võtke abi saamiseks ühendust Honori klienditeeninduse infoliiniga või külastage Honori klienditeeninduskeskust.</feature>
+</features>
+</language>
+
+<language name="eu-es" code="1033">
+<features module="" type="header">
+<feature>Eguneratze gomendatu honek barne ditu zure gailuaren sistemaren optimizazioak.</feature>
+</features>
+<features module="Eguneratze-oharra:" type="end">
+<feature>1. Eguneratze hau instalatzean ez da ezabatuko datu pertsonalik, baina datuen babeskopia egitea gomendatzen dizugu, jarraitu baino lehen.
+2. Eguneratzeko arazorik izanez gero, jarri harremanetan Honor-en bezeroaren arreta-zerbitzuarekin doako telefonoaren bidez, edo joan zerbitzu-zentro batera.</feature>
+</features>
+</language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>این به‌روزرسانی توصیه‌شده شامل بهینه‌سازی‌های سیستم برای دستگاه شما است.</feature>
+</features>
+<features module="یادداشت به‌روزرسانی:" type="end">
+<feature>‏‏۱. با نصب این به‌روزرسانی، داده‌های شخصی شما پاک نمی‌شود، اما توصیه می‌کنیم پیش از ادامۀ کار، از همۀ داده‌های مهم خود پشتیبان بگیرید.
+۲. در خصوص مشکلات به‌روزرسانی، لطفاً با تلفن مستقیم خدمات مشتریان Honor تماس بگیرید.</feature>
+</features>
+</language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Tämä suositeltu päivitys sisältää järjestelmäoptimoinnit laitteellesi.</feature>
+</features>
+<features module="Päivitystä koskeva huomautus:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei pyyhi henkilökohtaisia tietojasi, mutta suosittelemme varmuuskopioimaan tärkeät tiedot ennen päivitystä.
+2. Jos päivityksissä ilmenee ongelmia, ota yhteys Honorin asiakaspalvelupuhelimeen tai käy huoltoliikkeessä.</feature>
+</features>
+</language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cette mise à jour recommandée comprend des optimisations du système pour votre appareil.</feature>
+</features>
+<features module="Note de mise à jour :" type="end">
+<feature>1. L'installation de cette mise à jour n'effacera pas vos données personnelles, mais nous vous recommandons de sauvegarder toutes vos données importantes avant de procéder.
+2. Pour les problèmes de mise à jour, veuillez contacter le Service clients Honor ou vous rendre dans un centre de services.</feature>
+</features>
+</language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cette mise à jour recommandée comprend des optimisations du système pour votre appareil.</feature>
+</features>
+<features module="Note de mise à jour :" type="end">
+<feature>1. L'installation de cette mise à jour n'effacera pas vos données personnelles, mais nous vous recommandons de sauvegarder toutes vos données importantes avant de procéder.
+2. Pour les problèmes de mise à jour, veuillez contacter le Service clients Honor ou vous rendre dans un centre de services.</feature>
+</features>
+</language>
+
+<language name="gl-es" code="1033">
+<features module="" type="header">
+<feature>Esta actualización recomendada inclúe optimizacións do sistema para o seu dispositivo.</feature>
+</features>
+<features module="Nota da actualización:" type="end">
+<feature>1. Ao instalar esta actualización non se eliminarán os seus datos persoais, pero recomendámoslle que faga unha copia de seguranza de todos os datos importantes antes de continuar.
+2. Se ten problemas coa actualización, contacte coa liña directa de servizo ao cliente de Honor ou visite un centro de servizos.</feature>
+</features>
+</language>
+
+<language name="gu-IN" code="1033">
+<features module="" type="header">
+<feature>ભલામણ કરેલી આ અપડેટમાં તમારા ઉપકરણ માટેનાં સિસ્ટમ ઓપ્ટિમાઇઝેશનનો સમાવેશ થાય છે.</feature>
+</features>
+<features module="અપડેટ નોંધ:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારો વ્યક્તિગત ડેટા ભૂંસાશે નહીં, પરંતુ અમે ભલામણ કરીએ છીએ કે તમે પ્રક્રિયા કરતા પહેલાં કોઇપણ મહત્વપૂર્ણ ડેટાનો બૅકઅપ લો.
+2. અપડેટના પ્રશ્નો માટે, કૃપા કરીને Honor ગ્રાહક સેવા હૉટલાઇનનો સંપર્ક કરો અથવા સેવા કેન્દ્રની મુલાકાત લો.</feature>
+</features>
+</language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>इस अनुशंसित अद्यतन में आपके डिवाइस के लिए सिस्टम अनुकूलता शामिल हैं।</feature>
+</features>
+<features module="अद्यतन नोट:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपका व्यक्तिगत डेटा नहीं मिटेगा, लेकिन हम अनुशंसा करते हैं कि आगे बढ़ने से पहले आप किसी भी महत्वपूर्ण डेटा का बैकअप लें।
+2. अद्यतन संबंधी समस्याओं के लिए, कृपया Honor ग्राहक सेवा हॉटलाइन से संपर्क करें या सेवा केंद्र पर जाएँ।</feature>
+</features>
+</language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Ovo preporučeno ažuriranje obuhvaća optimizacije sustava za vaš uređaj.</feature>
+</features>
+<features module="Napomena o ažuriranju:" type="end">
+<feature>1. Instaliranjem ovog ažuriranjem neće se izbrisati vaši osobni podaci, ali preporučujemo da prije nego što nastavite izradite sigurnosnu kopiju svih važnih podataka.
+2. Ako prilikom ažuriranja naiđete na bilo kakve poteškoće, za pomoć nazovite telefonsku korisničku službu tvrtke Honor ili posjetite servisni centar.</feature>
+</features>
+</language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Ez a javasolt frissítés rendszeroptimalizációkat tartalmaz a készülékével kapcsolatban.</feature>
+</features>
+<features module="Frissítési megjegyzés:" type="end">
+<feature>1. A frissítés telepítése nem törli személyes adatait, de a folytatás előtt ajánlott biztonsági mentést készíteni a fontos adatairól.
+2. A frissítési problémákkal kapcsolatban kérjük, hívja a Honor ügyfélszolgálati forródrótját vagy látogasson el egy szervizközpontba.</feature>
+</features>
+</language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pembaruan yang direkomendasikan ini menyertakan optimalisasi sistem untuk perangkat Anda.</feature>
+</features>
+<features module="Catatan pembaruan:" type="end">
+<feature>1. Memasang pembaruan ini tidak akan menghapus data pribadi Anda, namun kami merekomendasikan agar Anda mencadangkan data penting sebelum melanjutkan.
+2. Untuk masalah pembaruan, hubungilah saluran siaga layanan pelanggan Honor atau kunjungi pusat layanan.</feature>
+</features>
+</language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pembaruan yang direkomendasikan ini menyertakan optimalisasi sistem untuk perangkat Anda.</feature>
+</features>
+<features module="Catatan pembaruan:" type="end">
+<feature>1. Memasang pembaruan ini tidak akan menghapus data pribadi Anda, namun kami merekomendasikan agar Anda mencadangkan data penting sebelum melanjutkan.
+2. Untuk masalah pembaruan, hubungilah saluran siaga layanan pelanggan Honor atau kunjungi pusat layanan.</feature>
+</features>
+</language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Questo aggiornamento consigliato include ottimizzazioni di sistema per il tuo dispositivo.</feature>
+</features>
+<features module="Nota sull'aggiornamento:" type="end">
+<feature>1. L'installazione di questo aggiornamento non eliminerà le tue informazioni personali, ma ti consigliamo di eseguire il backup di tutti i dati importanti prima di procedere.
+2. Per problemi di aggiornamento, contatta la hotline servizio clienti Honor o visita un Servizio clienti.</feature>
+</features>
+</language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Questo aggiornamento consigliato include ottimizzazioni di sistema per il tuo dispositivo.</feature>
+</features>
+<features module="Nota sull'aggiornamento:" type="end">
+<feature>1. L'installazione di questo aggiornamento non eliminerà le tue informazioni personali, ma ti consigliamo di eseguire il backup di tutti i dati importanti prima di procedere.
+2. Per problemi di aggiornamento, contatta la hotline servizio clienti Honor o visita un Servizio clienti.</feature>
+</features>
+</language>
+
+<language name="iw-il" code="1033">
+<features module="" type="header">
+<feature>עדכון מומלץ זה כולל מיטובי מערכת עבור ההתקן שלך.</feature>
+</features>
+<features module="הערה לעדכון:" type="end">
+<feature>‏1. התקנת עדכון זה לא תמחק את הנתונים האישיים שלך, אבל אנו ממליצים שתגבה נתונים חשובים לפני שתמשיך.
+‏2. עבור בעיות בעדכון, יש לפנות אל הקו החם של שירות הלקוחות של Honor או לבקר במרכז שירות.</feature>
+</features>
+</language>
+
+<language name="he-" code="1033">
+<features module="" type="header">
+<feature>עדכון מומלץ זה כולל מיטובי מערכת עבור ההתקן שלך.</feature>
+</features>
+<features module="הערה לעדכון:" type="end">
+<feature>‏1. התקנת עדכון זה לא תמחק את הנתונים האישיים שלך, אבל אנו ממליצים שתגבה נתונים חשובים לפני שתמשיך.
+‏2. עבור בעיות בעדכון, יש לפנות אל הקו החם של שירות הלקוחות של Honor או לבקר במרכז שירות.</feature>
+</features>
+</language>
+
+<language name="ja-jp" code="1033">
+<features module="" type="header">
+<feature>この推奨更新には、デバイスのシステムの最適化が含まれています。</feature>
+</features>
+<features module="更新の注意点：" type="end">
+<feature>1. この更新をインストールしても個人情報が消去されることはありませんが、インストールする前に重要なデータをバックアップすることを推奨します。
+2. 更新に問題が発生した場合は、Honorコールセンターにお問い合わせいただくか、サービスセンターにご相談ください。</feature>
+</features>
+</language>
+
+<language name="ka-ge" code="1033">
+<features module="" type="header">
+<feature>ეს რეკომენდებული განახლება შეიცავს თქვენი მოწყობილობისთვის სისტემის ოპტიმიზაციებს.</feature>
+</features>
+<features module="განახლების შენიშვნა:" type="end">
+<feature>1. ამ განახლების ინსტალირება არ წაშლის თქვენს პერსონალურ მონაცემებს, თუმცა გირჩევთ, გაგრძელებამდე დაარეზერვოთ მნიშვნელოვანი მონაცემები.
+2. განახლებასთან დაკავშირებული პრობლემების შემთხვევაში, დაუკავშირდით Honor-ის კლიენტთა მომსახურების ცხელ ხაზს ან ეწვიეთ სერვისცენტრს.</feature>
+</features>
+</language>
+
+<language name="kk-kz" code="1033">
+<features module="" type="header">
+<feature>Бұл ұсынылған жаңарту құрылғыңызға арналған жүйелік оңтайландырулардан тұрады.</feature>
+</features>
+<features module="Жаңарту туралы ескертпе:" type="end">
+<feature>1. Бұл жаңартуды орнатсаңыз, жеке деректер өшпейді, бірақ жалғастыру алдында маңызды деректерді сақтық көшіру ұсынылады.
+2. Жаңарту мәселелері бойынша Honor тұтынушыларға қызмет көрсету орталығының ыстық желісіне хабарласыңыз немесе сервистік орталыққа барыңыз.</feature>
+</features>
+</language>
+
+<language name="km-kh" code="1033">
+<features module="" type="header">
+<feature>បច្ចុប្បន្នភាព​ដែលបានណែនាំនេះ​រួមបញ្ចូល​ការធ្វើឱ្យប្រព័ន្ធ​ប្រសើរឡើង​សម្រាប់​ឧបករណ៍​របស់អ្នក។</feature>
+</features>
+<features module="កំណត់សម្គាល់អំពីបច្ចុប្បន្នភាព៖" type="end">
+<feature>1. ការដំឡើងបច្ចុប្បន្នភាពនេះនឹងមិនលុបទិន្នន័យផ្ទាល់ខ្លួនរបស់អ្នកចេញទេ ប៉ុន្តែយើងសូមណែនាំឱ្យអ្នក​បម្រុងទុកទិន្ន​ន័យ​សំខាន់ៗទាំងឡាយ មុននឹងបន្ត។
+2. សម្រាប់​បញ្ហា​ធ្វើបច្ចុប្បន្នភាព សូម​ទាក់ទងទៅ​ខ្សែទូរស័ព្ទរហ័សបម្រើ​អតិថិជន​របស់ Honor ឬ​ទៅកាន់​មជ្ឈមណ្ឌលសេវាកម្ម។</feature>
+</features>
+</language>
+
+<language name="kn-IN" code="1033">
+<features module="" type="header">
+<feature>ಈ ಶಿಫಾರಸು ಮಾಡಲಾದ ನವೀಕರಣವು ನಿಮ್ಮ ಸಾಧನಕ್ಕೆ ಸಿಸ್ಟಂ ಆಪ್ಟಿಮೈಜೇಶನ್‌ಗಳನ್ನು ಒಳಗೊಂಡಿದೆ.</feature>
+</features>
+<features module="ನವೀಕರಣ ಟಿಪ್ಪಣಿ:" type="end">
+<feature>1. ಈ ನವೀಕರಣ ಸ್ಥಾಪಿಸುವಿಕೆಯು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ, ಆದರೆ ಮುಂದುವರೆಯುವ ಮೊದಲು ನೀವು ಯಾವುದೇ ಪ್ರಮುಖ ಡೇಟಾವನ್ನು ಬ್ಯಾಕ್ ಅಪ್ ಮಾಡಬೇಕೆಂದು ನಾವು ಶಿಫಾರಸು ಮಾಡುತ್ತೇವೆ.
+2. ನವೀಕರಣ ಸಮಸ್ಯೆಗಳಿಗೆ, Honor ಗ್ರಾಹಕ ಸೇವಾ ಹಾಟ್‍ಲೈನ್‌ ಅನ್ನು ಸಂಪರ್ಕಿಸಿ ಅಥವಾ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಭೇಟಿ ನೀಡಿ.</feature>
+</features>
+</language>
+
+<language name="ko-kr" code="1033">
+<features module="" type="header">
+<feature>이 권장 업데이트에는 장치에 대한 시스템 최적화가 포함되어 있습니다.</feature>
+</features>
+<features module="업데이트 참고 사항:" type="end">
+<feature>1.이 업데이트를 설치해도 개인 데이터는 지워지지 않지만 중요한 데이터를 백업한 다음 계속하는 것이 바람직합니다.
+2.업데이트 문제는 Honor 고객 서비스 핫라인으로 문의하거나 서비스 센터를 방문하십시오.</feature>
+</features>
+</language>
+
+<language name="lo-la" code="1033">
+<features module="" type="header">
+<feature>ການອັບເດດທີ່ແນະນຳນີ້ລວມມີການປັບລະບົບໃຫ້ເໝາະສົມສຳລັບອຸປະກອນຂອງທ່ານ.</feature>
+</features>
+<features module="ບັນທຶກການອັບເດດ:" type="end">
+<feature>1. ການຕິດຕັ້ງການອັບເດດນີ້ຈະບໍ່ລຶບຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ, ແຕ່ພວກເຮົາແນະນຳໃຫ້ທ່ານສຳຮອງຂໍ້ມູນສຳຄັນກ່ອນການສືບຕໍ່.
+2. ສຳລັບບັນຫາການອັບເດດ, ກະລຸນາຕິດຕໍ່ສາຍດ່ວນສູນບໍລິການລູກຄ້າ Honor ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການ.</feature>
+</features>
+</language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Įdiegus šį rekomenduojamą naujinį, optimizuojama įrenginio sistema.</feature>
+</features>
+<features module="Atnaujinimo pastaba" type="end">
+<feature>1. Įdiegus šį naujinį, jūsų asmeniniai duomenys nebus ištrinti, tačiau rekomenduojame prieš tęsiant padaryti svarbių duomenų atsarginę kopiją.
+2. Dėl naujinimo problemų kreipkitės „Honor“ klientų aptarnavimo karštąja linija arba apsilankykite priežiūros centre.</feature>
+</features>
+</language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Šajā ieteicamajā atjauninājumā ir ietverti jūsu ierīces sistēmas optimizācijas risinājumi.</feature>
+</features>
+<features module="Piezīme par atjauninājumu:" type="end">
+<feature>1. Instalējot šo atjauninājumu, netiek dzēsti jūsu personas dati, taču vispirms iesakām dublēt svarīgus datus.
+2. Ja atjaunināšanas procesā rodas problēmas, sazinieties ar Honor klientu apkalpošanas dienestu vai apmeklējiet Honor klientu apkalpošanas centru.</feature>
+</features>
+</language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>एहि अनुशंसित अपडेट मे अहांक डिवाइसक लेल सिस्टम अनुकूलन सम्मिलित अछि।</feature>
+</features>
+<features module="अपडेटक नोट:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा नहि मेटायत, मुदा हमसभ अनुशंसा करैत छी जे अहाँ आगू बढ़य सँ पहिने सभटा महत्वपूर्ण डेटा केर बैक अप लए लिअ।
+2 अपडेट समस्या सभक लेल, कृपाकए Honor ग्राहक सेवा हॉटलाइन पर संपर्क करू वा कोनो सर्विस सेंटर जाउ।</feature>
+</features>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>Kei roto i tēnei whakahōu kua tūtohua ko ngā arotautanga pūnaha mō tō pūrere.</feature>
+</features>
+<features module="Whakahōu tuhipoka:" type="end">
+<feature>1, Ki te tāutahia tēnei whakahōu kāore e mukua tēnei whakahōu ō raraunga whaiaro, engari e tūtohu ana mātou kia pūruatia e koe ngā raraunga whaiaro i mua i te haere tonu.
+2. Mō ngā take whakahōu, me whakapā atu ki te waeawera ratonga kiritaki a Honor, haere rānei ki tētahi pokapū ratonga.</feature>
+</features>
+</language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Ова препорачано ажурирање опфаќа оптимизации на системот за вашиот уред.</feature>
+</features>
+<features module="Белешка за ажурирањето:" type="end">
+<feature>1. Со инсталирањето на ова ажурирање нема да ви се избришат личните податоци, но препорачуваме да направите резервна копија од важните податоци пред да продолжите.
+2. За проблеми со ажурирањето, јавете се на телефонскиот број на службата за корисници на Honor или посетете сервисен центар.</feature>
+</features>
+</language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>ശുപാർശചെയ്യുന്ന ഈ അപ്‌ഡേറ്റിൽ നിങ്ങളുടെ ഉപകരണത്തിനുള്ള സിസ്റ്റം ഒപ്‌റ്റിമൈസേഷനുകൾ ഉൾപ്പെടുന്നു.</feature>
+</features>
+<features module="അപ്‌ഡേറ്റ് കുറിപ്പ്:" type="end">
+<feature>1.ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റ മായ്‌ക്കാൻ ഇടയാക്കില്ല, എന്നിരുന്നാലും മുന്നോട്ട് പോകുന്നതിന് മുമ്പ്, സുപ്രധാന ഡാറ്റ എന്തെങ്കിലുമുണ്ടെങ്കിൽ അവ ബാക്കപ്പ് ചെയ്യാൻ ഞങ്ങൾ ശുപാർശ ചെയ്യുന്നു.
+2.അപ്‌ഡേറ്റ് പ്രശ്‌നങ്ങൾ എന്തെങ്കിലുമുണ്ടെങ്കിൽ, Honor ഉപഭോക്തൃ സേവന ഹോട്ട്‌ലൈനിൽ ബന്ധപ്പെടുകയോ ഒരു സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features>
+</language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Санал болгож буй энэхүү шинэчлэлтэд таны төхөөрөмжийн системийн оновчлол багтсан.</feature>
+</features>
+<features module="Шинэчлэлтийн тайлбар:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгаснаар таны хувийн мэдээллийг арилахгүй ч үүнийг эхлүүлэхээс өмнө аливаа чухал мэдээллээ нөөцлөхийг зөвлөж байна.
+2. Шинэчлэлттэй холбоотой асуудлаар Honor-н харилцагчдын үйлчилгээний шугамаар холбогдох буюу үйлчилгээний төвд зочилно уу.</feature>
+</features>
+</language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>या शिफारस केलेल्या अद्यतनात आपल्या उपकरणासाठी सिस्टम ऑप्टिमायझेशन्स समाविष्ट आहे.</feature>
+</features>
+<features module="अद्यतन टिप:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपला वैयक्तिक डेटा मिटवला जाणार नाही, पण आम्ही अशी शिफारस करतो की आपण पुढे जाण्यापूर्वी कोणत्याही महत्त्वाच्या डेटाचा बॅकअप घ्या.
+2. अद्यतन समस्यांसाठी, कृपया Honor ग्राहक सेवा हॉटलाइनशी संपर्क साधा किंवा सेवा केंद्राला भेट द्या.</feature>
+</features>
+</language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Kemas kini yang disyorkan ini menyertakan pengoptimuman sistem untuk peranti anda.</feature>
+</features>
+<features module="Nota kemas kini:" type="end">
+<feature>1. Pemasangan kemas kini ini tidak akan memadamkan data peribadi anda tetapi kami mengesyorkan anda menyandarkan data yang penting sebelum meneruskan proses.
+2. Untuk isu mengenai kemas kini, sila hubungi talian penting khidmat pelanggan Honor atau lawati pusat perkhidmatan.</feature>
+</features>
+</language>
+
+<language name="my-mm" code="1033">
+<features module="" type="header">
+<feature>ဤအကြံပြုထားသော အပ်ဒိတ်တွင် သင့်စက်အတွက် စနစ် အကောင်းဆုံးမြှင့်တင်မှုများ ပါဝင်သည်။</feature>
+</features>
+<features module="အပ်ဒိတ် မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင်၏ ကိုယ်ရေး ဒေတာကို ဖျက်ပစ်မည် မဟုတ်သော်လည်း ရှေ့မဆက်မီ သင်၏ အရေးကြီး ဒေတာများကို ဘက်ခ်အပ်လုပ်ရန် အကြံပြုထားပါသည်။
+2. အပ်ဒိတ်ပြဿနာများ ရှိလျှင် Honor သုံးစွဲသူ ဝန်ဆောင်မှုဌာန ဟော့လိုင်းကို ဆက်သွယ်ပါ သို့မဟုတ် ဝန်ဆောင်မှုစင်တာသို့ သွားရောက်ပါ။</feature>
+</features>
+</language>
+
+<language name="my-zg" code="1033">
+<features module="" type="header">
+<feature>ဤအႀကံျပဳထားေသာ အပ္ဒိတ္တြင္ သင့္စက္အတြက္ စနစ္ အေကာင္းဆုံးျမႇင့္တင္မႈမ်ား ပါဝင္သည္။</feature>
+</features>
+<features module="အပ္ဒိတ္ မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင္၏ ကိုယ္ေရး ေဒတာကို ဖ်က္ပစ္မည္ မဟုတ္ေသာ္လည္း ေရွ႕မဆက္မီ သင္၏ အေရးႀကီး ေဒတာမ်ားကို ဘက္ခ္အပ္လုပ္ရန္ အၾကံျပဳထားပါသည္။
+2. အပ္ဒိတ္ျပႆနာမ်ား ရွိလွ်င္ Honor သုံးစြဲသူ ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းကို ဆက္သြယ္ပါ သို႔မဟုတ္ ဝန္ေဆာင္မႈစင္တာသို႔ သြားေရာက္ပါ။</feature>
+</features>
+</language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Denne anbefalte oppdateringen inkluderer systemoptimeringer til enheten din.</feature>
+</features>
+<features module="Oppdateringsmerknad:" type="end">
+<feature>1. Installasjon av denne oppdateringen vil ikke slette personopplysningene dine, men vi anbefaler at du sikkerhetskopierer alle viktige data før du fortsetter.
+2. Kontakt Honor-kundeservice eller besøk et servicesenter hvis du har oppdateringsproblemer.</feature>
+</features>
+</language>
+
+<language name="ne-np" code="1033">
+<features module="" type="header">
+<feature>यो सिफारिस गरिएको अद्यावधिकमा तपाईंको यन्त्रका लागि प्रणाली अप्टिमाइजेसनहरू समावेश हुन्छन् ।</feature>
+</features>
+<features module="अद्यावधिक नोट:" type="end">
+<feature>1. यो अद्यावधिक स्थापना गर्ने कार्यले तपाईंको व्यक्तिगत डाटा मेट्ने छ तर हामी तपाईंलाई अगाडि बढ्नुअघि कुनै पनि महत्त्वपूर्ण डाटा ब्याकअप गर्न सिफारिस गर्छौं ।
+2. अद्यावधिक समस्याहरूका लागि कृपया Honor ग्राहक सेवा हटलाइनमा सम्पर्क गर्नुहोस् वा सेवा केन्द्रमा जानुहोस् ।</feature>
+</features>
+</language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Deze aanbevolen update omvat systeemoptimalisaties voor uw apparaat.</feature>
+</features>
+<features module="Opmerkingen bij deze update:" type="end">
+<feature>1. Door het installeren van deze update worden uw persoonlijke gegevens niet verwijderd, maar we raden u aan om voor alle zekerheid een back-up van belangrijke gegevens te maken voordat u verdergaat.
+2. Neem voor updateproblemen contact op met de Honor-klantenservice of bezoek een servicecentrum.</feature>
+</features>
+</language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ଏହି ସୁପାରିଶ କରାଯାଇଥିବା ଅପଡେଟ୍‌ ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ପାଇଁ ସିଷ୍ଟମ୍‌ ଅପ୍ଟିମାଇଜେସନ୍‌ ଅନ୍ତର୍ଭୂକ୍ତ କରେ।</feature>
+</features>
+<features module="ଅପଡେଟ୍‌ ନୋଟ୍‌:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍‌ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ଲିଭିଯିବ ନାହିଁ, କିନ୍ତୁ ଆଗକୁ ବଢ଼ିବା ପୂର୍ବରୁ ନିଜର ପ୍ରମୁଖ ଡାଟାର ବ୍ୟାକଅପ୍‌ ନେବାକୁ ଆପଣଙ୍କୁ ସୁପାରିଶ କରାଯାଉଛି।
+2. ଅପଡେଟ୍‌ ସମସ୍ୟା ପାଇଁ, ଦୟାକରି Honor ଗ୍ରାହକ ସେବା ହଟଲାଇନ୍‌କୁ ସମ୍ପର୍କ କରନ୍ତୁ କିମ୍ବା ଏକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features>
+</language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਇਸ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਅੱਪਡੇਟ ਵਿੱਚ ਤੁਹਾਡੇ ਡਿਵਾਈਸ ਲਈ ਸਿਸਟਮ ਅਨੁਕੂਲਣ ਸ਼ਾਮਲ ਹਨ।</feature>
+</features>
+<features module="ਅੱਪਡੇਟ ਸੰਬੰਧੀ ਨੋਟ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਸਾਫ਼ ਨਹੀਂ ਕੀਤਾ ਜਾਵੇਗਾ, ਪਰ ਅਸੀਂ ਤੁਹਾਨੂੰ ਅੱਗੇ ਵਧਣ ਤੋਂ ਪਹਿਲਾਂ ਕਿਸੇ ਵੀ ਮਹੱਤਵਪੂਰਨ ਡੇਟਾ ਦਾ ਬੈਕਅੱਪ ਲੈ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕਰਦੇ ਹਾਂ।
+2. ਅੱਪਡੇਟ ਸੰਬੰਧੀ ਸਮੱਸਿਆਵਾਂ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ Honor ਗਾਹਕ ਸੇਵਾ ਹੌਟਲਾਈਨ 'ਤੇ ਸੰਪਰਕ ਕਰੋ ਜਾਂ ਕਿਸੇ ਸੇਵਾ ਕੇਂਦਰ ਵਿਖੇ ਜਾਓ।</feature>
+</features>
+</language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>Ta zalecana aktualizacja obejmuje optymalizacje systemu dla Twojego urządzenia.</feature>
+</features>
+<features module="Uwagi dotyczące aktualizacji:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie powoduje wymazania danych użytkownika, jednak zalecamy wykonanie kopii zapasowej ważnych danych przed kontynuowaniem.
+2. W przypadku problemów z aktualizacją zadzwoń na infolinię działu obsługi klienta Honor lub udaj się do punktu serwisowego.</feature>
+</features>
+</language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Esta atualização recomendada inclui otimizações do sistema para o seu dispositivo.</feature>
+</features>
+<features module="Nota da atualização:" type="end">
+<feature>1. Instalar esta atualização não apagará seus dados pessoais, mas recomendamos fazer backup de todos os dados importantes antes de prosseguir.
+2. Caso haja problemas de atualização, entre em contato com a linha de atendimento ao cliente da Honor ou visite uma central de serviços.</feature>
+</features>
+</language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Esta atualização recomendada inclui otimizações do sistema para o seu dispositivo.</feature>
+</features>
+<features module="Nota da atualização:" type="end">
+<feature>1. A instalação desta atualização não irá eliminar os seus dados pessoais, mas recomendamos que crie uma cópia de segurança dos dados importantes antes de proceder.
+2. Em caso de problemas de atualização, contacte a linha direta de apoio ao cliente da Honor ou visite um centro de apoio.</feature>
+</features>
+</language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Această actualizare recomandată include optimizări ale sistemului pentru dispozitivul dvs.</feature>
+</features>
+<features module="Notă despre actualizare:" type="end">
+<feature>1. Instalarea acestei actualizări nu va șterge datele dvs. cu caracter personal, însă vă recomandăm să efectuați o copie de rezervă a datelor importante înainte de a continua.
+2. Pentru probleme la actualizare, sunați la numărul de asistență clienți Honor sau vizitați un centru de service.</feature>
+</features>
+</language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Это рекомендуемое обновление предназначено для оптимизации работы системы на вашем устройстве.</feature>
+</features>
+<features module="Примечание к обновлению." type="end">
+<feature>1. Установка этого обновления не приведет к удалению ваших персональных данных, но мы рекомендуем сделать резервную копию всех важных данных, прежде чем приступить к установке.
+2. При возникновении проблем с обновлением обращайтесь на горячую линию службы поддержки клиентов Honor или в сервисный центр.</feature>
+</features>
+</language>
+
+<language name="si-lk" code="1033">
+<features module="" type="header">
+<feature>මෙම නිර්දේශිත යාවත්කාලයට ඔබගේ උපාංගය සඳහා පද්ධති ප්‍රශස්තකරණ ඇතුළත් වේ.</feature>
+</features>
+<features module="යාවත්කාලීන සටහන:" type="end">
+<feature>1. මෙම යාවත්කාලීනය ස්ථාපනය කිරීමෙන් ඔබේ පුද්ගලික දත්ත මකා නොදමනු ඇති නමුත්, ඉදිරියට යාමට පෙර ඕනෑම වැදගත් දත්තයක් උපස්ථ කර තැබීමට අපි නිර්දේශ කරමු.
+2. යාවත්කාලීන ගැටලු සඳහා, කරුණාකර Honor පාරිභෝගික සේවා ක්ෂණික ඇමතුම් අංකයට අමතන්න හෝ සේවා මධ්‍යස්ථානයකට පිවිසෙන්න.</feature>
+</features>
+</language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Táto odporúčaná aktualizácia obsahuje optimalizácie systému pre vaše zariadenie.</feature>
+</features>
+<features module="Poznámky k aktualizácii:" type="end">
+<feature>1. Inštalácia tejto aktualizácie nevymaže osobné údaje, no odporúčame pred ňou vykonať zálohu všetkých dôležitých údajov.
+2. V prípade problémov s aktualizáciou kontaktuje zákaznícku linku spoločnosti Honor alebo navštívte servisné stredisko.</feature>
+</features>
+</language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Ta priporočena posodobitev vključuje sistemske optimizacije za napravo.</feature>
+</features>
+<features module="Opomba o posodobitvi:" type="end">
+<feature>1. Namestitev te posodobitve ne bo izbrisala vaših osebnih podatkov, vendar priporočamo, da pred nadaljevanjem varnostno kopirate vse pomembne podatke.
+2. Če pride do težav s posodobitvami pokličite telefonsko številko za pomoč uporabnikom ali obiščite servisni center družbe Honor.</feature>
+</features>
+</language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Den här rekommenderade uppdateringar inkluderar systemoptimeringar för din enhet.</feature>
+</features>
+<features module="Notering om uppdateringen:" type="end">
+<feature>1. Att installera den här uppdateringen raderar inte personuppgifter, men vi rekommenderar att du säkerhetskopierar alla viktiga data innan du fortsätter.
+2. Vid uppdateringsproblem kan du kontakta Honors kundtjänst eller besöka ett servicecenter.</feature>
+</features>
+</language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Sasisho hili linalopendekezwa linajumuisha maboresho ya mfumo ya kifaa chako.</feature>
+</features>
+<features module="Dokezo la sasisho:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutafuta data yako binafsi, lakini tunapendekeza ucheleze data yoyote muhimu kabla ya kuendelea.
+2. Kwa masuala ya sasisho, tafadhali wasiliana na nambari ya dharura ya huduma kwa wateja wa Honor au tembelea kituo cha huduma.</feature>
+</features>
+</language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>இந்தப் பரிந்துரைக்கப்பட்ட புதுப்பிப்பில் உங்கள் சாதனத்திற்கான சிஸ்டம் புதுப்பிப்புகளும் அடங்கும்.</feature>
+</features>
+<features module="புதுப்பிப்புக் குறிப்பு:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவை அழிக்காது, எனினும் தொடர்வதற்கு முன் எந்த முக்கியமான தரவையும் காப்புப்பிரதி எடுக்குமாறு பரிந்துரைக்கிறோம்.
+2. புதுப்பிப்புச் சிக்கல்களுக்கு, Honor வாடிக்கையாளர் சேவை ஹாட்லைனை அணுகவும் அல்லது சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features>
+</language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ఈ సిఫార్సు చేయబడిన అప్‌డేట్‌లో మీ పరికరం కోసం సిస్టమ్ ఆప్టిమైజేషన్‌లు ఉంటాయి.</feature>
+</features>
+<features module="అప్‌డేట్ గమనిక:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వలన మీ వ్యక్తిగత డేటా ఎరేజ్ చేయబడదు, కాని మేము కొనసాగడానికి ముందు ఏదైనా ముఖ్యమైన డేటాను బ్యాకప్ చేయాలని సిఫార్సు చేస్తున్నాము.
+2. అప్‌డేట్ సమస్యల కోసం, దయచేసి Honor కస్టమర్ సర్వీస్ హాట్‌లైన్‌ను సంప్రదించండి లేదా సర్వీస్ కేంద్రాన్ని సందర్శించండి.</feature>
+</features>
+</language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>การอัปเดตที่แนะนำนี้รวมถึงการเพิ่มประสิทธิภาพของระบบสำหรับอุปกรณ์ของคุณ</feature>
+</features>
+<features module="หมายเหตุการอัปเดต:" type="end">
+<feature>1. การติดตั้งการอัปเดตนี้จะไม่ลบข้อมูลส่วนตัวของคุณ แต่เราขอแนะนำให้คุณสำรองข้อมูลที่สำคัญต่าง ๆ ก่อนที่จะดำเนินการต่อ
+2. สำหรับปัญหาการอัปเดต โปรดติดต่อสายด่วนการบริการลูกค้า Honor หรือไปที่ศูนย์บริการ</feature>
+</features>
+</language>
+
+<language name="tl-ph" code="1033">
+<features module="" type="header">
+<feature>Kasama sa inirerekomendang update na ito ang mga pag-optimize ng system para sa iyong device.</feature>
+</features>
+<features module="Tala ng update:" type="end">
+<feature>1. Kapag na-install ang update na ito, hindi buburahin ang iyong personal na data, pero inirerekomenda naming i-back up mo ang anumang mahalagang data bago magpatuloy.
+2. Para sa mga isyu sa update, makipag-ugnayan sa hotline ng customer service ng Honor o bumisita sa isang service center.</feature>
+</features>
+</language>
+
+<language name="fil-ph" code="1033">
+<features module="" type="header">
+<feature>Kasama sa inirerekomendang update na ito ang mga pag-optimize ng system para sa iyong device.</feature>
+</features>
+<features module="Tala ng update:" type="end">
+<feature>1. Kapag na-install ang update na ito, hindi buburahin ang iyong personal na data, pero inirerekomenda naming i-back up mo ang anumang mahalagang data bago magpatuloy.
+2. Para sa mga isyu sa update, makipag-ugnayan sa hotline ng customer service ng Honor o bumisita sa isang service center.</feature>
+</features>
+</language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Tavsiye edilen bu güncelleme cihazınız için sistem optimizasyonları içermektedir.</feature>
+</features>
+<features module="Güncelleme notları:" type="end">
+<feature>1. Bu güncellemenin yüklenmesiyle kişisel verileriniz silinmeyecektir fakat devam etmeden önce tüm önemli verilerinizi yedeklemeniz önerilir.
+2. Güncelleme sorunları için lütfen Honor müşteri hizmetleri yardım hattına ulaşın veya bir servis merkezini ziyaret edin.</feature>
+</features>
+</language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Це рекомендоване оновлення включає оптимізації системи для вашого пристрою.</feature>
+</features>
+<features module="Примітка щодо оновлення" type="end">
+<feature>1. Установлення цього оновлення не призведе до стирання ваших особистих даних, але радимо створити резервну копію важливих даних перш ніж продовжити.
+2. У разі проблем з оновленням зверніться до гарячої лінії обслуговування користувачів Honor або відвідайте сервісний центр.</feature>
+</features>
+</language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>اس تجویز کردہ اپ ڈیٹ میں آپ کی ڈیوائس کے لئے سسٹم کی احسن کاریاں شامل ہیں۔</feature>
+</features>
+<features module="اپ ڈیٹ نوٹ:" type="end">
+<feature>‏‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں مٹے گا، لیکن ہمارا مشورہ ہے کہ آگے بڑھنے سے پہلے آپ کسی بھی اہم ڈیٹا کا بیک اپ بنا لیں۔
+‏‏2. اپ ڈیٹ کے مسائل کے لیے، براہ کرم Honor کسٹمر سروس ہاٹ لائن پر رابطہ کریں یا سروس سینٹر ملاحظہ کریں۔</feature>
+</features>
+</language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Bu tavsiya etilgan yangilanish qurilmangiz uchun tizim optimizatsiyalarini oʻz ichiga oladi.</feature>
+</features>
+<features module="Yangilanish haqida eslatma:" type="end">
+<feature>1. Bu yangilanish oʻrnatilsa, shaxsiy ma’lumotlaringiz oʻchirilmaydi, lekin davom etishdan oldin muhim maʼlumotlaringizni zaxiralashni tavsiya qilamiz.
+2. Yangilanish bilan bogʻliq muammolar yuzasidan Honor mijozlarga xizmat markazi tezkor raqamiga murojaat qiling yoki servis markaziga tashrif buyuring.</feature>
+</features>
+</language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Bản cập nhật được đề xuất này bao gồm các nội dung tối ưu hóa hệ thống cho thiết bị của bạn.</feature>
+</features>
+<features module="Thông báo cập nhật:" type="end">
+<feature>1. Việc cài đặt bản cập nhật này sẽ không xóa dữ liệu cá nhân của bạn, nhưng chúng tôi khuyên bạn nên sao lưu mọi dữ liệu quan trọng trước khi tiếp tục.
+2. Đối với các vấn đề về cập nhật, vui lòng liên hệ với đường dây nóng dịch vụ khách hàng của Honor hoặc đến trung tâm dịch vụ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新主要優化了系統，建議您更新。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果您遇到任何問題，請致電榮耀品牌服務熱線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1033">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新主要針對系統進行了最佳化處理，建議您進行更新。</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務熱線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1033">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا ئاساسلىقى سىستېما ئەلالاشتۇرۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="يېڭىلاشتا دىققەت قىلىشقا تېگىشلىك ئىشلار:" type="end">
+<feature>1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇمات زاپاسلاش تەۋسىيە قىلىنىدۇ.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركا مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+</root>

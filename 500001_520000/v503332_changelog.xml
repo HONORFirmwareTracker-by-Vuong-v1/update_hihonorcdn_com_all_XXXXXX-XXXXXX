@@ -1,0 +1,1677 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+<component name="TCPU" version="CMO内部使用，商用发布不用关注，设备不会显示"/>
+<default-language name="en-us">1033</default-language>
+<language name="zh-cn" code="2052">
+<features module="" type="header">
+<feature>亲爱的用户，本次更新优化部分场景拍照效果，提升系统稳定性，合入安全补丁，推荐您进行更新。</feature>
+</features>
+<features module="【相机】">
+<feature>优化部分场景的拍照效果。</feature>
+</features>
+<features module="【系统】">
+<feature>提升系统稳定性，让您的手机运行更稳定。</feature>
+</features>
+<features module="【安全】">
+<feature>合入安卓2025年1月安全补丁，增强系统安全性。有关荣耀软件安全更新内容的信息，请访问荣耀官方网站 https://www.honor.com/cn/support/bulletin/2025/1</feature>
+</features>
+<features module="更新注意事项：" type="end">
+<feature>1. 本次更新不会删除您的用户数据，但仍建议您在更新前做好数据备份。
+2. 更新过程中，如果遇到任何问题，请拨打荣耀品牌服务热线或至荣耀品牌客户服务中心寻求支持。</feature>
+</features>
+</language>
+
+<language name="en-us" code="1033">
+<features module="" type="header">
+<feature>Dear user, this recommended update optimized the shooting experience for some scenarios, improved the system stability, and incorporated security patches.</feature>
+</features>
+<features module="Camera">
+<feature>Optimized the shooting experience for some scenarios.</feature>
+</features>
+<features module="System">
+<feature>This update improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>Android security patch (Jan 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not erase your personal data, but a backup beforehand is still recommended.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service center for support.</feature>
+</features>
+</language>
+
+<language name="am-ET" code="1033">
+<features module="" type="header">
+<feature>ውድ ተጠቃሚ፣ ይህ የሚመከር ዝማኔ ለአንዳንድ ሁኔታዎች የቀረጻ ተሞክሮውን አትብቷል፣ የስርዓት እርጋታውን አሻሽሏል እና የደህንነት መጠገኛዎችን አካትቷል።</feature>
+</features>
+<features module="ካሜራ">
+<feature>ለአንዳንድ ሁኔታዎች የቀረጻ ተሞክሮውን አትብቷል።</feature>
+</features>
+<features module="ስርዓት">
+<feature>ይህ ዝማኔ መሳሪያዎ ይበልጥ በተረጋጋ ሁኔታ እንዲያስኬድ ለማድረግ የስርዓት መረጋጋትን ያሻሽላል።</feature>
+</features>
+<features module="ደህንነት">
+<feature>ለስርዓት ደህንነት የአንድሮይድ የደህንነት መጠገኛን (ጃንዋሪ 2025) ተካቷል። ስለ HONOR ደህንነት ዝማኔዎች ተጨማሪ መረጃ ለማግኘት እባክዎን የእኛን ድር ጣቢያ https://www.honor.com/global/support/bulletin/2025/1 ይጎብኙ</feature>
+</features>
+<features module="ማስታወሻዎች፡-" type="end">
+<feature>1. ይህን ማሻሻያ መጫን የእርስዎን የግል መረጃዎን አይደመስስም፣ ነገር ግን አስቀድሞ መጠባበቂያ ማስቀመጥ አሁንም ይመከራል።
+2. በማሻሻያው ወቅት ማንኛውም አይነት ችግር ካጋጠመዎት እባክዎን ወደ HONOR አገልግሎት የቀጥታ መስመር ይደውሉ ወይም ድጋፍ ለማግኘት ወደ HONOR የደንበኞች የአገልግሎት ማዕከል ይሂዱ።</feature>
+</features>
+</language>
+
+<language name="ar-eg" code="3073">
+<features module="" type="header">
+<feature>عزيزنا المستخدم، حسّن هذا التحديث الموصى به تجربة التصوير في بعض السيناريوهات، كما زاد من استقرار النظام، وضمّن تصحيحات متعلقة بالأمان.</feature>
+</features>
+<features module="الكاميرا">
+<feature>حسّن تجربة التصوير في بعض السيناريوهات.</feature>
+</features>
+<features module="النظام">
+<feature>يحسّن هذا التحديث استقرار النظام لجعل جهازك يعمل بشكل أكثر استقرارًا.</feature>
+</features>
+<features module="الأمان">
+<feature>تم تضمين تصحيح أمان Android (يناير 2025) لأمان النظام. لمزيد من المعلومات حول تحديثات الأمان في HONOR، يرجى زيارة موقعنا على الويب https://www.honor.com/ae-ar/support/bulletin/2025/1</feature>
+</features>
+<features module="الملاحظات:" type="end">
+<feature>1. لن يؤدي تثبيت هذا التحديث إلى مسح بياناتك الشخصية، ولكن من المستحسن إنشاء نسخة احتياطية مسبقًا.
+2. إذا واجهت أي مشاكل أثناء التحديث، فيُرجى الاتصال بالخط الساخن لخدمة HONOR أو انتقل إلى مركز خدمة عملاء HONOR للحصول على الدعم.‬</feature>
+</features>
+</language>
+
+<language name="as-IN" code="3073">
+<features module="" type="header">
+<feature>মৰমৰ ব্যৱহাৰকাৰী, এই অনুমোদিত আপডেটে কিছুমান পৰিস্থিতিৰ বাবে শ্বুটিঙৰ অভিজ্ঞতা অনুকূলন কৰিছে, ছিষ্টেমৰ স্থিৰতা উন্নত কৰিছে আৰু নিৰাপত্তাৰ পেচসমূহ অন্তৰ্ভুক্ত কৰিছে।</feature>
+</features>
+<features module="কেমেৰা">
+<feature>কিছুমান পৰিস্থিতিৰ বাবে শ্বুটিঙৰ অভিজ্ঞতা অনুকূলন কৰিছে।</feature>
+</features>
+<features module="ছিষ্টেম">
+<feature>এই আপডেটটোৱে আপোনাৰ ডিভাইচ অধিক স্থিৰকৈ চলিব পৰা কৰিবলৈ ছিষ্টেমৰ স্থিৰতা উন্নত কৰে।</feature>
+</features>
+<features module="নিৰাপত্তা">
+<feature>ছিষ্টেমৰ নিৰাপত্তাৰ বাবে Android নিৰাপত্তাৰ পেচ (জানুৱাৰী 2025) অন্তৰ্ভুক্ত কৰা হৈছে। HONOR নিৰাপত্তা আপডেটৰ বিষয়ে অধিক তথ্যৰ বাবে, অনুগ্ৰহ কৰি আমাৰ ৱেবছাইট দৰ্শন কৰক: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="মনত ৰাখিব:" type="end">
+<feature>1. এই আপডেটটো ইনষ্টল কৰিলে আপোনাৰ ব্যক্তিগত ডাটা মোহৰা নহ'ব, কিন্তু তথাপিও তাৰ আগতে বেকআপ ল'বলৈ অনুমোদন জনোৱা হয়।
+2. আপডেটৰ সময়ত আপুনি যদি কোনো সমস্যাৰ সন্মুখীন হয়, তেন্তে সমৰ্থনৰ বাবে অনুগ্ৰহ কৰি HONOR সেৱা হটলাইনত ফোন কৰিব বা HONOR গ্ৰাহক সেৱা কেন্দ্ৰলৈ যাব।</feature>
+</features>
+</language>
+
+<language name="az-az" code="1068">
+<features module="" type="header">
+<feature>Hörmətli istifadəçi, tövsiyə edilən bu yeniləmə ilə bəzi hallar üzrə çəkiliş təcrübəsi optimallaşdırılıb, sistem stabilliyi yaxşılaşdırılıb və təhlükəsizlik paketləri daxil edilib.</feature>
+</features>
+<features module="Kamera">
+<feature>Bəzi hallar üzrə çəkiliş təcrübəsi optimallaşdırılıb.</feature>
+</features>
+<features module="Sistem">
+<feature>Bu yeniləmə cihazınızın daha stabil işləməsi üçün sistem stabilliyini təkmilləşdirir.</feature>
+</features>
+<features module="Təhlükəsizlik">
+<feature>Sistem təhlükəsizliyi üçün Android təhlükəsizlik paketi (yanvar 2025-ci il) daxil edilib. HONOR Təhlükəsizlik yeniləmələri haqqında ətraflı məlumat üçün veb-saytımıza daxil olun: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Qeydlər:" type="end">
+<feature>1. Bu yeniləmənin quraşdırılması ilə şəxsi məlumatlarınız silinməyəcək, lakin yenə də qabaqcadan ehtiyat nüsxənin çıxarılması tövsiyə edilir.
+2. Yeniləmə zamanı hər hansı problemlərlə qarşılaşsanız, dəstək üçün HONOR xidmətinin qaynar xəttinə zəng edin, yaxud HONOR müştəri xidməti mərkəzinə gedin.</feature>
+</features>
+</language>
+
+<language name="jv-id" code="1033">
+<features module="" type="header">
+<feature>Katur pangguna, panganyaran sing disaranake iki ngoptimalake pangalaman ngrekam kanggo sawetara skenario, ngapikake stabilitas sistem, uga nggabungake patch keamanan.</feature>
+</features>
+<features module="Kamera">
+<feature>Ngoptimalake pangalaman ngrekam kanggo sawetara skenario.</feature>
+</features>
+<features module="Sistem">
+<feature>Panganyaran iki ngapikake stabilitas sistem supaya piranti sampeyan mlaku kanthi luwih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>Patch keamanan Android (Jan 2025) wis digabungake kanggo keamanan sistem. Kanggo mangerteni informasi sing luwih jangkep babagan panganyaran Keamanan HONOR, bukak situs web kita https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Cathetan:" type="end">
+<feature>1. Nginstal panganyaran iki ora bakal mbusak data pribadi sampeyan, nanging nggawe serep dhisik tetep disaranake.
+2. Yen ana masalah sajrone proses panganyaran, telpona hotline layanan HONOR utawa bukak pusat layanan pelanggan HONOR kanggo njaluk dhukungan.</feature>
+</features>
+</language>
+
+<language name="sr-rs" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja optimizovano je iskustvo snimanja u nekim scenarijima, poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Sistem">
+<feature>Ovim ažuriranjem je poboljšana stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (januar 2025) radi bezbednosti sistema. Da biste dobili još informacija o bezbednosnim ažuriranjima kompanije HONOR, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/1</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće biti obrisani vaši lični podaci, ali se preporučuje da prethodno napravite rezervnu kopiju.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju korisničke službe kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-ba" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja optimizovano je iskustvo snimanja u nekim scenarijima, poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Sistem">
+<feature>Ovim ažuriranjem je poboljšana stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (januar 2025) radi bezbednosti sistema. Da biste dobili još informacija o bezbednosnim ažuriranjima kompanije HONOR, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/1</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće biti obrisani vaši lični podaci, ali se preporučuje da prethodno napravite rezervnu kopiju.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju korisničke službe kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="sr-me" code="2074">
+<features module="" type="header">
+<feature>Poštovani korisniče, u okviru ovog preporučenog ažuriranja optimizovano je iskustvo snimanja u nekim scenarijima, poboljšana je stabilnost sistema i obuhvaćene su bezbednosne zakrpe.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizovano je iskustvo snimanja u nekim scenarijima.</feature>
+</features>
+<features module="Sistem">
+<feature>Ovim ažuriranjem je poboljšana stabilnost sistema, zbog čega vaš uređaj radi stabilnije.</feature>
+</features>
+<features module="Bezbednost">
+<feature>Integrisana je bezbednosna zakrpa za Android (januar 2025) radi bezbednosti sistema. Da biste dobili još informacija o bezbednosnim ažuriranjima kompanije HONOR, posetite naš veb-sajt https://www.honor.com/rs/support/bulletin/2025/1</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja neće biti obrisani vaši lični podaci, ali se preporučuje da prethodno napravite rezervnu kopiju.
+2. Ako tokom ažuriranja naiđete na bilo kakve probleme, za podršku pozovite dežurnu liniju korisničke službe kompanije HONOR ili posetite korisnički servisni centar kompanije HONOR.</feature>
+</features>
+</language>
+
+<language name="be-by" code="1059">
+<features module="" type="header">
+<feature>Паважаны карыстальнік, гэта рэкамендаванае абнаўленне аптымізуе функцыі здымкі ў некаторых сцэнарыях, павышае стабільнасць сістэмы і ўключае выпраўленні сістэмы бяспекі.</feature>
+</features>
+<features module="Камера">
+<feature>Аптымізуе функцыі здымкі ў некаторых сцэнарыях.</feature>
+</features>
+<features module="Сістэма">
+<feature>Гэта абнаўленне павышае ўстойлівасць сістэмы, што робіць працу вашай прылады больш стабільнай.</feature>
+</features>
+<features module="Бяспека">
+<feature>Для павышэння бяспекі сістэмы ўключана выпраўленне функцый бяспекі Android (студзень 2025 г.). Больш інфармацыі аб абнаўленні сістэмы бяспекі HONOR можна знайсці на нашым вэб-сайце: https://www.honor.com/by/support/bulletin/2025/1</feature>
+</features>
+<features module="Заўвагі." type="end">
+<feature>1. Устаноўка гэтага абнаўлення не сатрэ вашы асабістыя даныя, але мы ўсё роўна рэкамендуем загадзя зрабіць іх рэзервовую копію.
+2. Калі падчас абнаўлення ў вас узнікнуць праблемы, патэлефануйце на гарачую лінію абслугоўвання HONOR або звярніцеся па дапамогу ў сэрвісны цэнтр HONOR.</feature>
+</features>
+</language>
+
+<language name="bg-bg" code="1026">
+<features module="" type="header">
+<feature>Уважаеми потребители, с тази препоръчителна актуализация се оптимизира опитът при снимане в някои ситуации, подобрява се стабилността на системата и се включват корекции за сигурност.</feature>
+</features>
+<features module="Камера">
+<feature>Оптимизиран е опитът при снимане в някои ситуации.</feature>
+</features>
+<features module="Система">
+<feature>С тази актуализация се подобрява стабилността на системата, за да работи устройството ви по-стабилно.</feature>
+</features>
+<features module="Сигурност">
+<feature>Корекцията за сигурност на Android (януари 2025 г.) е включена за защита на системата. За още информация относно актуализациите за сигурност на HONOR посетете нашия уебсайт https://www.honor.com/bg/support/bulletin/2025/1</feature>
+</features>
+<features module="Бележки:" type="end">
+<feature>1. Инсталирането на тази актуализация няма да изтрие личните ви данни, но е препоръчително архивиране преди това.
+2. Ако срещнете проблеми по време на актуализирането, обадете се на обслужващата гореща линия на HONOR или посетете сервизния център за клиенти на HONOR за поддръжка.</feature>
+</features>
+</language>
+
+<language name="bn-bd" code="2117">
+<features module="" type="header">
+<feature>প্রিয় ব্যবহারকারী, এই সুপারিশকৃত আপডেটটি কিছু পরিস্থিতির জন্য শুটিংয়ের অভিজ্ঞতা অপটিমাইজ করেছে, সিস্টেমের স্থিতিশীলতা উন্নত করেছে এবং নিরাপত্তা প্যাচ অন্তর্ভুক্ত করেছে।</feature>
+</features>
+<features module="ক্যামেরা">
+<feature>কিছু পরিস্থিতিতে শুটিংয়ের অভিজ্ঞতাকে অপটিমাইজ করেছে।</feature>
+</features>
+<features module="সিস্টেম">
+<feature>আপনার ডিভাইসকে আরও স্থিতিশীলভাবে ব্যবহার করতে, এই আপডেটটি সিস্টেমের স্থিতিশীলতাকে আরও উন্নত করেছে।</feature>
+</features>
+<features module="নিরাপত্তা">
+<feature>সিস্টেমের নিরাপত্তার জন্য Android নিরাপত্তা প্যাচ (জানুয়ারি 2025) যোগ করা হয়েছে। HONOR-এর নিরাপত্তা আপডেটগুলি সম্পর্কে আরো তথ্যের জন্য, আমাদের ওয়েবসাইট দেখুন https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="দ্রষ্টব্য:" type="end">
+<feature>1. এই আপডেটটি ইনস্টল করলে আপনার ব্যক্তিগত ডেটা মুছে যাবে না, তবে তা সত্ত্বেও আগে থেকে ব্যাকআপ নেওয়ার পরামর্শ দেওয়া হয়।
+2. আপনি যদি আপডেটের সময় কোনো সমস্যার সম্মুখীন হন তাহলে অনুগ্রহ করে HONOR সার্ভিস হটলাইনে কল করুন বা সহায়তার জন্য HONOR গ্রাহক সেবা কেন্দ্রে যান।</feature>
+</features>
+</language>
+
+<language name="bo-cn" code="1105">
+<features module="" type="header">
+<feature>བརྩེ་བའི་སྤྱོད་མཁན་ལགས། ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་བཟོ་ལྗོངས་ཁག་ཅིག་གི་པར་ལེན་པའི་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱས་ཤིང་། རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་བ་དང་། བདེ་འཇགས་ལྷན་པ་བསྡེབས་ཡོད། ཁྱེད་ལ་གསར་སྒྱུར་བྱ་རྒྱུར་འོས་སྦྱོར་བྱེད།</feature>
+</features>
+<features module="【པར་ཆས།】">
+<feature>བཟོ་ལྗོངས་ཁ་ཤས་ཀྱི་པར་ལེན་ཁྱད་ནུས་ལེགས་སྒྱུར་བྱེད་པ།</feature>
+</features>
+<features module="【རྒྱུད་ཁོངས།】">
+<feature>རྒྱུད་ཁོངས་ཀྱི་བརྟན་འཇགས་རང་བཞིན་མཐོར་འདེགས་བཏང་ནས། ཁྱེད་ཀྱི་ལག་ཁྱེར་ཁ་པར་འཁོར་སྐྱོད་དེ་བས་བརྟན་འཇགས་བྱེད།</feature>
+</features>
+<features module="【བདེ་འཇགས།】">
+<feature>ཨན་སྒྲོའི་སྤྱི་ལོ་ 2025 ཟླ་བ་ 1 པོའི་བདེ་འཇགས་ལྷན་པ་འདྲེས་འཇུག་བྱས་ཡོད་དེ། རྒྱུད་ཁོངས་ཀྱི་བདེ་འཇགས་རང་བཞིན་སྟོབས་སྒྱུར་བྱེད། རུང་ཡོའོ་མཉེན་ཆས་བདེ་འཇགས་གསར་སྒྱུར་ནང་དོན་ཐད་ཀྱི་ཆ་འཕྲིན། རུང་ཡོའོ་གཞུང་ཕྱོགས་དྲ་ཚིགས་ https://www.honor.com/cn/support/bulletin/2025/1 ལ་ལྟ་སྤྱོད་བྱེད་རོགས།</feature>
+</features>
+<features module="གསར་སྒྱུར་གྱི་དོ་སྣང་དོན་ཚན།" type="end">
+<feature>1. ཐེངས་འདིའི་གསར་སྒྱུར་གྱིས་ཁྱེད་ཀྱི་སྤྱོད་མཁན་གྱི་གཞི་གྲངས་གསུབ་མི་སྲིད། འོན་ཀྱང་གསར་སྒྱུར་མ་བྱས་གོང་གཞི་གྲངས་གྲབས་ཉར་ཡག་པོ་བྱས་ན་ལེགས།
+2. གསར་སྒྱུར་གྱི་བརྒྱུད་རིམ་ཁྲོད། གལ་ཏེ་གནད་དོན་གང་རུང་ལ་འཕྲད་ཚེ། རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་ཞབས་ཞུའི་ཁ་པར་ལ་ཁ་པར་གཏོང་བའམ་ཡང་ན་རུང་ཡོའོ་ཚོང་རྟགས་ཀྱི་སྐུ་མགྲོན་ཞབས་ཞུའི་ལྟེ་གནས་སུ་སོང་ནས་རྒྱབ་སྐྱོར་རེ་ཞུ་བྱེད་རོགས།</feature>
+</features>
+</language>
+
+<language name="bs-ba" code="5146">
+<features module="" type="header">
+<feature>Dragi korisniče, ovo preporučeno ažuriranje je optimiziralo iskustvo snimanja za neke scenarije, poboljšalo stabilnost sistema i ugradilo sigurnosne zakrpe.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>Optimizirano je iskustvo snimanja za neke scenarije.</feature>
+</features>
+<features module="Sistem">
+<feature>Ovo ažuriranje poboljšava stabilnost sistema kako bi se omogućio stabilniji rad uređaja.</feature>
+</features>
+<features module="Sigurnost">
+<feature>Ugrađena je sigurnosna zakrpa za Android (jan 2025) radi sigurnosti sistema. Više informacija o HONOR sigurnosnim ažuriranjima potražite na našoj web lokaciji https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instaliranjem ovog ažuriranja se neće izbrisati lični podaci, ali ipak se preporučuje da napravite rezervnu kopiju prije ažuriranja.
+2. Ako naiđete na bilo kakav problem tokom ažuriranja, pozovite HONOR dežurnu liniju korisničke podrške ili posjetite HONOR servisni centar za korisnike da potražite pomoć.</feature>
+</features>
+</language>
+
+<language name="ca-es" code="1027">
+<features module="" type="header">
+<feature>Benvolgut usuari/a, aquesta actualització recomanada ha optimitzat l'experiència de captura en determinades situacions, ha millorat l'estabilitat del sistema i ha incorporat pedaços de seguretat.</feature>
+</features>
+<features module="Càmera">
+<feature>L'experiència de captura s'ha optimitzat en determinades situacions.</feature>
+</features>
+<features module="Sistema">
+<feature>Aquesta actualització millora l'estabilitat del sistema, la qual cosa permet que el funcionament del dispositiu sigui més estable.</feature>
+</features>
+<features module="Seguretat">
+<feature>S'ha incorporat el pedaç de seguretat d'Android (gener del 2025) per a la seguretat del sistema. Per obtenir més informació sobre les actualitzacions de seguretat d'HONOR, consulteu el nostre lloc web https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Si instal·leu aquesta actualització, les dades personals no s'esborraran, però us recomanem que en feu una còpia de seguretat.
+2. Si teniu problemes durant l'actualització, truqueu a la línia directa de servei d'HONOR o aneu al centre de servei d'atenció al client d'HONOR per demanar assistència.</feature>
+</features>
+</language>
+
+<language name="cs-cz" code="1029">
+<features module="" type="header">
+<feature>Vážený uživateli, tato doporučená aktualizace optimalizovala zážitek z pořizování fotografií a videí v určitých situacích, vylepšila stabilitu systému provedla bezpečnostní opravy.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>Byl optimalizován zážitek z pořizování fotografií a videí v určitých situacích.</feature>
+</features>
+<features module="Systém">
+<feature>Tato aktualizace vylepšuje stabilitu systému, aby zařízení pracovalo stabilněji.</feature>
+</features>
+<features module="Bezpečnost">
+<feature>Do systému byla začleněna bezpečnostní oprava (leden 2025) pro systém Android pro zajištění bezpečnosti systému. Více informací o bezpečnostních aktualizacích HONOR najdete na našem webu https://www.honor.com/cz/support/bulletin/2025/1</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Instalací této aktualizace nebudou vymazány vaše osobní údaje, ale přesto se doporučuje je předem zálohovat.
+2. Pokud se během aktualizace setkáte s nějakými problémy, zavolejte na informační linku HONOR nebo si vyžádejte podporu v Centru služeb zákazníkům HONOR.</feature>
+</features>
+</language>
+
+<language name="da-dk" code="1030">
+<features module="" type="header">
+<feature>Kære bruger. Denne anbefalede opdatering optimerede optagelsesoplevelsen i visse scenarier, forbedrede systemstabiliteten og indeholdt sikkerhedsrettelser.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimerede optagelsesoplevelsen for nogle scenarier.</feature>
+</features>
+<features module="System">
+<feature>Denne opdatering forbedrer systemstabiliteten for at få din enhed til at køre mere stabilt.</feature>
+</features>
+<features module="Sikkerhed">
+<feature>Android sikkerhedspatch (jan 2025) er blevet integreret for øget systemsikkerhed. Du kan få flere oplysninger om HONOR-sikkerhedsopdateringer på vores websted https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Noter:" type="end">
+<feature>1. Installation af denne opdatering sletter ikke dine personlige data, men det anbefales stadigvæk at tage en sikkerhedskopi på forhånd.
+2. Hvis du støder på problemer under opdateringen, kan du ringe til HONORs service-hotline eller gå til HONOR kundeservicecenter for support.</feature>
+</features>
+</language>
+
+<language name="de-de" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte(r) Nutzer(in), diese empfohlene Aktualisierung hat das Aufnahmeerlebnis für einige Szenarien optimiert, die Systemleistung und -stabilität verbessert und Sicherheitspatches integriert.</feature>
+</features>
+<features module="Kamera">
+<feature>Das Aufnahmeerlebnis wurde für einige Szenarien optimiert.</feature>
+</features>
+<features module="System">
+<feature>Diese Aktualisierung verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Jan. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/1</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht. Es wird jedoch trotzdem empfohlen, im Vorfeld eine Datensicherung vorzunehmen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-at" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte(r) Nutzer(in), diese empfohlene Aktualisierung hat das Aufnahmeerlebnis für einige Szenarien optimiert, die Systemleistung und -stabilität verbessert und Sicherheitspatches integriert.</feature>
+</features>
+<features module="Kamera">
+<feature>Das Aufnahmeerlebnis wurde für einige Szenarien optimiert.</feature>
+</features>
+<features module="System">
+<feature>Diese Aktualisierung verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Jan. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/1</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht. Es wird jedoch trotzdem empfohlen, im Vorfeld eine Datensicherung vorzunehmen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="de-ch" code="1031">
+<features module="" type="header">
+<feature>Sehr geehrte(r) Nutzer(in), diese empfohlene Aktualisierung hat das Aufnahmeerlebnis für einige Szenarien optimiert, die Systemleistung und -stabilität verbessert und Sicherheitspatches integriert.</feature>
+</features>
+<features module="Kamera">
+<feature>Das Aufnahmeerlebnis wurde für einige Szenarien optimiert.</feature>
+</features>
+<features module="System">
+<feature>Diese Aktualisierung verbessert die Systemstabilität, damit Ihr Gerät stabiler läuft.</feature>
+</features>
+<features module="Sicherheit">
+<feature>Der Android Sicherheitspatch (Jan. 2025) für Systemsicherheit wurde integriert. Weitere Informationen über die HONOR Sicherheitsaktualisierungen finden Sie auf unserer Website: https://www.honor.com/de/support/bulletin/2025/1</feature>
+</features>
+<features module="Hinweise:" type="end">
+<feature>1. Durch die Installation dieser Aktualisierung werden Ihre persönlichen Daten nicht gelöscht. Es wird jedoch trotzdem empfohlen, im Vorfeld eine Datensicherung vorzunehmen.
+2. Falls während der Aktualisierung Probleme auftreten, wenden Sie sich bitte telefonisch an die HONOR Service-Hotline oder suchen Sie das HONOR Customer Service-Center auf, um weitere Unterstützung zu erhalten.</feature>
+</features>
+</language>
+
+<language name="el-gr" code="1032">
+<features module="" type="header">
+<feature>Αγαπητέ χρήστη, αυτή η προτεινόμενη ενημέρωση βελτιστοποίησε την εμπειρία λήψης για ορισμένα σενάρια, βελτίωσε τη σταθερότητα του συστήματος και ενσωμάτωσε ενημερώσεις κώδικα ασφαλείας.</feature>
+</features>
+<features module="Κάμερα">
+<feature>Βελτιστοποιήθηκε η εμπειρία λήψης για ορισμένα σενάρια.</feature>
+</features>
+<features module="Σύστημα">
+<feature>Αυτή η ενημέρωση βελτιώνει τη σταθερότητα του συστήματος για να λειτουργεί η συσκευή σας πιο σταθερά.</feature>
+</features>
+<features module="Ασφάλεια">
+<feature>Η ενημέρωση κώδικα ασφαλείας Android (Ιανουάριος 2025) ενσωματώθηκε για την ασφάλεια του συστήματος. Για περισσότερες πληροφορίες σχετικά με τις ενημερώσεις της Ασφάλειας HONOR, επισκεφθείτε τον ιστότοπό μας https://www.honor.com/gr/support/bulletin/2025/1</feature>
+</features>
+<features module="Σημειώσεις:" type="end">
+<feature>1. Η εγκατάσταση αυτής της ενημέρωσης δεν θα διαγράψει τα προσωπικά δεδομένα σας, ωστόσο συνιστάται προηγουμένως η δημιουργία αντιγράφων ασφαλείας.
+2. Εάν αντιμετωπίσετε προβλήματα κατά την ενημέρωση, καλέστε την ανοιχτή τηλεφωνική γραμμή της HONOR ή μεταβείτε στο κέντρο εξυπηρέτησης πελατών της HONOR για υποστήριξη.</feature>
+</features>
+</language>
+
+<language name="en-GB" code="1032">
+<features module="" type="header">
+<feature>Dear user, this recommended update optimized the shooting experience for some scenarios, improved system stability, and incorporated security patches.</feature>
+</features>
+<features module="Camera">
+<feature>Optimized the shooting experience for some scenarios.</feature>
+</features>
+<features module="System">
+<feature>This update improves the system stability to make your device run more stably.</feature>
+</features>
+<features module="Security">
+<feature>Android security patch (Jan 2025) has been incorporated for system security. For more information about HONOR Security updates, please visit our website https://www.honor.com/uk/support/bulletin/2025/1</feature>
+</features>
+<features module="Notes:" type="end">
+<feature>1. Installing this update will not erase your personal data, but a backup beforehand is still recommended.
+2. If you encounter any problems during the update, please call the HONOR service hotline or go to the HONOR customer service centre for support.</feature>
+</features>
+</language>
+
+<language name="es-es" code="1034">
+<features module="" type="header">
+<feature>Estimado usuario: Esta actualización recomendada ha optimizado la experiencia de grabación para determinados escenarios, ha mejorado la estabilidad del sistema y ha incorporado parches de seguridad.</feature>
+</features>
+<features module="Cámara">
+<feature>Se ha optimizado la experiencia de grabación para determinados escenarios.</feature>
+</features>
+<features module="Sistema">
+<feature>Esta actualización mejora la estabilidad del sistema para que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>Se ha incorporado el parche de seguridad de Android (enero de 2025) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/es/support/bulletin/2025/1</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Aunque la instalación de esta actualización no eliminará sus datos personales, se recomienda hacer una copia de seguridad antes.
+2. Si tiene algún problema durante la actualización, llame a la línea de atención al cliente de HONOR o diríjase al centro de servicios al cliente de HONOR para obtener ayuda.</feature>
+</features>
+</language>
+
+<language name="es-us" code="21514">
+<features module="" type="header">
+<feature>Estimado usuario, en esta actualización recomendada, se optimizó la experiencia de captura para algunas situaciones, se mejoró la estabilidad del sistema y se incorporaron parches de seguridad.</feature>
+</features>
+<features module="Cámara">
+<feature>Se optimizó la experiencia de grabación para determinadas situaciones.</feature>
+</features>
+<features module="Sistema">
+<feature>Esta actualización mejora la estabilidad del sistema para hacer que el dispositivo funcione de manera más estable.</feature>
+</features>
+<features module="Seguridad">
+<feature>Se incorporó un parche de seguridad de Android (enero de 2025) para la seguridad del sistema. Para obtener más información sobre las actualizaciones de seguridad de HONOR, visite nuestro sitio web: https://www.honor.com/latam/support/bulletin/2025/1</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Esta actualización no eliminará sus datos personales; sin embargo, le recomendamos hacer una copia de respaldo de los datos antes de actualizar.
+2. Si tiene problemas durante la actualización, llame a la línea de atención al cliente de HONOR o visite el centro de atención al cliente de HONOR para recibir asistencia.</feature>
+</features>
+</language>
+
+<language name="et-ee" code="1061">
+<features module="" type="header">
+<feature>Lugupeetud kasutaja, see soovitatud värskendus optimeeris teatud stsenaariumides jäädvustamiskogemust, parandas süsteemijõudlust ning lisas turbeparandusi.</feature>
+</features>
+<features module="Kaamera">
+<feature>Optimeeris teatud stsenaariumide jäädvustamiskogemust.</feature>
+</features>
+<features module="Süsteem">
+<feature>See värskendus parandab süsteemi stabiilsust ja muudab seadme töö stabiilsemaks.</feature>
+</features>
+<features module="Turve">
+<feature>Süsteemi turvalisuse tagamiseks rakendati Androidi turvapaik (jaanuar 2025). Lisateavet HONORi turvavärskenduste kohta leiate meie veebisaidilt https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Märkused:" type="end">
+<feature>1. Selle värskenduse installimine ei kustuta teie isikuandmeid, kuid eelnev varundamine on siiski soovitatav.
+2. Kui teil tekib värskendamise ajal probleeme, helistage HONORi klienditoe infoliinile või minge toe saamiseks HONORi klienditeeninduskeskusesse.</feature>
+</features>
+</language>
+
+<language name="eu-es" code="1069">
+<features module="" type="header">
+<feature>Erabiltzaile hori, gomendatutako eguneratze honetan, grabatzeko esperientzia optimizatu da zenbait egoeratan, sistemaren egonkortasuna hobetu da eta segurtasun-adabakiak gehitu dira.</feature>
+</features>
+<features module="Kamera">
+<feature>Grabatzeko esperientzia optimizatu da zenbait egoeratan.</feature>
+</features>
+<features module="Sistema">
+<feature>Eguneratze honetan sistemaren egonkortasuna hobetu da, gailuak hobeto funtziona dezan.</feature>
+</features>
+<features module="Segurtasuna">
+<feature>Android-en segurtasun-adabakia (2025eko urtarrila) gehitu da sistemaren segurtasuna bermatzeko. HONOR Segurtasun-eguneratzeei buruzko informazio gehiago lortzeko, ikusi gure webgunea: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Oharrak:" type="end">
+<feature>1. Eguneratze hau instalatzen baduzu ere, zure datu pertsonalak ez dira ezabatuko, baina, hala ere, instalatu aurretik haien babeskopia bat egitea gomendatzen da.
+2. Eguneratze-prozesuan arazoren bat izanez gero, deitu HONOR zerbitzuaren telefonozko arreta-lineara edo joan HONOR bezeroarentzako zerbitzu-zentrora laguntza jasotzeko.</feature>
+</features>
+</language>
+
+<language name="fa-ir" code="1065">
+<features module="" type="header">
+<feature>کاربر گرامی، در این به‌روزرسانی پیشنهادی، تجربه عکس‌برداری در برخی شرایط بهینه شده است، پایداری سیستم بهبود یافته است و وصله‌های امنیتی گنجانده شده است.</feature>
+</features>
+<features module="دوربین">
+<feature>تجربه عکس‌برداری در برخی شرایط بهینه شده است.</feature>
+</features>
+<features module="سیستم">
+<feature>این به‌روزرسانی پایداری سیستم را بهبود می‌بخشد تا دستگاه شما عملکرد پایدارتری داشته باشد.</feature>
+</features>
+<features module="امنیت">
+<feature>برای حفظ امنیت سیستم، «وصلۀ امنیتی Android (ژانویه ۲۰۲۵)» گنجانده شده است. برای کسب اطلاعات بیشتر دربارۀ به‌روزرسانی‌های «امنیت HONOR»، لطفاً به وب‌سایت ما مراجعه کنید: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="نکات:" type="end">
+<feature>‏‏۱. با نصب این به‌روزرسانی، داده‌های شخصی شما پاک نخواهد شد، اما همچنان توصیه می‌شود قبل از انجام این به‌روزرسانی از داده‌های خود پشتیبان‌گیری کنید.
+‏‏۲. اگر در حین به‌روزرسانی با مشکلی مواجه شدید، لطفاً جهت دریافت پشتیبانی با تلفن مستقیم خدمات HONOR تماس بگیرید یا به مرکز خدمات مشتریان HONOR مراجعه کنید.</feature>
+</features>
+</language>
+
+<language name="fi-fi" code="1035">
+<features module="" type="header">
+<feature>Hyvä käyttäjä, tämä suositeltu päivitys optimoi kuvauskokemuksen joissakin tilanteissa, paransi järjestelmän vakautta ja sisälsi turvallisuuskorjauksia.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimoi kuvauskokemuksen joissakin tilanteissa.</feature>
+</features>
+<features module="Järjestelmä">
+<feature>Tämä päivitys parantaa järjestelmän vakautta, jotta laite toimii vakaammin.</feature>
+</features>
+<features module="Turvallisuus">
+<feature>Android-turvallisuuskorjaus (tammikuu 2025) on lisätty järjestelmän turvallisuutta varten. Lisätietoja HONORin turvallisuuspäivityksistä on saatavilla verkkosivustollamme osoitteessa https://www.honor.com/fi/support/bulletin/2025/1</feature>
+</features>
+<features module="Huomautukset:" type="end">
+<feature>1. Tämän päivityksen asentaminen ei poista henkilökohtaisia tietojasi, mutta ne on silti suositeltavaa varmuuskopioida etukäteen.
+2. Jos päivityksessä ilmenee ongelmia, soita HONORin palvelunumeroon tai mene valtuutettuun HONOR-asiakaspalvelukeskukseen tukea varten.</feature>
+</features>
+</language>
+
+<language name="fr-fr" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour recommandée optimise l'expérience de prise de vue pour certains scénarios, améliore la stabilité du système et incorpore des correctifs de sécurité.</feature>
+</features>
+<features module="Appareil photo">
+<feature>Optimisation de l'expérience de prise de vue pour certains scénarios.</feature>
+</features>
+<features module="Système">
+<feature>Cette mise à jour améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>Un correctif de sécurité Android (janvier 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/1</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'effacera pas vos données personnelles, mais une sauvegarde préalable est tout de même recommandée.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="fr-ch" code="1036">
+<features module="" type="header">
+<feature>Cher utilisateur, cette mise à jour recommandée optimise l'expérience de prise de vue pour certains scénarios, améliore la stabilité du système et incorpore des correctifs de sécurité.</feature>
+</features>
+<features module="Appareil photo">
+<feature>Optimisation de l'expérience de prise de vue pour certains scénarios.</feature>
+</features>
+<features module="Système">
+<feature>Cette mise à jour améliore la stabilité du système de votre appareil.</feature>
+</features>
+<features module="Sécurité">
+<feature>Un correctif de sécurité Android (janvier 2025) a été intégré pour la sécurité du système. Pour plus d'informations sur les mises à jour de sécurité HONOR, veuillez consulter notre site Web https://www.honor.com/fr/support/bulletin/2025/1</feature>
+</features>
+<features module="Remarques :" type="end">
+<feature>1. L'installation de cette mise à jour n'effacera pas vos données personnelles, mais une sauvegarde préalable est tout de même recommandée.
+2. Si vous rencontrez des problèmes lors de la mise à jour, veuillez appeler la Hotline du service HONOR ou accéder au centre de service client HONOR pour obtenir de l'aide.</feature>
+</features>
+</language>
+
+<language name="gl-es" code="1110">
+<features module="" type="header">
+<feature>Estimado usuario, esta actualización recomendada optimiza a experiencia de captura de imaxes en determinadas situacións, mellora a estabilidade do sistema e incorpora parches de seguranza.</feature>
+</features>
+<features module="Cámara">
+<feature>Optimiza a experiencia de captura de imaxes en determinadas situacións.</feature>
+</features>
+<features module="Sistema">
+<feature>Esta actualización mellora a estabilidade do sistema para que o dispositivo funcione dun xeito máis estable.</feature>
+</features>
+<features module="Seguranza">
+<feature>Incorpórase o parche de seguranza de Android (xaneiro de 2025) para a seguranza do sistema. Para obter máis información acerca das actualizacións de seguranza de HONOR, visite o noso sitio web: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Ao instalar esta actualización non se eliminarán os seus datos persoais, aínda que se recomenda realizar antes unha copia de seguranza.
+2. Se ten algún problema durante a actualización, contacte coa liña directa de servizo de HONOR ou visite un centro de servizos ao cliente de HONOR para obter axuda.</feature>
+</features>
+</language>
+
+<language name="gu-IN" code="1110">
+<features module="" type="header">
+<feature>પ્રિય વપરાશકર્તા, આ ભલામણ કરેલ અપડેટે કેટલીક પરિસ્થિતિઓ માટે શૂટિંગના અનુભવને ઓપ્ટિમાઇઝ કર્યો છે, સિસ્ટમની સ્થિરતા સુધારી છે અને સુરક્ષા પૅચિસ સમાવ્યા છે.</feature>
+</features>
+<features module="કૅમેરા">
+<feature>કેટલીક પરિસ્થિતિઓ માટે શૂટિંગના અનુભવને ઑપ્ટિમાઈઝ કર્યો છે.</feature>
+</features>
+<features module="સિસ્ટમ">
+<feature>તમારું ઉપકરણ વધુ સ્થિર રીતે ચલાવવા આ અપડેટ સિસ્ટમની સ્થિરતામાં સુધારો કરે છે.</feature>
+</features>
+<features module="સુરક્ષા">
+<feature>Android સુરક્ષા પેચ (જાન્યુઆરી 2025) સિસ્ટમ સુરક્ષા માટે સામેલ કરવામાં આવ્યો છે. HONOR સુરક્ષા અપડેટ્સ વિશે વધુ માહિતી માટે, કૃપા કરીને અમારી અધિકૃત વેબસાઇટ https://www.honor.com/global/support/bulletin/2025/1 ની મુલાકાત લો</feature>
+</features>
+<features module="નોંધો:" type="end">
+<feature>1. આ અપડેટ ઇન્સ્ટોલ કરવાથી તમારો વ્યક્તિગત ડેટા ભૂંસાઈ જશે નહીં, પરંતુ અગાઉથી બૅકઅપ લેવાની ભલામણ કરવામાં આવે છે.
+2. જો તમને અપડેટ દરમિયાન કોઈ સમસ્યા આવે, તો કૃપા કરીને HONOR સેવા હોટલાઇન પર કૉલ કરો અથવા સમર્થન માટે HONOR ગ્રાહક સેવા કેન્દ્ર પર જાઓ.</feature>
+</features>
+</language>
+
+<language name="hi-in" code="1081">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, इस अनुशंसित अद्यतन ने कुछ परिदृश्यों के लिए शूटिंग अनुभव को अनुकूलित किया है, सिस्टम की स्थिरता में सुधार किया है और सुरक्षा पैच शामिल किए हैं।</feature>
+</features>
+<features module="कैमरा">
+<feature>कुछ परिदृश्यों के लिए शूटिंग अनुभव को अनुकूलित किया गया है।</feature>
+</features>
+<features module="सिस्टम">
+<feature>इस अद्यतन से सिस्टम स्थिरता में सुधार किया जाता है, ताकि आपके डिवाइस को अधिक स्थिर रूप से चलाया जा सके।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>सिस्टम की सुरक्षा के लिए Android सुरक्षा पैच (जनवरी, 2025) शामिल किया गया है। HONOR सुरक्षा अद्यतनों के बारे में अधिक जानकारी के लिए, हमारी वेबसाइट पर जाएँ: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="टिप्पणियाँ:" type="end">
+<feature>1. इस अद्यतन को स्थापित करने से आपका व्यक्तिगत डेटा नहीं मिटेगा, लेकिन फिर भी पहले से बैकअप लेने की अनुशंसा की जाती है।
+2. अगर अद्यतन के दौरान आपको कोई भी समस्या होती है, तो सहायता के लिए HONOR सेवा हॉटलाइन पर कॉल करें या सहायता के लिए HONOR ग्राहक सेवा केंद्र पर जाएँ।</feature>
+</features>
+</language>
+
+<language name="hr-hr" code="1050">
+<features module="" type="header">
+<feature>Poštovani korisniče, ovim je preporučenim ažuriranjem optimizirano iskustvo snimanja u određenim situacijama i poboljšana stabilnost sustava, a dodane su i sigurnosne zakrpe.</feature>
+</features>
+<features module="Fotoaparat">
+<feature>Optimizirano je iskustvo snimanja u određenim situacijama.</feature>
+</features>
+<features module="Sustav">
+<feature>Ovim se ažuriranjem poboljšava stabilnost sustava pa uređaj radi stabilnije.</feature>
+</features>
+<features module="Sigurnost">
+<feature>Implementirana je sigurnosna zakrpa za Android (siječanj 2025.) za sigurnost sustava. Za više informacija o ažuriranjima značajke HONOR Sigurnost posjetite naše web-mjesto https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Napomene:" type="end">
+<feature>1. Instalacijom ovog ažuriranja neće se izbrisati vaši osobni podaci, ali preporučujemo da ipak prije ažuriranja izradite sigurnosnu kopiju.
+2. Ako tijekom ažuriranja naiđete na bilo kakve probleme, za pomoć nazovite telefonsku korisničku službu tvrtke HONOR ili posjetite centar za korisničku podršku tvrtke HONOR.</feature>
+</features>
+</language>
+
+<language name="hu-hu" code="1038">
+<features module="" type="header">
+<feature>Kedves Felhasználó! Ez a javasolt frissítés optimalizálja a felvételkészítési élményt bizonyos helyzetekben, javítja a rendszerstabilitást, valamint biztonsági javításokat tartalmaz.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimalizálja a felvételkészítési élményt bizonyos helyzetekben.</feature>
+</features>
+<features module="Rendszer">
+<feature>Ez a frissítés javítja a rendszer stabilitását, így a készülék zökkenőmentesebben működik.</feature>
+</features>
+<features module="Biztonság">
+<feature>Tartalmaz egy biztonsági javítást (2025. január), amely fokozza a rendszer biztonságát. A HONOR biztonsági javításaival kapcsolatos további információkért keresse fel weboldalunkat: https://www.honor.com/hu/support/bulletin/2025/1</feature>
+</features>
+<features module="Megjegyzések:" type="end">
+<feature>1. E frissítés telepítése nem törli a személyes adatokat, de javasoljuk, hogy készítsen előtte biztonsági mentést.
+2. Ha problémába ütközik a frissítés során, hívja a HONOR ügyfélszolgálati forródrótját, vagy keresse fel a HONOR szervizközpontját.</feature>
+</features>
+</language>
+
+<language name="in-id" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan yang disarankan ini mengoptimalkan pengalaman perekaman untuk beberapa skenario, memperbaiki stabilitas sistem, dan menyertakan penambal keamanan.</feature>
+</features>
+<features module="Kamera">
+<feature>Mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario.</feature>
+</features>
+<features module="Sistem">
+<feature>Pembaruan ini meningkatkan stabilitas sistem agar pengoperasian perangkat Anda lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>Penambal keamanan Android (Jan 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan menghapus data pribadi Anda, tetapi masih disarankan untuk melakukan pencadangan sebelumnya.
+2. Jika Anda mengalami masalah selama pembaruan, silakan hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan dukungan.</feature>
+</features>
+</language>
+
+<language name="id-" code="1057">
+<features module="" type="header">
+<feature>Pengguna yang terhormat, pembaruan yang disarankan ini mengoptimalkan pengalaman perekaman untuk beberapa skenario, memperbaiki stabilitas sistem, dan menyertakan penambal keamanan.</feature>
+</features>
+<features module="Kamera">
+<feature>Mengoptimalkan pengalaman pengambilan gambar dalam beberapa skenario.</feature>
+</features>
+<features module="Sistem">
+<feature>Pembaruan ini meningkatkan stabilitas sistem agar pengoperasian perangkat Anda lebih stabil.</feature>
+</features>
+<features module="Keamanan">
+<feature>Penambal keamanan Android (Jan 2025) telah disertakan untuk keamanan sistem. Untuk informasi selengkapnya tentang pembaruan Keamanan HONOR, kunjungi situs web kami https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Catatan:" type="end">
+<feature>1. Menginstal pembaruan ini tidak akan menghapus data pribadi Anda, tetapi masih disarankan untuk melakukan pencadangan sebelumnya.
+2. Jika Anda mengalami masalah selama pembaruan, silakan hubungi saluran siaga layanan HONOR atau kunjungi pusat layanan pelanggan HONOR untuk mendapatkan dukungan.</feature>
+</features>
+</language>
+
+<language name="it-it" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consigliato ha ottimizzato l'esperienza di scatto per alcuni scenari, ha migliorato la stabilità del sistema e ha incorporato patch di sicurezza.</feature>
+</features>
+<features module="Fotocamera">
+<feature>È stata ottimizzata l'esperienza di scatto in alcuni scenari.</feature>
+</features>
+<features module="Sistema">
+<feature>Questo aggiornamento migliora la stabilità del sistema, per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>È stata incorporata la patch di sicurezza di Android (gennaio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/1</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non comporta l'eliminazione delle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="it-ch" code="1040">
+<features module="" type="header">
+<feature>Gentile utente, questo aggiornamento consigliato ha ottimizzato l'esperienza di scatto per alcuni scenari, ha migliorato la stabilità del sistema e ha incorporato patch di sicurezza.</feature>
+</features>
+<features module="Fotocamera">
+<feature>È stata ottimizzata l'esperienza di scatto in alcuni scenari.</feature>
+</features>
+<features module="Sistema">
+<feature>Questo aggiornamento migliora la stabilità del sistema, per garantire un funzionamento più stabile del dispositivo.</feature>
+</features>
+<features module="Sicurezza">
+<feature>È stata incorporata la patch di sicurezza di Android (gennaio 2025) per garantire la sicurezza del sistema. Per ulteriori informazioni sugli aggiornamenti di sicurezza HONOR, visita il sito Web all'indirizzo https://www.honor.com/it/support/bulletin/2025/1</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. L'installazione di questo aggiornamento non comporta l'eliminazione delle informazioni personali, ma si consiglia comunque di effettuare un backup prima di procedere.
+2. Se si verificano problemi durante l'aggiornamento, contatta il servizio call center di HONOR oppure recati presso un centro servizio clienti HONOR per ricevere supporto.</feature>
+</features>
+</language>
+
+<language name="iw-il" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון מומלץ זה מיטב את חוויית הצילום עבור תרחישים מסוימים, שיפר את יציבות המערכת, ושילב תיקוני אבטחה.</feature>
+</features>
+<features module="מצלמה">
+<feature>מיטוב חוויית הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="מערכת">
+<feature>עדכון זה משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏'תיקון אבטחה של Android' (מינו' 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תמחק את הנתונים האישיים שלך, אך עדיין מומלץ לבצע גיבוי מראש.
+‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="he-" code="1037">
+<features module="" type="header">
+<feature>משתמש יקר, עדכון מומלץ זה מיטב את חוויית הצילום עבור תרחישים מסוימים, שיפר את יציבות המערכת, ושילב תיקוני אבטחה.</feature>
+</features>
+<features module="מצלמה">
+<feature>מיטוב חוויית הצילום בתרחישים מסוימים.</feature>
+</features>
+<features module="מערכת">
+<feature>עדכון זה משפר את יציבות המערכת כדי לגרום להתקן שלך לפעול בצורה יציבה יותר.</feature>
+</features>
+<features module="אבטחה">
+<feature>‏'תיקון אבטחה של Android' (מינו' 2025) שולב למען אבטחת המערכת. למידע נוסף על עדכוני 'אבטחה של HONOR', אפשר לבקר באתר האינטרנט שלנו בכתובת: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="הערות:" type="end">
+<feature>‏1. התקנת עדכון זה לא תמחק את הנתונים האישיים שלך, אך עדיין מומלץ לבצע גיבוי מראש.
+‏‏2. אם מופיעות בעיות כלשהן במהלך העדכון, יש להתקשר לקו החם של השירות של HONOR או ללכת למרכז שירות הלקוחות של HONOR לקבלת תמיכה.</feature>
+</features>
+</language>
+
+<language name="ja-jp" code="1041">
+<features module="" type="header">
+<feature>ユーザーの皆様、今回の推奨更新では、一部の状況における撮影体験が最適化され、システムの安定性が改善され、セキュリティパッチが組み込まれました。</feature>
+</features>
+<features module="カメラ">
+<feature>一部の状況における撮影体験を最適化しました。</feature>
+</features>
+<features module="システム">
+<feature>今回の更新で、システムの安定性が改善され、デバイスがより安定して動作するようになりました。</feature>
+</features>
+<features module="セキュリティ">
+<feature>システムセキュリティのためにAndroidセキュリティパッチ（2025年1月）が組み込まれました。HONORのセキュリティ更新の詳細については、当社のWebサイトをご覧ください：https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="注意：" type="end">
+<feature>1. この更新をインストールしてもユーザーの個人情報が消去されることはありませんが、事前にバックアップを取ることをおすすめします。
+2. 更新中に問題が発生した場合は、HONORサービスホットラインにお電話をいただくか、HONORカスタマーサービスセンターでサポートを受けてください。</feature>
+</features>
+</language>
+
+<language name="ka-ge" code="1079">
+<features module="" type="header">
+<feature>ძვირფასო მომხმარებელო, ამ რეკომენდებულმა განახლებამ მოახდინა გადაღების გამოცდილების ოპტიმიზება ზოგიერთი სცენარისთვის, გააუმჯობესა სისტემის სტაბილურობა და ჩართო უსაფრთხოების შესწორებები.</feature>
+</features>
+<features module="კამერა">
+<feature>ოპტიმიზებულია გადაღების გამოცდილება ზოგიერთი სცენარისთვის.</feature>
+</features>
+<features module="სისტემა">
+<feature>ეს განახლება აუმჯობესებს სისტემის სტაბილურობას, რის შედეგადაც მოწყობილობა უფრო სტაბილურად მუშაობს.</feature>
+</features>
+<features module="უსაფრთხოება">
+<feature>სისტემის უსაფრთხოებისთვის ჩაირთო Android უსაფრთხოების შესწორება (2025 წლის იანვარი). HONOR-ის უსაფრთხოების განახლებების შესახებ დამატებითი ინფორმაციისთვის ეწვიეთ ჩვენს ვებსაიტს: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="შენიშვნები:" type="end">
+<feature>1. ამ განახლების ინსტალირება არ გამოიწვევს თქვენი პერსონალური მონაცემების წაშლას, თუმცა მაინც გირჩევთ წინასწარ სარეზერვო კოპირებას.
+2. განახლების დროს პრობლემების წარმოქმნის შემთხვევაში, მხარდაჭერისთვის დარეკეთ HONOR-ის მომსახურების ცხელ ხაზზე ან მიმართეთ HONOR-ის კლიენტთა სერვისცენტრს.</feature>
+</features>
+</language>
+
+<language name="kk-kz" code="1087">
+<features module="" type="header">
+<feature>Құрметті пайдаланушы, бұл ұсынылған жаңарту кейбір сценарийлер үшін түсіру тәжірибесін оңтайландырды, жүйе тұрақтылығын жақсартты және қауіпсіздік патчтарын біріктірді.</feature>
+</features>
+<features module="Камера">
+<feature>Кейбір сценарийлер үшін түсіру тәжірибесі оңтайландырылды.</feature>
+</features>
+<features module="Жүйе">
+<feature>Бұл жаңарту жүйенің тұрақтылығын жақсартып, құрылғыңыздың тұрақтырақ жұмыс істеуіне мүмкіндік береді.</feature>
+</features>
+<features module="Қауіпсіздік">
+<feature>Android қауіпсіздік патчы (қаңтар, 2025) жүйе қауіпсіздігі үшін біріктірілген. HONOR қауіпсіздік жаңартулары туралы қосымша ақпарат алу үшін біздің веб-сайтқа кіріңіз: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Ескертпелер:" type="end">
+<feature>1. Бұл жаңартуды орнатсаңыз, жеке деректер өшпейді, бірақ бұрынғы сақтық көшірме әлі де ұсынылады.
+2. Жаңарту барысында мәселелер орын алса, қолдау алу үшін HONOR қызмет көрсету орталығының байланыс желісіне хабарласыңыз немесе HONOR тұтынушыларға қызмет көрсету орталығына барыңыз.</feature>
+</features>
+</language>
+
+<language name="km-kh" code="1107">
+<features module="" type="header">
+<feature>អ្នកប្រើជាទីរាប់អាន បច្ចុប្បន្នភាពដែលបានណែនាំនេះ​បានធ្វើឱ្យ​បទពិសោធន៍ថត​ប្រសើរឡើង​សម្រាប់​សេណារីយោ​មួយចំនួន បានកែលម្អ​ស្ថិរភាព​ប្រព័ន្ធ និង​បានរួមបញ្ចូល​បំណះសន្តិសុខ។</feature>
+</features>
+<features module="កាមេរ៉ា">
+<feature>បានធ្វើឱ្យបទពិសោធន៍ថតរូបប្រសើរជាងមុនសម្រាប់សេណារីយ៉ូមួយចំនួន។</feature>
+</features>
+<features module="ប្រព័ន្ធ">
+<feature>បច្ចុប្បន្នភាពនេះកែលម្អស្ថិរភាពប្រព័ន្ធ ដើម្បីធ្វើឱ្យឧបករណ៍របស់អ្នកដំណើរការបានកាន់តែមានស្ថិរភាព។</feature>
+</features>
+<features module="សន្តិសុខ">
+<feature>បំណះសន្តិសុខ Android (មករា 2025) ត្រូវបាន​រួមបញ្ចូល​សម្រាប់​សន្តិសុខ​ប្រព័ន្ធ។ សម្រាប់​ព័ត៌មាន​បន្ថែម​អំពី​បច្ចុប្បន្នភាព​សន្តិសុខ HONOR សូមចូលទៅ​គេហទំព័រ​របស់យើង https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="កំណត់សម្គាល់៖" type="end">
+<feature>1. ការដំឡើង​បច្ចុប្បន្នភាព​នេះ​នឹងមិន​លុបទិន្នន័យផ្ទាល់ខ្លួន​របស់អ្នក​ចេញទេ ប៉ុន្តែ​នៅតែ​ណែនាំឱ្យ​ធ្វើ​ការបម្រុងទុក​ជាមុន​ដដែល។
+2. ប្រសិនបើអ្នកជួបបញ្ហាណាមួយក្នុងអំឡុងពេល​ធ្វើបច្ចុប្បន្នភាព សូមហៅទូរស័ព្ទទៅ​ខ្សែទូរស័ព្ទរហ័សផ្នែកសេវាកម្ម HONOR ឬទៅកាន់មជ្ឈមណ្ឌល​សេវាកម្មអតិថិជន HONOR ដើម្បី​ទទួលបាន​ជំនួយ។</feature>
+</features>
+</language>
+
+<language name="kn-IN" code="1107">
+<features module="" type="header">
+<feature>ಆತ್ಮೀಯ ಬಳಕೆದಾರರೇ, ಈ ಶಿಫಾರಸು ಮಾಡಿದ ನವೀಕರಣವು ಕೆಲವು ಸನ್ನಿವೇಶಗಳಿಗೆ ಚಿತ್ರೀಕರಣ ಅನುಭವವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿದೆ, ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸಿದೆ ಮತ್ತು ಭದ್ರತಾ ಪ್ಯಾಚ್‌ಗಳನ್ನು ಅಳವಡಿಸಿದೆ.</feature>
+</features>
+<features module="ಕ್ಯಾಮರಾ">
+<feature>ಕೆಲವು ಸನ್ನಿವೇಶಗಳಿಗೆ ಚಿತ್ರೀಕರಣ ಅನುಭವವನ್ನು ಆಪ್ಟಿಮೈಸ್ ಮಾಡಿದೆ.</feature>
+</features>
+<features module="ಸಿಸ್ಟಂ">
+<feature>ಈ ನವೀಕರಣವು ನಿಮ್ಮ ಸಾಧನವನ್ನು ಹೆಚ್ಚು ಸ್ಥಿರವಾಗಿ ರನ್ ಮಾಡಲು ಸಿಸ್ಟಂ ಸ್ಥಿರತೆಯನ್ನು ಸುಧಾರಿಸುತ್ತದೆ.</feature>
+</features>
+<features module="ಭದ್ರತೆ">
+<feature>ಸಿಸ್ಟಂ ಭದ್ರತೆಗಾಗಿ Android ಭದ್ರತಾ ಪ್ಯಾಚ್ (ಜನವರಿ 2025) ಅನ್ನು ಅಳವಡಿಸಲಾಗಿದೆ. HONOR ಭದ್ರತಾ ನವೀಕರಣಗಳ ಕುರಿತು ಹೆಚ್ಚಿನ ಮಾಹಿತಿಗಾಗಿ, ದಯವಿಟ್ಟು ನಮ್ಮ ವೆಬ್‌ಸೈಟ್‌ಗೆ ಭೇಟಿ ನೀಡಿ: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="ಟಿಪ್ಪಣಿಗಳು:" type="end">
+<feature>1. ಈ ನವೀಕರಣವನ್ನು ಸ್ಥಾಪಿಸಿದರೆ ಇದು ನಿಮ್ಮ ವೈಯಕ್ತಿಕ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ, ಆದರೆ ಮುಂಚಿತವಾಗಿ ಬ್ಯಾಕ್‍ಅಪ್ ಮಾಡಿ ಇಡಬೇಕೆಂದು ಶಿಫಾರಸು ಮಾಡಲಾಗಿದೆ.
+2. ನವೀಕರಣದ ಸಮಯದಲ್ಲಿ ನೀವು ಯಾವುದೇ ಸಮಸ್ಯೆಗಳನ್ನು ಎದುರಿಸಿದರೆ, ದಯವಿಟ್ಟು HONOR ಸೇವಾ ಹಾಟ್‌ಲೈನ್‌ಗೆ ಕರೆ ಮಾಡಿ ಅಥವಾ ಬೆಂಬಲಕ್ಕಾಗಿ HONOR ಗ್ರಾಹಕ ಸೇವಾ ಕೇಂದ್ರಕ್ಕೆ ಹೋಗಿ.</feature>
+</features>
+</language>
+
+<language name="ko-kr" code="1042">
+<features module="" type="header">
+<feature>사용자 여러분, 이 권장 업데이트에는 일부 시나리오에 대한 촬영 경험 최적화, 시스템 안정성 개선 및 통합 보안 패치가 포함되어 있습니다.</feature>
+</features>
+<features module="카메라">
+<feature>일부 시나리오의 촬영 경험이 최적화되었습니다.</feature>
+</features>
+<features module="시스템">
+<feature>이 업데이트에서는 장치가 더 안정적으로 실행될 수 있도록 시스템 안정성이 개선됩니다.</feature>
+</features>
+<features module="보안">
+<feature>시스템 보안을 위해 Android 보안 패치(2025년 1월)가 통합되었습니다. HONOR 보안 업데이트에 대해 자세히 알아보려면 다음의 다음에 있는 당사 웹사이트를 방문하세요. https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="참고:" type="end">
+<feature>1. 이 업데이트를 설치해도 개인 데이터는 삭제되지 않지만, 사전에 백업하시기를 권장합니다.
+2. 업데이트 중에 문제가 발생하면 HONOR 서비스 핫라인에 전화하거나 HONOR 고객 서비스 센터로 가서 지원을 받으십시오.</feature>
+</features>
+</language>
+
+<language name="lo-la" code="1108">
+<features module="" type="header">
+<feature>ຮຽນຜູ້ໃຊ້, ການອັບທີ່ແນະນຳນີ້ໄດ້ປັບປະສົບການການຖ່າຍສຳລັບບາງສະພາບການໃຫ້ເໝາະສົມ, ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ແລະ ລວມເອົາແພດຊ໌ຄວາມປອດໄພ.</feature>
+</features>
+<features module="ກ້ອງຖ່າຍຮູບ">
+<feature>ປັບປະສົບການການຖ່າຍສຳລັບບາງສະພາບການໃຫ້ເໝາະສົມ.</feature>
+</features>
+<features module="ລະບົບ">
+<feature>ການ​ອັບ​ເດດ​ນີ້ປັບປຸງຄວາມສະຖຽນຂອງລະບົບ ເພື່ອເຮັດໃຫ້ອຸປະກອນຂອງທ່ານເຮັດວຽກໄດ້ສະຖຽນຍິ່ງຂຶ້ນ.</feature>
+</features>
+<features module="ຄວາມ​ປອດ​ໄພ">
+<feature>ໂປ​ຣ​ແກ​ຣມ​ແກ້​ໄຂ​ຄວາມ​ປອດ​ໄພ​ຂອງ Android (ມັງ​ກອນ 2025) ​ໄດ້ຖືກລວມ​​ເຂົ້າ​ເປັນ​ການ​ຮັກ​ສາ​ຄວາມ​ປອດ​ໄພ​ລະ​ບົບ. ສຳລັບຂໍ້ມູນເພີ່ມເຕີມກ່ຽວກັບການອັບເດດດ້ານຄວາມປອດໄພຂອງ HONOR, ກະລຸນາເຂົ້າໄປ​ທີ່ເວັບໄຊຂອງພວກເຮົາ https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="ໝາຍ​ເຫດ:" type="end">
+<feature>1. ການຕິດຕັ້ງການອັບເດດນີ້ຈະບໍ່ລຶບຂໍ້ມູນສ່ວນຕົວຂອງທ່ານ, ແຕ່ຂໍແນະນຳໃຫ້ທ່ານສຳຮອງຂໍ້ມູນໄວ້ລ່ວງໜ້າ.
+2. ຖ້າທ່ານພົບບັນຫາໃດໆໃນລະຫວ່າງການອັບເດດ, ກະລຸນາໂທຫາສາຍດ່ວນບໍລິການ HONOR ຫຼື ເຂົ້າໄປທີ່ສູນບໍລິການລູກຄ້າ HONOR ເພື່ອຂໍຄວາມຊ່ວຍເຫຼືອ.</feature>
+</features>
+</language>
+
+<language name="lt-lt" code="1063">
+<features module="" type="header">
+<feature>Gerbiamasis naudotojau, šiuo rekomenduojamu naujiniu kai kuriais atvejais optimizuota fotografavimo patirtis, pagerintas sistemos stabilumas ir įtrauktos saugumo pataisos.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizuota fotografavimo patirtis kai kuriais atvejais.</feature>
+</features>
+<features module="Sistema">
+<feature>Šiuo atnaujinimu pagerinamas sistemos stabilumas, kad jūsų įrenginys veiktų stabiliau.</feature>
+</features>
+<features module="Saugumas">
+<feature>Sistemos saugumui užtikrinti įtraukta „Android“ saugumo pataisa (2025 m. sausio mėn.). Jei reikia daugiau informacijos apie HONOR saugumo naujinius, apsilankykite mūsų svetainėje https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Pastabos:" type="end">
+<feature>1. Įdiegiant šį atnaujinimą, jūsų asmeniniai duomenys ištrinti nebus, tačiau vis tiek rekomenduojama iš anksto padaryti atsarginę kopiją.
+2. Jei atnaujinimo metu kyla problemų, skambinkite HONOR klientų aptarnavimo karštąja linija arba kreipkitės pagalbos į HONOR priežiūros centrą.</feature>
+</features>
+</language>
+
+<language name="lv-lv" code="1062">
+<features module="" type="header">
+<feature>Cienījamo lietotāj! Ar šo ieteikto atjauninājumu ir optimizēta uzņemšana noteiktos apstākļos, ir uzlabota sistēmas stabilitāte un ir iekļauti drošības ielāpi.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizēta uzņemšana noteiktos apstākļos.</feature>
+</features>
+<features module="Sistēma">
+<feature>Ar šo atjauninājumu ir uzlabota sistēmas stabilitāte, padarot jūsu ierīci stabilāku.</feature>
+</features>
+<features module="Drošība">
+<feature>Sistēmas drošībai iekļauts Android drošības ielāps (2025. gada janvāris). Lai iegūtu papildinformāciju par HONOR drošības atjauninājumiem, lūdzu, apmeklējiet mūsu vietni https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Piezīmes." type="end">
+<feature>1. Instalējot šo atjauninājumu, jūsu personas dati netiks dzēsti, taču joprojām ir ieteicams iepriekš izveidot dublējumu.
+2. Ja atjaunināšanas laikā rodas problēmas, lūdzu, zvaniet HONOR uzziņu dienestam vai dodieties uz HONOR klientu servisa centru, lai saņemtu atbalstu.</feature>
+</features>
+</language>
+
+<language name="mai-IN" code="1062">
+<features module="" type="header">
+<feature>प्रिय उपयोगकर्ता, ई अनुशंसित अपडेट किछु परिदृश्य सभक लेल शूटिंग अनुभव केँ अनुकूलित करैत अछि, सिस्टमक स्थिरता मे सुधार करैत अछि आओर सुरक्षा पैच सभ केँ समाविष्ट करैत अछि।</feature>
+</features>
+<features module="कैमरा">
+<feature>किछु परिदृश्य सभक लेल शूटिंग अनुभव केँ अनुकूलित कयल गेल।</feature>
+</features>
+<features module="सिस्टम">
+<feature>ई अपडेट सिस्टमक स्थिरता मे सुधार कयलक अछि, जाहि सँ अहाँक डिवाइस बेसी स्थिर रूप सँ चलि सकए।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>सिस्टमक सुरक्षाक लेल Android सुरक्षा पैच (जनवरी 2025) समाविष्ट कयल गेल अछि। HONOR सुरक्षा अपडेट सभक विषय मे आओर जानकारीक लेल, कृपाकए हमरासभक वेबसाइट केँ देखू: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="नोट:" type="end">
+<feature>1. एहि अपडेट केँ इंस्टॉल कयला सँ अहाँक व्यक्तिगत डेटा नहि मेटायत मुदा पहिने सँ एकटा बैकअप लेबाक अनुशंसा कयल जाइत अछि।
+2. यदि अपडेटक दरमियान अहाँ केँ कोनो समस्या अबैत अछि, त' सहायताक लेल कृपाकए HONOR सेवा हॉटलाइन केँ कॉल करू वा HONOR ग्राहक सेवा केंद्र पर जाउ।</feature>
+</features>
+</language>
+
+<language name="mi-NZ" code="1062">
+<features module="" type="header">
+<feature>Tēnā koe e te kaiwhakamahi, i arotautia e tēnei whakahōu kua tūtohua te wheako whakaahua mō ētahi tirohanga, te tūtorotika o te pūnaha i pai ake, me te whakauru mai i ngā pāti haumarutanga.</feature>
+</features>
+<features module="Kāmera">
+<feature>I arotautia te wheako whakaahua i ētahi āhuatanga.</feature>
+</features>
+<features module="Pūnaha">
+<feature>Mā tēnei whakahōu ka whakapai ake i te taimautanga pūnaha kia pai ake ai te haere o tō pūrere.</feature>
+</features>
+<features module="Haumarutanga">
+<feature>Kua whakaurua te āpure haumarutanga Android (Hānuere 2025) mō te haumarutanga pūnaha. Mō ētahi anō mōhiohio mō ngā whakahōutanga Haumarutanga HONOR, haere koa ki tā mātou paetukutuku https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Ngā Tuhipoka:" type="end">
+<feature>1. Kāore te tāuta i tēnei whakahōu e ūkui i ō raraunga whaiaro, engari e manakohia tonutia ana tētahi pūrua i mua.
+2. Ki te tūtaki koe i ētahi raruraru i te wā o te whakahōutanga, waea atu koa ki te waewera ratonga HONOR, ka haere rānei ki te pokapū ratonga kiritaki HONOR hei tautoko.</feature>
+</features>
+</language>
+
+<language name="mk-mk" code="1071">
+<features module="" type="header">
+<feature>Почитуван кориснику, ова препорачано ажурирање го оптимизира искуството при снимање за одредени сценарија, ја подобрува стабилноста на системот, а вградува и безбедносни крпеници.</feature>
+</features>
+<features module="Камера">
+<feature>Го оптимизира искуството при снимање за одредени сценарија.</feature>
+</features>
+<features module="Систем">
+<feature>Ова ажурирање ја подобрува стабилноста на системот за уредот да работи постабилно.</feature>
+</features>
+<features module="Безбедност">
+<feature>Вградена е безбедносна крпеница за Android (јануари 2025) за безбедност на системот. За повеќе информации за ажурирања на безбедноста од HONOR, посетете ја нашата веб-локација https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Белешки:" type="end">
+<feature>1. Инсталирањето на ова ажурирање нема да ги избрише вашите лични податоци, но сепак се препорачува однапред да направите резервна копија.
+2. Ако наидете на какви било проблеми при ажурирањето, повикајте го телефонскиот број на службата на HONOR или одете во центарот за услуги за корисници на HONOR за да добиете поддршка.</feature>
+</features>
+</language>
+
+<language name="ml-IN" code="1071">
+<features module="" type="header">
+<feature>പ്രിയ ഉപയോക്താവേ, ഈ ശുപാർശ ചെയ്യുന്ന അപ്‌ഡേറ്റിൽ ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് അനുഭവം ഒപ്‌റ്റിമൈസ് ചെയ്യുകയും സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുകയും സുരക്ഷാ പാച്ചുകൾ ഉൾപ്പെടുത്തുകയും ചെയ്‌തിട്ടുണ്ട്.</feature>
+</features>
+<features module="ക്യാമറ">
+<feature>ചില സാഹചര്യങ്ങളിലെ ഷൂട്ടിംഗ് അനുഭവം മെച്ചപ്പെടുത്തിയിരിക്കുന്നു.</feature>
+</features>
+<features module="സിസ്റ്റം">
+<feature>നിങ്ങളുടെ ഉപകരണം കൂടുതൽ സ്ഥിരതയോടെ പ്രവർത്തിക്കാൻ ഈ അപ്‌ഡേറ്റ് സിസ്റ്റം സ്ഥിരത മെച്ചപ്പെടുത്തുന്നു.</feature>
+</features>
+<features module="സുരക്ഷ">
+<feature>സിസ്റ്റം സുരക്ഷയ്‌ക്കായി Android സുരക്ഷാ പാച്ച് (ജനുവരി 2025) ഉൾപ്പെടുത്തിയിരിക്കുന്നു. HONOR സുരക്ഷാ അപ്‌ഡേറ്റുകൾ സംബന്ധിച്ച കൂടുതൽ വിവരങ്ങൾക്ക്, ഞങ്ങളുടെ വെബ്‌സൈറ്റ് സന്ദർശിക്കുക: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="കുറിപ്പുകൾ:" type="end">
+<feature>1. ഈ അപ്‌ഡേറ്റ് ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ വ്യക്തിഗത ഡാറ്റയെ മായ്‌ക്കില്ല, എങ്കിൽപ്പോലും മുൻകൂട്ടി ഒരു ബാക്കപ്പ് എടുത്തുവയ്‌ക്കാൻ ശുപാർശ ചെയ്യുന്നു.
+2. അപ്‌ഡേറ്റിനിടെ എന്തെങ്കിലും പ്രശ്‌നങ്ങൾ നേരിടുകയാണെങ്കിൽ, പിന്തുണയ്‌ക്കായി HONOR സർവീസ് ഹോട്ട്‌ലൈനിൽ വിളിക്കുകയോ HONOR ഉപഭോക്തൃ സർവീസ് സെന്റർ സന്ദർശിക്കുകയോ ചെയ്യുക.</feature>
+</features>
+</language>
+
+<language name="mn-MN" code="1071">
+<features module="" type="header">
+<feature>Хүндэт хэрэглэгч танаа, энэхүү санал болгож буй шинэчлэлтээр зарим нөхцөлд зураг авах туршлагыг оновчилж, системийн тогтворжилтыг нэмэгдүүлж, хамгаалалтын нөхөөсийг багтаав.</feature>
+</features>
+<features module="Камер">
+<feature>Зарим нөхцөлд зураг авах туршлагыг оновчилсон.</feature>
+</features>
+<features module="Систем">
+<feature>Энэхүү шинэчлэлтээр таны төхөөрөмжийг илүү тогтвортой ажиллуулахын тулд системийн тогтвортой байдлыг нэмэгдүүллээ.</feature>
+</features>
+<features module="Хамгаалалт">
+<feature>Системийн хамгаалалтад зориулж Андройд хамгаалалтын нөхөөсийг (2025 оны нэгдүгээр сар) багтаав. HONOR-н хамгаалалтын шинэчлэлтийн талаар нэмэлт мэдээлэл авах бол манай дараах вебсайтад зочилно уу: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Тэмдэглэл:" type="end">
+<feature>1. Энэ шинэчлэлтийг суулгахад таны хувийн мэдээллийг арилгахгүй ч урьдчилан нөөцлөхийг зөвлөж байна.
+2. Шинэчлэх явцад аливаа асуудал тулгарсан тохиолдолд HONOR үйлчилгээний дуудлага хүлээн авах утас руу залгаж эсвэл HONOR хэрэглэгчийн үйлчилгээний төвд зочилж тусламж авна уу.</feature>
+</features>
+</language>
+
+<language name="mr-IN" code="1071">
+<features module="" type="header">
+<feature>प्रिय वापरकर्ता, या शिफारस केलेल्या अद्यतनाने काही परिस्थितींसाठी शूटिंग अनुभव ऑप्टिमाइझ केला, सिस्टम स्थिरता सुधारली आणि सुरक्षितता पॅचेस समाविष्ट केले आहे.</feature>
+</features>
+<features module="कॅमेरा">
+<feature>काही परिस्थितींसाठी शूटिंग अनुभव ऑप्टिमाइझ केला.</feature>
+</features>
+<features module="सिस्टम">
+<feature>हे अद्यतन आपले उपकरण अधिक स्थिरपणे चालण्‍यासाठी सिस्‍टम स्‍थिरता सुधारते.</feature>
+</features>
+<features module="सुरक्षितता">
+<feature>सिस्टम सुरक्षिततेसाठी Android सुरक्षितता पॅच (जाने 2025) समाविष्ट करण्यात आला आहे. HONOR सुरक्षितता अद्यतनांबद्दल अधिक माहितीसाठी, कृपया आमच्या वेबसाइट https://www.honor.com/global/support/bulletin/2025/1 वर जा</feature>
+</features>
+<features module="नोट्स:" type="end">
+<feature>1. हे अद्यतन स्थापित केल्याने आपला वैयक्तिक डेटा मिटणार नाही, परंतु आधीच बॅकअप घेण्याची अजूनही शिफारस केली जाते.
+2. अद्यतनादरम्यान आपल्याला काही समस्या आल्यास, कृपया HONOR सेवा हॉटलाइनवर कॉल करा किंवा समर्थनासाठी HONOR ग्राहक सेवा केंद्रावर जा.</feature>
+</features>
+</language>
+
+<language name="ms-my" code="1086">
+<features module="" type="header">
+<feature>Pengguna yang dihormati, kemas kini yang dicadangkan ini mengoptimumkan pengalaman tangkapan bagi sesetengah senario, meningkatkan kestabilan sistem serta menggabungkan tampalan keselamatan.</feature>
+</features>
+<features module="Kamera">
+<feature>Mengoptimumkan pengalaman tangkapan bagi sesetengah senario.</feature>
+</features>
+<features module="Sistem">
+<feature>Kemas kini ini meningkatkan kestabilan sistem untuk membolehkan peranti anda berjalan dengan lebih stabil.</feature>
+</features>
+<features module="Keselamatan">
+<feature>Tampalan keselamatan Android (Jan 2025) telah dimasukkan untuk tujuan keselamatan sistem. Untuk mendapatkan maklumat lanjut tentang kemas kini Keselamatan HONOR, sila lawati laman web kami https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Nota:" type="end">
+<feature>1. Pemasangan kemas kini ini tidak akan memadamkan data peribadi anda, tetapi anda disyorkan agar masih membuat sandaran terlebih dahulu.
+2. Jika anda menghadapi sebarang masalah semasa kemas kini, sila hubungi talian penting khidmat HONOR atau pergi ke pusat khidmat pelanggan HONOR untuk mendapatkan sokongan.</feature>
+</features>
+</language>
+
+<language name="my-mm" code="1109">
+<features module="" type="header">
+<feature>လေးစားရပါသော သုံးစွဲသူ၊ အကြံပြုထားသော ဤအပ်ဒိတ်သည် အခြေအနေအချို့အတွက် ရိုက်ကူးရာတွင် အဆင်အပြေဆုံးဖြစ်စေရန် အကောင်းဆုံး ချိန်ညှိပေးထားကာ စနစ် ပိုမိုတည်ငြိမ်စေရန် ဆောင်ရွက်ပေးထားသလို လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲများကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။</feature>
+</features>
+<features module="ကင်မရာ">
+<feature>အခြေအနေအချို့အတွက် ရိုက်ကူးရာတွင် အဆင်အပြေဆုံးဖြစ်စေရန် ချိန်ညှိပေးထားသည်။</feature>
+</features>
+<features module="စနစ်">
+<feature>သင့်စက်ကို ပိုမိုတည်ငြိမ်စွာ လုပ်ဆောင်နိုင်စေရန် ဤအပ်ဒိတ်သည် စနစ် တည်ငြိမ်မှုကို တိုးမြှင့်ပေးသည်။</feature>
+</features>
+<features module="လုံခြုံရေး">
+<feature>စနစ်လုံခြုံရေးအတွက် Android လုံခြုံရေး အဆင့်မြှင့်ဆော့ဖ်ဝဲ (ဇန်နဝါရီ 2025) ကို ပေါင်းစပ်ထည့်သွင်းပေးထားသည်။ HONOR လုံခြုံရေး အပ်ဒိတ်များအကြောင်း နောက်ထပ်အချက်အလက်များကို သိရှိရန် ကျွန်ုပ်တို့၏ ဖော်ပြပါဝက်ဘ်ဆိုဒ်သို့ သွားရောက်ကြည့်ရှုပါ- https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="မှတ်ချက်-" type="end">
+<feature>1. ဤအပ်ဒိတ်ကို ထည့်သွင်းခြင်းသည် သင့်ကိုယ်ရေး ဒေတာကို ဖျက်မည် မဟုတ်သော်လည်း ကြိုတင်၍ ဘက်ခ်အပ်လုပ်ရန် အကြံပြုပါသည်။
+2. အပ်ဒိတ်လုပ်နေစဉ် ပြဿနာတစ်ခုခု ကြုံတွေ့ပါက အကူအညီရယူရန် HONOR ဝန်ဆောင်မှုဌာန ဟော့လိုင်းသို့ ခေါ်ဆိုပါ သို့မဟုတ် HONOR သုံးစွဲသူ ဝန်ဆောင်မှုစင်တာသို့ သွားပါ။</feature>
+</features>
+</language>
+
+<language name="my-zg" code="1109">
+<features module="" type="header">
+<feature>ေလးစားရပါေသာ သုံးစြဲသူ၊ အႀကံျပဳထားေသာ ဤအပ္ဒိတ္သည္ အေျခအေနအခ်ိဳ႕အတြက္ ႐ိုက္ကူးရာတြင္ အဆင္အေျပဆုံးျဖစ္ေစရန္ အေကာင္းဆုံး ခ်ိန္ညႇိေပးထားကာ စနစ္ ပိုမိုတည္ၿငိမ္ေစရန္ ေဆာင္႐ြက္ေပးထားသလို လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲမ်ားကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။</feature>
+</features>
+<features module="ကင္မရာ">
+<feature>အေျခအေနအခ်ဳိ႕အတြက္ ႐ိုက္ကူးရာတြင္ အဆင္အေျပဆံုးျဖစ္ေစရန္ ခ်ိန္ညႇိေပးထားသည္။</feature>
+</features>
+<features module="စနစ္">
+<feature>သင့္စက္ကို ပိုမိုတည္ၿငိမ္စြာ လုပ္ေဆာင္ႏိုင္ေစရန္ ဤအပ္ဒိတ္သည္ စနစ္ တည္ၿငိမ္မႈကို တိုးျမႇင့္ေပးသည္။</feature>
+</features>
+<features module="လုံျခံဳေရး">
+<feature>စနစ္လုံၿခဳံေရးအတြက္ Android လုံၿခဳံေရး အဆင့္ျမႇင့္ေဆာ့ဖ္ဝဲ (ဇန္နဝါရီ 2025) ကို ေပါင္းစပ္ထည့္သြင္းေပးထားသည္။ HONOR လုံၿခဳံေရး အပ္ဒိတ္မ်ားအေၾကာင္း ေနာက္ထပ္အခ်က္အလက္မ်ားကို သိရွိရန္ ကြၽႏ္ုပ္တို႔၏ ေဖာ္ျပပါဝက္ဘ္ဆိုဒ္သို႔ သြားေရာက္ၾကည့္ရႈပါ- https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="မွတ္ခ်က္-" type="end">
+<feature>1. ဤအပ္ဒိတ္ကို ထည့္သြင္းျခင္းသည္ သင့္ကိုယ္ေရး ေဒတာကို ဖ်က္မည္ မဟုတ္ေသာ္လည္း ႀကိဳတင္၍ ဘက္ခ္အပ္လုပ္ရန္ အႀကံျပဳပါသည္။
+2. အပ္ဒိတ္လုပ္ေနစဥ္ ျပႆနာတစ္ခုခု ႀကဳံေတြ႕ပါက အကူအညီရယူရန္ HONOR ဝန္ေဆာင္မႈဌာန ေဟာ့လိုင္းသို႔ ေခၚဆိုပါ သို႔မဟုတ္ HONOR သုံးစြဲသူ ဝန္ေဆာင္မႈစင္တာသို႔ သြားပါ။</feature>
+</features>
+</language>
+
+<language name="nb-no" code="1044">
+<features module="" type="header">
+<feature>Kjære bruker, denne anbefalte oppdateringen optimerte fotograferingsopplevelsen i noen scenarier, forbedret systemstabiliteten og innlemmet sikkerhetsoppdateringer.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimerte opptaksopplevelsen i noen scenarioer.</feature>
+</features>
+<features module="System">
+<feature>Denne oppdateringen forbedrer systemstabiliteten slik at enheten kjører jevnere.</feature>
+</features>
+<features module="Sikkerhet">
+<feature>Android sikkerhetsoppdatering (jan 2025) er innlemmet for systemsikkerheten. For mer informasjon om sikkerhetsoppdateringer fra HONOR, besøk nettstedet vårt https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notater:" type="end">
+<feature>1. Å installere denne oppdateringen vil ikke slette personopplysningene dine, men det anbefales likevel at du sikkerhetskopierer på forhånd.
+2. Hvis du møter på problemer under oppdateringen, ring HONOR-kundeservice eller gå til HONOR-kundeservicesenteret for assistanse.</feature>
+</features>
+</language>
+
+<language name="ne-np" code="1121">
+<features module="" type="header">
+<feature>आदरणीय प्रयोगकर्ता, यो सिफारिस गरिएको अद्यावधिकले केही परिदृश्यहरूका लागि शुटिङ अनुभव अप्टिमाइज गर्‍यो, प्रणालीको स्थिरता सुधार गर्‍यो र सुरक्षा प्याचहरू समावेश गर्‍यो ।</feature>
+</features>
+<features module="क्यामेरा">
+<feature>केही परिदृश्यहरूका लागि शुटिङ अनुभव अप्टिमाइज गर्‍यो ।</feature>
+</features>
+<features module="प्रणाली">
+<feature>यो अपडेटले तपाईंको यन्त्रलाई थप स्थिर रूपमा चल्ने बनाउन प्रणालीको स्थिरतामा सुधार गरेको छ ।</feature>
+</features>
+<features module="सुरक्षा">
+<feature>एन्ड्रोइड सुरक्षा प्याच (जनवरी 2025) प्रणाली सुरक्षाका लागि समावेश गरिएको छ । HONOR सुरक्षा अपडेटबारे थप जानकारीका लागि, कृपया हाम्रो वेबसाइटमा जानुहोस् https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="नोटहरू:" type="end">
+<feature>1. यो अपडेट स्थापना गर्नाले तपाईंको व्यक्तिगत डाटा मेटिने छैन, तर अझै पनि पहिले नै ब्याकअप गर्न सिफारिस गरिन्छ ।
+2. अपडेटको समयमा तपाईंले कुनै पनि समस्याको सामना गर्नुभयो भने, कृपया HONOR सेवा हटलाइनमा कल गर्नुहोस् वा सहायताका लागि HONOR ग्राहक सेवा केन्द्रमा जानुहोस् ।</feature>
+</features>
+</language>
+
+<language name="nl-nl" code="1043">
+<features module="" type="header">
+<feature>Geachte gebruiker, deze aanbevolen update optimaliseert de opname-ervaring voor bepaalde scenario's, verbetert de systeemstabiliteit en bevat beveiligingspatches.</feature>
+</features>
+<features module="Camera">
+<feature>Optimaliseert de opname-ervaring voor bepaalde scenario's.</feature>
+</features>
+<features module="Systeem">
+<feature>Deze update verbetert de systeemstabiliteit om uw apparaat stabieler te laten werken.</feature>
+</features>
+<features module="Beveiliging">
+<feature>Android-beveiligingspatch (januari 2025) is opgenomen voor systeembeveiliging. Voor meer informatie over HONOR-beveiligingsupdates kunt u terecht op onze website https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Opmerkingen:" type="end">
+<feature>1. Als u deze update installeert, worden uw persoonlijke gegevens niet gewist, maar een back-up vooraf wordt nog steeds aanbevolen.
+2. Als u problemen ondervindt tijdens de update, bel dan de HONOR-servicehotline of ga naar een HONOR-klantenservicecentrum voor ondersteuning.</feature>
+</features>
+</language>
+
+<language name="or-IN" code="1043">
+<features module="" type="header">
+<feature>ପ୍ରିୟ ଉପଯୋଗକର୍ତ୍ତା, ସୁପାରିଶ କରାଯାଇଥିବା ଏହି ଅପଡେଟ୍‌ରେ କେତେକ ପରିଦୃଶ୍ୟ ପାଇଁ ଶୁଟିଂ ଅନୁଭୂତିକୁ ଅପ୍ଟିମାଇଜ୍‌ କରାଯାଇଛି, ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାରେ ଉନ୍ନତି କରାଯାଇଛି, ତଥା ସୁରକ୍ଷା ପ୍ୟାଚ୍‌‌ଗୁଡ଼ିକ ଅନ୍ତର୍ଭୂକ୍ତ କରାଯାଇଛି।</feature>
+</features>
+<features module="କ୍ୟାମେରା">
+<feature>କେତେକ ପରିଦୃଶ୍ୟ ପାଇଁ ଶୁଟିଂ ଅନୁଭୂତି ଅପ୍ଟିମାଇଜ୍‌ କରାଯାଇଛି।</feature>
+</features>
+<features module="ସିଷ୍ଟମ୍‌">
+<feature>ଆପଣଙ୍କ ଡିଭାଇସ୍‌ ଅଧିକ ସ୍ଥିର ଭାବେ ଚଲାଇବାକୁ, ଏହି ଅପଡେଟ୍‌ ସିଷ୍ଟମ୍‌ ସ୍ଥିରତାକୁ ବିକାଶ କରେ।</feature>
+</features>
+<features module="ସୁରକ୍ଷା">
+<feature>Android ସୁରକ୍ଷା ପ୍ୟାଚ୍‌ (ଜନୁୟାରୀ 2025) ସିଷ୍ଟମ୍ ସୁରକ୍ଷା ପାଇଁ ଅନ୍ତର୍ଭୁକ୍ତ କରାଯାଇଛି। HONOR ସୁରକ୍ଷା ଅପଡେଟ୍‌ଗୁଡ଼ିକ ବିଷୟରେ ଅଧିକ ସୂଚନା ପାଇଁ, ଦୟାକରି ଆମ ୱେବସାଇଟ୍‌ https://www.honor.com/global/support/bulletin/2025/1 ଦେଖନ୍ତୁ</feature>
+</features>
+<features module="ନୋଟ୍‌ଗୁଡ଼ିକ:" type="end">
+<feature>1. ଏହି ଅପଡେଟ୍‌ ସଂସ୍ଥାପନ କରିବା ଦ୍ୱାରା ଆପଣଙ୍କ ବ୍ୟକ୍ତିଗତ ଡାଟା ଲିଭାଇବ ନାହିଁ, କିନ୍ତୁ ଏହା ପୂର୍ବରୁ ଏକ ବ୍ୟାକଅପ୍‌ ନେବାକୁ ସୁପାରିଶ କରାଯାଇଛି।
+2. ଅପଡେଟ୍‌ ସମୟରେ ଯଦି ଆପଣ କୌଣସି ସମସ୍ୟାର ସମ୍ମୁଖୀନ ହୁଅନ୍ତି, ଦୟାକରି HONOR ସେବା ହଟଲାଇନ୍‌ରେ କଲ୍‌ କରନ୍ତୁ କିମ୍ବା ସହାୟତା ପାଇଁ ଏକ HONOR ଗ୍ରାହକ ସେବା କେନ୍ଦ୍ରକୁ ଯାଆନ୍ତୁ।</feature>
+</features>
+</language>
+
+<language name="pa-IN" code="1043">
+<features module="" type="header">
+<feature>ਪਿਆਰੇ ਵਰਤੋਂਕਾਰ, ਇਸ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਅੱਪਡੇਟ ਵਿੱਚ ਕੁਝ ਦ੍ਰਿਸ਼ਾਂ ਲਈ ਸ਼ੂਟਿੰਗ ਅਨੁਭਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ, ਸਿਸਟਮ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਅਤੇ ਸੁਰੱਖਿਆ ਪੈਚਾਂ ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਕੈਮਰਾ">
+<feature>ਕੁਝ ਦ੍ਰਿਸ਼ ਚਿੱਤਰਾਂ ਲਈ ਸ਼ੂਟਿੰਗ ਸੰਬੰਧੀ ਅਨੁਭਵ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਇਆ ਗਿਆ ਹੈ।</feature>
+</features>
+<features module="ਸਿਸਟਮ">
+<feature>ਇਸ ਅੱਪਡੇਟ ਵਿੱਚ ਸਿਸਟਮ ਦੀ ਸਥਿਰਤਾ ਵਿੱਚ ਸੁਧਾਰ ਕੀਤਾ ਗਿਆ ਹੈ, ਜਿਸ ਨਾਲ ਤੁਹਾਡਾ ਡਿਵਾਈਸ ਜ਼ਿਆਦਾ ਸਥਿਰਤਾ ਨਾਲ ਕੰਮ ਕਰੇਗਾ।</feature>
+</features>
+<features module="ਸੁਰੱਖਿਆ">
+<feature>ਸਿਸਟਮ ਸੁਰੱਖਿਆ ਲਈ Android ਸੁਰੱਖਿਆ ਪੈਚ (ਜਨ 2025) ਨੂੰ ਸ਼ਾਮਲ ਕੀਤਾ ਗਿਆ ਹੈ। HONOR ਸੁਰੱਖਿਆ ਅੱਪਡੇਟਾਂ ਬਾਰੇ ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡੀ ਵੈੱਬਸਾਈਟ 'ਤੇ ਜਾਓ: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="ਨੋਟਸ:" type="end">
+<feature>1. ਇਸ ਅੱਪਡੇਟ ਨੂੰ ਇੰਸਟਾਲ ਕਰਨ ਨਾਲ ਤੁਹਾਡਾ ਨਿੱਜੀ ਡੇਟਾ ਮਿਟਾਇਆ ਨਹੀਂ ਜਾਵੇਗਾ, ਪਰ ਤਾਂ ਵੀ ਪਹਿਲਾਂ ਬੈਕਅੱਪ ਲੈਣ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ।
+2. ਜੇ ਤੁਹਾਨੂੰ ਅੱਪਡੇਟ ਦੌਰਾਨ ਕੋਈ ਸਮੱਸਿਆ ਆਉਂਦੀ ਹੈ, ਤਾਂ ਕਿਰਪਾ ਕਰਕੇ ਸਹਾਇਤਾ ਲਈ HONOR ਸੇਵਾ ਦੀ ਹੌਟਲਾਈਨ 'ਤੇ ਕਾਲ ਕਰੋ ਜਾਂ HONOR ਗਾਹਕ ਸੇਵਾ ਕੇਂਦਰ 'ਤੇ ਜਾਓ।</feature>
+</features>
+</language>
+
+<language name="pl-pl" code="1045">
+<features module="" type="header">
+<feature>Ta zalecana aktualizacja obejmuje zoptymalizowanie działania aparatu w niektórych sytuacjach, poprawę stabilności systemu oraz wprowadzenie poprawek zabezpieczeń.</feature>
+</features>
+<features module="Aparat">
+<feature>Zoptymalizowano działanie aparatu w niektórych sytuacjach.</feature>
+</features>
+<features module="System">
+<feature>W tej aktualizacji poprawiono stabilność systemu, dzięki czemu urządzenie działa bardziej niezawodnie.</feature>
+</features>
+<features module="Bezpieczeństwo">
+<feature>Aktualizacja zawiera Poprawkę zabezpieczeń systemu Android (styczeń 2025 r.). Więcej informacji o aktualizacjach zabezpieczeń urządzeń HONOR można znaleźć w naszej witrynie internetowej: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Uwagi:" type="end">
+<feature>1. Zainstalowanie tej aktualizacji nie powoduje wymazania danych użytkownika, jednak zalecamy uprzednie wykonanie kopii zapasowej.
+2. Jeśli podczas procesu aktualizacji wystąpią jakiekolwiek problemy, zadzwoń na infolinię firmy HONOR lub odwiedź punkt serwisowy firmy HONOR, gdzie uzyskasz pomoc.</feature>
+</features>
+</language>
+
+<language name="pt-br" code="1046">
+<features module="" type="header">
+<feature>Caro usuário, esta atualização recomendada otimizou a experiência de captura para alguns cenários, melhorou a estabilidade do sistema e incorporou patches de segurança.</feature>
+</features>
+<features module="Câmera">
+<feature>Otimizou a experiência de captura para alguns cenários.</feature>
+</features>
+<features module="Sistema">
+<feature>Esta atualização melhora a estabilidade do sistema, tornando seu dispositivo mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>Patch de segurança do Android (janeiro de 2025) incorporado para a segurança do sistema. Para obter mais informações sobre as atualizações de segurança da HONOR, visite nosso site: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não apagará seus dados pessoais, mas um backup prévio ainda é recomendado.
+2. Se encontrar algum problema durante a atualização, ligue para a linha de atendimento ao cliente da HONOR ou vá à central de serviços de atendimento ao cliente HONOR para obter suporte.</feature>
+</features>
+</language>
+
+<language name="pt-pt" code="2070">
+<features module="" type="header">
+<feature>Caro utilizador, esta atualização recomendada otimizou a experiência de captura em alguns cenários, melhorou a estabilidade do sistema e incorporou correções de segurança.</feature>
+</features>
+<features module="Câmara">
+<feature>A experiência de gravação foi melhorada para alguns cenários.</feature>
+</features>
+<features module="Sistema">
+<feature>Esta atualização melhora a estabilidade do sistema para que o seu dispositivo funcione de forma mais estável.</feature>
+</features>
+<features module="Segurança">
+<feature>Foi incorporada uma correção de segurança Android (janeiro de 2025) para segurança do sistema. Para mais informações sobre as atualizações de segurança da HONOR, visite o nosso website https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Notas:" type="end">
+<feature>1. Instalar esta atualização não irá eliminar os seus dados pessoais, mas recomenda-se a realização de uma cópia de segurança prévia.
+2. Se tiver problemas durante a atualização, ligue para a linha direta de assistência da HONOR ou dirija-se ao centro de apoio ao cliente HONOR para obter suporte.</feature>
+</features>
+</language>
+
+<language name="ro-ro" code="1048">
+<features module="" type="header">
+<feature>Stimate utilizator, prin această actualizare recomandată am optimizat experiența de fotografiere în anumite situații, am îmbunătățit stabilitatea sistemului și am adăugat corecții de securitate.</feature>
+</features>
+<features module="Cameră foto">
+<feature>A optimizat experiența de fotografiere în anumite situații.</feature>
+</features>
+<features module="Sistem">
+<feature>Această actualizare îmbunătățește stabilitatea sistemului, făcând ca dispozitivul dvs. să ruleze mai stabil.</feature>
+</features>
+<features module="Securitate">
+<feature>Corecția de securitate Android (ianuarie 2025) a fost inclusă pentru securitatea sistemului. Pentru mai multe informații despre actualizările de Securitate HONOR, vizitați site-ul nostru web: https://www.honor.com/ro/support/bulletin/2025/1</feature>
+</features>
+<features module="Note:" type="end">
+<feature>1. Instalarea acestei actualizări nu vă va șterge datele cu caracter personal, însă se recomandă totuși să faceți înainte o copie de rezervă a acestora.
+2. Dacă întâmpinați probleme în timpul actualizării, pentru suport apelați numărul de asistență HONOR sau mergeți la centrul de service pentru clienții HONOR.</feature>
+</features>
+</language>
+
+<language name="ru-ru" code="1049">
+<features module="" type="header">
+<feature>Уважаемый пользователь! Мы разработали это рекомендованное обновление, чтобы оптимизировать съемку в некоторых сценариях, улучшить стабильность системы и внедрить исправления безопасности.</feature>
+</features>
+<features module="Камера">
+<feature>Оптимизирована съемка для определенных сценариев.</feature>
+</features>
+<features module="Система">
+<feature>Это обновление улучшает стабильность системы и, соответственно, работу вашего устройства.</feature>
+</features>
+<features module="Безопасность">
+<feature>В обновление включено исправление безопасности для Android (январь 2025 г.). Чтобы получить подробную информацию об обновлениях безопасности HONOR, посетите наш сайт: https://www.honor.com/ru/support/bulletin/2025/1</feature>
+</features>
+<features module="Примечания:" type="end">
+<feature>1. Установка этого обновления не приведет к удалению ваших персональных данных, но мы рекомендуем сделать резервную копию всех важных данных, прежде чем приступить к установке.
+2. При возникновении проблем во время обновления обратитесь за помощью на горячую линию службы поддержки HONOR или в сервисный центр для клиентов HONOR.</feature>
+</features>
+</language>
+
+<language name="si-lk" code="1115">
+<features module="" type="header">
+<feature>හිතවත් පරිශීලක, මෙම නිර්දේශිත යාවත්කාලීනය සමහර අවස්ථා සඳහා කැමරාගත කිරීමේ අත්දැකීම ප්‍රශස්ත කර, පද්ධති ස්ථායිතාව වැඩිදියුණු කර, ආරක්ෂක පැච් අන්තර්ගත කර ඇත.</feature>
+</features>
+<features module="කැමරාව">
+<feature>සමහර අවස්ථා සඳහා කැමරාගත කිරීමේ අත්දැකීම ප්‍රශස්ත කර ඇත.</feature>
+</features>
+<features module="පද්ධතිය">
+<feature>මෙම යාවත්කාලය විසින් ඔබගේ උපාංගය වඩා ස්ථායීව ධාවනය කරවීමට පද්ධතියේ ස්ථායිතාවය වැඩිදියුණු කරයි.</feature>
+</features>
+<features module="ආරක්ෂාව">
+<feature>පද්ධති ආරක්ෂාව සඳහා Android ආරක්ෂක පැච් එක (2025 ජන) යොදාගෙන ඇත. HONOR ආරක්ෂක යාවත්කාල පිළිබඳ තවත් තොරතුරු සඳහා, කරුණාකර අපගේ වෙබ් අඩවිය වෙත යන්න https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="සටහන්:" type="end">
+<feature>1. මෙම යාවත්කාලය ස්ථාපනය කිරීම ඔබගේ පෞද්ගලික දත්ත නොමකනු ඇති නමුත් තවමත් ඊට පෙර උපස්ථ කිරීමක් නිර්දේශ කෙරේ.
+2. යාවත්කාල කිරීමේ දී ඔබට ගැටළු කිසිවක් ඇති වුවහොත්, කරුණාකර HONOR සේවා ක්ෂණික ඇමතුම් අමතන්න නැතහොත් සහය සඳහා HONOR පාරිභෝගික සේවා මධ්‍යස්ථානයට යන්න.</feature>
+</features>
+</language>
+
+<language name="sk-sk" code="1051">
+<features module="" type="header">
+<feature>Vážený používateľ, táto odporúčaná aktualizácia optimalizuje snímanie v niektorých situáciách, zlepšuje stabilitu systému a obsahuje bezpečnostné opravy.</feature>
+</features>
+<features module="Fotoaparát">
+<feature>Optimalizuje snímanie v niektorých situáciách.</feature>
+</features>
+<features module="Systém">
+<feature>Táto aktualizácia zlepšuje stabilitu systému, aby zariadenie fungovalo stabilnejšie.</feature>
+</features>
+<features module="Zabezpečenie">
+<feature>Súčasťou zabezpečenia systému je bezpečnostná oprava systému Android (z januára 2025). Ak potrebujete viac informácií o bezpečnostných aktualizáciách spoločnosti HONOR, navštívte webovú stránku https://www.honor.com/sk/support/bulletin/2025/1</feature>
+</features>
+<features module="Poznámky:" type="end">
+<feature>1. Inštaláciou tejto aktualizácie nevymažete svoje osobné údaje, ale napriek tomu sa odporúča ich vopred zálohovať.
+2. Ak sa počas aktualizácie vyskytnú problémy, podporu môžete získať zavolaním na zákaznícku linku HONOR alebo návštevou Centra služieb zákazníkom HONOR.</feature>
+</features>
+</language>
+
+<language name="sl-si" code="1060">
+<features module="" type="header">
+<feature>Spoštovani uporabnik, ta priporočena posodobitev je optimizirala uporabniško izkušnjo snemanja v nekaterih primerih, izboljšala stabilnost sistema in vključila varnostne popravke.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimizirana izkušnja snemanja v nekaterih primerih.</feature>
+</features>
+<features module="Sistem">
+<feature>S to posodobitvijo je izboljšana stabilnost sistema, zato je delovanje naprave stabilnejše.</feature>
+</features>
+<features module="Varnost">
+<feature>Varnostni popravki za Android (januar 2025) so vključeni za varnost sistema. Za več informacij o varnostnih posodobitvah HONOR obiščite naše spletno mesto: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Opombe:" type="end">
+<feature>1. Z namestitvijo te posodobitve vaši osebni podatki ne bodo izbrisani, vendar vseeno priporočamo, da jih predhodno varnostno kopirate.
+2. Če med posodobitvijo naletite na težave, za podporo pokličite odprto linijo za pomoč uporabnikom izdelkov HONOR ali obiščite servisni center družbe HONOR.</feature>
+</features>
+</language>
+
+<language name="sv-se" code="1053">
+<features module="" type="header">
+<feature>Bästa användare, den här rekommenderade uppdateringen optimerade fotograferingsupplevelsen för vissa scenarion, förbättrade systemets stabilitet och implementerade säkerhetskorrigeringar.</feature>
+</features>
+<features module="Kamera">
+<feature>Optimerade fotograferingsupplevelsen i vissa scenarion.</feature>
+</features>
+<features module="System">
+<feature>Uppdateringen förbättrar systemets stabilitet så att enheten körs stabilare.</feature>
+</features>
+<features module="Säkerhet">
+<feature>Android-säkerhetskorrigeringen (januari 2025) har implementerats för systemsäkerhet. Vill du ha mer information om säkerhetsuppdateringar för HONOR går du till vår webbplats https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Noteringar:" type="end">
+<feature>1. Den här uppdateringen raderar inga personuppgifter, men det rekommenderas ändå att du gör en säkerhetskopia innan du installerar den.
+2. Om du stöter på några problem under uppdateringen kan du ringa HONORs hotline för service eller besöka HONORs servicecenter och få support.</feature>
+</features>
+</language>
+
+<language name="sw-KE" code="1053">
+<features module="" type="header">
+<feature>Mtumiaji mpendwa, sasisho hili linalopendekezwa limeboresha uzoefu wa upigaji picha katika baadhi ya miktadha, likaboresha udhabiti wa mfumo na likajumuisha marekebisho ya usalama.</feature>
+</features>
+<features module="Kamera">
+<feature>Limeboresha uzoefu wa kupiga picha katika baadhi ya miktadha.</feature>
+</features>
+<features module="Mfumo">
+<feature>Sasisho hili huboresa uthabiti wa mfumo ili kufanya kifaa chako kiendeshwe kwa uthabiti zaidi.</feature>
+</features>
+<features module="Usalama">
+<feature>Rekebisho la usalama wa Android (Jan 2025) limejumuishwa kwa ajili ya usalama wa mfumo. Ili kupata maelezo zaidi kuhusu masasisho ya Usalama wa HONOR, tafadhali tembelea tovuti yetu: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Madokezo:" type="end">
+<feature>1. Kusakinisha sasisho hili hakutafuta data yako ya kibinafsi, lakini hifadhi rudufu kabla ya kusakinisha bado inapendekezwa.
+2. Ukikumbana na matatizo yoyote wakati wa sasisho, tafadhali piga simu kwa nambari ya dharura ya huduma ya HONOR au nenda kwenye kituo cha huduma kwa wateja cha HONOR ili upate usaidizi.</feature>
+</features>
+</language>
+
+<language name="ta-IN" code="1053">
+<features module="" type="header">
+<feature>அன்புள்ள பயனரே, இந்தப் பரிந்துரைக்கப்படும் புதுப்பிப்பு சில சூழ்நிலைகளில் படமெடுத்தல் அனுபவத்தை உகந்ததாக்குகிறது, சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது, பாதுகாப்புத் தொகுப்புகளைக் கொண்டுள்ளது.</feature>
+</features>
+<features module="கேமரா">
+<feature>சில சூழ்நிலைகளில் படமெடுத்தல் அனுபவத்தை உகந்ததாக்குகிறது.</feature>
+</features>
+<features module="சிஸ்டம்">
+<feature>இந்தப் புதுப்பிப்பானது உங்கள் சாதனத்தை மேலும் நிலையாக இயங்கச் செய்யும் வகையில் சிஸ்டம் நிலைத்தன்மையை மேம்படுத்துகிறது.</feature>
+</features>
+<features module="பாதுகாப்பு">
+<feature>சிஸ்டம் பாதுகாப்பிற்காக Android பாதுகாப்புத் தொகுப்பு (ஜன 2025) சேர்க்கப்பட்டுள்ளது. HONOR பாதுகாப்புப் புதுப்பிப்புகளைப் பற்றிய மேலும் தகவல்களுக்கு, எங்கள் வலைத்தளத்தைப் பார்க்கவும்: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="குறிப்புகள்:" type="end">
+<feature>1. இந்தப் புதுப்பிப்பை நிறுவுவது உங்கள் தனிப்பட்ட தரவை அழிக்காது, எனினும் தொடர்வதற்கு முன் காப்புப்பிரதி எடுக்குமாறு பரிந்துரைக்கப்படுகிறது.
+2. புதுப்பிப்புச் செயல்பாட்டின்போது ஏதேனும் சிக்கல்களைச் சந்தித்தால், உதவிக்காக HONOR சேவை ஹாட்லைனை அழைக்கவும் அல்லது HONOR வாடிக்கையாளர் சேவை மையத்திற்குச் செல்லவும்.</feature>
+</features>
+</language>
+
+<language name="te-IN" code="1053">
+<features module="" type="header">
+<feature>ప్రియమైన వినియోగదారుకి, ఈ సిఫార్సు చేసిన అప్‌డేట్ కొన్ని సందర్భాల కోసం షూటింగ్ అనుభవాన్ని ఆప్టిమైజ్ చేసింది, సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరిచింది మరియు భద్రతా ప్యాచ్‌లను చొప్పించింది.</feature>
+</features>
+<features module="కెమెరా">
+<feature>కొన్ని సందర్భాల్లో షూటింగ్ అనుభవాన్ని ఆప్టిమైజ్ చేసింది.</feature>
+</features>
+<features module="సిస్టమ్">
+<feature>ఈ అప్‌డేట్ మీ పరికరం మరింత స్థిరంగా అమలు అయ్యేలా చేయడానికి సిస్టమ్ స్థిరత్వాన్ని మెరుగుపరుస్తుంది.</feature>
+</features>
+<features module="భద్రత">
+<feature>సిస్టమ్ భద్రత కోసం Android భద్రతా ప్యాచ్ (జన 2025) చేర్చబడింది. HONOR భద్రత అప్‌డేట్‌ల గురించి మరింత సమాచారం కోసం, దయచేసి మా వెబ్‌సైట్‌ను సందర్శించండి: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="గమనికలు:" type="end">
+<feature>1. ఈ అప్‌డేట్‌ను ఇన్‌స్టాల్ చేయడం వలన మీ వ్యక్తిగత డేటా ఎరేజ్ చేయబడదు, కాని ముందుగా ఒక బ్యాకప్ తీసుకోవాలని సిఫార్సు చేయబడింది.
+2. అప్‌డేట్ సమయంలో మీరు ఏవైనా సమస్యలను ఎదుర్కొన్నట్లయితే, దయచేసి మద్దతు కోసం HONOR సర్వీసు హాట్‌లైన్‌కు కాల్ చేయండి లేదా HONOR కస్టమర్ సర్వీస్ కేంద్రానికి వెళ్ళండి.</feature>
+</features>
+</language>
+
+<language name="th-th" code="1054">
+<features module="" type="header">
+<feature>เรียนผู้ใช้ การอัปเดตที่แนะนำนี้ได้ปรับปรุงประสบการณ์การถ่ายรูปสำหรับบางสถานการณ์ ปรับปรุงความเสถียรของระบบให้ดีขึ้น และรวมแพตช์ความปลอดภัยไว้ในระบบ</feature>
+</features>
+<features module="กล้องถ่ายรูป">
+<feature>ปรับปรุงประสบการณ์การถ่ายรูปในบางสถานการณ์</feature>
+</features>
+<features module="ระบบ">
+<feature>การอัปเดตครั้งนี้ปรับปรุงความเสถียรของระบบเพื่อให้อุปกรณ์ของคุณทำงานได้อย่างเสถียรยิ่งขึ้น</feature>
+</features>
+<features module="ความปลอดภัย">
+<feature>มีการรวมแพตช์การรักษาความปลอดภัยของ Android (ม.ค. 2025) ไว้เพื่อความปลอดภัยของระบบ ดูข้อมูลเพิ่มเติมเกี่ยวกับการอัปเดตการรักษาความปลอดภัยของ HONOR ได้ในเว็บไซต์ของเรา https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="โปรดทราบ:" type="end">
+<feature>1. การติดตั้งอัปเดตนี้จะไม่ลบข้อมูลส่วนตัวของคุณ แต่เราขอแนะนำให้สำรองข้อมูลไว้ล่วงหน้า
+2. หากคุณพบปัญหาใดๆ ในระหว่างการอัปเดต ให้โทรติดต่อสายด่วนบริการ HONOR หรือไปที่ศูนย์บริการลูกค้า HONOR เพื่อขอรับความช่วยเหลือ</feature>
+</features>
+</language>
+
+<language name="tl-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, na-optimize ng inirerekomendang update na ito ang karanasan sa pag-shoot para sa ilang sitwasyon, pinahusay ang stability ng system, at isinama ang mga panseguridad na patch.</feature>
+</features>
+<features module="Camera">
+<feature>Na-optimize ang karanasan sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="System">
+<feature>Pinapahusay ng update na ito ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>Isinama ang panseguridad na patch ng Android (Ene 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi mabubura ang iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa rin ang isang pag-back up bago gawin ito.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="fil-ph" code="1124">
+<features module="" type="header">
+<feature>Minamahal na user, na-optimize ng inirerekomendang update na ito ang karanasan sa pag-shoot para sa ilang sitwasyon, pinahusay ang stability ng system, at isinama ang mga panseguridad na patch.</feature>
+</features>
+<features module="Camera">
+<feature>Na-optimize ang karanasan sa pag-shoot sa ilang sitwasyon.</feature>
+</features>
+<features module="System">
+<feature>Pinapahusay ng update na ito ang stability ng system para magawang tumakbo nang mas stable ang iyong device.</feature>
+</features>
+<features module="Seguridad">
+<feature>Isinama ang panseguridad na patch ng Android (Ene 2025) para sa seguridad ng system. Para sa higit pang impormasyon tungkol sa Mga panseguridad na update ng HONOR, pakibisita ang aming website https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Mga Tala:" type="end">
+<feature>1. Hindi mabubura ang iyong personal na data kapag na-install ang update na ito, pero inirerekomenda pa rin ang isang pag-back up bago gawin ito.
+2. Kung makaranas ka ng anumang problema habang nag-a-update, pakitawagan ang hotline ng serbisyo ng HONOR o pumunta sa customer service center ng HONOR para sa suporta.</feature>
+</features>
+</language>
+
+<language name="tr-tr" code="1055">
+<features module="" type="header">
+<feature>Sayın kullanıcı, önerilen bu güncelleme ile bazı durumlar için çekim deneyimi optimize edilmiş, sistem istikrarı iyileştirilmiş ve güvenlik yamaları eklenmiştir.</feature>
+</features>
+<features module="Kamera">
+<feature>Bazı durumlar için çekim deneyimi optimize edilmiştir.</feature>
+</features>
+<features module="Sistem">
+<feature>Bu güncellemeyle sistem kararlılığı iyileştirilerek cihazınız daha kararlı hale getirildi.</feature>
+</features>
+<features module="Güvenlik">
+<feature>Sistem güvenliği için Android güvenlik yamasını (Oca 2025) içermektedir. HONOR Güvenlik güncellemeleri ile ilgili daha fazla bilgi için lütfen web sitemizi ziyaret edin: https://www.honor.com/tr/support/bulletin/2025/1</feature>
+</features>
+<features module="Notlar:" type="end">
+<feature>1. Bu güncellemenin yüklenmesi kişisel verilerinizi silmeyecektir, fakat yine de öncesinde yedekleme yapmanız önerilir.
+2. Güncelleme esnasında herhangi bir sorunla karşılaşmanız durumunda destek için lütfen HONOR servisi yardım hattını arayın veya HONOR müşteri servisi merkezlerinden birine gidin.</feature>
+</features>
+</language>
+
+<language name="ug-cn" code="1152">
+<features module="" type="header">
+<feature>ھۆرمەتلىك ئىشلەتكۈچى، بۇ قېتىملىق يېڭىلاشتا بەزى كۆرۈنۈشلەردىكى رەسىمگە تارتىش ئۈنۈمى ئەلالاشتۇرۇلۇپ، سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلدى، بىخەتەرلىك يامىقى قوشۇلدى، يېڭىلاش تەۋسىيە قىلىنىدۇ.</feature>
+</features>
+<features module="‏【كامېرا】">
+<feature>قىسىمەن كۆرۈنۈشلەرنىڭ سۈرەتكە تارتىش ئۈنۈمى ياخشىلاندى.</feature>
+</features>
+<features module="‏«سىستېما»">
+<feature>‏سىستېمىنىڭ مۇقىملىقى ئۆستۈرۈلۈپ، يانفونىڭىزنىڭ ئىجرا قىلىنىشى تېخىمۇ مۇقىملاشتۇرۇلدى.</feature>
+</features>
+<features module="‏«بىخەتەرلىك»">
+<feature>‏ئاندرويدنىڭ 2025-يىل 1-ئايلىق بىخەتەرلىك يامىقى قوشۇلغان بولۇپ، سىستېما بىخەتەرلىكى كۈچەيتىلدى. روڭياۋ يۇمشاق دېتالىنىڭ بىخەتەرلىك يېڭىلاش مەزمۇنىغا ئالاقىدار ئۇچۇرلار ئۈچۈن روڭياۋ ئورگان تەرەپ تور بېكىتىنى زىيارەت قىلىڭ https://www.honor.com/cn/support/bulletin/2025/1</feature>
+</features>
+<features module="‏يېڭىلاشتا دىققەت قىلىدىغان ئىشلار:" type="end">
+<feature>‏1. بۇ قېتىملىق يېڭىلاش ئىشلەتكۈچى مەلۇماتلىرىڭىزنى ئۆچۈرمەيدۇ، ئەمما يېڭىلاشتىن بۇرۇن يەنىلا مەلۇماتىڭىزنى زاپاسلىۋېلىشىڭىزنى تەۋسىيە قىلىمىز.
+2. يېڭىلاش جەريانىدا ھەرقانداق مەسىلە كۆرۈلسە، روڭياۋ ماركىسى مۇلازىمەت قىزىق لىنىيەسىگە تېلېفون قىلىڭ ياكى روڭياۋ ماركىسى خېرىدارلار مۇلازىمەت مەركىزىدىن ياردەم سوراڭ.</feature>
+</features>
+</language>
+
+<language name="uk-ua" code="1058">
+<features module="" type="header">
+<feature>Шановний користувачу! У цьому рекомендованому оновленні оптимізовано знімання за певних сценаріїв, покращено стабільність роботи системи й убудовано пакети виправлення системи безпеки.</feature>
+</features>
+<features module="Камера">
+<feature>Оптимізовано процес знімання в деяких ситуаціях.</feature>
+</features>
+<features module="Система">
+<feature>У цьому оновленні підвищено стабільність роботи системи для надійнішої роботи пристрою.</feature>
+</features>
+<features module="Безпека">
+<feature>Виправлення для системи безпеки Android від січня 2025 року впроваджено для посилення безпеки системи. Додаткову інформацію про оновлення для системи безпеки HONOR див. на нашому вебсайті https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Примітки." type="end">
+<feature>1. Ваші особисті дані не буде видалено внаслідок установлення цього оновлення, але все ж радимо створити резервну копію заздалегідь.
+2. Якщо під час оновлення у вас виникнуть будь-які проблеми, зателефонуйте на гарячу лінію обслуговування користувачів HONOR або зверніться в сервісний центр HONOR по допомогу.</feature>
+</features>
+</language>
+
+<language name="ur-pk" code="1056">
+<features module="" type="header">
+<feature>معزز صارف، اس تجویز کردہ اپ ڈیٹ نے چند منظرناموں کے لیے شوٹنگ کے تجربے کو بہتر بنا دیا ہے، سسٹم کے استحکام کو بہتر بنا دیا ہے، اور سکیورٹی پیچز شامل کر دیے ہیں۔</feature>
+</features>
+<features module="کیمرہ">
+<feature>کچھ منظرناموں کے لیے شوٹنگ کے تجربے کو بہتر بنا دیا ہے۔</feature>
+</features>
+<features module="سسٹم">
+<feature>آپ کی ڈیوائس کو زیادہ مستحکم طریقے سے چلانے کے لیے یہ اپ ڈیٹ سسٹم کے استحکام کو بہتر بناتی ہے۔</feature>
+</features>
+<features module="سکیورٹی">
+<feature>‏‏‏Android سکیورٹی پیچ (جنوری 2025) شامل کر دیا گیا ہے۔ HONOR سکیورٹی اپ ڈیٹس کے بارے میں مزید معلومات کے لیے، براہ کرم ہماری ویب سائٹ ملاحظہ کریں https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="نوٹس:" type="end">
+<feature>‏1. اس اپ ڈیٹ کو انسٹال کرنے سے آپ کا ذاتی ڈیٹا نہیں مٹے گا، لیکن پھر بھی پہلے سے بیک اپ لینے کی تجویز دی جاتی ہے۔
+‏2. اگر اپ ڈیٹ کے دوران آپ کو کسی مسئلے کا سامنا کرنا پڑتا ہے، تو تعاون کے لیے براہ کرم HONOR سروس ہاٹ لائن پر کال کریں یا HONOR کسٹمر سروس سینٹر پر جائیں۔</feature>
+</features>
+</language>
+
+<language name="uz-uz" code="2115">
+<features module="" type="header">
+<feature>Hurmatli foydalanuvchi, ushbu tavsiya etilgan yangilanishda ayrim holatlardagi suratga olish taassuroti optimallandi, tizim barqarorligi oshirildi va unga xavfsizlik tuzatmalari kiritildi.</feature>
+</features>
+<features module="Kamera">
+<feature>Ayrim holatlardagi suratga olish taassuroti optimallandi.</feature>
+</features>
+<features module="Tizim">
+<feature>Bu yangilanishda qurilmangiz yanada barqaror ishlashi uchun tizim barqarorligi oshirildi.</feature>
+</features>
+<features module="Xavfsizlik">
+<feature>Tizim xavfsizligini kuchaytirish uchun Android xavfsizlik tuzatmasi (2025-yil, yanvar) kiritildi. HONOR Xavfsizlik yangilanishlari haqida batafsil axborot olish uchun veb-saytimizga tashrif buyuring: https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Eslatmalar:" type="end">
+<feature>1. Bu yangilanish oʻrnatilsa shaxsiy maʼlumotlaringiz oʻchib ketmaydi, lekin ularni oldindan zaxiralash tavsiya etiladi.
+2. Agar yangilash paytida muammolarga duch kelsangiz, yordam uchun HONOR xizmat markazi tezkor raqamiga murojaat qiling yoki HONOR mijozlarga xizmat markaziga tashrif buyuring.</feature>
+</features>
+</language>
+
+<language name="vi-vn" code="1066">
+<features module="" type="header">
+<feature>Người dùng thân mến! Bản cập nhật đề xuất này tối ưu hóa trải nghiệm quay/chụp trong một số tình huống, cải thiện độ ổn định của hệ thống, đồng thời tích hợp các bản vá bảo mật.</feature>
+</features>
+<features module="Máy ảnh">
+<feature>Tối ưu hóa trải nghiệm quay/chụp trong một số tình huống.</feature>
+</features>
+<features module="Hệ thống">
+<feature>Bản cập nhật này cải thiện độ ổn định của hệ thống để giúp thiết bị của bạn chạy ổn định hơn.</feature>
+</features>
+<features module="Bảo mật">
+<feature>Bản cập nhật này tích hợp Bản vá bảo mật Android (tháng 1 năm 2025) để bảo mật hệ thống. Để biết thêm thông tin về các Bản cập nhật bảo mật của HONOR, vui lòng truy cập trang web của chúng tôi https://www.honor.com/global/support/bulletin/2025/1</feature>
+</features>
+<features module="Ghi chú:" type="end">
+<feature>1. Nếu bạn cài đặt bản cập nhật này, dữ liệu cá nhân của bạn sẽ không bị xóa. Tuy nhiên, bạn vẫn nên sao lưu trước.
+2. Nếu bạn gặp bất kỳ sự cố nào trong quá trình cập nhật, vui lòng gọi điện đến đường dây nóng dịch vụ khách hàng của HONOR hoặc đến trung tâm dịch vụ khách hàng của HONOR để được hỗ trợ.</feature>
+</features>
+</language>
+
+<language name="zh-hk" code="3076">
+<features module="" type="header">
+<feature>親愛的用戶，本次更新優化了部分場景的拍攝效果，提升了系統穩定性，整合了安全性修補程式，建議您更新。</feature>
+</features>
+<features module="【相機】">
+<feature>優化部分場景的拍攝效果。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機運行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2025年1月的安全性修補程式，增強系統安全性。如需了解有關榮耀軟件安全更新內容的資訊，請瀏覽榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/1</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的用戶數據，但仍建議您在更新前做好數據備份。
+2. 更新過程中，如果遇到任何問題，請致電榮耀品牌服務熱線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+<language name="zh-tw" code="1028">
+<features module="" type="header">
+<feature>親愛的使用者，本次更新最佳化了在部分場景下的拍照效果，提升系統穩定性，並整合安全性修補程式，建議您進行更新。</feature>
+</features>
+<features module="【相機】">
+<feature>最佳化在部分場景下的拍照效果。</feature>
+</features>
+<features module="【系統】">
+<feature>提升系統穩定性，讓您的手機執行更穩定。</feature>
+</features>
+<features module="【安全】">
+<feature>整合 Android 2025 年 1 月的安全性修補程式，增強系統安全性。如需有關榮耀軟體安全更新內容的資訊，請造訪榮耀官方網站 https://www.honor.com/cn/support/bulletin/2025/1</feature>
+</features>
+<features module="更新注意事項：" type="end">
+<feature>1. 本次更新不會刪除您的使用者資料，但仍建議您在更新前做好資料備份。
+2. 更新過程中，若遇到任何問題，請撥打榮耀品牌服務專線或前往榮耀品牌客戶服務中心尋求支援。</feature>
+</features>
+</language>
+
+</root>
